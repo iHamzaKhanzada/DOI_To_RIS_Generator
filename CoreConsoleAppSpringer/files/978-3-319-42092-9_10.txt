@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-42092-9_10
+UR  - http://dx.doi.org/10.1007/978-3-319-42092-9_10
+TI  - A Type System for Android Applications
+T2  - Computational Science and Its Applications – ICCSA 2016
+AU  - El-Zawawy, Mohamed A.
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 115-128
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319420912
+SN  - 9783319420929
+ER  - 

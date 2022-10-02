@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-64793-3_23
+UR  - http://dx.doi.org/10.1007/978-3-030-64793-3_23
+TI  - Security Games over Lexicographic Orders
+T2  - Lecture Notes in Computer Science
+AU  - Rass, Stefan
+AU  - Wiegele, Angelika
+AU  - König, Sandra
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 422-441
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030647926
+SN  - 9783030647933
+ER  - 

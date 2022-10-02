@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-52683-2_6
+UR  - http://dx.doi.org/10.1007/978-3-030-52683-2_6
+TI  - Understanding Android VoIP Security: A System-Level Vulnerability Assessment
+T2  - Detection of Intrusions and Malware, and Vulnerability Assessment
+AU  - He, En
+AU  - Wu, Daoyuan
+AU  - Deng, Robert H.
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 110-131
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030526825
+SN  - 9783030526832
+ER  - 

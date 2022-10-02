@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-22915-7_45
+UR  - http://dx.doi.org/10.1007/978-3-319-22915-7_45
+TI  - Android Users Security via Permission Based Analysis
+T2  - Communications in Computer and Information Science
+AU  - Tiwari, Pradeep Kumar
+AU  - Singh, Upasna
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 496-505
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783319229140
+SN  - 9783319229157
+ER  - 

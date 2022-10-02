@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00521-016-2660-6
+UR  - http://dx.doi.org/10.1007/s00521-016-2660-6
+TI  - Frank prioritized Bonferroni mean operator with single-valued neutrosophic sets and its application in selecting third-party logistics providers
+T2  - Neural Computing and Applications
+AU  - Ji, Pu
+AU  - Wang, Jian-qiang
+AU  - Zhang, Hong-yu
+PY  - 2016
+DA  - 2016/11/22
+PB  - Springer Science and Business Media LLC
+SP  - 799-823
+IS  - 3
+VL  - 30
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

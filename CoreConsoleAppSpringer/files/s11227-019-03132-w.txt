@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11227-019-03132-w
+UR  - http://dx.doi.org/10.1007/s11227-019-03132-w
+TI  - Modified adaptive neuro-fuzzy inference system (M-ANFIS) based multi-disease analysis of healthcare Big Data
+T2  - The Journal of Supercomputing
+AU  - Vidhya, K.
+AU  - Shanmugalakshmi, R.
+PY  - 2020
+DA  - 2020/01/18
+PB  - Springer Science and Business Media LLC
+SP  - 8657-8678
+IS  - 11
+VL  - 76
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

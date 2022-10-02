@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-19034-7_10
+UR  - http://dx.doi.org/10.1007/978-3-030-19034-7_10
+TI  - How Are Agile Release Trains Formed in Practice? A Case Study in a Large Financial Corporation
+T2  - Lecture Notes in Business Information Processing
+AU  - Putta, Abheeshta
+AU  - Paasivaara, Maria
+AU  - Lassenius, Casper
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 154-170
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030190330
+SN  - 9783030190347
+ER  - 

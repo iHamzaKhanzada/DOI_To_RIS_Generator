@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-25645-0_35
+UR  - http://dx.doi.org/10.1007/978-3-319-25645-0_35
+TI  - A Study of Network Domains Used in Android Applications
+T2  - Network and System Security
+AU  - Fioravanti, Mark E.
+AU  - Shah, Ayush
+AU  - Zhang, Shengzhi
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 467-474
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319256443
+SN  - 9783319256450
+ER  - 

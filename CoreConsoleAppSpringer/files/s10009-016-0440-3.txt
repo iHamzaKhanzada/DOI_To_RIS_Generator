@@ -1,0 +1,23 @@
+TY  - JOUR
+DO  - 10.1007/s10009-016-0440-3
+UR  - http://dx.doi.org/10.1007/s10009-016-0440-3
+TI  - Automation and intelligent scheduling of distributed system functional testing
+T2  - International Journal on Software Tools for Technology Transfer
+AU  - Hillah, Lom Messan
+AU  - Maesano, Ariele-Paolo
+AU  - De Rosa, Fabio
+AU  - Kordon, Fabrice
+AU  - Wuillemin, Pierre-Henri
+AU  - Fontanelli, Riccardo
+AU  - Bona, Sergio Di
+AU  - Guerri, Davide
+AU  - Maesano, Libero
+PY  - 2016
+DA  - 2016/11/02
+PB  - Springer Science and Business Media LLC
+SP  - 281-308
+IS  - 3
+VL  - 19
+SN  - 1433-2779
+SN  - 1433-2787
+ER  - 

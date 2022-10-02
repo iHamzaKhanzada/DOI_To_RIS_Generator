@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s00779-020-01469-1
+UR  - http://dx.doi.org/10.1007/s00779-020-01469-1
+TI  - A location-based ubiquitous crowdsourcing approach for the emergency supply of oxygen cylinders
+T2  - Personal and Ubiquitous Computing
+AU  - El Barachi, May
+AU  - Kamoun, Faouzi
+AU  - Hachani, Abderrazek
+AU  - Belqasmi, Fatna
+AU  - Ben Said, Amir
+AU  - Amri, Imed
+PY  - 2020
+DA  - 2020/10/08
+PB  - Springer Science and Business Media LLC
+SP  - 109-120
+IS  - 1
+VL  - 25
+SN  - 1617-4909
+SN  - 1617-4917
+ER  - 

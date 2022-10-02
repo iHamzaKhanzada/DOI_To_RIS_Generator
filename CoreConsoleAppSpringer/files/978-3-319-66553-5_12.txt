@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-66553-5_12
+UR  - http://dx.doi.org/10.1007/978-3-319-66553-5_12
+TI  - Opportunities of Big Data Tools in Smart Energy Systems
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Birkner, Peter
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 161-177
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783319665528
+SN  - 9783319665535
+ER  - 

@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1186/s40537-019-0173-8
+UR  - http://dx.doi.org/10.1186/s40537-019-0173-8
+TI  - A quadri-dimensional approach for poor performance prioritization in mobile networks using Big Data
+T2  - Journal of Big Data
+AU  - Mampaka, Maluambanzila Minerve
+AU  - Sumbwanyambe, Mbuyu
+PY  - 2019
+DA  - 2019/02/04
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 6
+SN  - 2196-1115
+ER  - 

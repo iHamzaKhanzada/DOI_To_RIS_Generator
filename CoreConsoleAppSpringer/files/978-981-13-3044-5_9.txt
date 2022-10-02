@@ -1,0 +1,21 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-13-3044-5_9
+UR  - http://dx.doi.org/10.1007/978-981-13-3044-5_9
+TI  - Cost-Effective Coupled Video Distribution Network
+T2  - Computer Supported Cooperative Work and Social Computing
+AU  - Chen, Jing
+AU  - Chen, Zhigang
+AU  - Lu, Dianjie
+AU  - Lyu, Chen
+AU  - Zhang, Guijuan
+AU  - Zheng, Xiangwei
+AU  - Liu, Hong
+PY  - 2018
+DA  - 2018/12/11
+PB  - Springer Singapore
+SP  - 115-128
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811330438
+SN  - 9789811330445
+ER  - 

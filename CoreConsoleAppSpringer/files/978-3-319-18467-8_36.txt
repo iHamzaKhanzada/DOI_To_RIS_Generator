@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-18467-8_36
+UR  - http://dx.doi.org/10.1007/978-3-319-18467-8_36
+TI  - An Empirical Study on Android for Saving Non-shared Data on Public Storage
+T2  - ICT Systems Security and Privacy Protection
+AU  - Liu, Xiangyu
+AU  - Zhou, Zhe
+AU  - Diao, Wenrui
+AU  - Li, Zhou
+AU  - Zhang, Kehuan
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 542-556
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783319184661
+SN  - 9783319184678
+ER  - 

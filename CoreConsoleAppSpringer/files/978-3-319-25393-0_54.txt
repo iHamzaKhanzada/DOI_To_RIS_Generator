@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-25393-0_54
+UR  - http://dx.doi.org/10.1007/978-3-319-25393-0_54
+TI  - Exploring Feature Extraction and ELM in Malware Detection for Android Devices
+T2  - Advances in Neural Networks – ISNN 2015
+AU  - Zhang, Wei
+AU  - Ren, Huan
+AU  - Jiang, Qingshan
+AU  - Zhang, Kai
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 489-498
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319253923
+SN  - 9783319253930
+ER  - 

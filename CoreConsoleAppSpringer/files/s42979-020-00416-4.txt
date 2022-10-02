@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s42979-020-00416-4
+UR  - http://dx.doi.org/10.1007/s42979-020-00416-4
+TI  - Data-Driven Requirements Elicitation: A Systematic Literature Review
+T2  - SN Computer Science
+AU  - Lim, Sachiko
+AU  - Henriksson, Aron
+AU  - Zdravkovic, Jelena
+PY  - 2021
+DA  - 2021/01/04
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 2
+SN  - 2662-995X
+SN  - 2661-8907
+ER  - 

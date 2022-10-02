@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-16411-8_38
+UR  - http://dx.doi.org/10.1007/978-3-031-16411-8_38
+TI  - Sales and Operations Planning for Delivery Date Setting in Engineer-to-Order Maritime Equipment Manufacturing: Insights from Two Case Studies
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Bhalla, Swapnil
+AU  - Alfnes, Erlend
+AU  - Hvolby, Hans-Henrik
+PY  - 2022
+PB  - Springer Nature Switzerland
+SP  - 321-328
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783031164101
+SN  - 9783031164118
+ER  - 

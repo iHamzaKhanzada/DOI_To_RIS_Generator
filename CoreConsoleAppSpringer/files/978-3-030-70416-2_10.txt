@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-70416-2_10
+UR  - http://dx.doi.org/10.1007/978-3-030-70416-2_10
+TI  - Hybrid Security Risk Assessment Model
+T2  - Advances in Intelligent Systems and Computing
+AU  - Banks, Robert
+AU  - Jones, Jim
+AU  - Hazzazi, Noha
+AU  - Garcia, Pete
+AU  - Zimmermann, Russell
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 77-83
+SN  - 2194-5357
+SN  - 2194-5365
+SN  - 9783030704155
+SN  - 9783030704162
+ER  - 

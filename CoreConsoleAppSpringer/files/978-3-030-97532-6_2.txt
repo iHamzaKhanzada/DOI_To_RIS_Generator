@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-97532-6_2
+UR  - http://dx.doi.org/10.1007/978-3-030-97532-6_2
+TI  - DyPolDroid: Protecting Users and Organizations from Permission-Abuse Attacks in Android
+T2  - Secure Knowledge Management In The Artificial Intelligence Era
+AU  - Rubio-Medrano, Carlos E.
+AU  - Hill, Matthew
+AU  - Claramunt, Luis M.
+AU  - Baek, Jaejong
+AU  - Ahn, Gail-Joon
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 23-36
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030975319
+SN  - 9783030975326
+ER  - 

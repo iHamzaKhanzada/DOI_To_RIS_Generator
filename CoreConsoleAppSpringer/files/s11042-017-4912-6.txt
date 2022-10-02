@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11042-017-4912-6
+UR  - http://dx.doi.org/10.1007/s11042-017-4912-6
+TI  - A QoS-enhanced intelligent stochastic real-time packet scheduler for multimedia IP traffic
+T2  - Multimedia Tools and Applications
+AU  - Paul, Suman
+AU  - Pandit, Malay Kumar
+PY  - 2017
+DA  - 2017/06/22
+PB  - Springer Science and Business Media LLC
+SP  - 12725-12748
+IS  - 10
+VL  - 77
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s00607-021-00930-0
+UR  - http://dx.doi.org/10.1007/s00607-021-00930-0
+TI  - Energy-makespan optimization of workflow scheduling in fog–cloud computing
+T2  - Computing
+AU  - Ijaz, Samia
+AU  - Munir, Ehsan Ullah
+AU  - Ahmad, Saima Gulzar
+AU  - Rafique, M. Mustafa
+AU  - Rana, Omer F.
+PY  - 2021
+DA  - 2021/03/22
+PB  - Springer Science and Business Media LLC
+SP  - 2033-2059
+IS  - 9
+VL  - 103
+SN  - 0010-485X
+SN  - 1436-5057
+ER  - 

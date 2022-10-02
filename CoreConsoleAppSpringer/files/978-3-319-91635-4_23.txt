@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-91635-4_23
+UR  - http://dx.doi.org/10.1007/978-3-319-91635-4_23
+TI  - Intelligent Computing for Building Performance Analysis
+T2  - Advanced Computing Strategies for Engineering
+AU  - de Wilde, Pieter
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 457-471
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319916347
+SN  - 9783319916354
+ER  - 

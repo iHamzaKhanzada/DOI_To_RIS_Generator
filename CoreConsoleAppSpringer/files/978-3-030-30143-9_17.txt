@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-30143-9_17
+UR  - http://dx.doi.org/10.1007/978-3-030-30143-9_17
+TI  - A Clustering-Based Approach to Efficient Resource Allocation in Fog Computing
+T2  - Pervasive Systems, Algorithms and Networks
+AU  - Shooshtarian, Leila
+AU  - Lan, Dapeng
+AU  - Taherkordi, Amir
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 207-224
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030301422
+SN  - 9783030301439
+ER  - 

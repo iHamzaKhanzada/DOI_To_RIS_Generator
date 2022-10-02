@@ -1,0 +1,10 @@
+TY  - GENERIC
+DO  - 10.1007/978-1-4842-8026-3
+UR  - http://dx.doi.org/10.1007/978-1-4842-8026-3
+TI  - Practical Forensic Analysis of Artifacts on iOS and Android Devices
+AU  - Moreb, Mohammed
+PY  - 2022
+PB  - Apress
+SN  - 9781484280256
+SN  - 9781484280263
+ER  - 

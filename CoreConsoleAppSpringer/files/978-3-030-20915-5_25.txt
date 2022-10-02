@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-20915-5_25
+UR  - http://dx.doi.org/10.1007/978-3-030-20915-5_25
+TI  - Deep Learning for Detection and Localization of Thoracic Diseases Using Chest X-Ray Imagery
+T2  - Artificial Intelligence and Soft Computing
+AU  - Rakshit, Somnath
+AU  - Saha, Indrajit
+AU  - Wlasnowolski, Michal
+AU  - Maulik, Ujjwal
+AU  - Plewczynski, Dariusz
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 271-282
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030209148
+SN  - 9783030209155
+ER  - 

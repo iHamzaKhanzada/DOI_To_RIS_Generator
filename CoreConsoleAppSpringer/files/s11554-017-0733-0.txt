@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11554-017-0733-0
+UR  - http://dx.doi.org/10.1007/s11554-017-0733-0
+TI  - Multiprocessor architecture for real-time applications using mean shift clustering
+T2  - Journal of Real-Time Image Processing
+AU  - Tehreem, Amna
+AU  - Khawaja, Sajid Gul
+AU  - Khan, Asad Mansoor
+AU  - Akram, Muhammad Usman
+AU  - Khan, Shoab A.
+PY  - 2017
+DA  - 2017/11/16
+PB  - Springer Science and Business Media LLC
+SP  - 2233-2246
+IS  - 6
+VL  - 16
+SN  - 1861-8200
+SN  - 1861-8219
+ER  - 

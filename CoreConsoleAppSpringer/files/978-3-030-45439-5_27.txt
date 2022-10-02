@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-45439-5_27
+UR  - http://dx.doi.org/10.1007/978-3-030-45439-5_27
+TI  - You Can Teach an Old Dog New Tricks: Rank Fusion applied to Coordination Level Matching for Ranking in Systematic Reviews
+T2  - Lecture Notes in Computer Science
+AU  - Scells, Harrisen
+AU  - Zuccon, Guido
+AU  - Koopman, Bevan
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 399-414
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030454388
+SN  - 9783030454395
+ER  - 

@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-00018-9_43
+UR  - http://dx.doi.org/10.1007/978-3-030-00018-9_43
+TI  - Monitoring of Root Privilege Escalation in Android Kernel
+T2  - Cloud Computing and Security
+AU  - Hu, Xueli
+AU  - Xi, Qi
+AU  - Wang, Zhenxing
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 491-503
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030000172
+SN  - 9783030000189
+ER  - 

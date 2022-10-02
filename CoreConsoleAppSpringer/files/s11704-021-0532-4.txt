@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s11704-021-0532-4
+UR  - http://dx.doi.org/10.1007/s11704-021-0532-4
+TI  - Energy inefficiency diagnosis for Android applications: a literature review
+T2  - Frontiers of Computer Science
+AU  - Sun, Yuxia
+AU  - Fang, Jiefeng
+AU  - Chen, Yanjia
+AU  - Liu, Yepang
+AU  - Chen, Zhao
+AU  - Guo, Song
+AU  - Chen, Xinkai
+AU  - Tan, Ziyuan
+PY  - 2022
+DA  - 2022/08/08
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 17
+SN  - 2095-2228
+SN  - 2095-2236
+ER  - 

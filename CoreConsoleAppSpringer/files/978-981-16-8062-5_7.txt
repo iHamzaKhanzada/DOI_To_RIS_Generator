@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-16-8062-5_7
+UR  - http://dx.doi.org/10.1007/978-981-16-8062-5_7
+TI  - Security Issues in Android Application Development and Plug-in for Android Studio to Support Secure Programming
+T2  - Future Data and Security Engineering. Big Data, Security and Privacy, Smart City and Industry 4.0 Applications
+AU  - Tran, Anh-Duy
+AU  - Nguyen, Minh-Quan
+AU  - Phan, Gia-Hao
+AU  - Tran, Minh-Triet
+PY  - 2021
+PB  - Springer Singapore
+SP  - 105-122
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811680618
+SN  - 9789811680625
+ER  - 

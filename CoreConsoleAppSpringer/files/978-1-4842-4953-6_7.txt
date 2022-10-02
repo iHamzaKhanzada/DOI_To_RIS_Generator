@@ -1,0 +1,12 @@
+TY  - GENERIC
+DO  - 10.1007/978-1-4842-4953-6_7
+UR  - http://dx.doi.org/10.1007/978-1-4842-4953-6_7
+TI  - Android Studio Profiler
+T2  - Android Studio IDE Quick Reference
+AU  - Hagos, Ted
+PY  - 2019
+PB  - Apress
+SP  - 73-82
+SN  - 9781484249529
+SN  - 9781484249536
+ER  - 

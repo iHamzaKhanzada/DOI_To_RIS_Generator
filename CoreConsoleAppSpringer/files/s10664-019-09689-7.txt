@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09689-7
+UR  - http://dx.doi.org/10.1007/s10664-019-09689-7
+TI  - The Android OS stack and its vulnerabilities: an empirical study
+T2  - Empirical Software Engineering
+AU  - Mazuera-Rozo, Alejandro
+AU  - Bautista-Mora, Jairo
+AU  - Linares-Vásquez, Mario
+AU  - Rueda, Sandra
+AU  - Bavota, Gabriele
+PY  - 2019
+DA  - 2019/02/20
+PB  - Springer Science and Business Media LLC
+SP  - 2056-2101
+IS  - 4
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

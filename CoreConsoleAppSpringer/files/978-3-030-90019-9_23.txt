@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-90019-9_23
+UR  - http://dx.doi.org/10.1007/978-3-030-90019-9_23
+TI  - Controlling Network Traffic Microstructures for Machine-Learning Model Probing
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Clausen, Henry
+AU  - Flood, Robert
+AU  - Aspinall, David
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 456-475
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030900182
+SN  - 9783030900199
+ER  - 

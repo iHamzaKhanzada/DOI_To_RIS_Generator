@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11219-018-9408-8
+UR  - http://dx.doi.org/10.1007/s11219-018-9408-8
+TI  - FLEX-RCA: a lean-based method for root cause analysis in software process improvement
+T2  - Software Quality Journal
+AU  - Pernstål, J.
+AU  - Feldt, R.
+AU  - Gorschek, T.
+AU  - Florén, D.
+PY  - 2018
+DA  - 2018/05/01
+PB  - Springer Science and Business Media LLC
+SP  - 389-428
+IS  - 1
+VL  - 27
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s00779-018-1157-y
+UR  - http://dx.doi.org/10.1007/s00779-018-1157-y
+TI  - Man-machine dialogue system optimization based on cloud computing
+T2  - Personal and Ubiquitous Computing
+AU  - Jin, Maozhu
+AU  - Wang, Hua
+AU  - Song, Lijun
+AU  - Li, Yuxue
+AU  - Zeng, Yucheng
+PY  - 2018
+DA  - 2018/05/18
+PB  - Springer Science and Business Media LLC
+SP  - 937-942
+IS  - 5-6
+VL  - 22
+SN  - 1617-4909
+SN  - 1617-4917
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1186/s13677-022-00284-8
+UR  - http://dx.doi.org/10.1186/s13677-022-00284-8
+TI  - EDQWS: an enhanced divide and conquer algorithm for workflow scheduling in cloud
+T2  - Journal of Cloud Computing
+AU  - Khojasteh Toussi, Ghazaleh
+AU  - Naghibzadeh, Mahmoud
+AU  - Abrishami, Saeid
+AU  - Taheri, Hoda
+AU  - Abrishami, Hamid
+PY  - 2022
+DA  - 2022/05/26
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 11
+SN  - 2192-113X
+ER  - 

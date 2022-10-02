@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10619-021-07334-1
+UR  - http://dx.doi.org/10.1007/s10619-021-07334-1
+TI  - Self-adapting data migration in the context of schema evolution in NoSQL databases
+T2  - Distributed and Parallel Databases
+AU  - Hillenbrand, Andrea
+AU  - Störl, Uta
+AU  - Nabiyev, Shamil
+AU  - Klettke, Meike
+PY  - 2021
+DA  - 2021/04/30
+PB  - Springer Science and Business Media LLC
+SP  - 5-25
+IS  - 1
+VL  - 40
+SN  - 0926-8782
+SN  - 1573-7578
+ER  - 

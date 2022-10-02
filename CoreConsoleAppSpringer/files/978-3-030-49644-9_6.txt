@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-49644-9_6
+UR  - http://dx.doi.org/10.1007/978-3-030-49644-9_6
+TI  - Requirements for Relief Distribution Decision-Making in Humanitarian Logistics
+T2  - Lecture Notes in Information Systems and Organisation
+AU  - Rahman, Mohammad Tafiqur
+AU  - Majchrzak, Tim A.
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 93-112
+SN  - 2195-4968
+SN  - 2195-4976
+SN  - 9783030496432
+SN  - 9783030496449
+ER  - 

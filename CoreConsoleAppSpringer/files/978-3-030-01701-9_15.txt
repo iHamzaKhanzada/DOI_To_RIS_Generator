@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-01701-9_15
+UR  - http://dx.doi.org/10.1007/978-3-030-01701-9_15
+TI  - GranDroid: Graph-Based Detection of Malicious Network Behaviors in Android Applications
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Li, Zhiqiang
+AU  - Sun, Jun
+AU  - Yan, Qiben
+AU  - Srisa-an, Witawas
+AU  - Bachala, Shakthi
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 264-280
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030017002
+SN  - 9783030017019
+ER  - 

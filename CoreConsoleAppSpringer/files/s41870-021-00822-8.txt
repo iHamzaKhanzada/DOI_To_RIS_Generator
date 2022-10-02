@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s41870-021-00822-8
+UR  - http://dx.doi.org/10.1007/s41870-021-00822-8
+TI  - An expert system for selecting optimal cloud-service provider
+T2  - International Journal of Information Technology
+AU  - Hasan, Md. Zahid
+AU  - Uddin, Mohammad Shorif
+AU  - Islam, Mohammad Shahidul
+PY  - 2021
+DA  - 2021/10/26
+PB  - Springer Science and Business Media LLC
+SP  - 1555-1563
+IS  - 3
+VL  - 14
+SN  - 2511-2104
+SN  - 2511-2112
+ER  - 

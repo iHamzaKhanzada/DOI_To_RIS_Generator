@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s11390-020-9651-x
+UR  - http://dx.doi.org/10.1007/s11390-020-9651-x
+TI  - Labeled Network Stack: A High-Concurrency and Low-Tail Latency Cloud Server Framework for Massive IoT Devices
+T2  - Journal of Computer Science and Technology
+AU  - Zhang, Wen-Li
+AU  - Liu, Ke
+AU  - Shen, Yi-Fan
+AU  - Lan, Ya-Zhu
+AU  - Song, Hui
+AU  - Chen, Ming-Yu
+AU  - Chen, Yuan-Fei
+PY  - 2020
+DA  - 2020/01
+PB  - Springer Science and Business Media LLC
+SP  - 179-193
+IS  - 1
+VL  - 35
+SN  - 1000-9000
+SN  - 1860-4749
+ER  - 

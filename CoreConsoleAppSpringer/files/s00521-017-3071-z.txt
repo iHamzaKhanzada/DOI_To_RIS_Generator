@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s00521-017-3071-z
+UR  - http://dx.doi.org/10.1007/s00521-017-3071-z
+TI  - A decision support model for group decision making with intuitionistic fuzzy linguistic preferences relations
+T2  - Neural Computing and Applications
+AU  - Jin, Feifei
+AU  - Ni, Zhiwei
+AU  - Pei, Lidan
+AU  - Chen, Huayou
+AU  - Li, Yaping
+AU  - Zhu, Xuhui
+AU  - Ni, Liping
+PY  - 2017
+DA  - 2017/06/23
+PB  - Springer Science and Business Media LLC
+SP  - 1103-1124
+IS  - S2
+VL  - 31
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

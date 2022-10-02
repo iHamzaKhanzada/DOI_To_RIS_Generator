@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1007/s00521-021-05974-z
+UR  - http://dx.doi.org/10.1007/s00521-021-05974-z
+TI  - N-semble-based method for identifying Parkinson’s disease genes
+T2  - Neural Computing and Applications
+AU  - Arora, Priya
+AU  - Mishra, Ashutosh
+AU  - Malhi, Avleen
+PY  - 2021
+DA  - 2021/04/24
+PB  - Springer Science and Business Media LLC
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

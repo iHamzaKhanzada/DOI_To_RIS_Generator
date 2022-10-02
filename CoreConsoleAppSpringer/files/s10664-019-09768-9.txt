@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09768-9
+UR  - http://dx.doi.org/10.1007/s10664-019-09768-9
+TI  - An empirical catalog of code smells for the presentation layer of Android apps
+T2  - Empirical Software Engineering
+AU  - Carvalho, Suelen Goularte
+AU  - Aniche, Maurício
+AU  - Veríssimo, Júlio
+AU  - Durelli, Rafael S.
+AU  - Gerosa, Marco Aurélio
+PY  - 2019
+DA  - 2019/11/27
+PB  - Springer Science and Business Media LLC
+SP  - 3546-3586
+IS  - 6
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00766-021-00369-x
+UR  - http://dx.doi.org/10.1007/s00766-021-00369-x
+TI  - Stakeholder identification for a structured release planning approach in the automotive domain
+T2  - Requirements Engineering
+AU  - Marner, Kristina
+AU  - Wagner, Stefan
+AU  - Ruhe, Guenther
+PY  - 2022
+DA  - 2022/03/17
+PB  - Springer Science and Business Media LLC
+SP  - 211-230
+IS  - 2
+VL  - 27
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

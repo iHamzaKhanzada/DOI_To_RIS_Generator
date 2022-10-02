@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-29551-6_63
+UR  - http://dx.doi.org/10.1007/978-3-030-29551-6_63
+TI  - Permission-Based Feature Scaling Method for Lightweight Android Malware Detection
+T2  - Knowledge Science, Engineering and Management
+AU  - Zhu, Dali
+AU  - Xi, Tong
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 714-725
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030295509
+SN  - 9783030295516
+ER  - 

@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s11023-020-09524-9
+UR  - http://dx.doi.org/10.1007/s11023-020-09524-9
+TI  - Moral Gridworlds: A Theoretical Proposal for Modeling Artificial Moral Cognition
+T2  - Minds and Machines
+AU  - Haas, Julia
+PY  - 2020
+DA  - 2020/04/25
+PB  - Springer Science and Business Media LLC
+SP  - 219-246
+IS  - 2
+VL  - 30
+SN  - 0924-6495
+SN  - 1572-8641
+ER  - 

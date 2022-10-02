@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10586-020-03178-z
+UR  - http://dx.doi.org/10.1007/s10586-020-03178-z
+TI  - Cloud services security-driven evaluation for multiple tenants
+T2  - Cluster Computing
+AU  - Maroc, Sarah
+AU  - Zhang, Jian Biao
+PY  - 2020
+DA  - 2020/09/09
+PB  - Springer Science and Business Media LLC
+SP  - 1103-1121
+IS  - 2
+VL  - 24
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

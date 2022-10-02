@@ -1,0 +1,21 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-59439-2_3
+UR  - http://dx.doi.org/10.1007/978-3-319-59439-2_3
+TI  - Detecting Malicious Collusion Between Mobile Software Applications: The Android TM Case
+T2  - Data Analytics and Decision Support for Cybersecurity
+AU  - Asăvoae, Irina Măriuca
+AU  - Blasco, Jorge
+AU  - Chen, Thomas M.
+AU  - Kalutarage, Harsha Kumara
+AU  - Muttik, Igor
+AU  - Nguyen, Hoang Nga
+AU  - Roggenbach, Markus
+AU  - Shaikh, Siraj Ahmed
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 55-97
+SN  - 2520-1859
+SN  - 2520-1867
+SN  - 9783319594385
+SN  - 9783319594392
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10462-022-10139-y
+UR  - http://dx.doi.org/10.1007/s10462-022-10139-y
+TI  - When CCN meets MCGDM: optimal cache replacement policy achieved by PRSRV with Pythagorean fuzzy set pair analysis
+T2  - Artificial Intelligence Review
+AU  - Peng, Xindong
+AU  - Huang, Haihui
+AU  - Luo, Zhigang
+PY  - 2022
+DA  - 2022/02/18
+PB  - Springer Science and Business Media LLC
+SP  - 5621-5671
+IS  - 7
+VL  - 55
+SN  - 0269-2821
+SN  - 1573-7462
+ER  - 

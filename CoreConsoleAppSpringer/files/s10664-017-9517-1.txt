@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s10664-017-9517-1
+UR  - http://dx.doi.org/10.1007/s10664-017-9517-1
+TI  - Privacy by designers: software developers’ privacy mindset
+T2  - Empirical Software Engineering
+AU  - Hadar, Irit
+AU  - Hasson, Tomer
+AU  - Ayalon, Oshrat
+AU  - Toch, Eran
+AU  - Birnhack, Michael
+AU  - Sherman, Sofia
+AU  - Balissa, Arod
+PY  - 2017
+DA  - 2017/04/30
+PB  - Springer Science and Business Media LLC
+SP  - 259-289
+IS  - 1
+VL  - 23
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

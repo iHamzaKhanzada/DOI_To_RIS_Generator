@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-85469-0_6
+UR  - http://dx.doi.org/10.1007/978-3-030-85469-0_6
+TI  - Weighing the Pros and Cons: Process Discovery with Negative Examples
+T2  - Lecture Notes in Computer Science
+AU  - Slaats, Tijs
+AU  - Debois, Søren
+AU  - Back, Christoffer Olling
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 47-64
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030854683
+SN  - 9783030854690
+ER  - 

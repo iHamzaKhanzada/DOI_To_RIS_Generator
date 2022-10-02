@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-1-4842-0472-6_1
+UR  - http://dx.doi.org/10.1007/978-1-4842-0472-6_1
+TI  - An Android in Every Home
+T2  - Beginning Android Games
+AU  - Zechner, Mario
+AU  - DiMarzio, J. F.
+AU  - Green, Robert
+PY  - 2016
+PB  - Apress
+SP  - 1-14
+SN  - 9781484204733
+SN  - 9781484204726
+ER  - 

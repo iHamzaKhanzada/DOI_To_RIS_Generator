@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-30619-9_17
+UR  - http://dx.doi.org/10.1007/978-3-030-30619-9_17
+TI  - Compositional Information Flow Verification for Inter Application Communications in Android System
+T2  - Machine Learning for Cyber Security
+AU  - Rao, Xue
+AU  - Xi, Ning
+AU  - Lv, Jing
+AU  - Feng, Pengbin
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 239-252
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030306182
+SN  - 9783030306199
+ER  - 

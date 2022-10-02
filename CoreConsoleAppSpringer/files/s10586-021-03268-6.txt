@@ -1,0 +1,22 @@
+TY  - JOUR
+DO  - 10.1007/s10586-021-03268-6
+UR  - http://dx.doi.org/10.1007/s10586-021-03268-6
+TI  - Mobility-aware computational offloading in mobile edge networks: a survey
+T2  - Cluster Computing
+AU  - Zaman, Sardar Khaliq uz
+AU  - Jehangiri, Ali Imran
+AU  - Maqsood, Tahir
+AU  - Ahmad, Zulfiqar
+AU  - Umar, Arif Iqbal
+AU  - Shuja, Junaid
+AU  - Alanazi, Eisa
+AU  - Alasmary, Waleed
+PY  - 2021
+DA  - 2021/04/09
+PB  - Springer Science and Business Media LLC
+SP  - 2735-2756
+IS  - 4
+VL  - 24
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

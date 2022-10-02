@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s00766-018-0307-0
+UR  - http://dx.doi.org/10.1007/s00766-018-0307-0
+TI  - Extracting core requirements for software product lines
+T2  - Requirements Engineering
+AU  - Reinhartz-Berger, Iris
+AU  - Kemelman, Mark
+PY  - 2019
+DA  - 2019/01/01
+PB  - Springer Science and Business Media LLC
+SP  - 47-65
+IS  - 1
+VL  - 25
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

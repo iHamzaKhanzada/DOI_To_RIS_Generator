@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-90421-4_5
+UR  - http://dx.doi.org/10.1007/978-3-319-90421-4_5
+TI  - Top-Down Evaluation of Reusable Goal Models
+T2  - New Opportunities for Software Reuse
+AU  - Duran, Mustafa Berk
+AU  - Mussbacher, Gunter
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 76-92
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319904207
+SN  - 9783319904214
+ER  - 

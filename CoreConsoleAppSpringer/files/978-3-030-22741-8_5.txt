@@ -1,0 +1,21 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-22741-8_5
+UR  - http://dx.doi.org/10.1007/978-3-030-22741-8_5
+TI  - A Fast kNN-Based Approach for Time Sensitive Anomaly Detection over Data Streams
+T2  - Lecture Notes in Computer Science
+AU  - Wu, Guangjun
+AU  - Zhao, Zhihui
+AU  - Fu, Ge
+AU  - Wang, Haiping
+AU  - Wang, Yong
+AU  - Wang, Zhenyu
+AU  - Hou, Junteng
+AU  - Huang, Liang
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 59-74
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030227401
+SN  - 9783030227418
+ER  - 

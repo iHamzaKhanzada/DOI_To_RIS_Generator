@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10472-018-9588-8
+UR  - http://dx.doi.org/10.1007/s10472-018-9588-8
+TI  - Engineering a multi-agent system in Jason and CArtAgO
+T2  - Annals of Mathematics and Artificial Intelligence
+AU  - Villadsen, Jørgen
+AU  - Fleckenstein, Oliver
+AU  - Hatteland, Helge
+AU  - Bruntse Larsen, John
+PY  - 2018
+DA  - 2018/06/01
+PB  - Springer Science and Business Media LLC
+SP  - 57-74
+IS  - 1-2
+VL  - 84
+SN  - 1012-2443
+SN  - 1573-7470
+ER  - 

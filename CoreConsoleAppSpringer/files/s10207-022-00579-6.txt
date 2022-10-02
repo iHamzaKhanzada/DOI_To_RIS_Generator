@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10207-022-00579-6
+UR  - http://dx.doi.org/10.1007/s10207-022-00579-6
+TI  - MAPAS: a practical deep learning-based android malware detection system
+T2  - International Journal of Information Security
+AU  - Kim, Jinsung
+AU  - Ban, Younghoon
+AU  - Ko, Eunbyeol
+AU  - Cho, Haehyun
+AU  - Yi, Jeong Hyun
+PY  - 2022
+DA  - 2022/02/09
+PB  - Springer Science and Business Media LLC
+SP  - 725-738
+IS  - 4
+VL  - 21
+SN  - 1615-5262
+SN  - 1615-5270
+ER  - 

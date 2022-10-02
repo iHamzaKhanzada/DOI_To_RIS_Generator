@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10207-020-00533-4
+UR  - http://dx.doi.org/10.1007/s10207-020-00533-4
+TI  - Automatic analysis of attack graphs for risk mitigation and prioritization on large-scale and complex networks in Industry 4.0
+T2  - International Journal of Information Security
+AU  - Stergiopoulos, George
+AU  - Dedousis, Panagiotis
+AU  - Gritzalis, Dimitris
+PY  - 2021
+DA  - 2021/02/27
+PB  - Springer Science and Business Media LLC
+SP  - 37-59
+IS  - 1
+VL  - 21
+SN  - 1615-5262
+SN  - 1615-5270
+ER  - 

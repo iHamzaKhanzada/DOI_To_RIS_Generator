@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-05532-5_14
+UR  - http://dx.doi.org/10.1007/978-3-030-05532-5_14
+TI  - Proactive Approach to Revenue Assurance in Integrated Project Management
+T2  - Communications in Computer and Information Science
+AU  - Castro, Gilberto F.
+AU  - Bermudez-Peña, Anié
+AU  - Palacios, Francisco G.
+AU  - Orozco, Fausto R.
+AU  - Espinoza, Diana J.
+AU  - Martillo, Inelda A.
+PY  - 2018
+DA  - 2018/12/30
+PB  - Springer International Publishing
+SP  - 191-204
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030055318
+SN  - 9783030055325
+ER  - 

@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-97571-9_4
+UR  - http://dx.doi.org/10.1007/978-3-319-97571-9_4
+TI  - Towards the Next-Generation Enterprise Information Systems – Research Opportunities and Challenges
+T2  - Communications in Computer and Information Science
+AU  - Zdravković, Milan
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 21-31
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783319975702
+SN  - 9783319975719
+ER  - 

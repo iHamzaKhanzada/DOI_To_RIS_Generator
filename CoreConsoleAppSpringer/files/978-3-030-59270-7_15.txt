@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-59270-7_15
+UR  - http://dx.doi.org/10.1007/978-3-030-59270-7_15
+TI  - The Telematics Concept for Integrated Management of Road Transport Risks
+T2  - Communications in Computer and Information Science
+AU  - Szpytko, Janusz
+AU  - Nasan Agha, Weam
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 190-213
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030592691
+SN  - 9783030592707
+ER  - 

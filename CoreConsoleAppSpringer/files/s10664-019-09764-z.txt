@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09764-z
+UR  - http://dx.doi.org/10.1007/s10664-019-09764-z
+TI  - CDA: Characterising Deprecated Android APIs
+T2  - Empirical Software Engineering
+AU  - Li, Li
+AU  - Gao, Jun
+AU  - Bissyandé, Tegawendé F.
+AU  - Ma, Lei
+AU  - Xia, Xin
+AU  - Klein, Jacques
+PY  - 2020
+DA  - 2020/01/11
+PB  - Springer Science and Business Media LLC
+SP  - 2058-2098
+IS  - 3
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

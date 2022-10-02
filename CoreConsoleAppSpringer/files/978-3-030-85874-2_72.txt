@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-85874-2_72
+UR  - http://dx.doi.org/10.1007/978-3-030-85874-2_72
+TI  - Lean Six Sigma in Knowledge Work: A Case Study from Policing and Prosecution Services
+T2  - Advances in Production Management Systems. Artificial Intelligence for Sustainable and Resilient Production Systems
+AU  - Santhiapillai, F. P.
+AU  - Ratnayake, R. M. Chandima
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 665-673
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030858735
+SN  - 9783030858742
+ER  - 

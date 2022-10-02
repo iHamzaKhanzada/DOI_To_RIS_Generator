@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10009-022-00647-1
+UR  - http://dx.doi.org/10.1007/s10009-022-00647-1
+TI  - Software test results exploration and visualization with continuous integration and nightly testing
+T2  - International Journal on Software Tools for Technology Transfer
+AU  - Strandberg, Per Erik
+AU  - Afzal, Wasif
+AU  - Sundmark, Daniel
+PY  - 2022
+DA  - 2022/02/18
+PB  - Springer Science and Business Media LLC
+SP  - 261-285
+IS  - 2
+VL  - 24
+SN  - 1433-2779
+SN  - 1433-2787
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11704-018-7008-1
+UR  - http://dx.doi.org/10.1007/s11704-018-7008-1
+TI  - Analyses for specific defects in android applications: a survey
+T2  - Frontiers of Computer Science
+AU  - Wu, Tianyong
+AU  - Deng, Xi
+AU  - Yan, Jun
+AU  - Zhang, Jian
+PY  - 2019
+DA  - 2019/07/16
+PB  - Springer Science and Business Media LLC
+SP  - 1210-1227
+IS  - 6
+VL  - 13
+SN  - 2095-2228
+SN  - 2095-2236
+ER  - 

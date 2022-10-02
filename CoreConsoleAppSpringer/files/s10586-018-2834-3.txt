@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10586-018-2834-3
+UR  - http://dx.doi.org/10.1007/s10586-018-2834-3
+TI  - Planning of distributed data production for High Energy and Nuclear Physics
+T2  - Cluster Computing
+AU  - Makatun, Dzmitry
+AU  - Lauret, Jérôme
+AU  - Rudová, Hana
+PY  - 2018
+DA  - 2018/08/25
+PB  - Springer Science and Business Media LLC
+SP  - 1949-1965
+IS  - 4
+VL  - 21
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

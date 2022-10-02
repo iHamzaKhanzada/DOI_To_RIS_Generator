@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10664-021-10020-6
+UR  - http://dx.doi.org/10.1007/s10664-021-10020-6
+TI  - Studying eventual connectivity issues in Android apps
+T2  - Empirical Software Engineering
+AU  - Escobar-Velásquez, Camilo
+AU  - Mazuera-Rozo, Alejandro
+AU  - Bedoya, Claudia
+AU  - Osorio-Riaño, Michael
+AU  - Linares-Vásquez, Mario
+AU  - Bavota, Gabriele
+PY  - 2021
+DA  - 2021/11/27
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10994-018-5754-9
+UR  - http://dx.doi.org/10.1007/s10994-018-5754-9
+TI  - Combination of inductive mondrian conformal predictors
+T2  - Machine Learning
+AU  - Toccaceli, Paolo
+AU  - Gammerman, Alexander
+PY  - 2018
+DA  - 2018/08/22
+PB  - Springer Science and Business Media LLC
+SP  - 489-510
+IS  - 3
+VL  - 108
+SN  - 0885-6125
+SN  - 1573-0565
+ER  - 

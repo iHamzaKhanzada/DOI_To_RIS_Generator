@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s10664-017-9594-1
+UR  - http://dx.doi.org/10.1007/s10664-017-9594-1
+TI  - System requirements-OSS components: matching and mismatch resolution practices – an empirical study
+T2  - Empirical Software Engineering
+AU  - Ayala, Claudia
+AU  - Nguyen-Duc, Anh
+AU  - Franch, Xavier
+AU  - Höst, Martin
+AU  - Conradi, Reidar
+AU  - Cruzes, Daniela
+AU  - Babar, Muhammad Ali
+PY  - 2018
+DA  - 2018/03/02
+PB  - Springer Science and Business Media LLC
+SP  - 3073-3128
+IS  - 6
+VL  - 23
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

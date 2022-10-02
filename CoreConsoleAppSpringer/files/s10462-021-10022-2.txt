@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10462-021-10022-2
+UR  - http://dx.doi.org/10.1007/s10462-021-10022-2
+TI  - A new interval type-2 trapezoid fuzzy multi-attribute group decision-making method and its application to the evaluation of sponge city construction
+T2  - Artificial Intelligence Review
+AU  - Meng, Fanyong
+AU  - Li, Shutian
+AU  - Tang, Jie
+PY  - 2021
+DA  - 2021/06/05
+PB  - Springer Science and Business Media LLC
+SP  - 4063-4096
+IS  - 6
+VL  - 54
+SN  - 0269-2821
+SN  - 1573-7462
+ER  - 

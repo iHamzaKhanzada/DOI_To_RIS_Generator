@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1186/s42162-021-00175-3
+UR  - http://dx.doi.org/10.1186/s42162-021-00175-3
+TI  - Quality of service and fairness for electric vehicle charging as a service
+T2  - Energy Informatics
+AU  - Danner, Dominik
+AU  - de Meer, Hermann
+PY  - 2021
+DA  - 2021/09
+PB  - Springer Science and Business Media LLC
+IS  - S3
+VL  - 4
+SN  - 2520-8942
+ER  - 

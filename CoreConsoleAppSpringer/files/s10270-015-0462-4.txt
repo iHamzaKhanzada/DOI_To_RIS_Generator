@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10270-015-0462-4
+UR  - http://dx.doi.org/10.1007/s10270-015-0462-4
+TI  - Automated product line test case selection: industrial case study and controlled experiment
+T2  - Software &amp; Systems Modeling
+AU  - Wang, Shuai
+AU  - Ali, Shaukat
+AU  - Gotlieb, Arnaud
+AU  - Liaaen, Marius
+PY  - 2015
+DA  - 2015/04/28
+PB  - Springer Science and Business Media LLC
+SP  - 417-441
+IS  - 2
+VL  - 16
+SN  - 1619-1366
+SN  - 1619-1374
+ER  - 

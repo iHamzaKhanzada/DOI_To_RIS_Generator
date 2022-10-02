@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-66923-6_45
+UR  - http://dx.doi.org/10.1007/978-3-319-66923-6_45
+TI  - On the Advancement of Maintenance Management Towards Smart Maintenance in Manufacturing
+T2  - Advances in Production Management Systems. The Path to Intelligent, Collaborative and Sustainable Manufacturing
+AU  - Macchi, Marco
+AU  - Roda, Irene
+AU  - Fumagalli, Luca
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 383-390
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783319669229
+SN  - 9783319669236
+ER  - 

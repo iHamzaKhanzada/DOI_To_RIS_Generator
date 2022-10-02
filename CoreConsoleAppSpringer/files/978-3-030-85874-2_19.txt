@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-85874-2_19
+UR  - http://dx.doi.org/10.1007/978-3-030-85874-2_19
+TI  - Exploring Interdependency Effects of Production Orders as Central Impact Factors of Logistics Performance in Manufacturing Systems
+T2  - Advances in Production Management Systems. Artificial Intelligence for Sustainable and Resilient Production Systems
+AU  - Vican, Victor
+AU  - Arlinghaus, Julia
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 180-187
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030858735
+SN  - 9783030858742
+ER  - 

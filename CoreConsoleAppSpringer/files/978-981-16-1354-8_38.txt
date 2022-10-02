@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-16-1354-8_38
+UR  - http://dx.doi.org/10.1007/978-981-16-1354-8_38
+TI  - Multi-Objective Algorithm Based on Tissue P System for Solving Tri-objective Grain Dispatching and Transportation
+T2  - Communications in Computer and Information Science
+AU  - He, Zhixin
+AU  - Zhou, Kang
+AU  - Shu, Hang
+AU  - Zhou, Jian
+AU  - Lyu, Xinyu
+AU  - Li, Guangbin
+PY  - 2021
+PB  - Springer Singapore
+SP  - 534-559
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811613531
+SN  - 9789811613548
+ER  - 

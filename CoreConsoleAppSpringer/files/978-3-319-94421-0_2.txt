@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-94421-0_2
+UR  - http://dx.doi.org/10.1007/978-3-319-94421-0_2
+TI  - QoS-Based Sequential Detection Algorithm for Jamming Attacks in VANET
+T2  - Communications in Computer and Information Science
+AU  - Salem, Fatma
+AU  - Elhillali, Yassin
+AU  - Niar, Smail
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 17-32
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783319944203
+SN  - 9783319944210
+ER  - 

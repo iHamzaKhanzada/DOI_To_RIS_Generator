@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s00778-020-00604-x
+UR  - http://dx.doi.org/10.1007/s00778-020-00604-x
+TI  - Finding k-shortest paths with limited overlap
+T2  - The VLDB Journal
+AU  - Chondrogiannis, Theodoros
+AU  - Bouros, Panagiotis
+AU  - Gamper, Johann
+AU  - Leser, Ulf
+AU  - Blumenthal, David B.
+PY  - 2020
+DA  - 2020/02/21
+PB  - Springer Science and Business Media LLC
+SP  - 1023-1047
+IS  - 5
+VL  - 29
+SN  - 1066-8888
+SN  - 0949-877X
+ER  - 

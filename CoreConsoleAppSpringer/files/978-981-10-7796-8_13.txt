@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-10-7796-8_13
+UR  - http://dx.doi.org/10.1007/978-981-10-7796-8_13
+TI  - Understanding Uncertainty of Software Requirements Engineering: A Systematic Literature Review Protocol
+T2  - Communications in Computer and Information Science
+AU  - Salih, Ahmad M.
+AU  - Omar, Mazni
+AU  - Yasin, Azman
+PY  - 2018
+PB  - Springer Singapore
+SP  - 164-171
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811077951
+SN  - 9789811077968
+ER  - 

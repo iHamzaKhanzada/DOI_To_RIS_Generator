@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s10664-017-9523-3
+UR  - http://dx.doi.org/10.1007/s10664-017-9523-3
+TI  - Empirical software engineering experts on the use of students and professionals in experiments
+T2  - Empirical Software Engineering
+AU  - Falessi, Davide
+AU  - Juristo, Natalia
+AU  - Wohlin, Claes
+AU  - Turhan, Burak
+AU  - Münch, Jürgen
+AU  - Jedlitschka, Andreas
+AU  - Oivo, Markku
+PY  - 2017
+DA  - 2017/06/08
+PB  - Springer Science and Business Media LLC
+SP  - 452-489
+IS  - 1
+VL  - 23
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

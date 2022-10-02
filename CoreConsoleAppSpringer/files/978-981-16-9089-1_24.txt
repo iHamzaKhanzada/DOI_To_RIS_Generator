@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-16-9089-1_24
+UR  - http://dx.doi.org/10.1007/978-981-16-9089-1_24
+TI  - ShoutIMEI: Ultrasound Covert Channel-Based Attack in Android
+T2  - Security, Privacy and Data Analytics
+AU  - Pandya, Keval
+AU  - Borisaniya, Bhavesh
+AU  - Buddhadev, Bharat
+PY  - 2022
+PB  - Springer Singapore
+SP  - 293-301
+SN  - 1876-1100
+SN  - 1876-1119
+SN  - 9789811690884
+SN  - 9789811690891
+ER  - 

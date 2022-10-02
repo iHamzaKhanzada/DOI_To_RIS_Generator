@@ -1,0 +1,168 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-11009-3_1
+UR  - http://dx.doi.org/10.1007/978-3-030-11009-3_1
+TI  - The Sixth Visual Object Tracking VOT2018 Challenge Results
+T2  - Lecture Notes in Computer Science
+AU  - Kristan, Matej
+AU  - Leonardis, Aleš
+AU  - Matas, Jiří
+AU  - Felsberg, Michael
+AU  - Pflugfelder, Roman
+AU  - Zajc, Luka Čehovin
+AU  - Vojír̃, Tomáš
+AU  - Bhat, Goutam
+AU  - Lukežič, Alan
+AU  - Eldesokey, Abdelrahman
+AU  - Fernández, Gustavo
+AU  - García-Martín, Álvaro
+AU  - Iglesias-Arias, Álvaro
+AU  - Alatan, A. Aydin
+AU  - González-García, Abel
+AU  - Petrosino, Alfredo
+AU  - Memarmoghadam, Alireza
+AU  - Vedaldi, Andrea
+AU  - Muhič, Andrej
+AU  - He, Anfeng
+AU  - Smeulders, Arnold
+AU  - Perera, Asanka G.
+AU  - Li, Bo
+AU  - Chen, Boyu
+AU  - Kim, Changick
+AU  - Xu, Changsheng
+AU  - Xiong, Changzhen
+AU  - Tian, Cheng
+AU  - Luo, Chong
+AU  - Sun, Chong
+AU  - Hao, Cong
+AU  - Kim, Daijin
+AU  - Mishra, Deepak
+AU  - Chen, Deming
+AU  - Wang, Dong
+AU  - Wee, Dongyoon
+AU  - Gavves, Efstratios
+AU  - Gundogdu, Erhan
+AU  - Velasco-Salido, Erik
+AU  - Khan, Fahad Shahbaz
+AU  - Yang, Fan
+AU  - Zhao, Fei
+AU  - Li, Feng
+AU  - Battistone, Francesco
+AU  - De Ath, George
+AU  - Subrahmanyam, Gorthi R. K. S.
+AU  - Bastos, Guilherme
+AU  - Ling, Haibin
+AU  - Galoogahi, Hamed Kiani
+AU  - Lee, Hankyeol
+AU  - Li, Haojie
+AU  - Zhao, Haojie
+AU  - Fan, Heng
+AU  - Zhang, Honggang
+AU  - Possegger, Horst
+AU  - Li, Houqiang
+AU  - Lu, Huchuan
+AU  - Zhi, Hui
+AU  - Li, Huiyun
+AU  - Lee, Hyemin
+AU  - Chang, Hyung Jin
+AU  - Drummond, Isabela
+AU  - Valmadre, Jack
+AU  - Martin, Jaime Spencer
+AU  - Chahl, Javaan
+AU  - Choi, Jin Young
+AU  - Li, Jing
+AU  - Wang, Jinqiao
+AU  - Qi, Jinqing
+AU  - Sung, Jinyoung
+AU  - Johnander, Joakim
+AU  - Henriques, Joao
+AU  - Choi, Jongwon
+AU  - van de Weijer, Joost
+AU  - Herranz, Jorge Rodríguez
+AU  - Martínez, José M.
+AU  - Kittler, Josef
+AU  - Zhuang, Junfei
+AU  - Gao, Junyu
+AU  - Grm, Klemen
+AU  - Zhang, Lichao
+AU  - Wang, Lijun
+AU  - Yang, Lingxiao
+AU  - Rout, Litu
+AU  - Si, Liu
+AU  - Bertinetto, Luca
+AU  - Chu, Lutao
+AU  - Che, Manqiang
+AU  - Maresca, Mario Edoardo
+AU  - Danelljan, Martin
+AU  - Yang, Ming-Hsuan
+AU  - Abdelpakey, Mohamed
+AU  - Shehata, Mohamed
+AU  - Kang, Myunggu
+AU  - Lee, Namhoon
+AU  - Wang, Ning
+AU  - Miksik, Ondrej
+AU  - Moallem, P.
+AU  - Vicente-Moñivar, Pablo
+AU  - Senna, Pedro
+AU  - Li, Peixia
+AU  - Torr, Philip
+AU  - Raju, Priya Mariam
+AU  - Ruihe, Qian
+AU  - Wang, Qiang
+AU  - Zhou, Qin
+AU  - Guo, Qing
+AU  - Martín-Nieto, Rafael
+AU  - Gorthi, Rama Krishna
+AU  - Tao, Ran
+AU  - Bowden, Richard
+AU  - Everson, Richard
+AU  - Wang, Runling
+AU  - Yun, Sangdoo
+AU  - Choi, Seokeon
+AU  - Vivas, Sergio
+AU  - Bai, Shuai
+AU  - Huang, Shuangping
+AU  - Wu, Sihang
+AU  - Hadfield, Simon
+AU  - Wang, Siwen
+AU  - Golodetz, Stuart
+AU  - Ming, Tang
+AU  - Xu, Tianyang
+AU  - Zhang, Tianzhu
+AU  - Fischer, Tobias
+AU  - Santopietro, Vincenzo
+AU  - Štruc, Vitomir
+AU  - Wei, Wang
+AU  - Zuo, Wangmeng
+AU  - Feng, Wei
+AU  - Wu, Wei
+AU  - Zou, Wei
+AU  - Hu, Weiming
+AU  - Zhou, Wengang
+AU  - Zeng, Wenjun
+AU  - Zhang, Xiaofan
+AU  - Wu, Xiaohe
+AU  - Wu, Xiao-Jun
+AU  - Tian, Xinmei
+AU  - Li, Yan
+AU  - Lu, Yan
+AU  - Law, Yee Wei
+AU  - Wu, Yi
+AU  - Demiris, Yiannis
+AU  - Yang, Yicai
+AU  - Jiao, Yifan
+AU  - Li, Yuhong
+AU  - Zhang, Yunhua
+AU  - Sun, Yuxuan
+AU  - Zhang, Zheng
+AU  - Zhu, Zheng
+AU  - Feng, Zhen-Hua
+AU  - Wang, Zhihui
+AU  - He, Zhiqun
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 3-53
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030110086
+SN  - 9783030110093
+ER  - 

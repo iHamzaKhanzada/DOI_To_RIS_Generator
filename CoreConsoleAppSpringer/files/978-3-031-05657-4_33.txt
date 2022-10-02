@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-05657-4_33
+UR  - http://dx.doi.org/10.1007/978-3-031-05657-4_33
+TI  - TPS2 Approach Applied to Requirements Engineering Curriculum Course
+T2  - Learning and Collaboration Technologies. Designing the Learner and Teacher Experience
+AU  - Moreira, Fernando
+AU  - Ferreira, Maria João
+AU  - Durão, Natércia
+AU  - Santos Pereira, Carla
+AU  - Fonseca, David
+AU  - Collazos, César A.
+AU  - Gomes, Alex Sandro
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 461-477
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783031056567
+SN  - 9783031056574
+ER  - 

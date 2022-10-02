@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-45237-7_19
+UR  - http://dx.doi.org/10.1007/978-3-030-45237-7_19
+TI  - Partial-Order Reduction for Parity Games with an Application on Parameterised Boolean Equation Systems
+T2  - Tools and Algorithms for the Construction and Analysis of Systems
+AU  - Neele, Thomas
+AU  - Willemse, Tim A. C.
+AU  - Wesselink, Wieger
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 307-324
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030452360
+SN  - 9783030452377
+ER  - 

@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-85665-6_6
+UR  - http://dx.doi.org/10.1007/978-3-030-85665-6_6
+TI  - Collaborative GPU Preemption via Spatial Multitasking for Efficient GPU Sharing
+T2  - Euro-Par 2021: Parallel Processing
+AU  - Ji, Zhuoran
+AU  - Wang, Cho-Li
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 89-104
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030856649
+SN  - 9783030856656
+ER  - 

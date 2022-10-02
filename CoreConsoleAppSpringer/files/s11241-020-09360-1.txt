@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11241-020-09360-1
+UR  - http://dx.doi.org/10.1007/s11241-020-09360-1
+TI  - Tardiness bounds for fixed-priority global scheduling without intra-task precedence constraints
+T2  - Real-Time Systems
+AU  - Voronov, Sergey
+AU  - Anderson, James H.
+AU  - Yang, Kecheng
+PY  - 2021
+DA  - 2021/01/18
+PB  - Springer Science and Business Media LLC
+SP  - 4-54
+IS  - 1-2
+VL  - 57
+SN  - 0922-6443
+SN  - 1573-1383
+ER  - 

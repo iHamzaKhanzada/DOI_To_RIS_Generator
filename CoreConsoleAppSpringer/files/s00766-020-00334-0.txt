@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00766-020-00334-0
+UR  - http://dx.doi.org/10.1007/s00766-020-00334-0
+TI  - SaPeer and ReverseSaPeer: teaching requirements elicitation interviews with role-playing and role reversal
+T2  - Requirements Engineering
+AU  - Ferrari, Alessio
+AU  - Spoletini, Paola
+AU  - Bano, Muneera
+AU  - Zowghi, Didar
+PY  - 2020
+DA  - 2020/07/16
+PB  - Springer Science and Business Media LLC
+SP  - 417-438
+IS  - 4
+VL  - 25
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

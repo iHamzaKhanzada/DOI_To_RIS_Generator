@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09763-0
+UR  - http://dx.doi.org/10.1007/s10664-019-09763-0
+TI  - Search. Review. Repeat? An empirical study of threats to replicating SLR searches
+T2  - Empirical Software Engineering
+AU  - Krüger, Jacob
+AU  - Lausberger, Christian
+AU  - von Nostitz-Wallwitz, Ivonne
+AU  - Saake, Gunter
+AU  - Leich, Thomas
+PY  - 2019
+DA  - 2019/08/30
+PB  - Springer Science and Business Media LLC
+SP  - 627-677
+IS  - 1
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

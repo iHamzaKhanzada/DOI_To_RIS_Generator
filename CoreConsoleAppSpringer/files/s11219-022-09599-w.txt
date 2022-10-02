@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s11219-022-09599-w
+UR  - http://dx.doi.org/10.1007/s11219-022-09599-w
+TI  - A dynamic random testing strategy in the context of cloud computing
+T2  - Software Quality Journal
+AU  - Pei, Hanyu
+AU  - Yin, Beibei
+AU  - Huang, Linzhi
+AU  - Cai, Kai-Yuan
+PY  - 2022
+DA  - 2022/09/19
+PB  - Springer Science and Business Media LLC
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

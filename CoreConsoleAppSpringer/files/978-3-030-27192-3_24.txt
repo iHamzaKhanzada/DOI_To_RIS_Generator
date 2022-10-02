@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-27192-3_24
+UR  - http://dx.doi.org/10.1007/978-3-030-27192-3_24
+TI  - Prioritizing Use Cases for Development of Mobile Apps Using AHP: A Case Study in To-Do List Apps
+T2  - Mobile Web and Intelligent Information Systems
+AU  - Yildirim, Onur
+AU  - Peker, Serhat
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 308-315
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030271916
+SN  - 9783030271923
+ER  - 

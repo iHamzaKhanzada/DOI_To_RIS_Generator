@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-75650-9_16
+UR  - http://dx.doi.org/10.1007/978-3-319-75650-9_16
+TI  - Extinguishing Ransomware - A Hybrid Approach to Android Ransomware Detection
+T2  - Foundations and Practice of Security
+AU  - Ferrante, Alberto
+AU  - Malek, Miroslaw
+AU  - Martinelli, Fabio
+AU  - Mercaldo, Francesco
+AU  - Milosevic, Jelena
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 242-258
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319756493
+SN  - 9783319756509
+ER  - 

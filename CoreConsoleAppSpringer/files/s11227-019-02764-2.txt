@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11227-019-02764-2
+UR  - http://dx.doi.org/10.1007/s11227-019-02764-2
+TI  - Toward energy-efficient cloud computing: a survey of dynamic power management and heuristics-based optimization techniques
+T2  - The Journal of Supercomputing
+AU  - Khattar, Nagma
+AU  - Sidhu, Jagpreet
+AU  - Singh, Jaiteg
+PY  - 2019
+DA  - 2019/01/31
+PB  - Springer Science and Business Media LLC
+SP  - 4750-4810
+IS  - 8
+VL  - 75
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

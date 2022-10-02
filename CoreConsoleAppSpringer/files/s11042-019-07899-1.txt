@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11042-019-07899-1
+UR  - http://dx.doi.org/10.1007/s11042-019-07899-1
+TI  - SensDroid: Analysis for Malicious Activity Risk of Android Application
+T2  - Multimedia Tools and Applications
+AU  - Shrivastava, Gulshan
+AU  - Kumar, Prabhat
+PY  - 2019
+DA  - 2019/08/19
+PB  - Springer Science and Business Media LLC
+SP  - 35713-35731
+IS  - 24
+VL  - 78
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

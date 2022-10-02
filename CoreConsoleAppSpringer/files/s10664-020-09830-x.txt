@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10664-020-09830-x
+UR  - http://dx.doi.org/10.1007/s10664-020-09830-x
+TI  - Detection, assessment and mitigation of vulnerabilities in open source dependencies
+T2  - Empirical Software Engineering
+AU  - Ponta, Serena Elisa
+AU  - Plate, Henrik
+AU  - Sabetta, Antonino
+PY  - 2020
+DA  - 2020/06/30
+PB  - Springer Science and Business Media LLC
+SP  - 3175-3215
+IS  - 5
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-85037-1_1
+UR  - http://dx.doi.org/10.1007/978-3-030-85037-1_1
+TI  - Formal Methods for Robot Motion Planning with Time and Space Constraints (Extended Abstract)
+T2  - Lecture Notes in Computer Science
+AU  - Barbosa, Fernando S.
+AU  - Karlsson, Jesper
+AU  - Tajvar, Pouria
+AU  - Tumova, Jana
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 1-14
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030850364
+SN  - 9783030850371
+ER  - 

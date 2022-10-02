@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10664-016-9464-2
+UR  - http://dx.doi.org/10.1007/s10664-016-9464-2
+TI  - Recurring opinions or productive improvements—what agile teams actually discuss in retrospectives
+T2  - Empirical Software Engineering
+AU  - Lehtinen, Timo O. A.
+AU  - Itkonen, Juha
+AU  - Lassenius, Casper
+PY  - 2016
+DA  - 2016/11/03
+PB  - Springer Science and Business Media LLC
+SP  - 2409-2452
+IS  - 5
+VL  - 22
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

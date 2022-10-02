@@ -1,0 +1,13 @@
+TY  - JOUR
+DO  - 10.1007/s10639-022-11091-8
+UR  - http://dx.doi.org/10.1007/s10639-022-11091-8
+TI  - Goal-oriented student motivation in learning analytics: How can a requirements-driven approach help?
+T2  - Education and Information Technologies
+AU  - Talbi, Omar
+AU  - Ouared, Abdelkader
+PY  - 2022
+DA  - 2022/05/25
+PB  - Springer Science and Business Media LLC
+SN  - 1360-2357
+SN  - 1573-7608
+ER  - 

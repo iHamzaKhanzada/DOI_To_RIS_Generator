@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-05813-5_13
+UR  - http://dx.doi.org/10.1007/978-3-030-05813-5_13
+TI  - Towards a Context-Aware Adaptive e-Learning Architecture
+T2  - Communications in Computer and Information Science
+AU  - Musumba, George Wamamu
+AU  - Wario, Ruth Diko
+PY  - 2018
+DA  - 2018/12/31
+PB  - Springer International Publishing
+SP  - 191-206
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030058128
+SN  - 9783030058135
+ER  - 

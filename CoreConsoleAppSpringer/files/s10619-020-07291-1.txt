@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10619-020-07291-1
+UR  - http://dx.doi.org/10.1007/s10619-020-07291-1
+TI  - LSTM-based deep learning for spatial–temporal software testing
+T2  - Distributed and Parallel Databases
+AU  - Xiao, Lei
+AU  - Miao, Huaikou
+AU  - Shi, Tingting
+AU  - Hong, Yu
+PY  - 2020
+DA  - 2020/05/09
+PB  - Springer Science and Business Media LLC
+SP  - 687-712
+IS  - 3
+VL  - 38
+SN  - 0926-8782
+SN  - 1573-7578
+ER  - 

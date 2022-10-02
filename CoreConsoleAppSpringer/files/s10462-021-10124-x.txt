@@ -1,0 +1,25 @@
+TY  - JOUR
+DO  - 10.1007/s10462-021-10124-x
+UR  - http://dx.doi.org/10.1007/s10462-021-10124-x
+TI  - Multi-criteria decision-making for coronavirus disease 2019 applications: a theoretical analysis review
+T2  - Artificial Intelligence Review
+AU  - Alsalem, M. A.
+AU  - Alamoodi, A. H.
+AU  - Albahri, O. S.
+AU  - Dawood, K. A.
+AU  - Mohammed, R. T.
+AU  - Alnoor, Alhamzah
+AU  - Zaidan, A. A.
+AU  - Albahri, A. S.
+AU  - Zaidan, B. B.
+AU  - Jumaah, F. M.
+AU  - Al-Obaidi, Jameel R.
+PY  - 2022
+DA  - 2022/01/27
+PB  - Springer Science and Business Media LLC
+SP  - 4979-5062
+IS  - 6
+VL  - 55
+SN  - 0269-2821
+SN  - 1573-7462
+ER  - 

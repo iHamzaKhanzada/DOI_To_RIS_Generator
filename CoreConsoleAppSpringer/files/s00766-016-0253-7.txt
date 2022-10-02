@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s00766-016-0253-7
+UR  - http://dx.doi.org/10.1007/s00766-016-0253-7
+TI  - Understanding requirement prioritization artifacts: a systematic mapping study
+T2  - Requirements Engineering
+AU  - Thakurta, Rahul
+PY  - 2016
+DA  - 2016/05/10
+PB  - Springer Science and Business Media LLC
+SP  - 491-526
+IS  - 4
+VL  - 22
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

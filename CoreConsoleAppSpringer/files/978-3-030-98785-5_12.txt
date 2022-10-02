@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-98785-5_12
+UR  - http://dx.doi.org/10.1007/978-3-030-98785-5_12
+TI  - Old but Gold: Prospecting TCP to Engineer and Live Monitor DNS Anycast
+T2  - Passive and Active Measurement
+AU  - Moura, Giovane C. M.
+AU  - Heidemann, John
+AU  - Hardaker, Wes
+AU  - Charnsethikul, Pithayuth
+AU  - Bulten, Jeroen
+AU  - Ceron, João M.
+AU  - Hesselman, Cristian
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 264-292
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030987848
+SN  - 9783030987855
+ER  - 

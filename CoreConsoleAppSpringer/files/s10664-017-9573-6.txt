@@ -1,0 +1,23 @@
+TY  - JOUR
+DO  - 10.1007/s10664-017-9573-6
+UR  - http://dx.doi.org/10.1007/s10664-017-9573-6
+TI  - Data-efficient performance learning for configurable systems
+T2  - Empirical Software Engineering
+AU  - Guo, Jianmei
+AU  - Yang, Dingyu
+AU  - Siegmund, Norbert
+AU  - Apel, Sven
+AU  - Sarkar, Atrisha
+AU  - Valov, Pavel
+AU  - Czarnecki, Krzysztof
+AU  - Wasowski, Andrzej
+AU  - Yu, Huiqun
+PY  - 2017
+DA  - 2017/11/20
+PB  - Springer Science and Business Media LLC
+SP  - 1826-1867
+IS  - 3
+VL  - 23
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

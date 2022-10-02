@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-90022-9_7
+UR  - http://dx.doi.org/10.1007/978-3-030-90022-9_7
+TI  - Horus: A Security Assessment Framework for Android Crypto Wallets
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Uddin, Md Shahab
+AU  - Mannan, Mohammad
+AU  - Youssef, Amr
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 120-139
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030900212
+SN  - 9783030900229
+ER  - 

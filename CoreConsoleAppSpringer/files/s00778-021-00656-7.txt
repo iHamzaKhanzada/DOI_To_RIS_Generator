@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00778-021-00656-7
+UR  - http://dx.doi.org/10.1007/s00778-021-00656-7
+TI  - Efficient and effective ER with progressive blocking
+T2  - The VLDB Journal
+AU  - Galhotra, Sainyam
+AU  - Firmani, Donatella
+AU  - Saha, Barna
+AU  - Srivastava, Divesh
+PY  - 2021
+DA  - 2021/03/13
+PB  - Springer Science and Business Media LLC
+SP  - 537-557
+IS  - 4
+VL  - 30
+SN  - 1066-8888
+SN  - 0949-877X
+ER  - 

@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-79022-6_1
+UR  - http://dx.doi.org/10.1007/978-3-030-79022-6_1
+TI  - Agility Driven Learning for Educational Organizations
+T2  - Lecture Notes in Business Information Processing
+AU  - Avdoshin, Sergey
+AU  - Pesotskaya, Elena
+AU  - Kuruppuge, Divani
+AU  - Strashnova, Angelina
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 5-16
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030790219
+SN  - 9783030790226
+ER  - 

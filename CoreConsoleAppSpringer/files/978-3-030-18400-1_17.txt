@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-18400-1_17
+UR  - http://dx.doi.org/10.1007/978-3-030-18400-1_17
+TI  - Exploring Tensions of Global Public Good Platforms for Development: The Case of DHIS2
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Nicholson, Brian
+AU  - Nielsen, Petter
+AU  - Saebo, Johan
+AU  - Sahay, Sundeep
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 207-217
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030183998
+SN  - 9783030184001
+ER  - 

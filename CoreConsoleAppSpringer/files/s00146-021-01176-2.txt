@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00146-021-01176-2
+UR  - http://dx.doi.org/10.1007/s00146-021-01176-2
+TI  - “Magic through many minor measures”: How introducing a flowline production mode in six steps enables journalist team autonomy in local news organizations
+T2  - AI &amp; SOCIETY
+AU  - Hagen, Aina Landsverk
+AU  - Tolstad, Ingrid M.
+AU  - Bygdås, Arne Lindseth
+PY  - 2021
+DA  - 2021/04/19
+PB  - Springer Science and Business Media LLC
+SP  - 745-759
+IS  - 2
+VL  - 37
+SN  - 0951-5666
+SN  - 1435-5655
+ER  - 

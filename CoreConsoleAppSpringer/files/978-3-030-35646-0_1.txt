@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-35646-0_1
+UR  - http://dx.doi.org/10.1007/978-3-030-35646-0_1
+TI  - Designing an Ontology for Semantic Integration of Various Conceptual Models
+T2  - Lecture Notes in Business Information Processing
+AU  - Suchánek, Marek
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 3-17
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030356453
+SN  - 9783030356460
+ER  - 

@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-54045-0_13
+UR  - http://dx.doi.org/10.1007/978-3-319-54045-0_13
+TI  - Using Tags to Support Feature Management Across Issue Tracking Systems and Version Control Systems
+T2  - Requirements Engineering: Foundation for Software Quality
+AU  - Seiler, Marcus
+AU  - Paech, Barbara
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 174-180
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319540443
+SN  - 9783319540450
+ER  - 

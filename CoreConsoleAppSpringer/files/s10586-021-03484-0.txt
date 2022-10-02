@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10586-021-03484-0
+UR  - http://dx.doi.org/10.1007/s10586-021-03484-0
+TI  - Framework for prediction and classification of non functional requirements: a novel vision
+T2  - Cluster Computing
+AU  - Handa, Naina
+AU  - Sharma, Anil
+AU  - Gupta, Amardeep
+PY  - 2022
+DA  - 2022/01/08
+PB  - Springer Science and Business Media LLC
+SP  - 1155-1173
+IS  - 2
+VL  - 25
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

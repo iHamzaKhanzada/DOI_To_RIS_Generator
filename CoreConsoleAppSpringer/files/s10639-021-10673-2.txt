@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s10639-021-10673-2
+UR  - http://dx.doi.org/10.1007/s10639-021-10673-2
+TI  - The progress of 21st-century skills throughout instructional design projects: a quasi-experimental comparison of rapid prototyping and dick and carey models
+T2  - Education and Information Technologies
+AU  - Toker, Sacip
+PY  - 2021
+DA  - 2021/08/06
+PB  - Springer Science and Business Media LLC
+SP  - 1959-1992
+IS  - 2
+VL  - 27
+SN  - 1360-2357
+SN  - 1573-7608
+ER  - 

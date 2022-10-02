@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11023-020-09529-4
+UR  - http://dx.doi.org/10.1007/s11023-020-09529-4
+TI  - Algorithmic Fairness in Mortgage Lending: from Absolute Conditions to Relational Trade-offs
+T2  - Minds and Machines
+AU  - Lee, Michelle Seng Ah
+AU  - Floridi, Luciano
+PY  - 2020
+DA  - 2020/06/09
+PB  - Springer Science and Business Media LLC
+SP  - 165-191
+IS  - 1
+VL  - 31
+SN  - 0924-6495
+SN  - 1572-8641
+ER  - 

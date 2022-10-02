@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-74196-9_1
+UR  - http://dx.doi.org/10.1007/978-3-030-74196-9_1
+TI  - Radical Digitalization: Challenges and Opportunities for Enterprise Modeling
+T2  - Advances in Enterprise Engineering XIV
+AU  - Sandkuhl, Kurt
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 3-21
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030741952
+SN  - 9783030741969
+ER  - 

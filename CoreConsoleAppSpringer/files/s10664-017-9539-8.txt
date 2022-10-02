@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10664-017-9539-8
+UR  - http://dx.doi.org/10.1007/s10664-017-9539-8
+TI  - A multi-view context-aware approach to Android malware detection and malicious code localization
+T2  - Empirical Software Engineering
+AU  - Narayanan, Annamalai
+AU  - Chandramohan, Mahinthan
+AU  - Chen, Lihui
+AU  - Liu, Yang
+PY  - 2017
+DA  - 2017/08/30
+PB  - Springer Science and Business Media LLC
+SP  - 1222-1274
+IS  - 3
+VL  - 23
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

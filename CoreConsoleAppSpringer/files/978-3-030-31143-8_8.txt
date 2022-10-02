@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-31143-8_8
+UR  - http://dx.doi.org/10.1007/978-3-030-31143-8_8
+TI  - Data Mining Methodologies in the Banking Domain: A Systematic Literature Review
+T2  - Lecture Notes in Business Information Processing
+AU  - Plotnikova, Veronika
+AU  - Dumas, Marlon
+AU  - Milani, Fredrik P.
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 104-118
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030311421
+SN  - 9783030311438
+ER  - 

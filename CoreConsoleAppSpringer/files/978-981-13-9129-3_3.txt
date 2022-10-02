@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-13-9129-3_3
+UR  - http://dx.doi.org/10.1007/978-981-13-9129-3_3
+TI  - Six-State Continuous Processing Model for a New Theory of Computing
+T2  - Communications in Computer and Information Science
+AU  - Weerakoon, Chinthanie
+AU  - Karunananda, Asoka
+AU  - Dias, Naomal
+PY  - 2019
+PB  - Springer Singapore
+SP  - 32-48
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811391286
+SN  - 9789811391293
+ER  - 

@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-13-7561-3_16
+UR  - http://dx.doi.org/10.1007/978-981-13-7561-3_16
+TI  - APPLADroid: Automaton Based Inter-app Privacy Leak Analysis for Android
+T2  - Communications in Computer and Information Science
+AU  - Jain, Vineeta
+AU  - Laxmi, Vijay
+AU  - Gaur, Manoj Singh
+AU  - Mosbah, Mohamed
+PY  - 2019
+PB  - Springer Singapore
+SP  - 219-233
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811375606
+SN  - 9789811375613
+ER  - 

@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-77967-2_60
+UR  - http://dx.doi.org/10.1007/978-3-030-77967-2_60
+TI  - Fuzzy Ontology for Patient Emergency Department Triage
+T2  - Computational Science – ICCS 2021
+AU  - Fakhfakh, Khouloud
+AU  - Othman, Sarah Ben
+AU  - Jourdan, Laetitia
+AU  - Smith, Grégoire
+AU  - Renard, Jean Marie
+AU  - Hammadi, Slim
+AU  - Zgaya-Biau, Hayfa
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 719-734
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030779665
+SN  - 9783030779672
+ER  - 

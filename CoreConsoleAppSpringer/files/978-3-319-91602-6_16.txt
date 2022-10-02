@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-91602-6_16
+UR  - http://dx.doi.org/10.1007/978-3-319-91602-6_16
+TI  - Supporting Large-Scale Agile Development with Domain-Driven Design
+T2  - Lecture Notes in Business Information Processing
+AU  - Uludağ, Ömer
+AU  - Hauder, Matheus
+AU  - Kleehaus, Martin
+AU  - Schimpfle, Christina
+AU  - Matthes, Florian
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 232-247
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783319916019
+SN  - 9783319916026
+ER  - 

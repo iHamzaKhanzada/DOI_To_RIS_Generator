@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11219-021-09570-1
+UR  - http://dx.doi.org/10.1007/s11219-021-09570-1
+TI  - Automatically generating taxonomy for grouping app reviews — a study of three apps
+T2  - Software Quality Journal
+AU  - Malgaonkar, Saurabh
+AU  - Licorish, Sherlock A.
+AU  - Savarimuthu, Bastin Tony Roy
+PY  - 2021
+DA  - 2021/10/29
+PB  - Springer Science and Business Media LLC
+SP  - 483-512
+IS  - 2
+VL  - 30
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

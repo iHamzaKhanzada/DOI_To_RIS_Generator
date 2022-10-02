@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s10664-022-10204-8
+UR  - http://dx.doi.org/10.1007/s10664-022-10204-8
+TI  - Developing research questions in conversation with the literature: operationalization &amp; tool support
+T2  - Empirical Software Engineering
+AU  - Díaz, Oscar
+AU  - Contell, Jeremías P.
+PY  - 2022
+DA  - 2022/09/20
+PB  - Springer Science and Business Media LLC
+IS  - 7
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

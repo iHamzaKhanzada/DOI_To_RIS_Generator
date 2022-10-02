@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10472-018-9586-x
+UR  - http://dx.doi.org/10.1007/s10472-018-9586-x
+TI  - Applying robotic frameworks in a simulated multi-agent contest
+T2  - Annals of Mathematics and Artificial Intelligence
+AU  - Hrabia, Christopher-Eyk
+AU  - Lehmann, Patrick Marvin
+AU  - Battjbuer, Nabil
+AU  - Hessler, Axel
+AU  - Albayrak, Sahin
+PY  - 2018
+DA  - 2018/05/07
+PB  - Springer Science and Business Media LLC
+SP  - 117-138
+IS  - 1-2
+VL  - 84
+SN  - 1012-2443
+SN  - 1573-7470
+ER  - 

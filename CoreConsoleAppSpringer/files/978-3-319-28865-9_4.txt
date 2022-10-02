@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-28865-9_4
+UR  - http://dx.doi.org/10.1007/978-3-319-28865-9_4
+TI  - Using Provenance Patterns to Vet Sensitive Behaviors in Android Apps
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Yang, Chao
+AU  - Yang, Guangliang
+AU  - Gehani, Ashish
+AU  - Yegneswaran, Vinod
+AU  - Tariq, Dawood
+AU  - Gu, Guofei
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 58-77
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319288642
+SN  - 9783319288659
+ER  - 

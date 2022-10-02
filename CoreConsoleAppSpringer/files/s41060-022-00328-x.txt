@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1007/s41060-022-00328-x
+UR  - http://dx.doi.org/10.1007/s41060-022-00328-x
+TI  - Urban fire station location planning using predicted demand and service quality index
+T2  - International Journal of Data Science and Analytics
+AU  - Dey, Arnab
+AU  - Heger, Andrew
+AU  - England, Darin
+PY  - 2022
+DA  - 2022/05/14
+PB  - Springer Science and Business Media LLC
+SN  - 2364-415X
+SN  - 2364-4168
+ER  - 

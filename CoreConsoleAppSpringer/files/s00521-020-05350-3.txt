@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00521-020-05350-3
+UR  - http://dx.doi.org/10.1007/s00521-020-05350-3
+TI  - Risk evaluation in failure modes and effects analysis: hybrid TOPSIS and ELECTRE I solutions with Pythagorean fuzzy information
+T2  - Neural Computing and Applications
+AU  - Akram, Muhammad
+AU  - Luqman, Anam
+AU  - Alcantud, Jose Carlos R.
+PY  - 2020
+DA  - 2020/09/23
+PB  - Springer Science and Business Media LLC
+SP  - 5675-5703
+IS  - 11
+VL  - 33
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-97027-7_4
+UR  - http://dx.doi.org/10.1007/978-3-030-97027-7_4
+TI  - Standard Energy Renovation at the Urban Scale in the Moroccan Context
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Echlouchi, Khalid
+AU  - Ouardouz, Mustapha
+AU  - Bernoussi, Abdes-samed
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 53-72
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030970260
+SN  - 9783030970277
+ER  - 

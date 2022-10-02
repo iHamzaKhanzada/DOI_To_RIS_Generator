@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10664-022-10127-4
+UR  - http://dx.doi.org/10.1007/s10664-022-10127-4
+TI  - On the preferences of quality indicators for multi-objective search algorithms in search-based software engineering
+T2  - Empirical Software Engineering
+AU  - Wu, Jiahui
+AU  - Arcaini, Paolo
+AU  - Yue, Tao
+AU  - Ali, Shaukat
+AU  - Zhang, Huihui
+PY  - 2022
+DA  - 2022/08/06
+PB  - Springer Science and Business Media LLC
+IS  - 6
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

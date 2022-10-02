@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10586-016-0703-5
+UR  - http://dx.doi.org/10.1007/s10586-016-0703-5
+TI  - DroidWard: An Effective Dynamic Analysis Method for Vetting Android Applications
+T2  - Cluster Computing
+AU  - Yang, Yubin
+AU  - Wei, Zongtao
+AU  - Xu, Yong
+AU  - He, Haiwu
+AU  - Wang, Wei
+PY  - 2016
+DA  - 2016/12/28
+PB  - Springer Science and Business Media LLC
+SP  - 265-275
+IS  - 1
+VL  - 21
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

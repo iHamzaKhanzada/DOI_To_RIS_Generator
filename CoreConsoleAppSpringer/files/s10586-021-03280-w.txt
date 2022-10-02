@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10586-021-03280-w
+UR  - http://dx.doi.org/10.1007/s10586-021-03280-w
+TI  - PLB: a resilient and adaptive task scheduling scheme based on multi-queues for cloud environment
+T2  - Cluster Computing
+AU  - Sharma, Gaurav
+AU  - Miglani, Neha
+AU  - Kumar, Ajay
+PY  - 2021
+DA  - 2021/04/22
+PB  - Springer Science and Business Media LLC
+SP  - 2615-2637
+IS  - 3
+VL  - 24
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

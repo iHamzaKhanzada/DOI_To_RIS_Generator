@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10515-022-00344-y
+UR  - http://dx.doi.org/10.1007/s10515-022-00344-y
+TI  - Test case prioritization using test case diversification and fault-proneness estimations
+T2  - Automated Software Engineering
+AU  - Mahdieh, Mostafa
+AU  - Mirian-Hosseinabadi, Seyed-Hassan
+AU  - Mahdieh, Mohsen
+PY  - 2022
+DA  - 2022/08/01
+PB  - Springer Science and Business Media LLC
+IS  - 2
+VL  - 29
+SN  - 0928-8910
+SN  - 1573-7535
+ER  - 

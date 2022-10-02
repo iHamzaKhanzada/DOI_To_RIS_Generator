@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s41870-020-00502-z
+UR  - http://dx.doi.org/10.1007/s41870-020-00502-z
+TI  - Revisiting enterprise resource planning (ERP) risk factors over the past two decades: defining parameters and providing comprehensive classification
+T2  - International Journal of Information Technology
+AU  - Zendehdel Nobari, Babak
+AU  - Azar, Adel
+AU  - Kazerooni, Mehrdad
+AU  - Yang, Pianpian
+PY  - 2020
+DA  - 2020/08/05
+PB  - Springer Science and Business Media LLC
+SP  - 899-914
+IS  - 2
+VL  - 14
+SN  - 2511-2104
+SN  - 2511-2112
+ER  - 

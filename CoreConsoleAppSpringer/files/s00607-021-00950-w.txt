@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s00607-021-00950-w
+UR  - http://dx.doi.org/10.1007/s00607-021-00950-w
+TI  - A novel rough value set categorical clustering technique for supplier base management
+T2  - Computing
+AU  - Uddin, Jamal
+AU  - Ghazali, Rozaida
+AU  - Deris, Mustafa Mat
+AU  - Iqbal, Umer
+AU  - Shoukat, Ijaz Ali
+PY  - 2021
+DA  - 2021/04/29
+PB  - Springer Science and Business Media LLC
+SP  - 2061-2091
+IS  - 9
+VL  - 103
+SN  - 0010-485X
+SN  - 1436-5057
+ER  - 

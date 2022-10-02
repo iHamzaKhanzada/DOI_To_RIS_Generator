@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s10664-020-09869-w
+UR  - http://dx.doi.org/10.1007/s10664-020-09869-w
+TI  - Evaluating the agreement among technical debt measurement tools: building an empirical benchmark of technical debt liabilities
+T2  - Empirical Software Engineering
+AU  - Amanatidis, Theodoros
+AU  - Mittas, Nikolaos
+AU  - Moschou, Athanasia
+AU  - Chatzigeorgiou, Alexander
+AU  - Ampatzoglou, Apostolos
+AU  - Angelis, Lefteris
+PY  - 2020
+DA  - 2020/08/26
+PB  - Springer Science and Business Media LLC
+SP  - 4161-4204
+IS  - 5
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

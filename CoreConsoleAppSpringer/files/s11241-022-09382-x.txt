@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11241-022-09382-x
+UR  - http://dx.doi.org/10.1007/s11241-022-09382-x
+TI  - Profile-driven memory bandwidth management for accelerators and CPUs in QoS-enabled platforms
+T2  - Real-Time Systems
+AU  - Sohal, Parul
+AU  - Tabish, Rohan
+AU  - Drepper, Ulrich
+AU  - Mancuso, Renato
+PY  - 2022
+DA  - 2022/04/26
+PB  - Springer Science and Business Media LLC
+SP  - 235-274
+IS  - 3
+VL  - 58
+SN  - 0922-6443
+SN  - 1573-1383
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10586-017-1664-z
+UR  - http://dx.doi.org/10.1007/s10586-017-1664-z
+TI  - Flexible and reliable ERP project customization framework to improve user satisfaction level
+T2  - Cluster Computing
+AU  - Ibrahim, S. Hameed
+AU  - Duraisamy, S.
+AU  - Sridevi, U. K.
+PY  - 2018
+DA  - 2018/01/18
+PB  - Springer Science and Business Media LLC
+SP  - 2889-2895
+IS  - S2
+VL  - 22
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

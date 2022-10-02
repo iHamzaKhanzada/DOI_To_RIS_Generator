@@ -1,0 +1,13 @@
+TY  - JOUR
+DO  - 10.1007/s10489-021-03079-7
+UR  - http://dx.doi.org/10.1007/s10489-021-03079-7
+TI  - An optimized evacuation model with compatibility constraints in the context of disability: an ancient-inspired Giza Pyramids Construction metaheuristic approach
+T2  - Applied Intelligence
+AU  - Ebrahimnejad, Sadoullah
+AU  - Harifi, Sasan
+PY  - 2022
+DA  - 2022/03/10
+PB  - Springer Science and Business Media LLC
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 

@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-14844-6_16
+UR  - http://dx.doi.org/10.1007/978-3-031-14844-6_16
+TI  - Designing Smart Products for Industry 4.0 – An Information Systems Architecture Prototype
+T2  - Collaborative Networks in Digitalization and Society 5.0
+AU  - Schuh, Günther
+AU  - Stroh, Max-Ferdinand
+AU  - Krüger, Paul
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 194-205
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783031148439
+SN  - 9783031148446
+ER  - 

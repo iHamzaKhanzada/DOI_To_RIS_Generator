@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-35653-8_2
+UR  - http://dx.doi.org/10.1007/978-3-030-35653-8_2
+TI  - A New Test Suite Reduction Approach Based on Hypergraph Minimal Transversal Mining
+T2  - Future Data and Security Engineering
+AU  - Trabelsi, Shaima
+AU  - Bennani, Mohamed Taha
+AU  - Yahia, Sadok Ben
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 15-30
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030356521
+SN  - 9783030356538
+ER  - 

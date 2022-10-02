@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1186/s13173-021-00121-x
+UR  - http://dx.doi.org/10.1186/s13173-021-00121-x
+TI  - Discussing human values in digital immortality: towards a value-oriented perspective
+T2  - Journal of the Brazilian Computer Society
+AU  - Galvão, Vinícius Ferreira
+AU  - Maciel, Cristiano
+AU  - Pereira, Roberto
+AU  - Gasparini, Isabela
+AU  - Viterbo, José
+AU  - Bicharra Garcia, Ana Cristina
+PY  - 2021
+DA  - 2021/11/26
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 27
+SN  - 0104-6500
+SN  - 1678-4804
+ER  - 

@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-662-47401-3_5
+UR  - http://dx.doi.org/10.1007/978-3-662-47401-3_5
+TI  - RayDroid: A Framework for Discovering Anomaly in Android
+T2  - Trustworthy Computing and Services
+AU  - Yang, Fan
+AU  - Li, Yue
+AU  - Zhai, Lidong
+PY  - 2015
+PB  - Springer Berlin Heidelberg
+SP  - 33-40
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783662474006
+SN  - 9783662474013
+ER  - 

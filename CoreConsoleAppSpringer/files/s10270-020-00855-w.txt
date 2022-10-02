@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10270-020-00855-w
+UR  - http://dx.doi.org/10.1007/s10270-020-00855-w
+TI  - Model-driven development platform selection: four industry case studies
+T2  - Software and Systems Modeling
+AU  - Farshidi, Siamak
+AU  - Jansen, Slinger
+AU  - Fortuin, Sven
+PY  - 2021
+DA  - 2021/01/15
+PB  - Springer Science and Business Media LLC
+SP  - 1525-1551
+IS  - 5
+VL  - 20
+SN  - 1619-1366
+SN  - 1619-1374
+ER  - 

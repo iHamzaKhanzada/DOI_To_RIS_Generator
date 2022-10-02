@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10791-020-09381-1
+UR  - http://dx.doi.org/10.1007/s10791-020-09381-1
+TI  - A comparison of automatic Boolean query formulation for systematic reviews
+T2  - Information Retrieval Journal
+AU  - Scells, Harrisen
+AU  - Zuccon, Guido
+AU  - Koopman, Bevan
+PY  - 2020
+DA  - 2020/10/27
+PB  - Springer Science and Business Media LLC
+SP  - 3-28
+IS  - 1
+VL  - 24
+SN  - 1386-4564
+SN  - 1573-7659
+ER  - 

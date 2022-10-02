@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11227-019-02837-2
+UR  - http://dx.doi.org/10.1007/s11227-019-02837-2
+TI  - QoS-enabled TCP for software-defined networks: a combined scheduler-per-node approach
+T2  - The Journal of Supercomputing
+AU  - Darmani, Yousef
+AU  - Sangelaji, Mehrdad
+PY  - 2019
+DA  - 2019/04/10
+PB  - Springer Science and Business Media LLC
+SP  - 6260-6276
+IS  - 10
+VL  - 75
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

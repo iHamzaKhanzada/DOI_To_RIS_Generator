@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-10-2738-3_40
+UR  - http://dx.doi.org/10.1007/978-981-10-2738-3_40
+TI  - Vulnebdroid: Automated Vulnerability Score Calculator for Android Applications
+T2  - Communications in Computer and Information Science
+AU  - Gupta, Sugandha
+AU  - Kaushal, Rishabh
+PY  - 2016
+PB  - Springer Singapore
+SP  - 461-471
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811027376
+SN  - 9789811027383
+ER  - 

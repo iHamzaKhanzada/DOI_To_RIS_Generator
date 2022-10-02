@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11219-019-09462-5
+UR  - http://dx.doi.org/10.1007/s11219-019-09462-5
+TI  - The skills that employers look for in software testers
+T2  - Software Quality Journal
+AU  - Florea, Raluca
+AU  - Stray, Viktoria
+PY  - 2019
+DA  - 2019/08/28
+PB  - Springer Science and Business Media LLC
+SP  - 1449-1479
+IS  - 4
+VL  - 27
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11227-022-04426-2
+UR  - http://dx.doi.org/10.1007/s11227-022-04426-2
+TI  - RADL: a resource and deadline-aware dynamic load-balancer for cloud tasks
+T2  - The Journal of Supercomputing
+AU  - Nabi, Said
+AU  - Aleem, Muhammad
+AU  - Ahmed, Masroor
+AU  - Islam, Muhammad Arshad
+AU  - Iqbal, Muhammad Azhar
+PY  - 2022
+DA  - 2022/03/31
+PB  - Springer Science and Business Media LLC
+SP  - 14231-14265
+IS  - 12
+VL  - 78
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10472-019-09663-5
+UR  - http://dx.doi.org/10.1007/s10472-019-09663-5
+TI  - Revising event calculus theories to recover from unexpected observations
+T2  - Annals of Mathematics and Artificial Intelligence
+AU  - Tsampanaki, Nikoleta
+AU  - Patkos, Theodore
+AU  - Flouris, Giorgos
+AU  - Plexousakis, Dimitris
+PY  - 2019
+DA  - 2019/08/09
+PB  - Springer Science and Business Media LLC
+SP  - 209-236
+IS  - 1-2
+VL  - 89
+SN  - 1012-2443
+SN  - 1573-7470
+ER  - 

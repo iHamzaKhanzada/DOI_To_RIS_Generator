@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-15559-8_35
+UR  - http://dx.doi.org/10.1007/978-3-031-15559-8_35
+TI  - Exploring Aspects of Agile Software Development Risk – Results from a MLR
+T2  - Communications in Computer and Information Science
+AU  - Nolan, Aaron
+AU  - Strickland, Ben
+AU  - Quinn, Adam
+AU  - Gallagher, Kyle
+AU  - Yilmaz, Murat
+AU  - Clarke, Paul M.
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 486-502
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783031155581
+SN  - 9783031155598
+ER  - 

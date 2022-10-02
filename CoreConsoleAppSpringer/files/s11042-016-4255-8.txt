@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11042-016-4255-8
+UR  - http://dx.doi.org/10.1007/s11042-016-4255-8
+TI  - Adaptive streaming of complex Web 3D scenes based on the MPEG-DASH standard
+T2  - Multimedia Tools and Applications
+AU  - Zampoglou, Markos
+AU  - Kapetanakis, Kostas
+AU  - Stamoulias, Andreas
+AU  - Malamos, Athanasios G.
+AU  - Panagiotakis, Spyros
+PY  - 2016
+DA  - 2016/12/16
+PB  - Springer Science and Business Media LLC
+SP  - 125-148
+IS  - 1
+VL  - 77
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

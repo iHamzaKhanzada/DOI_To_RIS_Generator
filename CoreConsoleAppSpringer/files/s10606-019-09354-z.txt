@@ -1,0 +1,22 @@
+TY  - JOUR
+DO  - 10.1007/s10606-019-09354-z
+UR  - http://dx.doi.org/10.1007/s10606-019-09354-z
+TI  - Three Gaps in Opening Science
+T2  - Computer Supported Cooperative Work (CSCW)
+AU  - Mosconi, Gaia
+AU  - Li, Qinyu
+AU  - Randall, Dave
+AU  - Karasti, Helena
+AU  - Tolmie, Peter
+AU  - Barutzky, Jana
+AU  - Korn, Matthias
+AU  - Pipek, Volkmar
+PY  - 2019
+DA  - 2019/05/29
+PB  - Springer Science and Business Media LLC
+SP  - 749-789
+IS  - 3-4
+VL  - 28
+SN  - 0925-9724
+SN  - 1573-7551
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s41870-018-0264-3
+UR  - http://dx.doi.org/10.1007/s41870-018-0264-3
+TI  - Assessment tool for e-services take-up (ATEST): a small Island states context
+T2  - International Journal of Information Technology
+AU  - Betchoo, Hemchandra
+AU  - Halkhoree, Roshan
+AU  - Santally, Mohammad Issack
+AU  - Sungkur, Roopesh Kevin
+PY  - 2018
+DA  - 2018/12/11
+PB  - Springer Science and Business Media LLC
+SP  - 187-201
+IS  - 2
+VL  - 11
+SN  - 2511-2104
+SN  - 2511-2112
+ER  - 

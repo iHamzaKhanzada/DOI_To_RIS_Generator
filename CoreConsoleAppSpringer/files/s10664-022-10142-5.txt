@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10664-022-10142-5
+UR  - http://dx.doi.org/10.1007/s10664-022-10142-5
+TI  - Handling uncertainty in SBSE: a possibilistic evolutionary approach for code smells detection
+T2  - Empirical Software Engineering
+AU  - Boutaib, Sofien
+AU  - Elarbi, Maha
+AU  - Bechikh, Slim
+AU  - Palomba, Fabio
+AU  - Said, Lamjed Ben
+PY  - 2022
+DA  - 2022/06/24
+PB  - Springer Science and Business Media LLC
+IS  - 6
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s11390-021-1596-1
+UR  - http://dx.doi.org/10.1007/s11390-021-1596-1
+TI  - Community Smell Occurrence Prediction on Multi-Granularity by Developer-Oriented Features and Process Metrics
+T2  - Journal of Computer Science and Technology
+AU  - Huang, Zi-Jie
+AU  - Shao, Zhi-Qing
+AU  - Fan, Gui-Sheng
+AU  - Yu, Hui-Qun
+AU  - Yang, Xing-Guang
+AU  - Yang, Kang
+PY  - 2022
+DA  - 2022/01/31
+PB  - Springer Science and Business Media LLC
+SP  - 182-206
+IS  - 1
+VL  - 37
+SN  - 1000-9000
+SN  - 1860-4749
+ER  - 

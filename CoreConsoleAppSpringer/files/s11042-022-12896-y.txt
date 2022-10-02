@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11042-022-12896-y
+UR  - http://dx.doi.org/10.1007/s11042-022-12896-y
+TI  - A novel cross-layer based priority aware scheduling scheme for QoE guaranteed video transmission over wireless networks
+T2  - Multimedia Tools and Applications
+AU  - Babu, M. Muni
+AU  - Reddy, P. Chenna
+AU  - Sam, R. Praveen
+PY  - 2022
+DA  - 2022/03/29
+PB  - Springer Science and Business Media LLC
+SP  - 28129-28164
+IS  - 20
+VL  - 81
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

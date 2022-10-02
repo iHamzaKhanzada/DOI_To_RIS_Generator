@@ -1,0 +1,3828 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09715-8
+UR  - http://dx.doi.org/10.1007/s10664-019-09715-8
+TI  - DroidLeaks: a comprehensive database of resource leaks in Android apps
+T2  - Empirical Software Engineering
+AU  - Liu, Yepang
+AU  - Wang, Jue
+AU  - Wei, Lili
+AU  - Xu, Chang
+AU  - Cheung, Shing-Chi
+AU  - Wu, Tianyong
+AU  - Yan, Jun
+AU  - Zhang, Jian
+PY  - 2019
+DA  - 2019/05/16
+PB  - Springer Science and Business Media LLC
+SP  - 3435-3483
+IS  - 6
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-68690-5_12
+UR  - http://dx.doi.org/10.1007/978-3-319-68690-5_12
+TI  - Detecting Energy Bugs in Android Apps Using Static Analysis
+T2  - Formal Methods and Software Engineering
+AU  - Jiang, Hao
+AU  - Yang, Hongli
+AU  - Qin, Shengchao
+AU  - Su, Zhendong
+AU  - Zhang, Jian
+AU  - Yan, Jun
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 192-208
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319686899
+SN  - 9783319686905
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11704-021-0532-4
+UR  - http://dx.doi.org/10.1007/s11704-021-0532-4
+TI  - Energy inefficiency diagnosis for Android applications: a literature review
+T2  - Frontiers of Computer Science
+AU  - Sun, Yuxia
+AU  - Fang, Jiefeng
+AU  - Chen, Yanjia
+AU  - Liu, Yepang
+AU  - Chen, Zhao
+AU  - Guo, Song
+AU  - Chen, Xinkai
+AU  - Tan, Ziyuan
+PY  - 2022
+DA  - 2022/08/08
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 17
+SN  - 2095-2228
+SN  - 2095-2236
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-52015-5_18
+UR  - http://dx.doi.org/10.1007/978-3-319-52015-5_18
+TI  - Bug Analysis of Android Applications Based on JPF
+T2  - Lecture Notes in Computer Science
+AU  - Wu, Libin
+AU  - Lu, Yahui
+AU  - Qi, Jing
+AU  - Cai, Shubin
+AU  - Deng, Bo
+AU  - Ming, Zhong
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 173-182
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319520148
+SN  - 9783319520155
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11704-018-7008-1
+UR  - http://dx.doi.org/10.1007/s11704-018-7008-1
+TI  - Analyses for specific defects in android applications: a survey
+T2  - Frontiers of Computer Science
+AU  - Wu, Tianyong
+AU  - Deng, Xi
+AU  - Yan, Jun
+AU  - Zhang, Jian
+PY  - 2019
+DA  - 2019/07/16
+PB  - Springer Science and Business Media LLC
+SP  - 1210-1227
+IS  - 6
+VL  - 13
+SN  - 2095-2228
+SN  - 2095-2236
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-1-4842-8026-3
+UR  - http://dx.doi.org/10.1007/978-1-4842-8026-3
+TI  - Practical Forensic Analysis of Artifacts on iOS and Android Devices
+AU  - Moreb, Mohammed
+PY  - 2022
+PB  - Apress
+SN  - 9781484280256
+SN  - 9781484280263
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-69970-3_7
+UR  - http://dx.doi.org/10.1007/978-3-030-69970-3_7
+TI  - Tool Support for Green Android Development
+T2  - Software Sustainability
+AU  - Anwar, Hina
+AU  - Fatima, Iffat
+AU  - Pfahl, Dietmar
+AU  - Qamar, Usman
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 153-182
+SN  - 9783030699697
+SN  - 9783030699703
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11219-019-09484-z
+UR  - http://dx.doi.org/10.1007/s11219-019-09484-z
+TI  - Sentinel: generating GUI tests for sensor leaks in Android and Android wear apps
+T2  - Software Quality Journal
+AU  - Wu, Haowei
+AU  - Zhang, Hailong
+AU  - Wang, Yan
+AU  - Rountev, Atanas
+PY  - 2019
+DA  - 2019/12/12
+PB  - Springer Science and Business Media LLC
+SP  - 335-367
+IS  - 1
+VL  - 28
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-019-09798-3
+UR  - http://dx.doi.org/10.1007/s10664-019-09798-3
+TI  - Characterizing the evolution of statically-detectable performance issues of Android apps
+T2  - Empirical Software Engineering
+AU  - Das, Teerath
+AU  - Di Penta, Massimiliano
+AU  - Malavolta, Ivano
+PY  - 2020
+DA  - 2020/05/04
+PB  - Springer Science and Business Media LLC
+SP  - 2748-2808
+IS  - 4
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-87459-9
+UR  - http://dx.doi.org/10.1007/978-3-030-87459-9
+TI  - Android for Java Programmers
+AU  - Mawlood-Yunis, Abdul-Rahman
+PY  - 2022
+PB  - Springer International Publishing
+SN  - 9783030874582
+SN  - 9783030874599
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11432-017-9400-y
+UR  - http://dx.doi.org/10.1007/s11432-017-9400-y
+TI  - NavyDroid: an efficient tool of energy inefficiency problem diagnosis for Android applications
+T2  - Science China Information Sciences
+AU  - Liu, Yi
+AU  - Wang, Jue
+AU  - Xu, Chang
+AU  - Ma, Xiaoxing
+AU  - Lü, Jian
+PY  - 2018
+DA  - 2018/04/20
+PB  - Springer Science and Business Media LLC
+IS  - 5
+VL  - 61
+SN  - 1674-733X
+SN  - 1869-1919
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-44215-0_1
+UR  - http://dx.doi.org/10.1007/978-3-319-44215-0_1
+TI  - An Android Kernel Extension to Save Energy Resources Without Impacting User Experience
+T2  - Mobile Web and Intelligent Information Systems
+AU  - Corral, Luis
+AU  - Fronza, Ilenia
+AU  - El Ioini, Nabil
+AU  - Janes, Andrea
+AU  - Plant, Peter
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 3-17
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319442143
+SN  - 9783319442150
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11390-016-1670-2
+UR  - http://dx.doi.org/10.1007/s11390-016-1670-2
+TI  - Prioritizing Test Cases for Memory Leaks in Android Applications
+T2  - Journal of Computer Science and Technology
+AU  - Qian, Ju
+AU  - Zhou, Di
+PY  - 2016
+DA  - 2016/09
+PB  - Springer Science and Business Media LLC
+SP  - 869-882
+IS  - 5
+VL  - 31
+SN  - 1000-9000
+SN  - 1860-4749
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-017-9545-x
+UR  - http://dx.doi.org/10.1007/s10664-017-9545-x
+TI  - An exploratory study on assessing the energy impact of logging on Android applications
+T2  - Empirical Software Engineering
+AU  - Chowdhury, Shaiful
+AU  - Di Nardo, Silvia
+AU  - Hindle, Abram
+AU  - Jiang, Zhen Ming
+PY  - 2017
+DA  - 2017/09/21
+PB  - Springer Science and Business Media LLC
+SP  - 1422-1456
+IS  - 3
+VL  - 23
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11219-017-9374-6
+UR  - http://dx.doi.org/10.1007/s11219-017-9374-6
+TI  - System-level attacks against android by exploiting asynchronous programming
+T2  - Software Quality Journal
+AU  - Chen, Ting
+AU  - Li, Xiaoqi
+AU  - Luo, Xiapu
+AU  - Zhang, Xiaosong
+PY  - 2017
+DA  - 2017/05/31
+PB  - Springer Science and Business Media LLC
+SP  - 1037-1062
+IS  - 3
+VL  - 26
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10515-022-00347-9
+UR  - http://dx.doi.org/10.1007/s10515-022-00347-9
+TI  - AppSPIN: reconfiguration-based responsiveness testing and diagnosing for Android Apps
+T2  - Automated Software Engineering
+AU  - Lei, Zhanyao
+AU  - Zhao, Wenhua
+AU  - Ding, Zhenkai
+AU  - Xia, Mingyuan
+AU  - Qi, Zhengwei
+PY  - 2022
+DA  - 2022/07/05
+PB  - Springer Science and Business Media LLC
+IS  - 2
+VL  - 29
+SN  - 0928-8910
+SN  - 1573-7535
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-1-4842-6646-5
+UR  - http://dx.doi.org/10.1007/978-1-4842-6646-5
+TI  - Android for Absolute Beginners
+AU  - Allen, Grant
+PY  - 2021
+PB  - Apress
+SN  - 9781484266458
+SN  - 9781484266465
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-45719-2_21
+UR  - http://dx.doi.org/10.1007/978-3-319-45719-2_21
+TI  - Blender: Self-randomizing Address Space Layout for Android Apps
+T2  - Research in Attacks, Intrusions, and Defenses
+AU  - Sun, Mingshen
+AU  - Lui, John C. S.
+AU  - Zhou, Yajin
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 457-480
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319457185
+SN  - 9783319457192
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-021-10020-6
+UR  - http://dx.doi.org/10.1007/s10664-021-10020-6
+TI  - Studying eventual connectivity issues in Android apps
+T2  - Empirical Software Engineering
+AU  - Escobar-Velásquez, Camilo
+AU  - Mazuera-Rozo, Alejandro
+AU  - Bedoya, Claudia
+AU  - Osorio-Riaño, Michael
+AU  - Linares-Vásquez, Mario
+AU  - Bavota, Gabriele
+PY  - 2021
+DA  - 2021/11/27
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10515-021-00290-1
+UR  - http://dx.doi.org/10.1007/s10515-021-00290-1
+TI  - ANCHOR: locating android framework-specific crashing faults
+T2  - Automated Software Engineering
+AU  - Kong, Pingfan
+AU  - Li, Li
+AU  - Gao, Jun
+AU  - Riom, Timothée
+AU  - Zhao, Yanjie
+AU  - Bissyandé, Tegawendé F.
+AU  - Klein, Jacques
+PY  - 2021
+DA  - 2021/07/12
+PB  - Springer Science and Business Media LLC
+IS  - 2
+VL  - 28
+SN  - 0928-8910
+SN  - 1573-7535
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-019-09689-7
+UR  - http://dx.doi.org/10.1007/s10664-019-09689-7
+TI  - The Android OS stack and its vulnerabilities: an empirical study
+T2  - Empirical Software Engineering
+AU  - Mazuera-Rozo, Alejandro
+AU  - Bautista-Mora, Jairo
+AU  - Linares-Vásquez, Mario
+AU  - Rueda, Sandra
+AU  - Bavota, Gabriele
+PY  - 2019
+DA  - 2019/02/20
+PB  - Springer Science and Business Media LLC
+SP  - 2056-2101
+IS  - 4
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-981-13-7561-3_16
+UR  - http://dx.doi.org/10.1007/978-981-13-7561-3_16
+TI  - APPLADroid: Automaton Based Inter-app Privacy Leak Analysis for Android
+T2  - Communications in Computer and Information Science
+AU  - Jain, Vineeta
+AU  - Laxmi, Vijay
+AU  - Gaur, Manoj Singh
+AU  - Mosbah, Mohamed
+PY  - 2019
+PB  - Springer Singapore
+SP  - 219-233
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811375606
+SN  - 9789811375613
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-022-10137-2
+UR  - http://dx.doi.org/10.1007/s10664-022-10137-2
+TI  - How do Android developers improve non-functional properties of software?
+T2  - Empirical Software Engineering
+AU  - Callan, James
+AU  - Krauss, Oliver
+AU  - Petke, Justyna
+AU  - Sarro, Federica
+PY  - 2022
+DA  - 2022/05/30
+PB  - Springer Science and Business Media LLC
+IS  - 5
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-49145-5_10
+UR  - http://dx.doi.org/10.1007/978-3-319-49145-5_10
+TI  - CapaDroid: Detecting Capability Leak for Android Applications
+T2  - Lecture Notes in Computer Science
+AU  - Wu, Tianjun
+AU  - Yang, Yuexiang
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 95-104
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319491448
+SN  - 9783319491455
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-94496-8_9
+UR  - http://dx.doi.org/10.1007/978-3-319-94496-8_9
+TI  - Idea: Benchmarking Android Data Leak Detection Tools
+T2  - Lecture Notes in Computer Science
+AU  - Corrodi, Claudio
+AU  - Spring, Timo
+AU  - Ghafari, Mohammad
+AU  - Nierstrasz, Oscar
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 116-123
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319944951
+SN  - 9783319944968
+ER  - 
+
+TY  - JOUR
+DO  - 10.1186/s13673-018-0144-7
+UR  - http://dx.doi.org/10.1186/s13673-018-0144-7
+TI  - CrashSafe: a formal model for proving crash-safety of Android applications
+T2  - Human-centric Computing and Information Sciences
+AU  - Khan, Wilayat
+AU  - Ullah, Habib
+AU  - Ahmad, Aakash
+AU  - Sultan, Khalid
+AU  - Alzahrani, Abdullah J.
+AU  - Khan, Sultan Daud
+AU  - Alhumaid, Mohammad
+AU  - Abdulaziz, Sultan
+PY  - 2018
+DA  - 2018/07/26
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 8
+SN  - 2192-1962
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-019-09725-6
+UR  - http://dx.doi.org/10.1007/s10664-019-09725-6
+TI  - Evolutionary Fuzzing of Android OS Vendor System Services
+T2  - Empirical Software Engineering
+AU  - Cotroneo, Domenico
+AU  - Iannillo, Antonio Ken
+AU  - Natella, Roberto
+PY  - 2019
+DA  - 2019/05/31
+PB  - Springer Science and Business Media LLC
+SP  - 3630-3658
+IS  - 6
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-020-09838-3
+UR  - http://dx.doi.org/10.1007/s10664-020-09838-3
+TI  - A comprehensive study on software aging across android versions and vendors
+T2  - Empirical Software Engineering
+AU  - Cotroneo, Domenico
+AU  - Iannillo, Antonio Ken
+AU  - Natella, Roberto
+AU  - Pietrantuono, Roberto
+PY  - 2020
+DA  - 2020/07/15
+PB  - Springer Science and Business Media LLC
+SP  - 3357-3395
+IS  - 5
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-28910-6_20
+UR  - http://dx.doi.org/10.1007/978-3-319-28910-6_20
+TI  - SSG: Sensor Security Guard for Android Smartphones
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Li, Bodong
+AU  - Zhang, Yuanyuan
+AU  - Lyu, Chen
+AU  - Li, Juanru
+AU  - Gu, Dawu
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 221-233
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319289090
+SN  - 9783319289106
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10515-018-0237-6
+UR  - http://dx.doi.org/10.1007/s10515-018-0237-6
+TI  - Static window transition graphs for Android
+T2  - Automated Software Engineering
+AU  - Yang, Shengqian
+AU  - Wu, Haowei
+AU  - Zhang, Hailong
+AU  - Wang, Yan
+AU  - Swaminathan, Chandrasekar
+AU  - Yan, Dacong
+AU  - Rountev, Atanas
+PY  - 2018
+DA  - 2018/06/16
+PB  - Springer Science and Business Media LLC
+SP  - 833-873
+IS  - 4
+VL  - 25
+SN  - 0928-8910
+SN  - 1573-7535
+ER  - 
+
+TY  - JOUR
+DO  - 10.1186/s42400-022-00119-8
+UR  - http://dx.doi.org/10.1186/s42400-022-00119-8
+TI  - On building machine learning pipelines for Android malware detection: a procedural survey of practices, challenges and opportunities
+T2  - Cybersecurity
+AU  - Mehrabi Koushki, Masoud
+AU  - AbuAlhaol, Ibrahim
+AU  - Raju, Anandharaju Durai
+AU  - Zhou, Yang
+AU  - Giagone, Ronnie Salvador
+AU  - Shengqiang, Huang
+PY  - 2022
+DA  - 2022/08/02
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 5
+SN  - 2523-3246
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10207-022-00603-9
+UR  - http://dx.doi.org/10.1007/s10207-022-00603-9
+TI  - Value-utilized taint propagation: toward precise detection of apps’ information flows across Android API calls
+T2  - International Journal of Information Security
+AU  - Inayoshi, Hiroki
+AU  - Kakei, Shohei
+AU  - Takimoto, Eiji
+AU  - Mouri, Koichi
+AU  - Saito, Shoichi
+PY  - 2022
+DA  - 2022/08/06
+PB  - Springer Science and Business Media LLC
+SN  - 1615-5262
+SN  - 1615-5270
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-74664-3
+UR  - http://dx.doi.org/10.1007/978-3-030-74664-3
+TI  - Android Malware Detection using Machine Learning
+T2  - Advances in Information Security
+AU  - Karbab, ElMouatez Billah
+AU  - Debbabi, Mourad
+AU  - Derhab, Abdelouahid
+AU  - Mouheb, Djedjiga
+PY  - 2021
+PB  - Springer International Publishing
+SN  - 1568-2633
+SN  - 2512-2193
+SN  - 9783030746636
+SN  - 9783030746643
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-021-10059-5
+UR  - http://dx.doi.org/10.1007/s10664-021-10059-5
+TI  - Software testing and Android applications: a large-scale empirical study
+T2  - Empirical Software Engineering
+AU  - Pecorelli, Fabiano
+AU  - Catolino, Gemma
+AU  - Ferrucci, Filomena
+AU  - De Lucia, Andrea
+AU  - Palomba, Fabio
+PY  - 2021
+DA  - 2021/12/14
+PB  - Springer Science and Business Media LLC
+IS  - 2
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11390-019-1949-1
+UR  - http://dx.doi.org/10.1007/s11390-019-1949-1
+TI  - A Lightweight Dynamic Enforcement of Privacy Protection for Android
+T2  - Journal of Computer Science and Technology
+AU  - Zhang, Zi-Peng
+AU  - Fu, Ming
+AU  - Feng, Xin-Yu
+PY  - 2019
+DA  - 2019/07
+PB  - Springer Science and Business Media LLC
+SP  - 901-923
+IS  - 4
+VL  - 34
+SN  - 1000-9000
+SN  - 1860-4749
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-018-9673-y
+UR  - http://dx.doi.org/10.1007/s10664-018-9673-y
+TI  - Security code smells in Android ICC
+T2  - Empirical Software Engineering
+AU  - Gadient, Pascal
+AU  - Ghafari, Mohammad
+AU  - Frischknecht, Patrick
+AU  - Nierstrasz, Oscar
+PY  - 2018
+DA  - 2018/12/14
+PB  - Springer Science and Business Media LLC
+SP  - 3046-3076
+IS  - 5
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-71501-8_4
+UR  - http://dx.doi.org/10.1007/978-3-319-71501-8_4
+TI  - Hey Doc, Is This Normal?: Exploring Android Permissions in the Post Marshmallow Era
+T2  - Security, Privacy, and Applied Cryptography Engineering
+AU  - Alepis, Efthimios
+AU  - Patsakis, Constantinos
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 53-73
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319715001
+SN  - 9783319715018
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-02744-5_4
+UR  - http://dx.doi.org/10.1007/978-3-030-02744-5_4
+TI  - Burn After Reading: Expunging Execution Footprints of Android Apps
+T2  - Network and System Security
+AU  - Shu, Junliang
+AU  - Li, Juanru
+AU  - Zhang, Yuanyuan
+AU  - Gu, Dawu
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 46-63
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030027438
+SN  - 9783030027445
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-18467-8_36
+UR  - http://dx.doi.org/10.1007/978-3-319-18467-8_36
+TI  - An Empirical Study on Android for Saving Non-shared Data on Public Storage
+T2  - ICT Systems Security and Privacy Protection
+AU  - Liu, Xiangyu
+AU  - Zhou, Zhe
+AU  - Diao, Wenrui
+AU  - Li, Zhou
+AU  - Zhang, Kehuan
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 542-556
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783319184661
+SN  - 9783319184678
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-1-4842-4953-6_7
+UR  - http://dx.doi.org/10.1007/978-1-4842-4953-6_7
+TI  - Android Studio Profiler
+T2  - Android Studio IDE Quick Reference
+AU  - Hagos, Ted
+PY  - 2019
+PB  - Apress
+SP  - 73-82
+SN  - 9781484249529
+SN  - 9781484249536
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-18467-8_34
+UR  - http://dx.doi.org/10.1007/978-3-319-18467-8_34
+TI  - ApkCombiner: Combining Multiple Android Apps to Support Inter-App Analysis
+T2  - ICT Systems Security and Privacy Protection
+AU  - Li, Li
+AU  - Bartel, Alexandre
+AU  - Bissyandé, Tegawendé F.
+AU  - Klein, Jacques
+AU  - Traon, Yves Le
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 513-527
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783319184661
+SN  - 9783319184678
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-69471-9_22
+UR  - http://dx.doi.org/10.1007/978-3-319-69471-9_22
+TI  - My Smartphone Knows Your Health Data: Exploiting Android-Based Deception Attacks Against Smartbands
+T2  - Cyberspace Safety and Security
+AU  - Xie, Jun
+AU  - Wu, Sha
+AU  - Li, Yansong
+AU  - Guo, Jun
+AU  - Sun, Wen
+AU  - Liu, Jiajia
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 291-306
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319694702
+SN  - 9783319694719
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-019-09768-9
+UR  - http://dx.doi.org/10.1007/s10664-019-09768-9
+TI  - An empirical catalog of code smells for the presentation layer of Android apps
+T2  - Empirical Software Engineering
+AU  - Carvalho, Suelen Goularte
+AU  - Aniche, Maurício
+AU  - Veríssimo, Júlio
+AU  - Durelli, Rafael S.
+AU  - Gerosa, Marco Aurélio
+PY  - 2019
+DA  - 2019/11/27
+PB  - Springer Science and Business Media LLC
+SP  - 3546-3586
+IS  - 6
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-1-4842-0472-6_4
+UR  - http://dx.doi.org/10.1007/978-1-4842-0472-6_4
+TI  - Android for Game Developers
+T2  - Beginning Android Games
+AU  - Zechner, Mario
+AU  - DiMarzio, J. F.
+AU  - Green, Robert
+PY  - 2016
+PB  - Apress
+SP  - 81-157
+SN  - 9781484204733
+SN  - 9781484204726
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10207-018-00425-8
+UR  - http://dx.doi.org/10.1007/s10207-018-00425-8
+TI  - SSPFA: effective stack smashing protection for Android OS
+T2  - International Journal of Information Security
+AU  - Marco-Gisbert, Héctor
+AU  - Ripoll-Ripoll, Ismael
+PY  - 2019
+DA  - 2019/01/22
+PB  - Springer Science and Business Media LLC
+SP  - 519-532
+IS  - 4
+VL  - 18
+SN  - 1615-5262
+SN  - 1615-5270
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-52683-2_6
+UR  - http://dx.doi.org/10.1007/978-3-030-52683-2_6
+TI  - Understanding Android VoIP Security: A System-Level Vulnerability Assessment
+T2  - Detection of Intrusions and Malware, and Vulnerability Assessment
+AU  - He, En
+AU  - Wu, Daoyuan
+AU  - Deng, Robert H.
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 110-131
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030526825
+SN  - 9783030526832
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-99828-2_20
+UR  - http://dx.doi.org/10.1007/978-3-319-99828-2_20
+TI  - Hunting Password Leaks in Android Applications
+T2  - ICT Systems Security and Privacy Protection
+AU  - Feichtner, Johannes
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 278-292
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783319998275
+SN  - 9783319998282
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10207-016-0333-1
+UR  - http://dx.doi.org/10.1007/s10207-016-0333-1
+TI  - ADroid: anomaly-based detection of malicious events in Android platforms
+T2  - International Journal of Information Security
+AU  - Ruiz-Heras, A.
+AU  - García-Teodoro, P.
+AU  - Sánchez-Casado, L.
+PY  - 2016
+DA  - 2016/06/03
+PB  - Springer Science and Business Media LLC
+SP  - 371-384
+IS  - 4
+VL  - 16
+SN  - 1615-5262
+SN  - 1615-5270
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10207-019-00471-w
+UR  - http://dx.doi.org/10.1007/s10207-019-00471-w
+TI  - DroidRista: a highly precise static data flow analysis framework for android applications
+T2  - International Journal of Information Security
+AU  - Alzaidi, Areej
+AU  - Alshehri, Suhair
+AU  - Buhari, Seyed M.
+PY  - 2019
+DA  - 2019/10/01
+PB  - Springer Science and Business Media LLC
+SP  - 523-536
+IS  - 5
+VL  - 19
+SN  - 1615-5262
+SN  - 1615-5270
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-59439-2_3
+UR  - http://dx.doi.org/10.1007/978-3-319-59439-2_3
+TI  - Detecting Malicious Collusion Between Mobile Software Applications: The Android TM Case
+T2  - Data Analytics and Decision Support for Cybersecurity
+AU  - Asăvoae, Irina Măriuca
+AU  - Blasco, Jorge
+AU  - Chen, Thomas M.
+AU  - Kalutarage, Harsha Kumara
+AU  - Muttik, Igor
+AU  - Nguyen, Hoang Nga
+AU  - Roggenbach, Markus
+AU  - Shaikh, Siraj Ahmed
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 55-97
+SN  - 2520-1859
+SN  - 2520-1867
+SN  - 9783319594385
+SN  - 9783319594392
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-019-09749-y
+UR  - http://dx.doi.org/10.1007/s10664-019-09749-y
+TI  - Are free Android app security analysis tools effective in detecting known vulnerabilities?
+T2  - Empirical Software Engineering
+AU  - Ranganath, Venkatesh-Prasad
+AU  - Mitra, Joydeep
+PY  - 2019
+DA  - 2019/08/05
+PB  - Springer Science and Business Media LLC
+SP  - 178-219
+IS  - 1
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-94822-1_16
+UR  - http://dx.doi.org/10.1007/978-3-030-94822-1_16
+TI  - Longitudinal Compliance Analysis of Android Applications with Privacy Policies
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Hashmi, Saad Sajid
+AU  - Waheed, Nazar
+AU  - Tangari, Gioacchino
+AU  - Ikram, Muhammad
+AU  - Smith, Stephen
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 280-305
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030948214
+SN  - 9783030948221
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-020-09879-8
+UR  - http://dx.doi.org/10.1007/s10664-020-09879-8
+TI  - Security analysis of permission re-delegation vulnerabilities in Android apps
+T2  - Empirical Software Engineering
+AU  - Demissie, Biniam Fisseha
+AU  - Ceccato, Mariano
+AU  - Shar, Lwin Khin
+PY  - 2020
+DA  - 2020/09/15
+PB  - Springer Science and Business Media LLC
+SP  - 5084-5136
+IS  - 6
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-00018-9_43
+UR  - http://dx.doi.org/10.1007/978-3-030-00018-9_43
+TI  - Monitoring of Root Privilege Escalation in Android Kernel
+T2  - Cloud Computing and Security
+AU  - Hu, Xueli
+AU  - Xi, Qi
+AU  - Wang, Zhenxing
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 491-503
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030000172
+SN  - 9783030000189
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-981-15-5827-6_6
+UR  - http://dx.doi.org/10.1007/978-981-15-5827-6_6
+TI  - Android Smells Detection Using ML Algorithms with Static Code Metrics
+T2  - Data Science and Analytics
+AU  - Gupta, Aakanshi
+AU  - Suri, Bharti
+AU  - Bhat, Vishal
+PY  - 2020
+PB  - Springer Singapore
+SP  - 64-79
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811558269
+SN  - 9789811558276
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10207-014-0260-y
+UR  - http://dx.doi.org/10.1007/s10207-014-0260-y
+TI  - Understanding the implemented access control policy of Android system services with slicing and extended static checking
+T2  - International Journal of Information Security
+AU  - Mustafa, Tanveer
+AU  - Sohr, Karsten
+PY  - 2014
+DA  - 2014/09/03
+PB  - Springer Science and Business Media LLC
+SP  - 347-366
+IS  - 4
+VL  - 14
+SN  - 1615-5262
+SN  - 1615-5270
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11432-016-9072-3
+UR  - http://dx.doi.org/10.1007/s11432-016-9072-3
+TI  - Automated Android application permission recommendation
+T2  - Science China Information Sciences
+AU  - Bao, Lingfeng
+AU  - Lo, David
+AU  - Xia, Xin
+AU  - Li, Shanping
+PY  - 2017
+DA  - 2017/07/28
+PB  - Springer Science and Business Media LLC
+IS  - 9
+VL  - 60
+SN  - 1674-733X
+SN  - 1869-1919
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s42979-022-01278-8
+UR  - http://dx.doi.org/10.1007/s42979-022-01278-8
+TI  - MQTT-Based Android Chat Application for IoT
+T2  - SN Computer Science
+AU  - Anne, Lahari
+AU  - Nandan, Tanmayi
+AU  - Kunj, Mehta
+AU  - Kumar, S. Ananda
+AU  - Mahesh, G.
+AU  - Sangeetha, R.
+PY  - 2022
+DA  - 2022/07/26
+PB  - Springer Science and Business Media LLC
+IS  - 5
+VL  - 3
+SN  - 2661-8907
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-019-09727-4
+UR  - http://dx.doi.org/10.1007/s10664-019-09727-4
+TI  - An empirical study on quality of Android applications written in Kotlin language
+T2  - Empirical Software Engineering
+AU  - Góis Mateus, Bruno
+AU  - Martinez, Matias
+PY  - 2019
+DA  - 2019/06/25
+PB  - Springer Science and Business Media LLC
+SP  - 3356-3393
+IS  - 6
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-59817-4_2
+UR  - http://dx.doi.org/10.1007/978-3-030-59817-4_2
+TI  - Reducing the Forensic Footprint with Android Accessibility Attacks
+T2  - Security and Trust Management
+AU  - Leguesse, Yonas
+AU  - Vella, Mark
+AU  - Colombo, Christian
+AU  - Hernandez-Castro, Julio
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 22-38
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030598167
+SN  - 9783030598174
+ER  - 
+
+TY  - JOUR
+DO  - 10.1631/fitee.1601491
+UR  - http://dx.doi.org/10.1631/FITEE.1601491
+TI  - Discovering optimal features using static analysis and a genetic search based method for Android malware detection
+T2  - Frontiers of Information Technology &amp; Electronic Engineering
+AU  - Firdaus, Ahmad
+AU  - Anuar, Nor Badrul
+AU  - Karim, Ahmad
+AU  - Razak, Mohd Faizal Ab
+PY  - 2018
+DA  - 2018/06
+PB  - Zhejiang University Press
+SP  - 712-736
+IS  - 6
+VL  - 19
+SN  - 2095-9184
+SN  - 2095-9230
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-27659-5_24
+UR  - http://dx.doi.org/10.1007/978-3-319-27659-5_24
+TI  - DroidTest: Testing Android Applications for Leakage of Private Information
+T2  - Lecture Notes in Computer Science
+AU  - Ahmed Rumee, Sarker T.
+AU  - Liu, Donggang
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 341-353
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319276588
+SN  - 9783319276595
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-017-9539-8
+UR  - http://dx.doi.org/10.1007/s10664-017-9539-8
+TI  - A multi-view context-aware approach to Android malware detection and malicious code localization
+T2  - Empirical Software Engineering
+AU  - Narayanan, Annamalai
+AU  - Chandramohan, Mahinthan
+AU  - Chen, Lihui
+AU  - Liu, Yang
+PY  - 2017
+DA  - 2017/08/30
+PB  - Springer Science and Business Media LLC
+SP  - 1222-1274
+IS  - 3
+VL  - 23
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-981-16-8062-5_7
+UR  - http://dx.doi.org/10.1007/978-981-16-8062-5_7
+TI  - Security Issues in Android Application Development and Plug-in for Android Studio to Support Secure Programming
+T2  - Future Data and Security Engineering. Big Data, Security and Privacy, Smart City and Industry 4.0 Applications
+AU  - Tran, Anh-Duy
+AU  - Nguyen, Minh-Quan
+AU  - Phan, Gia-Hao
+AU  - Tran, Minh-Triet
+PY  - 2021
+PB  - Springer Singapore
+SP  - 105-122
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811680618
+SN  - 9789811680625
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-45744-4_21
+UR  - http://dx.doi.org/10.1007/978-3-319-45744-4_21
+TI  - NaClDroid: Native Code Isolation for Android Applications
+T2  - Computer Security – ESORICS 2016
+AU  - Athanasopoulos, Elias
+AU  - Kemerlis, Vasileios P.
+AU  - Portokalidis, Georgios
+AU  - Keromytis, Angelos D.
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 422-439
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319457437
+SN  - 9783319457444
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11432-015-5422-7
+UR  - http://dx.doi.org/10.1007/s11432-015-5422-7
+TI  - A static technique for detecting input validation vulnerabilities in Android apps
+T2  - Science China Information Sciences
+AU  - Fang, Zhejun
+AU  - Liu, Qixu
+AU  - Zhang, Yuqing
+AU  - Wang, Kai
+AU  - Wang, Zhiqiang
+AU  - Wu, Qianru
+PY  - 2016
+DA  - 2016/09/12
+PB  - Springer Science and Business Media LLC
+IS  - 5
+VL  - 60
+SN  - 1674-733X
+SN  - 1869-1919
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-68690-5_19
+UR  - http://dx.doi.org/10.1007/978-3-319-68690-5_19
+TI  - An Improved Android Collusion Attack Detection Method Based on Program Slicing
+T2  - Formal Methods and Software Engineering
+AU  - Liu, Yunhao
+AU  - Li, Xiaohong
+AU  - Feng, Zhiyong
+AU  - Hao, Jianye
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 315-331
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319686899
+SN  - 9783319686905
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-981-16-9089-1_24
+UR  - http://dx.doi.org/10.1007/978-981-16-9089-1_24
+TI  - ShoutIMEI: Ultrasound Covert Channel-Based Attack in Android
+T2  - Security, Privacy and Data Analytics
+AU  - Pandya, Keval
+AU  - Borisaniya, Bhavesh
+AU  - Buddhadev, Bharat
+PY  - 2022
+PB  - Springer Singapore
+SP  - 293-301
+SN  - 1876-1100
+SN  - 1876-1119
+SN  - 9789811690884
+SN  - 9789811690891
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10723-018-9455-1
+UR  - http://dx.doi.org/10.1007/s10723-018-9455-1
+TI  - An Automated Permission Selection Framework for Android Platform
+T2  - Journal of Grid Computing
+AU  - Ali, Toqeer
+AU  - Khan, Yasar
+AU  - Ali, Tamleek
+AU  - Faizullah, Safiullah
+AU  - Alghamdi, Turki
+AU  - Anwar, Sajid
+PY  - 2018
+DA  - 2018/08/04
+PB  - Springer Science and Business Media LLC
+SP  - 547-561
+IS  - 3
+VL  - 18
+SN  - 1570-7873
+SN  - 1572-9184
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11416-015-0245-z
+UR  - http://dx.doi.org/10.1007/s11416-015-0245-z
+TI  - SherlockDroid: a research assistant to spot unknown malware in Android marketplaces
+T2  - Journal of Computer Virology and Hacking Techniques
+AU  - Apvrille, Axelle
+AU  - Apvrille, Ludovic
+PY  - 2015
+DA  - 2015/07/01
+PB  - Springer Science and Business Media LLC
+SP  - 235-245
+IS  - 4
+VL  - 11
+SN  - 2263-8733
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-28865-9_4
+UR  - http://dx.doi.org/10.1007/978-3-319-28865-9_4
+TI  - Using Provenance Patterns to Vet Sensitive Behaviors in Android Apps
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Yang, Chao
+AU  - Yang, Guangliang
+AU  - Gehani, Ashish
+AU  - Yegneswaran, Vinod
+AU  - Tariq, Dawood
+AU  - Gu, Guofei
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 58-77
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319288642
+SN  - 9783319288659
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-019-09764-z
+UR  - http://dx.doi.org/10.1007/s10664-019-09764-z
+TI  - CDA: Characterising Deprecated Android APIs
+T2  - Empirical Software Engineering
+AU  - Li, Li
+AU  - Gao, Jun
+AU  - Bissyandé, Tegawendé F.
+AU  - Ma, Lei
+AU  - Xia, Xin
+AU  - Klein, Jacques
+PY  - 2020
+DA  - 2020/01/11
+PB  - Springer Science and Business Media LLC
+SP  - 2058-2098
+IS  - 3
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-662-47401-3_5
+UR  - http://dx.doi.org/10.1007/978-3-662-47401-3_5
+TI  - RayDroid: A Framework for Discovering Anomaly in Android
+T2  - Trustworthy Computing and Services
+AU  - Yang, Fan
+AU  - Li, Yue
+AU  - Zhai, Lidong
+PY  - 2015
+PB  - Springer Berlin Heidelberg
+SP  - 33-40
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783662474006
+SN  - 9783662474013
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10207-022-00601-x
+UR  - http://dx.doi.org/10.1007/s10207-022-00601-x
+TI  - Lib2Desc: automatic generation of security-centric Android app descriptions using third-party libraries
+T2  - International Journal of Information Security
+AU  - Cevik, Beyza
+AU  - Altiparmak, Nur
+AU  - Aksu, Murat
+AU  - Sen, Sevil
+PY  - 2022
+DA  - 2022/08/04
+PB  - Springer Science and Business Media LLC
+SN  - 1615-5262
+SN  - 1615-5270
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11219-019-09475-0
+UR  - http://dx.doi.org/10.1007/s11219-019-09475-0
+TI  - Software aging and rejuvenation in android: new models and metrics
+T2  - Software Quality Journal
+AU  - Xiang, Jianwen
+AU  - Weng, Caisheng
+AU  - Zhao, Dongdong
+AU  - Andrzejak, Artur
+AU  - Xiong, Shengwu
+AU  - Li, Lin
+AU  - Tian, Jing
+PY  - 2019
+DA  - 2019/11/22
+PB  - Springer Science and Business Media LLC
+SP  - 85-106
+IS  - 1
+VL  - 28
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-72389-1_9
+UR  - http://dx.doi.org/10.1007/978-3-319-72389-1_9
+TI  - The All Seeing Eye: Web to App Intercommunication for Session Fingerprinting in Android
+T2  - Security, Privacy, and Anonymity in Computation, Communication, and Storage
+AU  - Alepis, Efthimios
+AU  - Patsakis, Constantinos
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 93-107
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319723884
+SN  - 9783319723891
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-37352-8_10
+UR  - http://dx.doi.org/10.1007/978-3-030-37352-8_10
+TI  - Malicious Intentions: Android Internet Permission Security Risks
+T2  - Cyberspace Safety and Security
+AU  - Andah, John Mark
+AU  - Chen, Jinfu
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 111-120
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030373511
+SN  - 9783030373528
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-021-09943-x
+UR  - http://dx.doi.org/10.1007/s10664-021-09943-x
+TI  - A first look at Android applications in Google Play related to COVID-19
+T2  - Empirical Software Engineering
+AU  - Samhi, Jordan
+AU  - Allix, Kevin
+AU  - Bissyandé, Tegawendé F.
+AU  - Klein, Jacques
+PY  - 2021
+DA  - 2021/04/21
+PB  - Springer Science and Business Media LLC
+IS  - 4
+VL  - 26
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-021-10013-5
+UR  - http://dx.doi.org/10.1007/s10664-021-10013-5
+TI  - TaintBench: Automatic real-world malware benchmarking of Android taint analyses
+T2  - Empirical Software Engineering
+AU  - Luo, Linghui
+AU  - Pauck, Felix
+AU  - Piskachev, Goran
+AU  - Benz, Manuel
+AU  - Pashchenko, Ivan
+AU  - Mory, Martin
+AU  - Bodden, Eric
+AU  - Hermann, Ben
+AU  - Massacci, Fabio
+PY  - 2021
+DA  - 2021/10/29
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-94361-9_10
+UR  - http://dx.doi.org/10.1007/978-3-319-94361-9_10
+TI  - MAD-API: Detection, Correction and Explanation of API Misuses in Distributed Android Applications
+T2  - Artificial Intelligence and Mobile Services – AIMS 2018
+AU  - Luo, Tianyue
+AU  - Wu, Jingzheng
+AU  - Yang, Mutian
+AU  - Zhao, Sizhe
+AU  - Wu, Yanjun
+AU  - Wang, Yongji
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 123-140
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319943602
+SN  - 9783319943619
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-25645-0_35
+UR  - http://dx.doi.org/10.1007/978-3-319-25645-0_35
+TI  - A Study of Network Domains Used in Android Applications
+T2  - Network and System Security
+AU  - Fioravanti, Mark E.
+AU  - Shah, Ayush
+AU  - Zhang, Shengzhi
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 467-474
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319256443
+SN  - 9783319256450
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-17533-1_26
+UR  - http://dx.doi.org/10.1007/978-3-319-17533-1_26
+TI  - IVDroid: Static Detection for Input Validation Vulnerability in Android Inter-component Communication
+T2  - Information Security Practice and Experience
+AU  - Fang, Zhejun
+AU  - Liu, Qixu
+AU  - Zhang, Yuqing
+AU  - Wang, Kai
+AU  - Wang, Zhiqiang
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 378-392
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319175324
+SN  - 9783319175331
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-98989-1_2
+UR  - http://dx.doi.org/10.1007/978-3-319-98989-1_2
+TI  - Emulation-Instrumented Fuzz Testing of 4G/LTE Android Mobile Devices Guided by Reinforcement Learning
+T2  - Computer Security
+AU  - Fang, Kaiming
+AU  - Yan, Guanhua
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 20-40
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319989884
+SN  - 9783319989891
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-68542-7_23
+UR  - http://dx.doi.org/10.1007/978-3-319-68542-7_23
+TI  - Detect Storage Vulnerability of User-Input Privacy in Android Applications with Static and Dynamic Analysis
+T2  - Cloud Computing and Security
+AU  - Jiang, Li
+AU  - Zhuang, Yi
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 280-291
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319685410
+SN  - 9783319685427
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-17533-1_25
+UR  - http://dx.doi.org/10.1007/978-3-319-17533-1_25
+TI  - Comprehensive Analysis of the Android Google Play’s Auto-update Policy
+T2  - Information Security Practice and Experience
+AU  - Sanders, Craig
+AU  - Shah, Ayush
+AU  - Zhang, Shengzhi
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 365-377
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319175324
+SN  - 9783319175331
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-19249-9_39
+UR  - http://dx.doi.org/10.1007/978-3-319-19249-9_39
+TI  - Case Study: Static Security Analysis of the Android Goldfish Kernel
+T2  - FM 2015: Formal Methods
+AU  - Liu, Tao
+AU  - Huuck, Ralf
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 589-592
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319192482
+SN  - 9783319192499
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s00607-022-01069-2
+UR  - http://dx.doi.org/10.1007/s00607-022-01069-2
+TI  - Formal model for inter-component communication and its security in android
+T2  - Computing
+AU  - El-Zawawy, Mohamed A.
+AU  - Faruki, Parvez
+AU  - Conti, Mauro
+PY  - 2022
+DA  - 2022/03/27
+PB  - Springer Science and Business Media LLC
+SP  - 1839-1865
+IS  - 8
+VL  - 104
+SN  - 0010-485X
+SN  - 1436-5057
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-29485-8_14
+UR  - http://dx.doi.org/10.1007/978-3-319-29485-8_14
+TI  - Side-Channel Analysis of Weierstrass and Koblitz Curve ECDSA on Android Smartphones
+T2  - Topics in Cryptology - CT-RSA 2016
+AU  - Belgarric, Pierre
+AU  - Fouque, Pierre-Alain
+AU  - Macario-Rat, Gilles
+AU  - Tibouchi, Mehdi
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 236-252
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319294841
+SN  - 9783319294858
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-60425-7_1
+UR  - http://dx.doi.org/10.1007/978-3-030-60425-7_1
+TI  - Emulation Versus Instrumentation for Android Malware Detection
+T2  - Digital Forensic Investigation of Internet of Things (IoT) Devices
+AU  - Sinha, Anukriti
+AU  - Di Troia, Fabio
+AU  - Heller, Philip
+AU  - Stamp, Mark
+PY  - 2020
+DA  - 2020/12/10
+PB  - Springer International Publishing
+SP  - 1-20
+SN  - 1613-5113
+SN  - 2363-9466
+SN  - 9783030604240
+SN  - 9783030604257
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-23820-3_24
+UR  - http://dx.doi.org/10.1007/978-3-319-23820-3_24
+TI  - RV-Android: Efficient Parametric Android Runtime Verification, a Brief Tutorial
+T2  - Runtime Verification
+AU  - Daian, Philip
+AU  - Falcone, Yliès
+AU  - Meredith, Patrick
+AU  - Şerbănuţă, Traian Florin
+AU  - Shiriashi, Shin’ichi
+AU  - Iwai, Akihito
+AU  - Rosu, Grigore
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 342-357
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319238197
+SN  - 9783319238203
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-97532-6_2
+UR  - http://dx.doi.org/10.1007/978-3-030-97532-6_2
+TI  - DyPolDroid: Protecting Users and Organizations from Permission-Abuse Attacks in Android
+T2  - Secure Knowledge Management In The Artificial Intelligence Era
+AU  - Rubio-Medrano, Carlos E.
+AU  - Hill, Matthew
+AU  - Claramunt, Luis M.
+AU  - Baek, Jaejong
+AU  - Ahn, Gail-Joon
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 23-36
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030975319
+SN  - 9783030975326
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-72389-1_38
+UR  - http://dx.doi.org/10.1007/978-3-319-72389-1_38
+TI  - A Unified Model for Detecting Privacy Leakage on Android
+T2  - Security, Privacy, and Anonymity in Computation, Communication, and Storage
+AU  - Ren, Xueqi
+AU  - Wang, Xinming
+AU  - Tang, Hua
+AU  - Ma, Zhaohui
+AU  - Wu, Jiechao
+AU  - Zhao, Gansen
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 474-486
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319723884
+SN  - 9783319723891
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-92708-0_7
+UR  - http://dx.doi.org/10.1007/978-3-030-92708-0_7
+TI  - A Lightweight Android Malware Detection Framework Based on Knowledge Distillation
+T2  - Network and System Security
+AU  - Zhi, Yongbo
+AU  - Xi, Ning
+AU  - Liu, Yuanqing
+AU  - Hui, Honglei
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 116-130
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030927073
+SN  - 9783030927080
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10586-017-1260-2
+UR  - http://dx.doi.org/10.1007/s10586-017-1260-2
+TI  - Detecting sensitive data leakage via inter-applications on Android using a hybrid analysis technique
+T2  - Cluster Computing
+AU  - Cam, Nguyen Tan
+AU  - Pham, Van-Hau
+AU  - Nguyen, Tuan
+PY  - 2017
+DA  - 2017/10/20
+PB  - Springer Science and Business Media LLC
+SP  - 1055-1064
+IS  - S1
+VL  - 22
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-95729-6_13
+UR  - http://dx.doi.org/10.1007/978-3-319-95729-6_13
+TI  - “It’s Shocking!": Analysing the Impact and Reactions to the A3: Android Apps Behaviour Analyser
+T2  - Data and Applications Security and Privacy XXXII
+AU  - Hatamian, Majid
+AU  - Kitkowska, Agnieszka
+AU  - Korunovska, Jana
+AU  - Kirrane, Sabrina
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 198-215
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319957289
+SN  - 9783319957296
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-15087-1_4
+UR  - http://dx.doi.org/10.1007/978-3-319-15087-1_4
+TI  - Before Unrooting your Android Phone, Patching up Permission System First!
+T2  - Information Security Applications
+AU  - Zhang, Zhongwen
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 41-54
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319150864
+SN  - 9783319150871
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s41870-017-0010-2
+UR  - http://dx.doi.org/10.1007/s41870-017-0010-2
+TI  - Android malware detection: state of the art
+T2  - International Journal of Information Technology
+AU  - Muttoo, Sunil Kumar
+AU  - Badhani, Shikha
+PY  - 2017
+DA  - 2017/02/22
+PB  - Springer Science and Business Media LLC
+SP  - 111-117
+IS  - 1
+VL  - 9
+SN  - 2511-2104
+SN  - 2511-2112
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-59608-2_36
+UR  - http://dx.doi.org/10.1007/978-3-319-59608-2_36
+TI  - Alde: Privacy Risk Analysis of Analytics Libraries in the Android Ecosystem
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Liu, Xing
+AU  - Zhu, Sencun
+AU  - Wang, Wei
+AU  - Liu, Jiqiang
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 655-672
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319596075
+SN  - 9783319596082
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-90775-8_2
+UR  - http://dx.doi.org/10.1007/978-3-319-90775-8_2
+TI  - Persistent vs Service IDs in Android: Session Fingerprinting from Apps
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Alepis, Efthimios
+AU  - Patsakis, Constantinos
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 14-29
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319907741
+SN  - 9783319907758
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-23597-0_16
+UR  - http://dx.doi.org/10.1007/978-3-030-23597-0_16
+TI  - Detecting Android Side Channel Probing Attacks Based on System States
+T2  - Wireless Algorithms, Systems, and Applications
+AU  - Lin, Qixiao
+AU  - Mao, Jian
+AU  - Shi, Futian
+AU  - Zhu, Shishi
+AU  - Liang, Zhenkai
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 201-212
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030235963
+SN  - 9783030235970
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-44760-5_10
+UR  - http://dx.doi.org/10.1007/978-3-319-44760-5_10
+TI  - A Framework for Major Stakeholders in Android Application Industry to Manage Privacy Policies of Android Applications
+T2  - Privacy Technologies and Policy
+AU  - Cha, Shi-Cho
+AU  - Shiung, Chuang-Ming
+AU  - Liu, Tzu-Ching
+AU  - Syu, Sih-Cing
+AU  - Chien, Li-Da
+AU  - Tsai, Tsung-Ying
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 153-170
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319447599
+SN  - 9783319447605
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-54328-4_8
+UR  - http://dx.doi.org/10.1007/978-3-319-54328-4_8
+TI  - Where Is the Weakest Link? A Study on Security Discrepancies Between Android Apps and Their Website Counterparts
+T2  - Passive and Active Measurement
+AU  - Alavi, Arash
+AU  - Quach, Alan
+AU  - Zhang, Hang
+AU  - Marsh, Bryan
+AU  - Haq, Farhan Ul
+AU  - Qian, Zhiyun
+AU  - Lu, Long
+AU  - Gupta, Rajiv
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 100-112
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319543277
+SN  - 9783319543284
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-26555-1_43
+UR  - http://dx.doi.org/10.1007/978-3-319-26555-1_43
+TI  - MonkeyDroid: Detecting Unreasonable Privacy Leakages of Android Applications
+T2  - Neural Information Processing
+AU  - Ma, Kai
+AU  - Liu, Mengyang
+AU  - Guo, Shanqing
+AU  - Ban, Tao
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 384-391
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319265544
+SN  - 9783319265551
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-981-10-2738-3_40
+UR  - http://dx.doi.org/10.1007/978-981-10-2738-3_40
+TI  - Vulnebdroid: Automated Vulnerability Score Calculator for Android Applications
+T2  - Communications in Computer and Information Science
+AU  - Gupta, Sugandha
+AU  - Kaushal, Rishabh
+PY  - 2016
+PB  - Springer Singapore
+SP  - 461-471
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811027376
+SN  - 9789811027383
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-34914-1_43
+UR  - http://dx.doi.org/10.1007/978-3-030-34914-1_43
+TI  - Smart Cities and Open WiFis: When Android OS Permissions Cease to Protect Privacy
+T2  - Internet and Distributed Computing Systems
+AU  - Verga, Gabriella
+AU  - Calcagno, Salvatore
+AU  - Fornaia, Andrea
+AU  - Tramontana, Emiliano
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 457-467
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030349134
+SN  - 9783030349141
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-1-4842-4176-9_7
+UR  - http://dx.doi.org/10.1007/978-1-4842-4176-9_7
+TI  - Android and RxJava
+T2  - Reactive Streams in Java
+AU  - Davis, Adam L.
+PY  - 2018
+DA  - 2018/11/30
+PB  - Apress
+SP  - 71-82
+SN  - 9781484241752
+SN  - 9781484241769
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-04834-1_19
+UR  - http://dx.doi.org/10.1007/978-3-030-04834-1_19
+TI  - Static Analysis for Security Vetting of Android Apps
+T2  - Lecture Notes in Computer Science
+AU  - Roy, Sankardas
+AU  - Chaulagain, Dewan
+AU  - Bhusal, Shiva
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 375-404
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030048334
+SN  - 9783030048341
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-39555-5_11
+UR  - http://dx.doi.org/10.1007/978-3-319-39555-5_11
+TI  - Why Software DoS Is Hard to Fix: Denying Access in Embedded Android Platforms
+T2  - Applied Cryptography and Network Security
+AU  - Johnson, Ryan
+AU  - Elsabagh, Mohamed
+AU  - Stavrou, Angelos
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 193-211
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319395548
+SN  - 9783319395555
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11280-017-0446-0
+UR  - http://dx.doi.org/10.1007/s11280-017-0446-0
+TI  - Discovering and understanding android sensor usage behaviors with data flow analysis
+T2  - World Wide Web
+AU  - Liu, Xing
+AU  - Liu, Jiqiang
+AU  - Wang, Wei
+AU  - He, Yongzhong
+AU  - Zhang, Xiangliang
+PY  - 2017
+DA  - 2017/03/20
+PB  - Springer Science and Business Media LLC
+SP  - 105-126
+IS  - 1
+VL  - 21
+SN  - 1386-145X
+SN  - 1573-1413
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-33630-5_23
+UR  - http://dx.doi.org/10.1007/978-3-319-33630-5_23
+TI  - NativeProtector: Protecting Android Applications by Isolating and Intercepting Third-Party Native Libraries
+T2  - ICT Systems Security and Privacy Protection
+AU  - Hong, Yu-Yang
+AU  - Wang, Yu-Ping
+AU  - Yin, Jie
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 337-351
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783319336299
+SN  - 9783319336305
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-1-4842-6646-5_19
+UR  - http://dx.doi.org/10.1007/978-1-4842-6646-5_19
+TI  - Working with Files in Android
+T2  - Android for Absolute Beginners
+AU  - Allen, Grant
+PY  - 2021
+PB  - Apress
+SP  - 305-322
+SN  - 9781484266458
+SN  - 9781484266465
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-31550-8_14
+UR  - http://dx.doi.org/10.1007/978-3-319-31550-8_14
+TI  - RbacIP: A RBAC-Based Method for Intercepting and Processing Malicious Applications in Android Platform
+T2  - Trusted Systems
+AU  - Lin, Li
+AU  - Ni, Jian
+AU  - Hu, Jian
+AU  - Zhang, Jianbiao
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 214-225
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319315492
+SN  - 9783319315508
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-47812-8_6
+UR  - http://dx.doi.org/10.1007/978-3-319-47812-8_6
+TI  - Automatic Generation of Security-Centric Descriptions for Android Apps
+T2  - SpringerBriefs in Computer Science
+AU  - Zhang, Mu
+AU  - Yin, Heng
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 77-98
+SN  - 2191-5768
+SN  - 2191-5776
+SN  - 9783319478111
+SN  - 9783319478128
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-981-10-8527-7_53
+UR  - http://dx.doi.org/10.1007/978-981-10-8527-7_53
+TI  - Research Trends in Malware Detection on Android Devices
+T2  - Data Science and Analytics
+AU  - Aneja, Leesha
+AU  - Babbar, Sakshi
+PY  - 2018
+PB  - Springer Singapore
+SP  - 629-642
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811085260
+SN  - 9789811085277
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-66402-6_17
+UR  - http://dx.doi.org/10.1007/978-3-319-66402-6_17
+TI  - Mirage: Toward a Stealthier and Modular Malware Analysis Sandbox for Android
+T2  - Computer Security – ESORICS 2017
+AU  - Bordoni, Lorenzo
+AU  - Conti, Mauro
+AU  - Spolaor, Riccardo
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 278-296
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319664019
+SN  - 9783319664026
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-66332-6_7
+UR  - http://dx.doi.org/10.1007/978-3-319-66332-6_7
+TI  - Precisely and Scalably Vetting JavaScript Bridge in Android Hybrid Apps
+T2  - Research in Attacks, Intrusions, and Defenses
+AU  - Yang, Guangliang
+AU  - Mendoza, Abner
+AU  - Zhang, Jialong
+AU  - Gu, Guofei
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 143-166
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319663319
+SN  - 9783319663326
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10207-022-00579-6
+UR  - http://dx.doi.org/10.1007/s10207-022-00579-6
+TI  - MAPAS: a practical deep learning-based android malware detection system
+T2  - International Journal of Information Security
+AU  - Kim, Jinsung
+AU  - Ban, Younghoon
+AU  - Ko, Eunbyeol
+AU  - Cho, Haehyun
+AU  - Yi, Jeong Hyun
+PY  - 2022
+DA  - 2022/02/09
+PB  - Springer Science and Business Media LLC
+SP  - 725-738
+IS  - 4
+VL  - 21
+SN  - 1615-5262
+SN  - 1615-5270
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11704-017-6493-y
+UR  - http://dx.doi.org/10.1007/s11704-017-6493-y
+TI  - Fingerprinting Android malware families
+T2  - Frontiers of Computer Science
+AU  - Xie, Nannan
+AU  - Wang, Xing
+AU  - Wang, Wei
+AU  - Liu, Jiqiang
+PY  - 2018
+DA  - 2018/06/30
+PB  - Springer Science and Business Media LLC
+SP  - 637-646
+IS  - 3
+VL  - 13
+SN  - 2095-2228
+SN  - 2095-2236
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-37231-6_19
+UR  - http://dx.doi.org/10.1007/978-3-030-37231-6_19
+TI  - IIFA: Modular Inter-app Intent Information Flow Analysis of Android Applications
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Tiwari, Abhishek
+AU  - Groß, Sascha
+AU  - Hammer, Christian
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 335-349
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030372309
+SN  - 9783030372316
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11042-016-4189-1
+UR  - http://dx.doi.org/10.1007/s11042-016-4189-1
+TI  - SafeGuard: a behavior based real-time malware detection scheme for mobile multimedia applications in android platform
+T2  - Multimedia Tools and Applications
+AU  - Jeong, Eun Su
+AU  - Kim, In Seok
+AU  - Lee, Dong Hoon
+PY  - 2016
+DA  - 2016/12/06
+PB  - Springer Science and Business Media LLC
+SP  - 18153-18173
+IS  - 17
+VL  - 76
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-72598-7_12
+UR  - http://dx.doi.org/10.1007/978-3-319-72598-7_12
+TI  - Malicious Application Detection on Android Smartphones with Enhanced Static-Dynamic Analysis
+T2  - Information Systems Security
+AU  - Rai, Sandeep
+AU  - Dhanesha, Rushang
+AU  - Nahata, Sreyans
+AU  - Menezes, Bernard
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 194-208
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319725970
+SN  - 9783319725987
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-05755-8_12
+UR  - http://dx.doi.org/10.1007/978-3-030-05755-8_12
+TI  - Static Analysis of Android Apps Interaction with Automotive CAN
+T2  - Lecture Notes in Computer Science
+AU  - Panarotto, Federica
+AU  - Cortesi, Agostino
+AU  - Ferrara, Pietro
+AU  - Mandal, Amit Kr
+AU  - Spoto, Fausto
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 114-123
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030057541
+SN  - 9783030057558
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-78813-5_2
+UR  - http://dx.doi.org/10.1007/978-3-319-78813-5_2
+TI  - Enhancing Android Security Through App Splitting
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Davidson, Drew
+AU  - Rastogi, Vaibhav
+AU  - Christodorescu, Mihai
+AU  - Jha, Somesh
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 24-44
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319788128
+SN  - 9783319788135
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-24018-3_12
+UR  - http://dx.doi.org/10.1007/978-3-319-24018-3_12
+TI  - How Current Android Malware Seeks to Evade Automated Code Analysis
+T2  - Information Security Theory and Practice
+AU  - Rasthofer, Siegfried
+AU  - Asrar, Irfan
+AU  - Huber, Stephan
+AU  - Bodden, Eric
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 187-202
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319240176
+SN  - 9783319240183
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-020-09932-6
+UR  - http://dx.doi.org/10.1007/s10664-020-09932-6
+TI  - Flair: efficient analysis of Android inter-component vulnerabilities in response to incremental changes
+T2  - Empirical Software Engineering
+AU  - Bagheri, Hamid
+AU  - Wang, Jianghao
+AU  - Aerts, Jarod
+AU  - Ghorbani, Negar
+AU  - Malek, Sam
+PY  - 2021
+DA  - 2021/04/09
+PB  - Springer Science and Business Media LLC
+IS  - 3
+VL  - 26
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-17533-1_24
+UR  - http://dx.doi.org/10.1007/978-3-319-17533-1_24
+TI  - A Rapid and Scalable Method for Android Application Repackaging Detection
+T2  - Information Security Practice and Experience
+AU  - Jiao, Sibei
+AU  - Cheng, Yao
+AU  - Ying, Lingyun
+AU  - Su, Purui
+AU  - Feng, Dengguo
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 349-364
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319175324
+SN  - 9783319175331
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-66922-5_13
+UR  - http://dx.doi.org/10.1007/978-3-030-66922-5_13
+TI  - A Multi-class Detection System for Android Malicious Apps Based on Color Image Features
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Zhang, Hua
+AU  - Qin, Jiawei
+AU  - Zhang, Boan
+AU  - Yan, Hanbing
+AU  - Guo, Jing
+AU  - Gao, Fei
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 186-206
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030669218
+SN  - 9783030669225
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-46598-2_3
+UR  - http://dx.doi.org/10.1007/978-3-319-46598-2_3
+TI  - DAPA: Degradation-Aware Privacy Analysis of Android Apps
+T2  - Security and Trust Management
+AU  - Barbon, Gianluca
+AU  - Cortesi, Agostino
+AU  - Ferrara, Pietro
+AU  - Steffinlongo, Enrico
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 32-46
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319465975
+SN  - 9783319465982
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-72359-4_45
+UR  - http://dx.doi.org/10.1007/978-3-319-72359-4_45
+TI  - Defending Application Cache Integrity of Android Runtime
+T2  - Information Security Practice and Experience
+AU  - Wan, Jia
+AU  - Zulkernine, Mohammad
+AU  - Eisen, Phil
+AU  - Liem, Clifford
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 727-746
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319723587
+SN  - 9783319723594
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s00779-016-0966-0
+UR  - http://dx.doi.org/10.1007/s00779-016-0966-0
+TI  - Android platform-based individual privacy information protection system
+T2  - Personal and Ubiquitous Computing
+AU  - Zhang, Weizhe
+AU  - Li, Xiong
+AU  - Xiong, Naixue
+AU  - Vasilakos, Athanasios V.
+PY  - 2016
+DA  - 2016/09/16
+PB  - Springer Science and Business Media LLC
+SP  - 875-884
+IS  - 6
+VL  - 20
+SN  - 1617-4909
+SN  - 1617-4917
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-45744-4_23
+UR  - http://dx.doi.org/10.1007/978-3-319-45744-4_23
+TI  - Stay in Your Cage! A Sound Sandbox for Third-Party Libraries on Android
+T2  - Computer Security – ESORICS 2016
+AU  - Wang, Fabo
+AU  - Zhang, Yuqing
+AU  - Wang, Kai
+AU  - Liu, Peng
+AU  - Wang, Wenjie
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 458-476
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319457437
+SN  - 9783319457444
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-1-4842-0472-6_1
+UR  - http://dx.doi.org/10.1007/978-1-4842-0472-6_1
+TI  - An Android in Every Home
+T2  - Beginning Android Games
+AU  - Zechner, Mario
+AU  - DiMarzio, J. F.
+AU  - Green, Robert
+PY  - 2016
+PB  - Apress
+SP  - 1-14
+SN  - 9781484204733
+SN  - 9781484204726
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-01701-9_10
+UR  - http://dx.doi.org/10.1007/978-3-030-01701-9_10
+TI  - Understanding Android Obfuscation Techniques: A Large-Scale Investigation in the Wild
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Dong, Shuaike
+AU  - Li, Menghao
+AU  - Diao, Wenrui
+AU  - Liu, Xiangyu
+AU  - Liu, Jian
+AU  - Li, Zhou
+AU  - Xu, Fenghao
+AU  - Chen, Kai
+AU  - Wang, XiaoFeng
+AU  - Zhang, Kehuan
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 172-192
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030017002
+SN  - 9783030017019
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-021-09974-4
+UR  - http://dx.doi.org/10.1007/s10664-021-09974-4
+TI  - Beyond the virus: a first look at coronavirus-themed Android malware
+T2  - Empirical Software Engineering
+AU  - Wang, Liu
+AU  - He, Ren
+AU  - Wang, Haoyu
+AU  - Xia, Pengcheng
+AU  - Li, Yuanchun
+AU  - Wu, Lei
+AU  - Zhou, Yajin
+AU  - Luo, Xiapu
+AU  - Sui, Yulei
+AU  - Guo, Yao
+AU  - Xu, Guoai
+PY  - 2021
+DA  - 2021/06/12
+PB  - Springer Science and Business Media LLC
+IS  - 4
+VL  - 26
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-30806-7_14
+UR  - http://dx.doi.org/10.1007/978-3-319-30806-7_14
+TI  - AppPAL for Android
+T2  - Lecture Notes in Computer Science
+AU  - Hallett, Joseph
+AU  - Aspinall, David
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 216-232
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319308050
+SN  - 9783319308067
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-22479-0_7
+UR  - http://dx.doi.org/10.1007/978-3-030-22479-0_7
+TI  - Droids in Disarray: Detecting Frame Confusion in Hybrid Android Apps
+T2  - Data and Applications Security and Privacy XXXIII
+AU  - Caputo, Davide
+AU  - Verderame, Luca
+AU  - Aonzo, Simone
+AU  - Merlo, Alessio
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 121-139
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030224783
+SN  - 9783030224790
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s41870-021-00661-7
+UR  - http://dx.doi.org/10.1007/s41870-021-00661-7
+TI  - CSForest: an approach for imbalanced family classification of android malicious applications
+T2  - International Journal of Information Technology
+AU  - Dhalaria, Meghna
+AU  - Gandotra, Ekta
+PY  - 2021
+DA  - 2021/04/15
+PB  - Springer Science and Business Media LLC
+SP  - 1059-1071
+IS  - 3
+VL  - 13
+SN  - 2511-2104
+SN  - 2511-2112
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-30619-9_27
+UR  - http://dx.doi.org/10.1007/978-3-030-30619-9_27
+TI  - Who Activated My Voice Assistant? A Stealthy Attack on Android Phones Without Users’ Awareness
+T2  - Machine Learning for Cyber Security
+AU  - Zhang, Rongjunchen
+AU  - Chen, Xiao
+AU  - Wen, Sheng
+AU  - Zheng, James
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 378-396
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030306182
+SN  - 9783030306199
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-24369-6_1
+UR  - http://dx.doi.org/10.1007/978-3-319-24369-6_1
+TI  - Privacy Analysis of Android Apps: Implicit Flows and Quantitative Analysis
+T2  - Computer Information Systems and Industrial Management
+AU  - Barbon, Gianluca
+AU  - Cortesi, Agostino
+AU  - Ferrara, Pietro
+AU  - Pistoia, Marco
+AU  - Tripp, Omer
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 3-23
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319243689
+SN  - 9783319243696
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-031-06365-7_6
+UR  - http://dx.doi.org/10.1007/978-3-031-06365-7_6
+TI  - Accessing Secure Data on Android Through Application Analysis
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Buurke, Richard
+AU  - Le-Khac, Nhien-An
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 93-108
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783031063640
+SN  - 9783031063657
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-02641-7_17
+UR  - http://dx.doi.org/10.1007/978-3-030-02641-7_17
+TI  - Oh-Pwn-VPN! Security Analysis of OpenVPN-Based Android Apps
+T2  - Cryptology and Network Security
+AU  - Zhang, Qi
+AU  - Li, Juanru
+AU  - Zhang, Yuanyuan
+AU  - Wang, Hui
+AU  - Gu, Dawu
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 373-389
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030026400
+SN  - 9783030026417
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-25393-0_54
+UR  - http://dx.doi.org/10.1007/978-3-319-25393-0_54
+TI  - Exploring Feature Extraction and ELM in Malware Detection for Android Devices
+T2  - Advances in Neural Networks – ISNN 2015
+AU  - Zhang, Wei
+AU  - Ren, Huan
+AU  - Jiang, Qingshan
+AU  - Zhang, Kai
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 489-498
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319253923
+SN  - 9783319253930
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-019-09760-3
+UR  - http://dx.doi.org/10.1007/s10664-019-09760-3
+TI  - Empirical study of android repackaged applications
+T2  - Empirical Software Engineering
+AU  - Khanmohammadi, Kobra
+AU  - Ebrahimi, Neda
+AU  - Hamou-Lhadj, Abdelwahab
+AU  - Khoury, Raphaël
+PY  - 2019
+DA  - 2019/08/21
+PB  - Springer Science and Business Media LLC
+SP  - 3587-3629
+IS  - 6
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-61638-0_29
+UR  - http://dx.doi.org/10.1007/978-3-030-61638-0_29
+TI  - On the Evolution of Security Issues in Android App Versions
+T2  - Lecture Notes in Computer Science
+AU  - Kalysch, Anatoli
+AU  - Schilling, Joschua
+AU  - Müller, Tilo
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 523-541
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030616373
+SN  - 9783030616380
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10489-022-03523-2
+UR  - http://dx.doi.org/10.1007/s10489-022-03523-2
+TI  - Self-attention based convolutional-LSTM for android malware detection using network traffics grayscale image
+T2  - Applied Intelligence
+AU  - Shen, Limin
+AU  - Feng, Jiayin
+AU  - Chen, Zhen
+AU  - Sun, Zhongkui
+AU  - Liang, Dongkui
+AU  - Li, Hui
+AU  - Wang, Yuying
+PY  - 2022
+DA  - 2022/04/20
+PB  - Springer Science and Business Media LLC
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-15087-1_6
+UR  - http://dx.doi.org/10.1007/978-3-319-15087-1_6
+TI  - Analyzing Unnecessary Permissions Requested by Android Apps Based on Users’ Opinions
+T2  - Information Security Applications
+AU  - Kang, Jina
+AU  - Kim, Daehyun
+AU  - Kim, Hyoungshick
+AU  - Huh, Jun Ho
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 68-79
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319150864
+SN  - 9783319150871
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-50463-6_15
+UR  - http://dx.doi.org/10.1007/978-3-319-50463-6_15
+TI  - AndroPatchApp: Taming Rogue Ads in Android
+T2  - Mobile, Secure, and Programmable Networking
+AU  - Tsiakos, Vasilis
+AU  - Patsakis, Constantinos
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 183-196
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319504629
+SN  - 9783319504636
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-62582-5_5
+UR  - http://dx.doi.org/10.1007/978-3-030-62582-5_5
+TI  - A Survey of Intelligent Techniques for Android Malware Detection
+T2  - Malware Analysis Using Artificial Intelligence and Deep Learning
+AU  - Kumars, Rajesh
+AU  - Alazab, Mamoun
+AU  - Wang, WenYong
+PY  - 2020
+DA  - 2020/12/21
+PB  - Springer International Publishing
+SP  - 121-162
+SN  - 9783030625818
+SN  - 9783030625825
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-662-54970-4_13
+UR  - http://dx.doi.org/10.1007/978-3-662-54970-4_13
+TI  - CuriousDroid: Automated User Interface Interaction for Android Application Analysis Sandboxes
+T2  - Financial Cryptography and Data Security
+AU  - Carter, Patrick
+AU  - Mulliner, Collin
+AU  - Lindorfer, Martina
+AU  - Robertson, William
+AU  - Kirda, Engin
+PY  - 2017
+PB  - Springer Berlin Heidelberg
+SP  - 231-249
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783662549698
+SN  - 9783662549704
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-00012-7_10
+UR  - http://dx.doi.org/10.1007/978-3-030-00012-7_10
+TI  - Mass Discovery of Android Malware Behavioral Characteristics for Detection Consideration
+T2  - Cloud Computing and Security
+AU  - Su, Xin
+AU  - Shi, Weiqi
+AU  - Lin, Jiuchuan
+AU  - Wang, Xin
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 101-112
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030000110
+SN  - 9783030000127
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-14234-6_19
+UR  - http://dx.doi.org/10.1007/978-3-030-14234-6_19
+TI  - Analyzing Use of High Privileges on Android: An Empirical Case Study of Screenshot and Screen Recording Applications
+T2  - Information Security and Cryptology
+AU  - Meng, Mark H.
+AU  - Bai, Guangdong
+AU  - Liu, Joseph K.
+AU  - Luo, Xiapu
+AU  - Wang, Yu
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 349-369
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030142339
+SN  - 9783030142346
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-58201-2_12
+UR  - http://dx.doi.org/10.1007/978-3-030-58201-2_12
+TI  - Code Between the Lines: Semantic Analysis of Android Applications
+T2  - ICT Systems Security and Privacy Protection
+AU  - Feichtner, Johannes
+AU  - Gruber, Stefan
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 171-186
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030582005
+SN  - 9783030582012
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-60717-7_42
+UR  - http://dx.doi.org/10.1007/978-3-319-60717-7_42
+TI  - A Design of the Event Trigger for Android Application
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Hu, Ting
+AU  - Ning, Zhuo
+AU  - Sun, Zhixin
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 426-434
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319607160
+SN  - 9783319607177
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-981-13-2826-8_28
+UR  - http://dx.doi.org/10.1007/978-981-13-2826-8_28
+TI  - DroidGene: Detecting Android Malware Using Its Malicious Gene
+T2  - Communications in Computer and Information Science
+AU  - Wang, Yulong
+AU  - Zong, Hua
+PY  - 2018
+PB  - Springer Singapore
+SP  - 315-330
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811328251
+SN  - 9789811328268
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-19249-9_6
+UR  - http://dx.doi.org/10.1007/978-3-319-19249-9_6
+TI  - Detection of Design Flaws in the Android Permission Protocol Through Bounded Verification
+T2  - FM 2015: Formal Methods
+AU  - Bagheri, Hamid
+AU  - Kang, Eunsuk
+AU  - Malek, Sam
+AU  - Jackson, Daniel
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 73-89
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319192482
+SN  - 9783319192499
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11390-017-1786-z
+UR  - http://dx.doi.org/10.1007/s11390-017-1786-z
+TI  - On Locating Malicious Code in Piggybacked Android Apps
+T2  - Journal of Computer Science and Technology
+AU  - Li, Li
+AU  - Li, Daoyuan
+AU  - Bissyandé, Tegawendé F.
+AU  - Klein, Jacques
+AU  - Cai, Haipeng
+AU  - Lo, David
+AU  - Le Traon, Yves
+PY  - 2017
+DA  - 2017/11
+PB  - Springer Science and Business Media LLC
+SP  - 1108-1124
+IS  - 6
+VL  - 32
+SN  - 1000-9000
+SN  - 1860-4749
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-22906-5_7
+UR  - http://dx.doi.org/10.1007/978-3-319-22906-5_7
+TI  - On the Efficacy of Static Features to Detect Malicious Applications in Android
+T2  - Trust, Privacy and Security in Digital Business
+AU  - Geneiatakis, Dimitris
+AU  - Satta, Riccardo
+AU  - Fovino, Igor Nai
+AU  - Neisse, Ricardo
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 87-98
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319229058
+SN  - 9783319229065
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-66332-6_15
+UR  - http://dx.doi.org/10.1007/978-3-319-66332-6_15
+TI  - Trapped by the UI: The Android Case
+T2  - Research in Attacks, Intrusions, and Defenses
+AU  - Alepis, Efthimios
+AU  - Patsakis, Constantinos
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 334-354
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319663319
+SN  - 9783319663326
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-22915-7_45
+UR  - http://dx.doi.org/10.1007/978-3-319-22915-7_45
+TI  - Android Users Security via Permission Based Analysis
+T2  - Communications in Computer and Information Science
+AU  - Tiwari, Pradeep Kumar
+AU  - Singh, Upasna
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 496-505
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783319229140
+SN  - 9783319229157
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-45744-4_24
+UR  - http://dx.doi.org/10.1007/978-3-319-45744-4_24
+TI  - Android Permission Recommendation Using Transitive Bayesian Inference Model
+T2  - Computer Security – ESORICS 2016
+AU  - Rashidi, Bahman
+AU  - Fung, Carol
+AU  - Nguyen, Anh
+AU  - Vu, Tam
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 477-497
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319457437
+SN  - 9783319457444
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-29551-6_63
+UR  - http://dx.doi.org/10.1007/978-3-030-29551-6_63
+TI  - Permission-Based Feature Scaling Method for Lightweight Android Malware Detection
+T2  - Knowledge Science, Engineering and Management
+AU  - Zhu, Dali
+AU  - Xi, Tong
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 714-725
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030295509
+SN  - 9783030295516
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-49806-5_31
+UR  - http://dx.doi.org/10.1007/978-3-319-49806-5_31
+TI  - Detection of SQLite Database Vulnerabilities in Android Apps
+T2  - Information Systems Security
+AU  - Jain, Vineeta
+AU  - Gaur, M. S.
+AU  - Laxmi, Vijay
+AU  - Mosbah, Mohamed
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 521-531
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319498058
+SN  - 9783319498065
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-59608-2_33
+UR  - http://dx.doi.org/10.1007/978-3-319-59608-2_33
+TI  - DroidClassifier: Efficient Adaptive Mining of Application-Layer Header for Classifying Android Malware
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Li, Zhiqiang
+AU  - Sun, Lichao
+AU  - Yan, Qiben
+AU  - Srisa-an, Witawas
+AU  - Chen, Zhenxiang
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 597-616
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319596075
+SN  - 9783319596082
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-65299-9_8
+UR  - http://dx.doi.org/10.1007/978-3-030-65299-9_8
+TI  - Accessibility Service Utilization Rates in Android Applications Shared on Twitter
+T2  - Information Security Applications
+AU  - Ichioka, Shuichi
+AU  - Pouget, Estelle
+AU  - Mimura, Takao
+AU  - Nakajima, Jun
+AU  - Yamauchi, Toshihiro
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 101-111
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030652982
+SN  - 9783030652999
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-78816-6_8
+UR  - http://dx.doi.org/10.1007/978-3-319-78816-6_8
+TI  - Possible Keyloggers Without Implementing a Keyboard in Android
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Jiménez Aranda, Itzael
+AU  - Aguirre Anaya, Eleazar
+AU  - Acosta Bermejo, Raúl
+AU  - Escamilla Ambrosio, Ponciano Jorge
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 104-112
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319788159
+SN  - 9783319788166
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-30619-9_17
+UR  - http://dx.doi.org/10.1007/978-3-030-30619-9_17
+TI  - Compositional Information Flow Verification for Inter Application Communications in Android System
+T2  - Machine Learning for Cyber Security
+AU  - Rao, Xue
+AU  - Xi, Ning
+AU  - Lv, Jing
+AU  - Feng, Pengbin
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 239-252
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030306182
+SN  - 9783030306199
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-45744-4_20
+UR  - http://dx.doi.org/10.1007/978-3-319-45744-4_20
+TI  - Hey, You, Get Off of My Image: Detecting Data Residue in Android Images
+T2  - Computer Security – ESORICS 2016
+AU  - Zhang, Xiao
+AU  - Aafer, Yousra
+AU  - Ying, Kailiang
+AU  - Du, Wenliang
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 401-421
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319457437
+SN  - 9783319457444
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-05171-6_8
+UR  - http://dx.doi.org/10.1007/978-3-030-05171-6_8
+TI  - Towards Accuracy in Similarity Analysis of Android Applications
+T2  - Information Systems Security
+AU  - Kishore, Sreesh
+AU  - Kumar, Renuka
+AU  - Rajan, Sreeranga
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 146-167
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030051709
+SN  - 9783030051716
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11042-019-07899-1
+UR  - http://dx.doi.org/10.1007/s11042-019-07899-1
+TI  - SensDroid: Analysis for Malicious Activity Risk of Android Application
+T2  - Multimedia Tools and Applications
+AU  - Shrivastava, Gulshan
+AU  - Kumar, Prabhat
+PY  - 2019
+DA  - 2019/08/19
+PB  - Springer Science and Business Media LLC
+SP  - 35713-35731
+IS  - 24
+VL  - 78
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11416-014-0226-7
+UR  - http://dx.doi.org/10.1007/s11416-014-0226-7
+TI  - Identifying Android malware using dynamically obtained features
+T2  - Journal of Computer Virology and Hacking Techniques
+AU  - Afonso, Vitor Monte
+AU  - de Amorim, Matheus Favero
+AU  - Grégio, André Ricardo Abed
+AU  - Junquera, Glauco Barroso
+AU  - de Geus, Paulo Lício
+PY  - 2014
+DA  - 2014/10/17
+PB  - Springer Science and Business Media LLC
+SP  - 9-17
+IS  - 1
+VL  - 11
+SN  - 2263-8733
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-981-15-7981-3_31
+UR  - http://dx.doi.org/10.1007/978-981-15-7981-3_31
+TI  - Android Vault Application Behavior Analysis and Detection
+T2  - Communications in Computer and Information Science
+AU  - Xie, Nannan
+AU  - Bai, Hongpeng
+AU  - Sun, Rui
+AU  - Di, Xiaoqiang
+PY  - 2020
+PB  - Springer Singapore
+SP  - 428-439
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811579806
+SN  - 9789811579813
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s00165-017-0445-z
+UR  - http://dx.doi.org/10.1007/s00165-017-0445-z
+TI  - A formal approach for detection of security flaws in the android permission system
+T2  - Formal Aspects of Computing
+AU  - Bagheri, Hamid
+AU  - Kang, Eunsuk
+AU  - Malek, Sam
+AU  - Jackson, Daniel
+PY  - 2018
+DA  - 2018/09
+PB  - Association for Computing Machinery (ACM)
+SP  - 525-544
+IS  - 5
+VL  - 30
+SN  - 0934-5043
+SN  - 1433-299X
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-59608-2_2
+UR  - http://dx.doi.org/10.1007/978-3-319-59608-2_2
+TI  - H-Binder: A Hardened Binder Framework on Android Systems
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Shen, Dong
+AU  - Zhang, Zhangkai
+AU  - Ding, Xuhua
+AU  - Li, Zhoujun
+AU  - Deng, Robert
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 24-43
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319596075
+SN  - 9783319596082
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-68737-3_3
+UR  - http://dx.doi.org/10.1007/978-3-030-68737-3_3
+TI  - Identification of Significant Permissions for Efficient Android Malware Detection
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Rathore, Hemant
+AU  - Sahay, Sanjay K.
+AU  - Rajvanshi, Ritvik
+AU  - Sewak, Mohit
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 33-52
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030687366
+SN  - 9783030687373
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-981-16-3150-4_6
+UR  - http://dx.doi.org/10.1007/978-981-16-3150-4_6
+TI  - Android Malware Detection Method Based on App-Image Conversion
+T2  - Communications in Computer and Information Science
+AU  - Xie, Nannan
+AU  - Bai, Hongpeng
+AU  - Shi, Yanfeng
+AU  - Wu, Haiwei
+PY  - 2021
+PB  - Springer Singapore
+SP  - 60-74
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811631498
+SN  - 9789811631504
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11416-020-00376-6
+UR  - http://dx.doi.org/10.1007/s11416-020-00376-6
+TI  - Audio signal processing for Android malware detection and family identification
+T2  - Journal of Computer Virology and Hacking Techniques
+AU  - Mercaldo, Francesco
+AU  - Santone, Antonella
+PY  - 2021
+DA  - 2021/01/07
+PB  - Springer Science and Business Media LLC
+SP  - 139-152
+IS  - 2
+VL  - 17
+SN  - 2263-8733
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-39077-2_8
+UR  - http://dx.doi.org/10.1007/978-3-319-39077-2_8
+TI  - A Scalable Cloud-Based Android App Repackaging Detection Framework
+T2  - Green, Pervasive, and Cloud Computing
+AU  - Li, Jinghua
+AU  - Liu, Xiaoyan
+AU  - Zhang, Huixiang
+AU  - Mu, Dejun
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 113-125
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319390765
+SN  - 9783319390772
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-42092-9_10
+UR  - http://dx.doi.org/10.1007/978-3-319-42092-9_10
+TI  - A Type System for Android Applications
+T2  - Computational Science and Its Applications – ICCSA 2016
+AU  - El-Zawawy, Mohamed A.
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 115-128
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319420912
+SN  - 9783319420929
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-60876-1_12
+UR  - http://dx.doi.org/10.1007/978-3-319-60876-1_12
+TI  - Deep Ground Truth Analysis of Current Android Malware
+T2  - Detection of Intrusions and Malware, and Vulnerability Assessment
+AU  - Wei, Fengguo
+AU  - Li, Yuping
+AU  - Roy, Sankardas
+AU  - Ou, Xinming
+AU  - Zhou, Wu
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 252-276
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319608754
+SN  - 9783319608761
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-01701-9_15
+UR  - http://dx.doi.org/10.1007/978-3-030-01701-9_15
+TI  - GranDroid: Graph-Based Detection of Malicious Network Behaviors in Android Applications
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Li, Zhiqiang
+AU  - Sun, Jun
+AU  - Yan, Qiben
+AU  - Srisa-an, Witawas
+AU  - Bachala, Shakthi
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 264-280
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030017002
+SN  - 9783030017019
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-23820-3_9
+UR  - http://dx.doi.org/10.1007/978-3-319-23820-3_9
+TI  - Monitoring Real Android Malware
+T2  - Runtime Verification
+AU  - Küster, Jan-Christoph
+AU  - Bauer, Andreas
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 136-152
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319238197
+SN  - 9783319238203
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-90022-9_7
+UR  - http://dx.doi.org/10.1007/978-3-030-90022-9_7
+TI  - Horus: A Security Assessment Framework for Android Crypto Wallets
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Uddin, Md Shahab
+AU  - Mannan, Mohammad
+AU  - Youssef, Amr
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 120-139
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030900212
+SN  - 9783030900229
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-47217-1_8
+UR  - http://dx.doi.org/10.1007/978-3-319-47217-1_8
+TI  - Android Malware Classification by Applying Online Machine Learning
+T2  - Communications in Computer and Information Science
+AU  - Pektaş, Abdurrahman
+AU  - Çavdar, Mahmut
+AU  - Acarman, Tankut
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 72-80
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783319472164
+SN  - 9783319472171
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-51051-0_12
+UR  - http://dx.doi.org/10.1007/978-3-030-51051-0_12
+TI  - Vulnerability Analysis in Mobile Banking and Payment Applications on Android in African Countries
+T2  - Innovations and Interdisciplinary Solutions for Underserved Areas
+AU  - Bassolé, Didier
+AU  - Koala, Gouayon
+AU  - Traoré, Yaya
+AU  - Sié, Oumarou
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 164-175
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030510503
+SN  - 9783030510510
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-21373-2_10
+UR  - http://dx.doi.org/10.1007/978-3-030-21373-2_10
+TI  - Android Malware Detection Based on Sensitive Permissions and APIs
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Zhao, Chunhui
+AU  - Wang, Chundong
+AU  - Zheng, Wenbai
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 105-113
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030213725
+SN  - 9783030213732
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-30619-9_14
+UR  - http://dx.doi.org/10.1007/978-3-030-30619-9_14
+TI  - Data-Driven Android Malware Intelligence: A Survey
+T2  - Machine Learning for Cyber Security
+AU  - Qiu, Junyang
+AU  - Nepal, Surya
+AU  - Luo, Wei
+AU  - Pan, Lei
+AU  - Tai, Yonghang
+AU  - Zhang, Jun
+AU  - Xiang, Yang
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 183-202
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030306182
+SN  - 9783030306199
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-24177-7_29
+UR  - http://dx.doi.org/10.1007/978-3-319-24177-7_29
+TI  - Web-to-Application Injection Attacks on Android: Characterization and Detection
+T2  - Computer Security -- ESORICS 2015
+AU  - Hassanshahi, Behnaz
+AU  - Jia, Yaoqi
+AU  - Yap, Roland H. C.
+AU  - Saxena, Prateek
+AU  - Liang, Zhenkai
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 577-598
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319241760
+SN  - 9783319241777
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-26181-2_34
+UR  - http://dx.doi.org/10.1007/978-3-319-26181-2_34
+TI  - ARP-Miner: Mining Risk Patterns of Android Malware
+T2  - Lecture Notes in Computer Science
+AU  - Wang, Yang
+AU  - Watson, Bryan
+AU  - Zheng, Jun
+AU  - Mukkamala, Srinivas
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 363-375
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319261805
+SN  - 9783319261812
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-20376-8_45
+UR  - http://dx.doi.org/10.1007/978-3-319-20376-8_45
+TI  - Hobson’s Choice: Security and Privacy Permissions in Android and iOS Devices
+T2  - Lecture Notes in Computer Science
+AU  - Haggerty, John
+AU  - Hughes-Roberts, Thomas
+AU  - Hegarty, Robert
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 506-516
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319203751
+SN  - 9783319203768
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-12146-4_18
+UR  - http://dx.doi.org/10.1007/978-3-030-12146-4_18
+TI  - How to Block the Malicious Access to Android External Storage
+T2  - Lecture Notes in Computer Science
+AU  - Yuan, Sisi
+AU  - Wang, Yuewu
+AU  - Wang, Pingjian
+AU  - Lei, Lingguang
+AU  - Zhou, Quan
+AU  - Li, Jun
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 287-303
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030121457
+SN  - 9783030121464
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-60033-8_61
+UR  - http://dx.doi.org/10.1007/978-3-319-60033-8_61
+TI  - A Case Study of Usable Security: Usability Testing of Android Privacy Enhancing Keyboard
+T2  - Wireless Algorithms, Systems, and Applications
+AU  - Ling, Zhen
+AU  - Borgeest, Melanie
+AU  - Sano, Chuta
+AU  - Lin, Sirong
+AU  - Fadl, Mogahid
+AU  - Yu, Wei
+AU  - Fu, Xinwen
+AU  - Zhao, Wei
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 716-728
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319600321
+SN  - 9783319600338
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-25915-4_1
+UR  - http://dx.doi.org/10.1007/978-3-319-25915-4_1
+TI  - Blueprints of an Automated Android Test-Bed
+T2  - E-Business and Telecommunications
+AU  - Gagnon, François
+AU  - Poisson, Jérémie
+AU  - Frenette, Simon
+AU  - Lafrance, Frédéric
+AU  - Hallé, Simon
+AU  - Michaud, Frédéric
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 3-25
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783319259147
+SN  - 9783319259154
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-00916-8_52
+UR  - http://dx.doi.org/10.1007/978-3-030-00916-8_52
+TI  - Android App Classification and Permission Usage Risk Assessment
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Shen, Yidong
+AU  - Xu, Ming
+AU  - Zheng, Ning
+AU  - Xu, Jian
+AU  - Xia, Wenjing
+AU  - Wu, Yiming
+AU  - Qiao, Tong
+AU  - Yang, Tao
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 567-577
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030009151
+SN  - 9783030009168
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-75650-9_16
+UR  - http://dx.doi.org/10.1007/978-3-319-75650-9_16
+TI  - Extinguishing Ransomware - A Hybrid Approach to Android Ransomware Detection
+T2  - Foundations and Practice of Security
+AU  - Ferrante, Alberto
+AU  - Malek, Miroslaw
+AU  - Martinelli, Fabio
+AU  - Mercaldo, Francesco
+AU  - Milosevic, Jelena
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 242-258
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319756493
+SN  - 9783319756509
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-02744-5_5
+UR  - http://dx.doi.org/10.1007/978-3-030-02744-5_5
+TI  - A Comprehensive Study of Permission Usage on Android
+T2  - Network and System Security
+AU  - Lu, Yemian
+AU  - Li, Qi
+AU  - Su, Purui
+AU  - Pan, Juan
+AU  - Yan, Jia
+AU  - Zhan, Pengyi
+AU  - Guo, Wei
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 64-79
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030027438
+SN  - 9783030027445
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-662-54970-4_3
+UR  - http://dx.doi.org/10.1007/978-3-662-54970-4_3
+TI  - Android UI Deception Revisited: Attacks and Defenses
+T2  - Financial Cryptography and Data Security
+AU  - Fernandes, Earlence
+AU  - Chen, Qi Alfred
+AU  - Paupore, Justin
+AU  - Essl, Georg
+AU  - Halderman, J. Alex
+AU  - Mao, Z. Morley
+AU  - Prakash, Atul
+PY  - 2017
+PB  - Springer Berlin Heidelberg
+SP  - 41-59
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783662549698
+SN  - 9783662549704
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-26834-3_14
+UR  - http://dx.doi.org/10.1007/978-3-030-26834-3_14
+TI  - (Short Paper) Method for Preventing Suspicious Web Access in Android WebView
+T2  - Advances in Information and Computer Security
+AU  - Sato, Masaya
+AU  - Imamura, Yuta
+AU  - Orito, Rintaro
+AU  - Yamauchi, Toshihiro
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 241-250
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030268336
+SN  - 9783030268343
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s41019-022-00189-1
+UR  - http://dx.doi.org/10.1007/s41019-022-00189-1
+TI  - A Risk Estimation Mechanism for Android Apps based on Hybrid Analysis
+T2  - Data Science and Engineering
+AU  - Son, Ha Xuan
+AU  - Carminati, Barbara
+AU  - Ferrari, Elena
+PY  - 2022
+DA  - 2022/07/29
+PB  - Springer Science and Business Media LLC
+SP  - 242-252
+IS  - 3
+VL  - 7
+SN  - 2364-1185
+SN  - 2364-1541
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-45371-8_12
+UR  - http://dx.doi.org/10.1007/978-3-030-45371-8_12
+TI  - Protecting Android Apps from Repackaging Using Native Code
+T2  - Foundations and Practice of Security
+AU  - Tanner, Simon
+AU  - Vogels, Ilian
+AU  - Wattenhofer, Roger
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 189-204
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030453701
+SN  - 9783030453718
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-34339-2_6
+UR  - http://dx.doi.org/10.1007/978-3-030-34339-2_6
+TI  - Peel the Onion: Recognition of Android Apps Behind the Tor Network
+T2  - Information Security Practice and Experience
+AU  - Petagna, Emanuele
+AU  - Laurenza, Giuseppe
+AU  - Ciccotelli, Claudio
+AU  - Querzoni, Leonardo
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 95-112
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030343385
+SN  - 9783030343392
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-37545-4_3
+UR  - http://dx.doi.org/10.1007/978-3-030-37545-4_3
+TI  - A Case Study of Intra-library Privacy Issues on Android GPS Navigation Apps
+T2  - Communications in Computer and Information Science
+AU  - Monogios, Stylianos
+AU  - Limniotis, Konstantinos
+AU  - Kolokotronis, Nicholas
+AU  - Shiaeles, Stavros
+PY  - 2019
+DA  - 2019/12/10
+PB  - Springer International Publishing
+SP  - 34-48
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030375447
+SN  - 9783030375454
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10664-021-09955-7
+UR  - http://dx.doi.org/10.1007/s10664-021-09955-7
+TI  - Lessons Learnt on Reproducibility in Machine Learning Based Android Malware Detection
+T2  - Empirical Software Engineering
+AU  - Daoudi, Nadia
+AU  - Allix, Kevin
+AU  - Bissyandé, Tegawendé F.
+AU  - Klein, Jacques
+PY  - 2021
+DA  - 2021/05/24
+PB  - Springer Science and Business Media LLC
+IS  - 4
+VL  - 26
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-47560-8_8
+UR  - http://dx.doi.org/10.1007/978-3-319-47560-8_8
+TI  - Empirical Analysis on the Use of Dynamic Code Updates in Android and Its Security Implications
+T2  - Secure IT Systems
+AU  - Ahmad, Maqsood
+AU  - Crispo, Bruno
+AU  - Gebremichael, Teklay
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 119-134
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319475592
+SN  - 9783319475608
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-01701-9_14
+UR  - http://dx.doi.org/10.1007/978-3-030-01701-9_14
+TI  - Lexical Mining of Malicious URLs for Classifying Android Malware
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Wang, Shanshan
+AU  - Yan, Qiben
+AU  - Chen, Zhenxiang
+AU  - Wang, Lin
+AU  - Spolaor, Riccardo
+AU  - Yang, Bo
+AU  - Conti, Mauro
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 248-263
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030017002
+SN  - 9783030017019
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-031-08147-7_22
+UR  - http://dx.doi.org/10.1007/978-3-031-08147-7_22
+TI  - $$\mathbb {K}$$-Smali: An Executable Semantics for Program Verification of Reversed Android Applications
+T2  - Foundations and Practice of Security
+AU  - Ziadia, Marwa
+AU  - Mejri, Mohamed
+AU  - Fattahi, Jaouhar
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 321-337
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783031081460
+SN  - 9783031081477
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-93411-2_4
+UR  - http://dx.doi.org/10.1007/978-3-319-93411-2_4
+TI  - Honey, I Shrunk Your App Security: The State of Android App Hardening
+T2  - Detection of Intrusions and Malware, and Vulnerability Assessment
+AU  - Haupert, Vincent
+AU  - Maier, Dominik
+AU  - Schneider, Nicolas
+AU  - Kirsch, Julian
+AU  - Müller, Tilo
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 69-91
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319934105
+SN  - 9783319934112
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s11042-016-3644-3
+UR  - http://dx.doi.org/10.1007/s11042-016-3644-3
+TI  - Android API-based voice recording system in emergency situations
+T2  - Multimedia Tools and Applications
+AU  - Moon, Jeong-Kyung
+AU  - Kim, Jin-Mook
+PY  - 2016
+DA  - 2016/06/07
+PB  - Springer Science and Business Media LLC
+SP  - 17971-17984
+IS  - 17
+VL  - 76
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-030-37337-5_8
+UR  - http://dx.doi.org/10.1007/978-3-030-37337-5_8
+TI  - A Data Protection Scheme via Isolating Android Partitions
+T2  - Cyberspace Safety and Security
+AU  - Yang, Kai
+AU  - Ma, Xiaoya
+AU  - Jiang, Hongwei
+AU  - Xue, Yuan
+AU  - Han, Wencong
+AU  - Wang, Lianfang
+AU  - Liu, Lu
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 89-101
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030373368
+SN  - 9783030373375
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-3-319-20376-8_34
+UR  - http://dx.doi.org/10.1007/978-3-319-20376-8_34
+TI  - Real-Time Monitoring of Privacy Abuses and Intrusion Detection in Android System
+T2  - Lecture Notes in Computer Science
+AU  - Li, Shancang
+AU  - Chen, Junhua
+AU  - Spyridopoulos, Theodoros
+AU  - Andriotis, Panagiotis
+AU  - Ludwiniak, Robert
+AU  - Russell, Gordon
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 379-390
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319203751
+SN  - 9783319203768
+ER  - 
+
+TY  - JOUR
+DO  - 10.1007/s10586-016-0703-5
+UR  - http://dx.doi.org/10.1007/s10586-016-0703-5
+TI  - DroidWard: An Effective Dynamic Analysis Method for Vetting Android Applications
+T2  - Cluster Computing
+AU  - Yang, Yubin
+AU  - Wei, Zongtao
+AU  - Xu, Yong
+AU  - He, Haiwu
+AU  - Wang, Wei
+PY  - 2016
+DA  - 2016/12/28
+PB  - Springer Science and Business Media LLC
+SP  - 265-275
+IS  - 1
+VL  - 21
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 
+
+TY  - GENERIC
+DO  - 10.1007/978-981-13-0893-2_13
+UR  - http://dx.doi.org/10.1007/978-981-13-0893-2_13
+TI  - A VoLTE Encryption Experiment for Android Smartphones
+T2  - Communications in Computer and Information Science
+AU  - Liu, Shaoru
+AU  - Wang, Yao
+AU  - Zhang, Quanxin
+AU  - Li, Yuanzhang
+PY  - 2018
+PB  - Springer Singapore
+SP  - 115-125
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811308925
+SN  - 9789811308932
+ER  - 
+

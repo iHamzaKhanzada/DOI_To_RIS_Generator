@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-93818-9_18
+UR  - http://dx.doi.org/10.1007/978-3-319-93818-9_18
+TI  - Using FAHP-VIKOR for Operation Selection in the Flexible Job-Shop Scheduling Problem: A Case Study in Textile Industry
+T2  - Lecture Notes in Computer Science
+AU  - Ortíz-Barrios, Miguel
+AU  - Neira-Rodado, Dionicio
+AU  - Jiménez-Delgado, Genett
+AU  - Hernández-Palma, Hugo
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 189-201
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319938172
+SN  - 9783319938189
+ER  - 

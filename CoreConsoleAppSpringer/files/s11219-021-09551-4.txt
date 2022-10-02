@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11219-021-09551-4
+UR  - http://dx.doi.org/10.1007/s11219-021-09551-4
+TI  - Scrum metaprocess: a process line approach for customizing Scrum
+T2  - Software Quality Journal
+AU  - Agh, Halimeh
+AU  - Ramsin, Raman
+PY  - 2021
+DA  - 2021/04/07
+PB  - Springer Science and Business Media LLC
+SP  - 337-379
+IS  - 2
+VL  - 29
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

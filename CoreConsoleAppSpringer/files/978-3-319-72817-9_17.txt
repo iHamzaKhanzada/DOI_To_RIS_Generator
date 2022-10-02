@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-72817-9_17
+UR  - http://dx.doi.org/10.1007/978-3-319-72817-9_17
+TI  - Decision-Making in Security Requirements Engineering with Constrained Goal Models
+T2  - Computer Security
+AU  - Argyropoulos, Nikolaos
+AU  - Angelopoulos, Konstantinos
+AU  - Mouratidis, Haralambos
+AU  - Fish, Andrew
+PY  - 2017
+DA  - 2017/12/22
+PB  - Springer International Publishing
+SP  - 262-280
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319728162
+SN  - 9783319728179
+ER  - 

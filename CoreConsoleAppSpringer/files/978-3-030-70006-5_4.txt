@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-70006-5_4
+UR  - http://dx.doi.org/10.1007/978-3-030-70006-5_4
+TI  - Data-Driven Requirements Engineering: A Guided Tour
+T2  - Communications in Computer and Information Science
+AU  - Franch, Xavier
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 83-105
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030700058
+SN  - 9783030700065
+ER  - 

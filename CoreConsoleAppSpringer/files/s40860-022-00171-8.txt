@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s40860-022-00171-8
+UR  - http://dx.doi.org/10.1007/s40860-022-00171-8
+TI  - A comprehensive survey on SDN security: threats, mitigations, and future directions
+T2  - Journal of Reliable Intelligent Environments
+AU  - Maleh, Yassine
+AU  - Qasmaoui, Youssef
+AU  - El Gholami, Khalid
+AU  - Sadqi, Yassine
+AU  - Mounir, Soufyane
+PY  - 2022
+DA  - 2022/02/08
+PB  - Springer Science and Business Media LLC
+SN  - 2199-4668
+SN  - 2199-4676
+ER  - 

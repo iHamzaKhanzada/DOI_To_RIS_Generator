@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s00607-018-0646-1
+UR  - http://dx.doi.org/10.1007/s00607-018-0646-1
+TI  - Automated analysis of feature models: Quo vadis?
+T2  - Computing
+AU  - Galindo, José A.
+AU  - Benavides, David
+AU  - Trinidad, Pablo
+AU  - Gutiérrez-Fernández, Antonio-Manuel
+AU  - Ruiz-Cortés, Antonio
+PY  - 2018
+DA  - 2018/08/11
+PB  - Springer Science and Business Media LLC
+SP  - 387-433
+IS  - 5
+VL  - 101
+SN  - 0010-485X
+SN  - 1436-5057
+ER  - 

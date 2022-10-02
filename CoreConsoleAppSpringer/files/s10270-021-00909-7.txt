@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10270-021-00909-7
+UR  - http://dx.doi.org/10.1007/s10270-021-00909-7
+TI  - Model-based intelligent user interface adaptation: challenges and future directions
+T2  - Software and Systems Modeling
+AU  - Abrahão, Silvia
+AU  - Insfran, Emilio
+AU  - Sluÿters, Arthur
+AU  - Vanderdonckt, Jean
+PY  - 2021
+DA  - 2021/07/16
+PB  - Springer Science and Business Media LLC
+SP  - 1335-1349
+IS  - 5
+VL  - 20
+SN  - 1619-1366
+SN  - 1619-1374
+ER  - 

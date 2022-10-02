@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11042-015-3054-y
+UR  - http://dx.doi.org/10.1007/s11042-015-3054-y
+TI  - Impact of automatic region-of-interest coding on perceived quality in mobile video
+T2  - Multimedia Tools and Applications
+AU  - Himawan, Ivan
+AU  - Song, Wei
+AU  - Tjondronegoro, Dian
+PY  - 2015
+DA  - 2015/11/19
+PB  - Springer Science and Business Media LLC
+SP  - 785-813
+IS  - 1
+VL  - 76
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

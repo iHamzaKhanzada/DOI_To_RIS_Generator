@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1007/s40860-022-00179-0
+UR  - http://dx.doi.org/10.1007/s40860-022-00179-0
+TI  - Data-driven model for the evaluation of the reliability of sensors and actuators used in IoT system architecture
+T2  - Journal of Reliable Intelligent Environments
+AU  - Aikhuele, Daniel O.
+AU  - Nwosu, Herold U.
+AU  - Ighravwe, Desmond E.
+PY  - 2022
+DA  - 2022/06/07
+PB  - Springer Science and Business Media LLC
+SN  - 2199-4668
+SN  - 2199-4676
+ER  - 

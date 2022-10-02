@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10664-021-10027-z
+UR  - http://dx.doi.org/10.1007/s10664-021-10027-z
+TI  - Inter-team communication in large-scale co-located software engineering: a case study
+T2  - Empirical Software Engineering
+AU  - Bjarnason, Elizabeth
+AU  - Gislason Bern, Baldvin
+AU  - Svedberg, Linda
+PY  - 2022
+DA  - 2022/01/05
+PB  - Springer Science and Business Media LLC
+IS  - 2
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-50146-4_11
+UR  - http://dx.doi.org/10.1007/978-3-030-50146-4_11
+TI  - Investigation of Ranking Methods Within the Military Value of Information (VoI) Problem Domain
+T2  - Information Processing and Management of Uncertainty in Knowledge-Based Systems
+AU  - Etesamipour, Behrooz
+AU  - Hammell II, Robert J.
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 129-142
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030501457
+SN  - 9783030501464
+ER  - 

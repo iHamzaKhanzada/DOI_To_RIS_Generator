@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-67084-9_7
+UR  - http://dx.doi.org/10.1007/978-3-030-67084-9_7
+TI  - Product Roadmapping Processes for an Uncertain Market Environment: A Grey Literature Review
+T2  - Lecture Notes in Business Information Processing
+AU  - Trieflinger, Stefan
+AU  - Münch, Jürgen
+AU  - Schneider, Jan
+AU  - Bogazköy, Emre
+AU  - Eißler, Patrick
+AU  - Roling, Bastian
+AU  - Lang, Dominic
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 111-129
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030670832
+SN  - 9783030670849
+ER  - 

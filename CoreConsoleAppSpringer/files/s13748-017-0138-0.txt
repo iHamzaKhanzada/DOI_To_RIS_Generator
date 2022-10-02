@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s13748-017-0138-0
+UR  - http://dx.doi.org/10.1007/s13748-017-0138-0
+TI  - A learning system based on lazy metareasoning
+T2  - Progress in Artificial Intelligence
+AU  - Houeland, Tor Gunnar
+AU  - Aamodt, Agnar
+PY  - 2017
+DA  - 2017/11/07
+PB  - Springer Science and Business Media LLC
+SP  - 129-146
+IS  - 2
+VL  - 7
+SN  - 2192-6352
+SN  - 2192-6360
+ER  - 

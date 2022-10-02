@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11042-020-10144-9
+UR  - http://dx.doi.org/10.1007/s11042-020-10144-9
+TI  - Reliable packet transmission in WBAN with dynamic and optimized QoS using multi-objective lion cooperative hunt optimizer
+T2  - Multimedia Tools and Applications
+AU  - Kathuria, Madhumita
+AU  - Gambhir, Sapna
+PY  - 2020
+DA  - 2020/11/25
+PB  - Springer Science and Business Media LLC
+SP  - 10533-10576
+IS  - 7
+VL  - 80
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

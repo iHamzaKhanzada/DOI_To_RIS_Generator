@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-07920-7_6
+UR  - http://dx.doi.org/10.1007/978-3-031-07920-7_6
+TI  - Effective Researcher Collaboration: A Taxonomy of Key Factors Impacting Knowledge Sharing
+T2  - Knowledge Management in Organisations
+AU  - Smuts, Hanlie
+AU  - Sudakov, Vladimir
+AU  - Colombini, Ester Luna
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 65-76
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783031079191
+SN  - 9783031079207
+ER  - 

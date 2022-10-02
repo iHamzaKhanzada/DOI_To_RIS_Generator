@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11227-021-03685-9
+UR  - http://dx.doi.org/10.1007/s11227-021-03685-9
+TI  - A hybrid list-based task scheduling scheme for heterogeneous computing
+T2  - The Journal of Supercomputing
+AU  - Sulaiman, Muhammad
+AU  - Halim, Zahid
+AU  - Waqas, Muhammad
+AU  - Aydın, Doğan
+PY  - 2021
+DA  - 2021/03/02
+PB  - Springer Science and Business Media LLC
+SP  - 10252-10288
+IS  - 9
+VL  - 77
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

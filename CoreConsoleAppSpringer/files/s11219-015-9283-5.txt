@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11219-015-9283-5
+UR  - http://dx.doi.org/10.1007/s11219-015-9283-5
+TI  - Fail-safe testing of safety-critical systems: a case study and efficiency analysis
+T2  - Software Quality Journal
+AU  - Gario, Ahmed
+AU  - Andrews, Anneliese
+AU  - Hagerman, Seana
+PY  - 2015
+DA  - 2015/07/23
+PB  - Springer Science and Business Media LLC
+SP  - 3-48
+IS  - 1
+VL  - 26
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

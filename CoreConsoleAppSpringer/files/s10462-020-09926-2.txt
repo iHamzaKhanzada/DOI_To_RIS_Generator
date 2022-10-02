@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10462-020-09926-2
+UR  - http://dx.doi.org/10.1007/s10462-020-09926-2
+TI  - A review of q-rung orthopair fuzzy information: bibliometrics and future directions
+T2  - Artificial Intelligence Review
+AU  - Peng, Xindong
+AU  - Luo, Zhigang
+PY  - 2021
+DA  - 2021/01/08
+PB  - Springer Science and Business Media LLC
+SP  - 3361-3430
+IS  - 5
+VL  - 54
+SN  - 0269-2821
+SN  - 1573-7462
+ER  - 

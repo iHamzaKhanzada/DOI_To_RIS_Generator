@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-87355-4_43
+UR  - http://dx.doi.org/10.1007/978-3-030-87355-4_43
+TI  - Color Multi-focus Image Fusion Using Quaternion Morphological Gradient and Improved KNN Matting
+T2  - Lecture Notes in Computer Science
+AU  - Liu, Wei
+AU  - Zheng, Zhong
+AU  - Wang, Zengfu
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 515-527
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030873547
+SN  - 9783030873554
+ER  - 

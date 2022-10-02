@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1186/s13173-017-0060-0
+UR  - http://dx.doi.org/10.1186/s13173-017-0060-0
+TI  - Incorporating decision maker’s preferences in a multi-objective approach for the software release planning
+T2  - Journal of the Brazilian Computer Society
+AU  - Saraiva, Raphael
+AU  - Araújo, Allysson Allex
+AU  - Dantas, Altino
+AU  - Yeltsin, Italo
+AU  - Souza, Jerffeson
+PY  - 2017
+DA  - 2017/07/28
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 23
+SN  - 0104-6500
+SN  - 1678-4804
+ER  - 

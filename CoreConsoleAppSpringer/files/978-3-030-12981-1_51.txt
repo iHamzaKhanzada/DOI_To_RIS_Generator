@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-12981-1_51
+UR  - http://dx.doi.org/10.1007/978-3-030-12981-1_51
+TI  - The Cuckoo Search and Integer Linear Programming Based Approach to Time-Aware Test Case Prioritization Considering Execution Environment
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Wong, Yu
+AU  - Zeng, Hongwei
+AU  - Miao, Huaikou
+AU  - Gao, Honghao
+AU  - Yang, Xiaoxian
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 734-754
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030129804
+SN  - 9783030129811
+ER  - 

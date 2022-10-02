@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-85910-7_45
+UR  - http://dx.doi.org/10.1007/978-3-030-85910-7_45
+TI  - The Concept of Sustainable Maintenance Criteria Assessment
+T2  - Advances in Production Management Systems. Artificial Intelligence for Sustainable and Resilient Production Systems
+AU  - Jasiulewicz-Kaczmarek, Małgorzata
+AU  - Antosz, Katarzyna
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 427-436
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030859091
+SN  - 9783030859107
+ER  - 

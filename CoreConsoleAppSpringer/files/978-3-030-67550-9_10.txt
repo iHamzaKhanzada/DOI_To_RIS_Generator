@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-67550-9_10
+UR  - http://dx.doi.org/10.1007/978-3-030-67550-9_10
+TI  - Budget-Aware Performance Optimization of Workflows in Multiple Data Center Clouds
+T2  - Mobile, Secure, and Programmable Networking
+AU  - Oukfif, Karima
+AU  - Battou, Fares
+AU  - Bouzefrane, Samia
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 144-160
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030675493
+SN  - 9783030675509
+ER  - 

@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-68737-3_3
+UR  - http://dx.doi.org/10.1007/978-3-030-68737-3_3
+TI  - Identification of Significant Permissions for Efficient Android Malware Detection
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Rathore, Hemant
+AU  - Sahay, Sanjay K.
+AU  - Rajvanshi, Ritvik
+AU  - Sewak, Mohit
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 33-52
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030687366
+SN  - 9783030687373
+ER  - 

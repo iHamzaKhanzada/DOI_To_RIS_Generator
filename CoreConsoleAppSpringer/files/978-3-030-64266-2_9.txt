@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-64266-2_9
+UR  - http://dx.doi.org/10.1007/978-3-030-64266-2_9
+TI  - Towards Super User-Centred Continuous Delivery: A Case Study
+T2  - Human-Centered Software Engineering
+AU  - Klemets, Joakim
+AU  - Storholmen, Tore Christian Bjørsvik
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 152-165
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030642655
+SN  - 9783030642662
+ER  - 

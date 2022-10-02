@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10586-021-03375-4
+UR  - http://dx.doi.org/10.1007/s10586-021-03375-4
+TI  - Software architecture for IoT-based health-care systems with cloud/fog service model
+T2  - Cluster Computing
+AU  - Hajvali, Masoumeh
+AU  - Adabi, Sahar
+AU  - Rezaee, Ali
+AU  - Hosseinzadeh, Mehdi
+PY  - 2021
+DA  - 2021/08/11
+PB  - Springer Science and Business Media LLC
+SP  - 91-118
+IS  - 1
+VL  - 25
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

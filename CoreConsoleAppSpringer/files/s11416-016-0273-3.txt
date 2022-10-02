@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11416-016-0273-3
+UR  - http://dx.doi.org/10.1007/s11416-016-0273-3
+TI  - Semantics-aware detection of targeted attacks: a survey
+T2  - Journal of Computer Virology and Hacking Techniques
+AU  - Luh, Robert
+AU  - Marschalek, Stefan
+AU  - Kaiser, Manfred
+AU  - Janicke, Helge
+AU  - Schrittwieser, Sebastian
+PY  - 2016
+DA  - 2016/05/02
+PB  - Springer Science and Business Media LLC
+SP  - 47-85
+IS  - 1
+VL  - 13
+SN  - 2263-8733
+ER  - 

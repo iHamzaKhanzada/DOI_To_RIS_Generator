@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-57997-5_45
+UR  - http://dx.doi.org/10.1007/978-3-030-57997-5_45
+TI  - Assessing the Value of Process Improvement Suggestions
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Netland, Torbjørn H.
+AU  - Mizuyama, Hajime
+AU  - Lorenz, Rafael
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 387-395
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030579968
+SN  - 9783030579975
+ER  - 

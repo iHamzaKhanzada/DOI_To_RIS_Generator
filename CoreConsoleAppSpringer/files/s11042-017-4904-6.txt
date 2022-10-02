@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11042-017-4904-6
+UR  - http://dx.doi.org/10.1007/s11042-017-4904-6
+TI  - Energy-efficient joint video encoding and transmission framework for WVSN
+T2  - Multimedia Tools and Applications
+AU  - Alaoui-Fdili, Othmane
+AU  - Coudoux, François-Xavier
+AU  - Fakhri, Youssef
+AU  - Corlay, Patrick
+AU  - Aboutajdine, Driss
+PY  - 2017
+DA  - 2017/07/07
+PB  - Springer Science and Business Media LLC
+SP  - 4509-4541
+IS  - 4
+VL  - 77
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

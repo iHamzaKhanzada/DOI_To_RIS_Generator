@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-67633-3_9
+UR  - http://dx.doi.org/10.1007/978-3-319-67633-3_9
+TI  - Understanding Decision Support in Large-Scale Disasters: Challenges in Humanitarian Logistics Distribution
+T2  - Lecture Notes in Business Information Processing
+AU  - Rahman, Mohammad Tafiqur
+AU  - Comes, Tina
+AU  - Majchrzak, Tim A.
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 106-121
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783319676326
+SN  - 9783319676333
+ER  - 

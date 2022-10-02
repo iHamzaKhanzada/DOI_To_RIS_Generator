@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-65810-6_4
+UR  - http://dx.doi.org/10.1007/978-3-030-65810-6_4
+TI  - Secure, Context-Aware and QoS-Enabled SDN Architecture to Improve Energy Efficiency in IoT-Based Smart Buildings
+T2  - Communications in Computer and Information Science
+AU  - Hakiri, Akram
+AU  - Sallemi, Bassem
+AU  - Ghandour, Fatma
+AU  - Ben Yahia, Sadok
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 55-74
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030658090
+SN  - 9783030658106
+ER  - 

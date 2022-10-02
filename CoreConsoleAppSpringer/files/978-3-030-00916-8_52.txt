@@ -1,0 +1,21 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-00916-8_52
+UR  - http://dx.doi.org/10.1007/978-3-030-00916-8_52
+TI  - Android App Classification and Permission Usage Risk Assessment
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Shen, Yidong
+AU  - Xu, Ming
+AU  - Zheng, Ning
+AU  - Xu, Jian
+AU  - Xia, Wenjing
+AU  - Wu, Yiming
+AU  - Qiao, Tong
+AU  - Yang, Tao
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 567-577
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030009151
+SN  - 9783030009168
+ER  - 

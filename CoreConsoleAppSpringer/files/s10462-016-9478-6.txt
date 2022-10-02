@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10462-016-9478-6
+UR  - http://dx.doi.org/10.1007/s10462-016-9478-6
+TI  - A survey on bug prioritization
+T2  - Artificial Intelligence Review
+AU  - Uddin, Jamal
+AU  - Ghazali, Rozaida
+AU  - Deris, Mustafa Mat
+AU  - Naseem, Rashid
+AU  - Shah, Habib
+PY  - 2016
+DA  - 2016/04/25
+PB  - Springer Science and Business Media LLC
+SP  - 145-180
+IS  - 2
+VL  - 47
+SN  - 0269-2821
+SN  - 1573-7462
+ER  - 

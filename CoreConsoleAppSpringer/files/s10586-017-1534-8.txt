@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10586-017-1534-8
+UR  - http://dx.doi.org/10.1007/s10586-017-1534-8
+TI  - Ranging and tuning based particle swarm optimization with bat algorithm for task scheduling in cloud computing
+T2  - Cluster Computing
+AU  - Valarmathi, R.
+AU  - Sheela, T.
+PY  - 2017
+DA  - 2017/12/28
+PB  - Springer Science and Business Media LLC
+SP  - 11975-11988
+IS  - S5
+VL  - 22
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10664-016-9491-z
+UR  - http://dx.doi.org/10.1007/s10664-016-9491-z
+TI  - Managing the requirements flow from strategy to release in large-scale agile development: a case study at Ericsson
+T2  - Empirical Software Engineering
+AU  - Heikkilä, Ville T.
+AU  - Paasivaara, Maria
+AU  - Lasssenius, Casper
+AU  - Damian, Daniela
+AU  - Engblom, Christian
+PY  - 2017
+DA  - 2017/01/10
+PB  - Springer Science and Business Media LLC
+SP  - 2892-2936
+IS  - 6
+VL  - 22
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-78221-4_40
+UR  - http://dx.doi.org/10.1007/978-3-030-78221-4_40
+TI  - Examining the Impact of Covid-19 Pandemic on UX Research Practice Through UX Blogs
+T2  - Design, User Experience, and Usability: UX Research and Design
+AU  - Süner-Pla-Cerdà, Sedef
+AU  - Töre Yargın, Gülşen
+AU  - Şahin, Hilal
+AU  - Danış, Semih
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 579-592
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030782207
+SN  - 9783030782214
+ER  - 

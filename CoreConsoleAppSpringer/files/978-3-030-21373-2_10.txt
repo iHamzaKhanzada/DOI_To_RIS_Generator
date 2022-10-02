@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-21373-2_10
+UR  - http://dx.doi.org/10.1007/978-3-030-21373-2_10
+TI  - Android Malware Detection Based on Sensitive Permissions and APIs
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Zhao, Chunhui
+AU  - Wang, Chundong
+AU  - Zheng, Wenbai
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 105-113
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030213725
+SN  - 9783030213732
+ER  - 

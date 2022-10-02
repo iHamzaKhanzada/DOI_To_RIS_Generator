@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-62582-5_5
+UR  - http://dx.doi.org/10.1007/978-3-030-62582-5_5
+TI  - A Survey of Intelligent Techniques for Android Malware Detection
+T2  - Malware Analysis Using Artificial Intelligence and Deep Learning
+AU  - Kumars, Rajesh
+AU  - Alazab, Mamoun
+AU  - Wang, WenYong
+PY  - 2020
+DA  - 2020/12/21
+PB  - Springer International Publishing
+SP  - 121-162
+SN  - 9783030625818
+SN  - 9783030625825
+ER  - 

@@ -1,0 +1,13 @@
+TY  - JOUR
+DO  - 10.1007/s10489-017-1006-0
+UR  - http://dx.doi.org/10.1007/s10489-017-1006-0
+TI  - Challenging state-of-the-art move ordering with Adaptive Data Structures
+T2  - Applied Intelligence
+AU  - Polk, Spencer
+AU  - Oommen, B. John
+PY  - 2017
+DA  - 2017/07/28
+PB  - Springer Science and Business Media LLC
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 

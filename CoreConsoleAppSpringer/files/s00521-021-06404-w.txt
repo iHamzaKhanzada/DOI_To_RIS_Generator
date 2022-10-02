@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s00521-021-06404-w
+UR  - http://dx.doi.org/10.1007/s00521-021-06404-w
+TI  - UQSCM-RFD:  A query–knowledge interfacing approach for diversified query recommendation in semantic search based on river flow dynamics and dynamic user interaction
+T2  - Neural Computing and Applications
+AU  - Deepak, Gerard
+AU  - Santhanavijayan, A.
+PY  - 2021
+DA  - 2021/08/21
+PB  - Springer Science and Business Media LLC
+SP  - 651-675
+IS  - 1
+VL  - 34
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

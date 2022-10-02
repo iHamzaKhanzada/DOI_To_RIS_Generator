@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-20376-8_45
+UR  - http://dx.doi.org/10.1007/978-3-319-20376-8_45
+TI  - Hobson’s Choice: Security and Privacy Permissions in Android and iOS Devices
+T2  - Lecture Notes in Computer Science
+AU  - Haggerty, John
+AU  - Hughes-Roberts, Thomas
+AU  - Hegarty, Robert
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 506-516
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319203751
+SN  - 9783319203768
+ER  - 

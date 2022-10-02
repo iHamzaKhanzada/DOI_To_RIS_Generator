@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00766-015-0239-x
+UR  - http://dx.doi.org/10.1007/s00766-015-0239-x
+TI  - Repetition between stakeholder (user) and system requirements
+T2  - Requirements Engineering
+AU  - Ellis-Braithwaite, Richard
+AU  - Lock, Russell
+AU  - Dawson, Ray
+AU  - King, Tim
+PY  - 2015
+DA  - 2015/09/25
+PB  - Springer Science and Business Media LLC
+SP  - 167-190
+IS  - 2
+VL  - 22
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

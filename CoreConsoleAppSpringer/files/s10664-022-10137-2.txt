@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10664-022-10137-2
+UR  - http://dx.doi.org/10.1007/s10664-022-10137-2
+TI  - How do Android developers improve non-functional properties of software?
+T2  - Empirical Software Engineering
+AU  - Callan, James
+AU  - Krauss, Oliver
+AU  - Petke, Justyna
+AU  - Sarro, Federica
+PY  - 2022
+DA  - 2022/05/30
+PB  - Springer Science and Business Media LLC
+IS  - 5
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

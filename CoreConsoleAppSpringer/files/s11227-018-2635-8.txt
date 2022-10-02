@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11227-018-2635-8
+UR  - http://dx.doi.org/10.1007/s11227-018-2635-8
+TI  - Heterogeneity consideration in wireless sensor networks routing algorithms: a review
+T2  - The Journal of Supercomputing
+AU  - Sharma, Deepak
+AU  - Ojha, Amritesh
+AU  - Bhondekar, Amol P.
+PY  - 2018
+DA  - 2018/10/05
+PB  - Springer Science and Business Media LLC
+SP  - 2341-2394
+IS  - 5
+VL  - 75
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

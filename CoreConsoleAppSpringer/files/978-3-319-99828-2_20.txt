@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-99828-2_20
+UR  - http://dx.doi.org/10.1007/978-3-319-99828-2_20
+TI  - Hunting Password Leaks in Android Applications
+T2  - ICT Systems Security and Privacy Protection
+AU  - Feichtner, Johannes
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 278-292
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783319998275
+SN  - 9783319998282
+ER  - 

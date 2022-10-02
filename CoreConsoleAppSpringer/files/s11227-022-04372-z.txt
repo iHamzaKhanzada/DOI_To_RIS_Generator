@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s11227-022-04372-z
+UR  - http://dx.doi.org/10.1007/s11227-022-04372-z
+TI  - POWER: probabilistic weight-based energy-efficient cluster routing for large-scale wireless sensor networks
+T2  - The Journal of Supercomputing
+AU  - Farooq, Muhammad Umar
+AU  - Wang, Xingfu
+AU  - Hawbani, Ammar
+AU  - Khan, Asad
+AU  - Ahmed, Adeel
+AU  - Alsamhi, Saeed
+AU  - Qureshi, Bushra
+PY  - 2022
+DA  - 2022/03/12
+PB  - Springer Science and Business Media LLC
+SP  - 12765-12791
+IS  - 10
+VL  - 78
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

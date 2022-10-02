@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11042-017-4551-y
+UR  - http://dx.doi.org/10.1007/s11042-017-4551-y
+TI  - QoE driven cross-layer scheme for DASH-based scalable video transmission over LTE
+T2  - Multimedia Tools and Applications
+AU  - Deng, Rui
+AU  - Liu, Guizhong
+PY  - 2017
+DA  - 2017/04/28
+PB  - Springer Science and Business Media LLC
+SP  - 6445-6469
+IS  - 6
+VL  - 77
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

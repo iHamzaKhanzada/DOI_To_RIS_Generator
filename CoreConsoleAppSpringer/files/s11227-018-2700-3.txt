@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11227-018-2700-3
+UR  - http://dx.doi.org/10.1007/s11227-018-2700-3
+TI  - Dynamic and comprehensive trust model for IoT and its integration into RPL
+T2  - The Journal of Supercomputing
+AU  - Hashemi, Seyyed Yasser
+AU  - Shams Aliee, Fereidoon
+PY  - 2018
+DA  - 2018/11/28
+PB  - Springer Science and Business Media LLC
+SP  - 3555-3584
+IS  - 7
+VL  - 75
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

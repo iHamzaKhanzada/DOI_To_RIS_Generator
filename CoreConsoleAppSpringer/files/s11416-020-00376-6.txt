@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s11416-020-00376-6
+UR  - http://dx.doi.org/10.1007/s11416-020-00376-6
+TI  - Audio signal processing for Android malware detection and family identification
+T2  - Journal of Computer Virology and Hacking Techniques
+AU  - Mercaldo, Francesco
+AU  - Santone, Antonella
+PY  - 2021
+DA  - 2021/01/07
+PB  - Springer Science and Business Media LLC
+SP  - 139-152
+IS  - 2
+VL  - 17
+SN  - 2263-8733
+ER  - 

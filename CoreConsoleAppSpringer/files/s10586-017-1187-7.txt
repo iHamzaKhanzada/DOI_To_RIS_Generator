@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10586-017-1187-7
+UR  - http://dx.doi.org/10.1007/s10586-017-1187-7
+TI  - Enhanced intrusion detection and prevention system on cloud environment using hybrid classification and OTS generation
+T2  - Cluster Computing
+AU  - Balamurugan, V.
+AU  - Saravanan, R.
+PY  - 2017
+DA  - 2017/09/21
+PB  - Springer Science and Business Media LLC
+SP  - 13027-13039
+IS  - S6
+VL  - 22
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-64798-2_7
+UR  - http://dx.doi.org/10.1007/978-3-319-64798-2_7
+TI  - Advancing the Performance of Complex Manufacturing Systems Through Agent-Based Production Control
+T2  - Multiagent System Technologies
+AU  - Lüder, Arndt
+AU  - Zawisza, Jacek
+AU  - Becker, Alexander
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 103-120
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319647975
+SN  - 9783319647982
+ER  - 

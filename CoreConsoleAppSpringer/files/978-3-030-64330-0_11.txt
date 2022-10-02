@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-64330-0_11
+UR  - http://dx.doi.org/10.1007/978-3-030-64330-0_11
+TI  - Aligning the Concepts of Risk, Security and Privacy Towards the Design of Secure Intelligent Transport Systems
+T2  - Computer Security
+AU  - Diamantopoulou, Vasiliki
+AU  - Kalloniatis, Christos
+AU  - Lyvas, Christos
+AU  - Maliatsos, Konstantinos
+AU  - Gay, Matthieu
+AU  - Kanatas, Athanasios
+AU  - Lambrinoudakis, Costas
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 170-184
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030643294
+SN  - 9783030643300
+ER  - 

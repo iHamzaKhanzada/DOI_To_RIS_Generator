@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s00766-020-00333-1
+UR  - http://dx.doi.org/10.1007/s00766-020-00333-1
+TI  - Explainability as a non-functional requirement: challenges and recommendations
+T2  - Requirements Engineering
+AU  - Chazette, Larissa
+AU  - Schneider, Kurt
+PY  - 2020
+DA  - 2020/06/15
+PB  - Springer Science and Business Media LLC
+SP  - 493-514
+IS  - 4
+VL  - 25
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10922-018-9457-0
+UR  - http://dx.doi.org/10.1007/s10922-018-9457-0
+TI  - TMM: Trust Management Middleware for Cloud Service Selection by Prioritization
+T2  - Journal of Network and Systems Management
+AU  - Smithamol, Mukalel Bhaskaran
+AU  - Rajeswari, Sridhar
+PY  - 2018
+DA  - 2018/04/21
+PB  - Springer Science and Business Media LLC
+SP  - 66-92
+IS  - 1
+VL  - 27
+SN  - 1064-7570
+SN  - 1573-7705
+ER  - 

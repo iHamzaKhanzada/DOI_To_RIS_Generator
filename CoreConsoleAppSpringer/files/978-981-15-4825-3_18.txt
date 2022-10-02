@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-15-4825-3_18
+UR  - http://dx.doi.org/10.1007/978-981-15-4825-3_18
+TI  - Enhancing Enterprise IT Security with a Visualization-Based Process Framework
+T2  - Communications in Computer and Information Science
+AU  - Hanauer, Tanja
+AU  - Hommel, Wolfgang
+PY  - 2020
+PB  - Springer Singapore
+SP  - 225-236
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811548246
+SN  - 9789811548253
+ER  - 

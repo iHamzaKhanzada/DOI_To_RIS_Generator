@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-24308-1_6
+UR  - http://dx.doi.org/10.1007/978-3-030-24308-1_6
+TI  - Customer Feedback Prioritization Technique: A Case Study on Lean Startup
+T2  - Computational Science and Its Applications – ICCSA 2019
+AU  - Hossain, Syeda Sumbul
+AU  - Jubayer, S. A. M.
+AU  - Rahman, Shadikur
+AU  - Bhuiyan, Touhid
+AU  - Rawshan, Lamisha
+AU  - Islam, Saiful
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 70-81
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030243074
+SN  - 9783030243081
+ER  - 

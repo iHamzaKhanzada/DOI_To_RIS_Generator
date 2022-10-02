@@ -1,0 +1,27 @@
+TY  - JOUR
+DO  - 10.1007/s11219-020-09509-y
+UR  - http://dx.doi.org/10.1007/s11219-020-09509-y
+TI  - Data-driven and tool-supported elicitation of quality requirements in agile companies
+T2  - Software Quality Journal
+AU  - Oriol, Marc
+AU  - Martínez-Fernández, Silverio
+AU  - Behutiye, Woubshet
+AU  - Farré, Carles
+AU  - Kozik, Rafał
+AU  - Seppänen, Pertti
+AU  - Vollmer, Anna Maria
+AU  - Rodríguez, Pilar
+AU  - Franch, Xavier
+AU  - Aaramaa, Sanja
+AU  - Abhervé, Antonin
+AU  - Choraś, Michał
+AU  - Partanen, Jari
+PY  - 2020
+DA  - 2020/03/17
+PB  - Springer Science and Business Media LLC
+SP  - 931-963
+IS  - 3
+VL  - 28
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

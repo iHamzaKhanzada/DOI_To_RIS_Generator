@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s41109-020-00323-w
+UR  - http://dx.doi.org/10.1007/s41109-020-00323-w
+TI  - REDUNET: reducing test suites by integrating set cover and network-based optimization
+T2  - Applied Network Science
+AU  - Mongiovì, Misael
+AU  - Fornaia, Andrea
+AU  - Tramontana, Emiliano
+PY  - 2020
+DA  - 2020/11/02
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 5
+SN  - 2364-8228
+ER  - 

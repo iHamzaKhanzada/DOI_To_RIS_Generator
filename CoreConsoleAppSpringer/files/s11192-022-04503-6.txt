@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11192-022-04503-6
+UR  - http://dx.doi.org/10.1007/s11192-022-04503-6
+TI  - Detecting anomalous referencing patterns in PubMed papers suggestive of author-centric reference list manipulation
+T2  - Scientometrics
+AU  - Wren, Jonathan D.
+AU  - Georgescu, Constantin
+PY  - 2022
+DA  - 2022/09/08
+PB  - Springer Science and Business Media LLC
+SP  - 5753-5771
+IS  - 10
+VL  - 127
+SN  - 0138-9130
+SN  - 1588-2861
+ER  - 

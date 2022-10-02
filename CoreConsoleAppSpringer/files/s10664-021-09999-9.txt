@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10664-021-09999-9
+UR  - http://dx.doi.org/10.1007/s10664-021-09999-9
+TI  - Industry practices and challenges for the evolvability assurance of microservices
+T2  - Empirical Software Engineering
+AU  - Bogner, Justus
+AU  - Fritzsch, Jonas
+AU  - Wagner, Stefan
+AU  - Zimmermann, Alfred
+PY  - 2021
+DA  - 2021/07/22
+PB  - Springer Science and Business Media LLC
+IS  - 5
+VL  - 26
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

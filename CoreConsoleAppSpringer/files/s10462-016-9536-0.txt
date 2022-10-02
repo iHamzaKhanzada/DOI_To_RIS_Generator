@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10462-016-9536-0
+UR  - http://dx.doi.org/10.1007/s10462-016-9536-0
+TI  - A review on the applications of neuro-fuzzy systems in business
+T2  - Artificial Intelligence Review
+AU  - Rajab, Sharifa
+AU  - Sharma, Vinod
+PY  - 2017
+DA  - 2017/01/18
+PB  - Springer Science and Business Media LLC
+SP  - 481-510
+IS  - 4
+VL  - 49
+SN  - 0269-2821
+SN  - 1573-7462
+ER  - 

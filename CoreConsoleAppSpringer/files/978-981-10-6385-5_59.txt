@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-10-6385-5_59
+UR  - http://dx.doi.org/10.1007/978-981-10-6385-5_59
+TI  - Research on Target Extraction Technology of Fruit and Vegetable Images in the Complex Environment
+T2  - Communications in Computer and Information Science
+AU  - Wang, Yanqing
+AU  - Zheng, Hao
+PY  - 2017
+PB  - Springer Singapore
+SP  - 708-717
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811063848
+SN  - 9789811063855
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s13721-022-00361-7
+UR  - http://dx.doi.org/10.1007/s13721-022-00361-7
+TI  - A spider tool-based qualitative analysis of machine learning for wrist pulse analysis
+T2  - Network Modeling Analysis in Health Informatics and Bioinformatics
+AU  - Kumar, Sachin
+AU  - Veer, Karan
+AU  - Kumar, Sanjeev
+PY  - 2022
+DA  - 2022/04/05
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 11
+SN  - 2192-6662
+SN  - 2192-6670
+ER  - 

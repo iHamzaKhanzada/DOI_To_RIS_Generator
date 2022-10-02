@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s10115-019-01435-1
+UR  - http://dx.doi.org/10.1007/s10115-019-01435-1
+TI  - Fast and memory-efficient algorithms for high-order Tucker decomposition
+T2  - Knowledge and Information Systems
+AU  - Zhang, Jiyuan
+AU  - Oh, Jinoh
+AU  - Shin, Kijung
+AU  - Papalexakis, Evangelos E.
+AU  - Faloutsos, Christos
+AU  - Yu, Hwanjo
+PY  - 2020
+DA  - 2020/01/27
+PB  - Springer Science and Business Media LLC
+SP  - 2765-2794
+IS  - 7
+VL  - 62
+SN  - 0219-1377
+SN  - 0219-3116
+ER  - 

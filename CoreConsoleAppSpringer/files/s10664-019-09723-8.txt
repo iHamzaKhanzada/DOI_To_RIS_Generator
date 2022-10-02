@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09723-8
+UR  - http://dx.doi.org/10.1007/s10664-019-09723-8
+TI  - Designing smart city mobile applications
+T2  - Empirical Software Engineering
+AU  - Farias, Roselane Silva
+AU  - de Souza, Renata Maria
+AU  - McGregor, John D.
+AU  - de Almeida, Eduardo Santana
+PY  - 2019
+DA  - 2019/05/22
+PB  - Springer Science and Business Media LLC
+SP  - 3255-3289
+IS  - 6
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

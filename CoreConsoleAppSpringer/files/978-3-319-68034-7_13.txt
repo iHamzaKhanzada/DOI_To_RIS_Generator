@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-68034-7_13
+UR  - http://dx.doi.org/10.1007/978-3-319-68034-7_13
+TI  - Fault Localization in Service Compositions
+T2  - Formal Aspects of Component Software
+AU  - Wehrheim, Heike
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 216-232
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319680330
+SN  - 9783319680347
+ER  - 

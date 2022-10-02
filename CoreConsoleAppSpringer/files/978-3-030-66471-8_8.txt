@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-66471-8_8
+UR  - http://dx.doi.org/10.1007/978-3-030-66471-8_8
+TI  - Resource Queuing System with Preemptive Priority for Performance Analysis of 5G NR Systems
+T2  - Distributed Computer and Communication Networks
+AU  - Sopin, Eduard
+AU  - Begishev, Vyacheslav
+AU  - Moltchanov, Dmitri
+AU  - Samuylov, Andrey
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 87-99
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030664701
+SN  - 9783030664718
+ER  - 

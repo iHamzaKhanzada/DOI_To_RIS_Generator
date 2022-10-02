@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10270-021-00924-8
+UR  - http://dx.doi.org/10.1007/s10270-021-00924-8
+TI  - Model-based test case generation and prioritization: a systematic literature review
+T2  - Software and Systems Modeling
+AU  - Mohd-Shafie, Muhammad Luqman
+AU  - Kadir, Wan Mohd Nasir Wan
+AU  - Lichter, Horst
+AU  - Khatibsyarbini, Muhammad
+AU  - Isa, Mohd Adham
+PY  - 2021
+DA  - 2021/09/07
+PB  - Springer Science and Business Media LLC
+SP  - 717-753
+IS  - 2
+VL  - 21
+SN  - 1619-1366
+SN  - 1619-1374
+ER  - 

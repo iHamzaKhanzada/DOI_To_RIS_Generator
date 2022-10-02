@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s12559-020-09765-x
+UR  - http://dx.doi.org/10.1007/s12559-020-09765-x
+TI  - A Neutrosophic VIKOR Method-Based Decision-Making with an Improved Distance Measure and Score Function: Case Study of Selection for Renewable Energy Alternatives
+T2  - Cognitive Computation
+AU  - Eroğlu, Hasan
+AU  - Şahin, Ridvan
+PY  - 2020
+DA  - 2020/10/13
+PB  - Springer Science and Business Media LLC
+SP  - 1338-1355
+IS  - 6
+VL  - 12
+SN  - 1866-9956
+SN  - 1866-9964
+ER  - 

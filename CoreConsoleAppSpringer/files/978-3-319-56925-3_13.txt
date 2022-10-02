@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-56925-3_13
+UR  - http://dx.doi.org/10.1007/978-3-319-56925-3_13
+TI  - More Observations, More Variables or More Quality? - Data Acquisition Strategies to Enhance Uncertainty Analytics for Industrial Service Contracting
+T2  - Lecture Notes in Business Information Processing
+AU  - Schmitz, Björn
+AU  - Satzger, Gerhard
+AU  - Gitzel, Ralf
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 159-172
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783319569246
+SN  - 9783319569253
+ER  - 

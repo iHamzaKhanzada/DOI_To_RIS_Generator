@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s40860-018-0055-4
+UR  - http://dx.doi.org/10.1007/s40860-018-0055-4
+TI  - Middleware for internet of things: an evaluation in a small-scale IoT environment
+T2  - Journal of Reliable Intelligent Environments
+AU  - Palade, Andrei
+AU  - Cabrera, Christian
+AU  - Li, Fan
+AU  - White, Gary
+AU  - Razzaque, M. A.
+AU  - Clarke, Siobhán
+PY  - 2018
+DA  - 2018/01/25
+PB  - Springer Science and Business Media LLC
+SP  - 3-23
+IS  - 1
+VL  - 4
+SN  - 2199-4668
+SN  - 2199-4676
+ER  - 

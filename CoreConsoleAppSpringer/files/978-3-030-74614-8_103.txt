@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-74614-8_103
+UR  - http://dx.doi.org/10.1007/978-3-030-74614-8_103
+TI  - The Future of Footwear Friction
+T2  - Proceedings of the 21st Congress of the International Ergonomics Association (IEA 2021)
+AU  - Beschorner, Kurt E.
+AU  - Li, Yue
+AU  - Yamaguchi, Takeshi
+AU  - Ells, William
+AU  - Bowman, Richard
+PY  - 2021
+DA  - 2021/06/13
+PB  - Springer International Publishing
+SP  - 841-855
+SN  - 2367-3370
+SN  - 2367-3389
+SN  - 9783030746131
+SN  - 9783030746148
+ER  - 

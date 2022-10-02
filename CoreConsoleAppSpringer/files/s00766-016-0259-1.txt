@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s00766-016-0259-1
+UR  - http://dx.doi.org/10.1007/s00766-016-0259-1
+TI  - Continuous clarification and emergent requirements flows in open-commercial software ecosystems
+T2  - Requirements Engineering
+AU  - Knauss, Eric
+AU  - Yussuf, Aminah
+AU  - Blincoe, Kelly
+AU  - Damian, Daniela
+AU  - Knauss, Alessia
+PY  - 2016
+DA  - 2016/09/27
+PB  - Springer Science and Business Media LLC
+SP  - 97-117
+IS  - 1
+VL  - 23
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

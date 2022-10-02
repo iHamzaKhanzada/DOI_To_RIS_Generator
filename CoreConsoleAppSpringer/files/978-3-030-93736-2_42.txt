@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-93736-2_42
+UR  - http://dx.doi.org/10.1007/978-3-030-93736-2_42
+TI  - Desiderata for Explainable AI in Statistical Production Systems of the European Central Bank
+T2  - Communications in Computer and Information Science
+AU  - Navarro, Carlos Mougan
+AU  - Kanellos, Georgios
+AU  - Gottron, Thomas
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 575-590
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030937355
+SN  - 9783030937362
+ER  - 

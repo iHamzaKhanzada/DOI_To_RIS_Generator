@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-46140-9_5
+UR  - http://dx.doi.org/10.1007/978-3-030-46140-9_5
+TI  - A Fuzzy Linguistic Approach for Stakeholder Prioritization
+T2  - Information Management and Big Data
+AU  - Pérez Vera, Yasiel
+AU  - Bermudez Peña, Anié
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 46-60
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030461393
+SN  - 9783030461409
+ER  - 

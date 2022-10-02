@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11227-020-03312-z
+UR  - http://dx.doi.org/10.1007/s11227-020-03312-z
+TI  - Smartphone processor architecture, operations, and functions: current state-of-the-art and future outlook: energy performance trade-off
+T2  - The Journal of Supercomputing
+AU  - Ginny
+AU  - Kumar, Chiranjeev
+AU  - Naik, Kshirasagar
+PY  - 2020
+DA  - 2020/05/16
+PB  - Springer Science and Business Media LLC
+SP  - 1377-1454
+IS  - 2
+VL  - 77
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

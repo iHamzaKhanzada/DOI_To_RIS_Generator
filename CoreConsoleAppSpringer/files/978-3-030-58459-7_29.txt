@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-58459-7_29
+UR  - http://dx.doi.org/10.1007/978-3-030-58459-7_29
+TI  - Ontology-Based Analysis and Design of Educational Games for Software Refactoring
+T2  - Communications in Computer and Information Science
+AU  - Haendler, Thorsten
+AU  - Neumann, Gustaf
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 602-628
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030584580
+SN  - 9783030584597
+ER  - 

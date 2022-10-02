@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-84522-3_64
+UR  - http://dx.doi.org/10.1007/978-3-030-84522-3_64
+TI  - Optimization of Low-Speed Dual Rotor Axial Flux Generator Design Through Electromagnetic Modelling and Simulation
+T2  - Intelligent Computing Theories and Application
+AU  - Premaratne, P.
+AU  - Abdullah, M. Q.
+AU  - Kadhim, I. J.
+AU  - Halloran, B.
+AU  - Vial, P. J.
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 786-801
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030845216
+SN  - 9783030845223
+ER  - 

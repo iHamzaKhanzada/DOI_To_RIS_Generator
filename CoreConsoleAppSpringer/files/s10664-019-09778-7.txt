@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09778-7
+UR  - http://dx.doi.org/10.1007/s10664-019-09778-7
+TI  - Selecting fault revealing mutants
+T2  - Empirical Software Engineering
+AU  - Titcheu Chekam, Thierry
+AU  - Papadakis, Mike
+AU  - Bissyandé, Tegawendé F.
+AU  - Le Traon, Yves
+AU  - Sen, Koushik
+PY  - 2019
+DA  - 2019/12/18
+PB  - Springer Science and Business Media LLC
+SP  - 434-487
+IS  - 1
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

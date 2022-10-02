@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-23597-0_16
+UR  - http://dx.doi.org/10.1007/978-3-030-23597-0_16
+TI  - Detecting Android Side Channel Probing Attacks Based on System States
+T2  - Wireless Algorithms, Systems, and Applications
+AU  - Lin, Qixiao
+AU  - Mao, Jian
+AU  - Shi, Futian
+AU  - Zhu, Shishi
+AU  - Liang, Zhenkai
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 201-212
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030235963
+SN  - 9783030235970
+ER  - 

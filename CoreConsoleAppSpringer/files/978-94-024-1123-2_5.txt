@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-94-024-1123-2_5
+UR  - http://dx.doi.org/10.1007/978-94-024-1123-2_5
+TI  - Infrastructure Resilience Assessment, Management and Governance – State and Perspectives
+T2  - NATO Science for Peace and Security Series C: Environmental Security
+AU  - Heinimann, Hans R.
+AU  - Hatfield, Kirk
+PY  - 2017
+PB  - Springer Netherlands
+SP  - 147-187
+SN  - 1874-6519
+SN  - 1874-6543
+SN  - 9789402411225
+SN  - 9789402411232
+ER  - 

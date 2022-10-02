@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00366-021-01402-x
+UR  - http://dx.doi.org/10.1007/s00366-021-01402-x
+TI  - An efficient method by nesting adaptive Kriging into Importance Sampling for failure-probability-based global sensitivity analysis
+T2  - Engineering with Computers
+AU  - Lei, Jingyu
+AU  - Lu, Zhenzhou
+AU  - Wang, Lu
+PY  - 2021
+DA  - 2021/04/27
+PB  - Springer Science and Business Media LLC
+SP  - 3595-3610
+IS  - 4
+VL  - 38
+SN  - 0177-0667
+SN  - 1435-5663
+ER  - 

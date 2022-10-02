@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-94-024-1123-2_15
+UR  - http://dx.doi.org/10.1007/978-94-024-1123-2_15
+TI  - Cyber-Transportation Resilience. Context and Methodological Framework
+T2  - NATO Science for Peace and Security Series C: Environmental Security
+AU  - Nogal, Maria
+AU  - O’Connor, Alan
+PY  - 2017
+PB  - Springer Netherlands
+SP  - 415-426
+SN  - 1874-6519
+SN  - 1874-6543
+SN  - 9789402411225
+SN  - 9789402411232
+ER  - 

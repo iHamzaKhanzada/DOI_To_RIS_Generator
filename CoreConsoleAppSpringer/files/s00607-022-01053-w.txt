@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00607-022-01053-w
+UR  - http://dx.doi.org/10.1007/s00607-022-01053-w
+TI  - An efficient framework for trust evaluation of secure service selection in fog computing based on QoS, reputation, and social criteria
+T2  - Computing
+AU  - Afzali, Mahboubeh
+AU  - Pourmohammadi, Hamid
+AU  - Mohammad Vali Samani, Amin
+PY  - 2022
+DA  - 2022/03/30
+PB  - Springer Science and Business Media LLC
+SP  - 1643-1675
+IS  - 7
+VL  - 104
+SN  - 0010-485X
+SN  - 1436-5057
+ER  - 

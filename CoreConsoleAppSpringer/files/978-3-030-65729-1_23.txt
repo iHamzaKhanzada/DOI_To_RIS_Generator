@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-65729-1_23
+UR  - http://dx.doi.org/10.1007/978-3-030-65729-1_23
+TI  - Development of Risk Controlling Mechanism and Tools for Agile Projects in Telecommunications
+T2  - Lecture Notes in Computer Science
+AU  - Grishunin, Sergei
+AU  - Suloeva, Svetlana
+AU  - Nekrasova, Tatyana
+AU  - Burova, Ekaterina
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 270-284
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030657284
+SN  - 9783030657291
+ER  - 

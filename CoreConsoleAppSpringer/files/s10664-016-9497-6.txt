@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10664-016-9497-6
+UR  - http://dx.doi.org/10.1007/s10664-016-9497-6
+TI  - On the long-term use of visual gui testing in industrial practice: a case study
+T2  - Empirical Software Engineering
+AU  - Alégroth, Emil
+AU  - Feldt, Robert
+PY  - 2017
+DA  - 2017/01/24
+PB  - Springer Science and Business Media LLC
+SP  - 2937-2971
+IS  - 6
+VL  - 22
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

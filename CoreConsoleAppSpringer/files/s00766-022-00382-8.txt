@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00766-022-00382-8
+UR  - http://dx.doi.org/10.1007/s00766-022-00382-8
+TI  - Privacy requirements elicitation: a systematic literature review and perception analysis of IT practitioners
+T2  - Requirements Engineering
+AU  - Canedo, Edna Dias
+AU  - Bandeira, Ian Nery
+AU  - Calazans, Angelica Toffano Seidel
+AU  - Costa, Pedro Henrique Teixeira
+AU  - Cançado, Emille Catarine Rodrigues
+AU  - Bonifácio, Rodrigo
+PY  - 2022
+DA  - 2022/06/11
+PB  - Springer Science and Business Media LLC
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

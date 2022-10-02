@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10586-020-03100-7
+UR  - http://dx.doi.org/10.1007/s10586-020-03100-7
+TI  - A dynamic VM provisioning and de-provisioning based cost-efficient deadline-aware scheduling algorithm for Big Data workflow applications in a cloud environment
+T2  - Cluster Computing
+AU  - Ahmad, Wakar
+AU  - Alam, Bashir
+AU  - Ahuja, Sanchit
+AU  - Malik, Sahil
+PY  - 2020
+DA  - 2020/04/11
+PB  - Springer Science and Business Media LLC
+SP  - 249-278
+IS  - 1
+VL  - 24
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

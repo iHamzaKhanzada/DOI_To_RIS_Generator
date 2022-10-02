@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10922-022-09672-6
+UR  - http://dx.doi.org/10.1007/s10922-022-09672-6
+TI  - Value is King: The MECForge Deep Reinforcement Learning Solution for Resource Management in 5G and Beyond
+T2  - Journal of Network and Systems Management
+AU  - Poltronieri, Filippo
+AU  - Stefanelli, Cesare
+AU  - Suri, Niranjan
+AU  - Tortonesi, Mauro
+PY  - 2022
+DA  - 2022/07/27
+PB  - Springer Science and Business Media LLC
+IS  - 4
+VL  - 30
+SN  - 1064-7570
+SN  - 1573-7705
+ER  - 

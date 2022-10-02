@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10462-020-09925-3
+UR  - http://dx.doi.org/10.1007/s10462-020-09925-3
+TI  - Generalized Maclaurin symmetric mean aggregation operators based on Archimedean t-norm of the intuitionistic fuzzy soft set information
+T2  - Artificial Intelligence Review
+AU  - Garg, Harish
+AU  - Arora, Rishu
+PY  - 2020
+DA  - 2020/10/26
+PB  - Springer Science and Business Media LLC
+SP  - 3173-3213
+IS  - 4
+VL  - 54
+SN  - 0269-2821
+SN  - 1573-7462
+ER  - 

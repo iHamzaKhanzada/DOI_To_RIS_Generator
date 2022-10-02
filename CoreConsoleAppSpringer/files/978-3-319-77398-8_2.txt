@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-77398-8_2
+UR  - http://dx.doi.org/10.1007/978-3-319-77398-8_2
+TI  - Analysis of Mixed Workloads from Shared Cloud Infrastructure
+T2  - Job Scheduling Strategies for Parallel Processing
+AU  - Klusáček, Dalibor
+AU  - Parák, Boris
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 25-42
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319773971
+SN  - 9783319773988
+ER  - 

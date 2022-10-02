@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-91743-6_27
+UR  - http://dx.doi.org/10.1007/978-3-319-91743-6_27
+TI  - Designing a Collaborative Learning Hub for Virtual Mobility Skills - Insights from the European Project Open Virtual Mobility
+T2  - Learning and Collaboration Technologies. Design, Development and Technological Innovation
+AU  - Buchem, Ilona
+AU  - Konert, Johannes
+AU  - Carlino, Chiara
+AU  - Casanova, Gerard
+AU  - Rajagopal, Kamakshi
+AU  - Firssova, Olga
+AU  - Andone, Diana
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 350-375
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319917429
+SN  - 9783319917436
+ER  - 

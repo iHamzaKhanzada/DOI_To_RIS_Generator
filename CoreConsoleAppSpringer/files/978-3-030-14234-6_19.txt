@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-14234-6_19
+UR  - http://dx.doi.org/10.1007/978-3-030-14234-6_19
+TI  - Analyzing Use of High Privileges on Android: An Empirical Case Study of Screenshot and Screen Recording Applications
+T2  - Information Security and Cryptology
+AU  - Meng, Mark H.
+AU  - Bai, Guangdong
+AU  - Liu, Joseph K.
+AU  - Luo, Xiapu
+AU  - Wang, Yu
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 349-369
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030142339
+SN  - 9783030142346
+ER  - 

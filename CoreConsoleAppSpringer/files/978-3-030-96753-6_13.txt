@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-96753-6_13
+UR  - http://dx.doi.org/10.1007/978-3-030-96753-6_13
+TI  - A Covid-19 Vaccination Tracking and Control Platform in Santiago de Cali
+T2  - Smart Cities
+AU  - Fuentes, Andres Felipe
+AU  - Botero, Diego Fernando
+AU  - Ramirez, Cristhian Torres
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 178-191
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030967529
+SN  - 9783030967536
+ER  - 

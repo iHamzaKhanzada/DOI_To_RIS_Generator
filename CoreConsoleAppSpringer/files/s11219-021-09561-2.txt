@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11219-021-09561-2
+UR  - http://dx.doi.org/10.1007/s11219-021-09561-2
+TI  - Exploring human factors of the agile software tester
+T2  - Software Quality Journal
+AU  - Stray, Viktoria
+AU  - Florea, Raluca
+AU  - Paruch, Lucas
+PY  - 2021
+DA  - 2021/06/16
+PB  - Springer Science and Business Media LLC
+SP  - 455-481
+IS  - 2
+VL  - 30
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

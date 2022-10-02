@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-90963-5_31
+UR  - http://dx.doi.org/10.1007/978-3-030-90963-5_31
+TI  - How to Explain It to Facility Managers? A Qualitative, Industrial User Research Study for Explainability
+T2  - HCI International 2021 - Late Breaking Papers: Multimodality, eXtended Reality, and Artificial Intelligence
+AU  - Degen, Helmut
+AU  - Budnik, Christof J.
+AU  - Chitre, Kunal
+AU  - Lintereur, Andrew
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 401-422
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030909628
+SN  - 9783030909635
+ER  - 

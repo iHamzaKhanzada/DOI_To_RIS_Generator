@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11241-022-09381-y
+UR  - http://dx.doi.org/10.1007/s11241-022-09381-y
+TI  - Exploring AMD GPU scheduling details by experimenting with “worst practices”
+T2  - Real-Time Systems
+AU  - Otterness, Nathan
+AU  - Anderson, James H.
+PY  - 2022
+DA  - 2022/03/23
+PB  - Springer Science and Business Media LLC
+SP  - 105-133
+IS  - 2
+VL  - 58
+SN  - 0922-6443
+SN  - 1573-1383
+ER  - 

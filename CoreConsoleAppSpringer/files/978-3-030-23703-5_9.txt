@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-23703-5_9
+UR  - http://dx.doi.org/10.1007/978-3-030-23703-5_9
+TI  - A Quantitative Metric Temporal Logic for Execution-Time Constrained Verification
+T2  - Cyber Physical Systems. Model-Based Design
+AU  - Lehmann, Sascha
+AU  - Antoni, Sven-Thomas
+AU  - Schlaefer, Alexander
+AU  - Schupp, Sibylle
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 170-189
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030237028
+SN  - 9783030237035
+ER  - 

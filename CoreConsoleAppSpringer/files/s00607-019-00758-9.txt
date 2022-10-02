@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00607-019-00758-9
+UR  - http://dx.doi.org/10.1007/s00607-019-00758-9
+TI  - Quality attributes use in architecture design decision methods: research and practice
+T2  - Computing
+AU  - Lytra, Ioanna
+AU  - Carrillo, Carlos
+AU  - Capilla, Rafael
+AU  - Zdun, Uwe
+PY  - 2019
+DA  - 2019/10/01
+PB  - Springer Science and Business Media LLC
+SP  - 551-572
+IS  - 2
+VL  - 102
+SN  - 0010-485X
+SN  - 1436-5057
+ER  - 

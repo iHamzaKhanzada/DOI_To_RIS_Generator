@@ -1,0 +1,24 @@
+TY  - JOUR
+DO  - 10.1007/s11042-020-10219-7
+UR  - http://dx.doi.org/10.1007/s11042-020-10219-7
+TI  - Serverless streaming for emerging media: towards 5G network-driven cost optimization
+T2  - Multimedia Tools and Applications
+AU  - Konstantoudakis, Konstantinos
+AU  - Breitgand, David
+AU  - Doumanoglou, Alexandros
+AU  - Zioulis, Nikolaos
+AU  - Weit, Avi
+AU  - Christaki, Kyriaki
+AU  - Drakoulis, Petros
+AU  - Christakis, Emmanouil
+AU  - Zarpalas, Dimitrios
+AU  - Daras, Petros
+PY  - 2021
+DA  - 2021/03/24
+PB  - Springer Science and Business Media LLC
+SP  - 12211-12250
+IS  - 9
+VL  - 81
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

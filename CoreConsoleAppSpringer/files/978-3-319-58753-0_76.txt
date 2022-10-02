@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-58753-0_76
+UR  - http://dx.doi.org/10.1007/978-3-319-58753-0_76
+TI  - Optimal Design of the Front Face of Minicars Based on Analytic Hierarchy Process
+T2  - Communications in Computer and Information Science
+AU  - Deng, Wenjie
+AU  - Kang, Xinhui
+AU  - Zhang, Congru
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 543-549
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783319587523
+SN  - 9783319587530
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10586-021-03509-8
+UR  - http://dx.doi.org/10.1007/s10586-021-03509-8
+TI  - Fisher linear discriminant and discrete global swarm based task scheduling in cloud environment
+T2  - Cluster Computing
+AU  - Ajitha, K. M.
+AU  - Indra, N. Chenthalir
+PY  - 2022
+DA  - 2022/01/29
+PB  - Springer Science and Business Media LLC
+SP  - 3145-3160
+IS  - 5
+VL  - 25
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

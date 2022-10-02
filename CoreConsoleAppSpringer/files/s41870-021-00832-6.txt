@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s41870-021-00832-6
+UR  - http://dx.doi.org/10.1007/s41870-021-00832-6
+TI  - Editorial
+T2  - International Journal of Information Technology
+AU  - Hoda, M. N.
+PY  - 2021
+DA  - 2021/11/08
+PB  - Springer Science and Business Media LLC
+SP  - 2141-2144
+IS  - 6
+VL  - 13
+SN  - 2511-2104
+SN  - 2511-2112
+ER  - 

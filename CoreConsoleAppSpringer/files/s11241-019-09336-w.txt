@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11241-019-09336-w
+UR  - http://dx.doi.org/10.1007/s11241-019-09336-w
+TI  - Work-conserving dynamic time-division multiplexing for multi-criticality systems
+T2  - Real-Time Systems
+AU  - Hebbache, Farouk
+AU  - Brandner, Florian
+AU  - Jan, Mathieu
+AU  - Pautet, Laurent
+PY  - 2019
+DA  - 2019/07/26
+PB  - Springer Science and Business Media LLC
+SP  - 124-170
+IS  - 2
+VL  - 56
+SN  - 0922-6443
+SN  - 1573-1383
+ER  - 

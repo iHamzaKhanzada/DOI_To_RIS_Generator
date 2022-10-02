@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-79186-5_15
+UR  - http://dx.doi.org/10.1007/978-3-030-79186-5_15
+TI  - Design Thinking and Enterprise Modeling: An Investigation of Eight Enterprise Architecture Management Projects
+T2  - Enterprise, Business-Process and Information Systems Modeling
+AU  - Koç, Hasan
+AU  - Sandkuhl, Kurt
+AU  - Stirna, Janis
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 228-242
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030791858
+SN  - 9783030791865
+ER  - 

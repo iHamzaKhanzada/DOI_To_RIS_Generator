@@ -1,0 +1,23 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-14273-5_12
+UR  - http://dx.doi.org/10.1007/978-3-030-14273-5_12
+TI  - Mental Workload in the Explanation of Automation Effects on ATC Performance
+T2  - Communications in Computer and Information Science
+AU  - Cañas, José Juan
+AU  - Ferreira, Pedro
+AU  - de Frutos, Patricia López
+AU  - Puntero, Eva
+AU  - López, Elena
+AU  - Gómez-Comendador, Fernando
+AU  - de Crescenzio, Francesca
+AU  - Lucchi, Francesca
+AU  - Netjasov, Fedja
+AU  - Mirkovic, Bojana
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 202-221
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030142728
+SN  - 9783030142735
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11227-021-03741-4
+UR  - http://dx.doi.org/10.1007/s11227-021-03741-4
+TI  - A novel multiclass priority algorithm for task scheduling in cloud computing
+T2  - The Journal of Supercomputing
+AU  - Ben Alla, Hicham
+AU  - Ben Alla, Said
+AU  - Ezzati, Abdellah
+AU  - Touhafi, Abdellah
+PY  - 2021
+DA  - 2021/03/26
+PB  - Springer Science and Business Media LLC
+SP  - 11514-11555
+IS  - 10
+VL  - 77
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

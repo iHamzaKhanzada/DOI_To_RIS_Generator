@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10664-022-10132-7
+UR  - http://dx.doi.org/10.1007/s10664-022-10132-7
+TI  - On the evolution and impact of architectural smells—an industrial case study
+T2  - Empirical Software Engineering
+AU  - Sas, Darius
+AU  - Avgeriou, Paris
+AU  - Uyumaz, Umut
+PY  - 2022
+DA  - 2022/04/09
+PB  - Springer Science and Business Media LLC
+IS  - 4
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

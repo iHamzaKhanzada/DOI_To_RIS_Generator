@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-96498-6_12
+UR  - http://dx.doi.org/10.1007/978-3-030-96498-6_12
+TI  - A Hardware Co-design Workflow for Scientific Instruments at the Edge
+T2  - Driving Scientific and Engineering Discoveries Through the Integration of Experiment, Big Data, and Modeling and Simulation
+AU  - Yoshii, Kazutomo
+AU  - Sankaran, Rajesh
+AU  - Strempfer, Sebastian
+AU  - Levental, Maksim
+AU  - Hammer, Mike
+AU  - Miceli, Antonino
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 209-226
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030964979
+SN  - 9783030964986
+ER  - 

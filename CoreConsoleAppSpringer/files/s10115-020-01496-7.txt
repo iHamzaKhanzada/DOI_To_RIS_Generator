@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10115-020-01496-7
+UR  - http://dx.doi.org/10.1007/s10115-020-01496-7
+TI  - A fuzzy-AHP-based approach to select software architecture based on quality attributes (FASSA)
+T2  - Knowledge and Information Systems
+AU  - Moaven, Shahrouz
+AU  - Habibi, Jafar
+PY  - 2020
+DA  - 2020/08/13
+PB  - Springer Science and Business Media LLC
+SP  - 4569-4597
+IS  - 12
+VL  - 62
+SN  - 0219-1377
+SN  - 0219-3116
+ER  - 

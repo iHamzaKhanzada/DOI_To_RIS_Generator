@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s10723-018-9455-1
+UR  - http://dx.doi.org/10.1007/s10723-018-9455-1
+TI  - An Automated Permission Selection Framework for Android Platform
+T2  - Journal of Grid Computing
+AU  - Ali, Toqeer
+AU  - Khan, Yasar
+AU  - Ali, Tamleek
+AU  - Faizullah, Safiullah
+AU  - Alghamdi, Turki
+AU  - Anwar, Sajid
+PY  - 2018
+DA  - 2018/08/04
+PB  - Springer Science and Business Media LLC
+SP  - 547-561
+IS  - 3
+VL  - 18
+SN  - 1570-7873
+SN  - 1572-9184
+ER  - 

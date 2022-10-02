@@ -1,0 +1,13 @@
+TY  - JOUR
+DO  - 10.1007/s10270-021-00961-3
+UR  - http://dx.doi.org/10.1007/s10270-021-00961-3
+TI  - Measurement and classification of inter-actor dependencies in goal models
+T2  - Software and Systems Modeling
+AU  - Hassine, Jameleddine
+AU  - Tukur, Muhammad
+PY  - 2022
+DA  - 2022/01/20
+PB  - Springer Science and Business Media LLC
+SN  - 1619-1366
+SN  - 1619-1374
+ER  - 

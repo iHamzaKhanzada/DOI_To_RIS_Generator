@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00766-018-0298-x
+UR  - http://dx.doi.org/10.1007/s00766-018-0298-x
+TI  - A requirements engineering methodology for knowledge management solutions: integrating technical and social aspects
+T2  - Requirements Engineering
+AU  - Levy, Meira
+AU  - Hadar, Irit
+AU  - Aviv, Itzhak
+PY  - 2018
+DA  - 2018/05/24
+PB  - Springer Science and Business Media LLC
+SP  - 503-521
+IS  - 4
+VL  - 24
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

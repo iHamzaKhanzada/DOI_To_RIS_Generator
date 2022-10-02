@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s11042-016-3450-y
+UR  - http://dx.doi.org/10.1007/s11042-016-3450-y
+TI  - Analysis of interaction trace maps for active authentication on smart devices
+T2  - Multimedia Tools and Applications
+AU  - Ahmad, Jamil
+AU  - Sajjad, Muhammad
+AU  - Jan, Zahoor
+AU  - Mehmood, Irfan
+AU  - Rho, Seungmin
+AU  - Baik, Sung Wook
+PY  - 2016
+DA  - 2016/04/15
+PB  - Springer Science and Business Media LLC
+SP  - 4069-4087
+IS  - 3
+VL  - 76
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

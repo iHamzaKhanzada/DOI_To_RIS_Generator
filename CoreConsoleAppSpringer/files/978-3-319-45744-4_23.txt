@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-45744-4_23
+UR  - http://dx.doi.org/10.1007/978-3-319-45744-4_23
+TI  - Stay in Your Cage! A Sound Sandbox for Third-Party Libraries on Android
+T2  - Computer Security – ESORICS 2016
+AU  - Wang, Fabo
+AU  - Zhang, Yuqing
+AU  - Wang, Kai
+AU  - Liu, Peng
+AU  - Wang, Wenjie
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 458-476
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319457437
+SN  - 9783319457444
+ER  - 

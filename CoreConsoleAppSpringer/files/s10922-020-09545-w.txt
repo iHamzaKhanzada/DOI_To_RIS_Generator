@@ -1,0 +1,28 @@
+TY  - JOUR
+DO  - 10.1007/s10922-020-09545-w
+UR  - http://dx.doi.org/10.1007/s10922-020-09545-w
+TI  - Immersive Interconnected Virtual and Augmented Reality: A 5G and IoT Perspective
+T2  - Journal of Network and Systems Management
+AU  - Torres Vega, Maria
+AU  - Liaskos, Christos
+AU  - Abadal, Sergi
+AU  - Papapetrou, Evangelos
+AU  - Jain, Akshay
+AU  - Mouhouche, Belkacem
+AU  - Kalem, Gökhan
+AU  - Ergüt, Salih
+AU  - Mach, Marian
+AU  - Sabol, Tomas
+AU  - Cabellos-Aparicio, Albert
+AU  - Grimm, Christoph
+AU  - De Turck, Filip
+AU  - Famaey, Jeroen
+PY  - 2020
+DA  - 2020/06/12
+PB  - Springer Science and Business Media LLC
+SP  - 796-826
+IS  - 4
+VL  - 28
+SN  - 1064-7570
+SN  - 1573-7705
+ER  - 

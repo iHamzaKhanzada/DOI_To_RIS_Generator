@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-28005-5_59
+UR  - http://dx.doi.org/10.1007/978-3-030-28005-5_59
+TI  - A New Approach to Analysing and Visualizing the Management of Corporate Innovation Projects
+T2  - Communications in Computer and Information Science
+AU  - Gebhardt, Karolin
+AU  - Riel, Andreas
+AU  - Maes, Tom
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 756-768
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030280048
+SN  - 9783030280055
+ER  - 

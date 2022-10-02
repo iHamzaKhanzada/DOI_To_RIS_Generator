@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-77243-1_14
+UR  - http://dx.doi.org/10.1007/978-3-319-77243-1_14
+TI  - Jobs-to-be-Done Oriented Requirements Engineering: A Method for Defining Job Stories
+T2  - Requirements Engineering: Foundation for Software Quality
+AU  - Lucassen, Garm
+AU  - van de Keuken, Maxim
+AU  - Dalpiaz, Fabiano
+AU  - Brinkkemper, Sjaak
+AU  - Sloof, Gijs Willem
+AU  - Schlingmann, Johan
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 227-243
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319772424
+SN  - 9783319772431
+ER  - 

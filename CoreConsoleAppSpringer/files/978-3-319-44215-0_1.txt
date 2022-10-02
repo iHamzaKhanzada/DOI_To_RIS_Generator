@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-44215-0_1
+UR  - http://dx.doi.org/10.1007/978-3-319-44215-0_1
+TI  - An Android Kernel Extension to Save Energy Resources Without Impacting User Experience
+T2  - Mobile Web and Intelligent Information Systems
+AU  - Corral, Luis
+AU  - Fronza, Ilenia
+AU  - El Ioini, Nabil
+AU  - Janes, Andrea
+AU  - Plant, Peter
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 3-17
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319442143
+SN  - 9783319442150
+ER  - 

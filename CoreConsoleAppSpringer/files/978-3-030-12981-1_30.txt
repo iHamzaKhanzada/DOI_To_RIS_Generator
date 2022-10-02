@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-12981-1_30
+UR  - http://dx.doi.org/10.1007/978-3-030-12981-1_30
+TI  - New Cross-Domain QoE Guarantee Method Based on Isomorphism Flow
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Wang, Zaijian
+AU  - Chen, Chen
+AU  - Wang, Xinheng
+AU  - Yang, Lingyun
+AU  - Tang, Pingping
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 432-447
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030129804
+SN  - 9783030129811
+ER  - 

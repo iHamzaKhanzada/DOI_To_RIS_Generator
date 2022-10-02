@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10586-017-1401-7
+UR  - http://dx.doi.org/10.1007/s10586-017-1401-7
+TI  - Optimal test suite selection in regression testing with testcase prioritization using modified Ann and Whale optimization algorithm
+T2  - Cluster Computing
+AU  - Harikarthik, S. K.
+AU  - Palanisamy, V.
+AU  - Ramanathan, P.
+PY  - 2017
+DA  - 2017/11/30
+PB  - Springer Science and Business Media LLC
+SP  - 11425-11434
+IS  - S5
+VL  - 22
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-87013-3_19
+UR  - http://dx.doi.org/10.1007/978-3-030-87013-3_19
+TI  - DevOps Job Roles: A Multivocal Literature Review
+T2  - Computational Science and Its Applications – ICCSA 2021
+AU  - Umar, Muhammad
+AU  - Colomo-Palacios, Ricardo
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 247-256
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030870126
+SN  - 9783030870133
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11280-021-00916-0
+UR  - http://dx.doi.org/10.1007/s11280-021-00916-0
+TI  - Explainable recommendation: when design meets trust calibration
+T2  - World Wide Web
+AU  - Naiseh, Mohammad
+AU  - Al-Thani, Dena
+AU  - Jiang, Nan
+AU  - Ali, Raian
+PY  - 2021
+DA  - 2021/08/02
+PB  - Springer Science and Business Media LLC
+SP  - 1857-1884
+IS  - 5
+VL  - 24
+SN  - 1386-145X
+SN  - 1573-1413
+ER  - 

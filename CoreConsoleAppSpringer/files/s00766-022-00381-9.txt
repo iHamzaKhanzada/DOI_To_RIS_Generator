@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s00766-022-00381-9
+UR  - http://dx.doi.org/10.1007/s00766-022-00381-9
+TI  - A systematic literature review of requirements engineering education
+T2  - Requirements Engineering
+AU  - Daun, Marian
+AU  - Grubb, Alicia M.
+AU  - Stenkova, Viktoria
+AU  - Tenbergen, Bastian
+PY  - 2022
+DA  - 2022/05/19
+PB  - Springer Science and Business Media LLC
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

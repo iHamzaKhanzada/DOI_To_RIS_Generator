@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10791-016-9291-5
+UR  - http://dx.doi.org/10.1007/s10791-016-9291-5
+TI  - The role of index compression in score-at-a-time query evaluation
+T2  - Information Retrieval Journal
+AU  - Lin, Jimmy
+AU  - Trotman, Andrew
+PY  - 2017
+DA  - 2017/01/25
+PB  - Springer Science and Business Media LLC
+SP  - 199-220
+IS  - 3
+VL  - 20
+SN  - 1386-4564
+SN  - 1573-7659
+ER  - 

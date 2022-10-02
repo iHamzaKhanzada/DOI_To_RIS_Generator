@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10766-022-00727-4
+UR  - http://dx.doi.org/10.1007/s10766-022-00727-4
+TI  - DRAMSys4.0: An Open-Source Simulation Framework for In-depth DRAM Analyses
+T2  - International Journal of Parallel Programming
+AU  - Steiner, Lukas
+AU  - Jung, Matthias
+AU  - Prado, Felipe S.
+AU  - Bykov, Kirill
+AU  - Wehn, Norbert
+PY  - 2022
+DA  - 2022/03/12
+PB  - Springer Science and Business Media LLC
+SP  - 217-242
+IS  - 2
+VL  - 50
+SN  - 0885-7458
+SN  - 1573-7640
+ER  - 

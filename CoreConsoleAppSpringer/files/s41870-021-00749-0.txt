@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s41870-021-00749-0
+UR  - http://dx.doi.org/10.1007/s41870-021-00749-0
+TI  - A rough-set based approach for the prioritization of software requirements
+T2  - International Journal of Information Technology
+AU  - Sadiq, Mohd.
+AU  - Devi, V. Susheela
+PY  - 2021
+DA  - 2021/08/18
+PB  - Springer Science and Business Media LLC
+SP  - 447-457
+IS  - 1
+VL  - 14
+SN  - 2511-2104
+SN  - 2511-2112
+ER  - 

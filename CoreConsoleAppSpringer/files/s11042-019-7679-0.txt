@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11042-019-7679-0
+UR  - http://dx.doi.org/10.1007/s11042-019-7679-0
+TI  - Video streaming over MANETs: An overview of techniques
+T2  - Multimedia Tools and Applications
+AU  - Fleury, Martin
+AU  - Kanellopoulos, Dimitris
+AU  - Qadri, Nadia N.
+PY  - 2019
+DA  - 2019/05/09
+PB  - Springer Science and Business Media LLC
+SP  - 23749-23782
+IS  - 16
+VL  - 78
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

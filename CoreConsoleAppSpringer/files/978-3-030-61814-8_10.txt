@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-61814-8_10
+UR  - http://dx.doi.org/10.1007/978-3-030-61814-8_10
+TI  - Bridging the Cyber Security Skills Gap: Using Tabletop Exercises to Solve the CSSG Crisis
+T2  - Serious Games
+AU  - Angafor, Giddeon N.
+AU  - Yevseyeva, Iryna
+AU  - He, Ying
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 117-131
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030618131
+SN  - 9783030618148
+ER  - 

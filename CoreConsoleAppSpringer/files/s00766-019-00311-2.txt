@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s00766-019-00311-2
+UR  - http://dx.doi.org/10.1007/s00766-019-00311-2
+TI  - Requirements analysis gamification in legacy system replacement projects
+T2  - Requirements Engineering
+AU  - Alexandrova, Assia
+AU  - Rapanotti, Lucia
+PY  - 2019
+DA  - 2019/05/28
+PB  - Springer Science and Business Media LLC
+SP  - 131-151
+IS  - 2
+VL  - 25
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s41870-021-00710-1
+UR  - http://dx.doi.org/10.1007/s41870-021-00710-1
+TI  - An intelligent handoff optimization algorithm for network selection in heterogeneous networks
+T2  - International Journal of Information Technology
+AU  - Dhand, Pooja
+AU  - Mittal, Sumit
+AU  - Sharma, Geeta
+PY  - 2021
+DA  - 2021/05/18
+PB  - Springer Science and Business Media LLC
+SP  - 2025-2036
+IS  - 5
+VL  - 13
+SN  - 2511-2104
+SN  - 2511-2112
+ER  - 

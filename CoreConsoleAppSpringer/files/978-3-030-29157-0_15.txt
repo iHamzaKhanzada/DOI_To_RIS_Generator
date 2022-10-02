@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-29157-0_15
+UR  - http://dx.doi.org/10.1007/978-3-030-29157-0_15
+TI  - Guiding the Functional Change Decisions in Agile Project: An Empirical Evaluation
+T2  - Communications in Computer and Information Science
+AU  - Sellami, Asma
+AU  - Haoues, Mariem
+AU  - Borchani, Nour
+AU  - Bouassida, Nadia
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 327-348
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030291563
+SN  - 9783030291570
+ER  - 

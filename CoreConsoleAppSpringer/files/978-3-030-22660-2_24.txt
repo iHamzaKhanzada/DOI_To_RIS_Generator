@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-22660-2_24
+UR  - http://dx.doi.org/10.1007/978-3-030-22660-2_24
+TI  - Interactive HMI for Qualification and Programming in Process Automation EduBrain 4.0
+T2  - Human Interface and the Management of Information. Visual Information and Knowledge Management
+AU  - Schmitz, Sebastian
+AU  - Schilberg, Daniel
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 343-351
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030226596
+SN  - 9783030226602
+ER  - 

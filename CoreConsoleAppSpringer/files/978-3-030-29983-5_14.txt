@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-29983-5_14
+UR  - http://dx.doi.org/10.1007/978-3-030-29983-5_14
+TI  - Assessing the Quality Impact of Features in Component-Based Software Architectures
+T2  - Software Architecture
+AU  - Busch, Axel
+AU  - Fuchß, Dominik
+AU  - Eckert, Maximilian
+AU  - Koziolek, Anne
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 211-219
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030299828
+SN  - 9783030299835
+ER  - 

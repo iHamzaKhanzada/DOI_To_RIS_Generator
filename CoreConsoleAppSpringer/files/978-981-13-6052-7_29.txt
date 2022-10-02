@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-13-6052-7_29
+UR  - http://dx.doi.org/10.1007/978-981-13-6052-7_29
+TI  - Transaction and Identity Authentication Security Model for E-Banking: Confluence of Quantum Cryptography and AI
+T2  - Communications in Computer and Information Science
+AU  - Hassan, Tayyabah
+AU  - Ahmed, Fahad
+PY  - 2019
+PB  - Springer Singapore
+SP  - 338-347
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811360510
+SN  - 9789811360527
+ER  - 

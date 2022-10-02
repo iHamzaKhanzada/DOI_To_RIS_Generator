@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-67074-4_34
+UR  - http://dx.doi.org/10.1007/978-3-319-67074-4_34
+TI  - OpenCL for Large-Scale Agent-Based Simulations
+T2  - Computational Collective Intelligence
+AU  - Procházka, Jan
+AU  - Štekerová, Kamila
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 351-360
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319670737
+SN  - 9783319670744
+ER  - 

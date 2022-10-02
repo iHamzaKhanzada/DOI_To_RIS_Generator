@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-16407-1_35
+UR  - http://dx.doi.org/10.1007/978-3-031-16407-1_35
+TI  - Determining Due Dates for Rush Orders
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Mundt, Christopher
+AU  - Beck, Eilis Bernadette
+AU  - Lödding, Hermann
+PY  - 2022
+PB  - Springer Nature Switzerland
+SP  - 293-301
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783031164064
+SN  - 9783031164071
+ER  - 

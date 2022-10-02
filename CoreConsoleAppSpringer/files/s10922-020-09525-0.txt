@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10922-020-09525-0
+UR  - http://dx.doi.org/10.1007/s10922-020-09525-0
+TI  - FlexNGIA: A Flexible Internet Architecture for the Next-Generation Tactile Internet
+T2  - Journal of Network and Systems Management
+AU  - Zhani, Mohamed Faten
+AU  - ElBakoury, Hesham
+PY  - 2020
+DA  - 2020/03/17
+PB  - Springer Science and Business Media LLC
+SP  - 751-795
+IS  - 4
+VL  - 28
+SN  - 1064-7570
+SN  - 1573-7705
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1186/s40537-020-00363-0
+UR  - http://dx.doi.org/10.1186/s40537-020-00363-0
+TI  - A survey of methods supporting cyber situational awareness in the context of smart cities
+T2  - Journal of Big Data
+AU  - Neshenko, Nataliia
+AU  - Nader, Christelle
+AU  - Bou-Harb, Elias
+AU  - Furht, Borko
+PY  - 2020
+DA  - 2020/10/21
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 7
+SN  - 2196-1115
+ER  - 

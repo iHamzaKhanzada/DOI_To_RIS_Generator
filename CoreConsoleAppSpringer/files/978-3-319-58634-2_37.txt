@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-58634-2_37
+UR  - http://dx.doi.org/10.1007/978-3-319-58634-2_37
+TI  - The UX Metrics Table: A Missing Artifact
+T2  - Design, User Experience, and Usability: Theory, Methodology, and Management
+AU  - Wallach, Dieter
+AU  - Conrad, Jan
+AU  - Steimle, Toni
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 507-517
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319586335
+SN  - 9783319586342
+ER  - 

@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-29238-6_5
+UR  - http://dx.doi.org/10.1007/978-3-030-29238-6_5
+TI  - On the Use of Non-technical Requirements for the Evaluation of FOSS Software Components
+T2  - Communications in Computer and Information Science
+AU  - Carvallo, Juan Pablo
+AU  - Carvajal, Fabián
+AU  - Crespo, Esteban
+AU  - Mendez, Lucia
+AU  - Torres, María José
+AU  - Vintimilla, Rosalva
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 64-78
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030292379
+SN  - 9783030292386
+ER  - 

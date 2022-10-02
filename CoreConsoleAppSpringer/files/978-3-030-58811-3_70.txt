@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-58811-3_70
+UR  - http://dx.doi.org/10.1007/978-3-030-58811-3_70
+TI  - Software Process Improvement Assessment for Cloud Application Based on Fuzzy Analytical Hierarchy Process Method
+T2  - Computational Science and Its Applications – ICCSA 2020
+AU  - Dalal, Surjeet
+AU  - Agrawal, Akshat
+AU  - Dahiya, Neeraj
+AU  - Verma, Jatin
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 989-1001
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030588106
+SN  - 9783030588113
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10586-021-03406-0
+UR  - http://dx.doi.org/10.1007/s10586-021-03406-0
+TI  - A fuzzy approach for optimal placement of IoT applications in fog-cloud computing
+T2  - Cluster Computing
+AU  - Tavousi, Farhad
+AU  - Azizi, Sadoon
+AU  - Ghaderzadeh, Abdulbaghi
+PY  - 2021
+DA  - 2021/09/07
+PB  - Springer Science and Business Media LLC
+SP  - 303-320
+IS  - 1
+VL  - 25
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

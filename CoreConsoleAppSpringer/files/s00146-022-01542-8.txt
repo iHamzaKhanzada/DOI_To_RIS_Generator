@@ -1,0 +1,13 @@
+TY  - JOUR
+DO  - 10.1007/s00146-022-01542-8
+UR  - http://dx.doi.org/10.1007/s00146-022-01542-8
+TI  - Elephant motorbikes and too many neckties: epistemic spatialization as a framework for investigating patterns of bias in convolutional neural networks
+T2  - AI &amp; SOCIETY
+AU  - Drainville, Raymond
+AU  - Vis, Farida
+PY  - 2022
+DA  - 2022/08/10
+PB  - Springer Science and Business Media LLC
+SN  - 0951-5666
+SN  - 1435-5655
+ER  - 

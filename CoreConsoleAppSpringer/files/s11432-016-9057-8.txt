@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11432-016-9057-8
+UR  - http://dx.doi.org/10.1007/s11432-016-9057-8
+TI  - Cost-effective testing based fault localization with distance based test-suite reduction
+T2  - Science China Information Sciences
+AU  - Wang, Xingya
+AU  - Jiang, Shujuan
+AU  - Gao, Pengfei
+AU  - Ju, Xiaolin
+AU  - Wang, Rongcun
+AU  - Zhang, Yanmei
+PY  - 2017
+DA  - 2017/07/28
+PB  - Springer Science and Business Media LLC
+IS  - 9
+VL  - 60
+SN  - 1674-733X
+SN  - 1869-1919
+ER  - 

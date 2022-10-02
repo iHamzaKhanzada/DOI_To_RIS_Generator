@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11704-020-9281-z
+UR  - http://dx.doi.org/10.1007/s11704-020-9281-z
+TI  - Using BiLSTM with attention mechanism to automatically detect self-admitted technical debt
+T2  - Frontiers of Computer Science
+AU  - Yu, Dongjin
+AU  - Wang, Lin
+AU  - Chen, Xin
+AU  - Chen, Jie
+PY  - 2021
+DA  - 2021/05/25
+PB  - Springer Science and Business Media LLC
+IS  - 4
+VL  - 15
+SN  - 2095-2228
+SN  - 2095-2236
+ER  - 

@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-16-5188-5_37
+UR  - http://dx.doi.org/10.1007/978-981-16-5188-5_37
+TI  - An Extended TODIM Method Based on Interval-Valued Pythagorean Hesitant Fuzzy Sets and Its Utilization in Green Shipping
+T2  - Neural Computing for Advanced Applications
+AU  - Liu, Xueqin
+AU  - Bao, Junzhong
+AU  - Meng, Yanli
+AU  - Wang, Lidong
+PY  - 2021
+PB  - Springer Singapore
+SP  - 516-529
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811651878
+SN  - 9789811651885
+ER  - 

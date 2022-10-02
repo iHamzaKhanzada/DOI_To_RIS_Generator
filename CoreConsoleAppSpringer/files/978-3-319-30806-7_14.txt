@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-30806-7_14
+UR  - http://dx.doi.org/10.1007/978-3-319-30806-7_14
+TI  - AppPAL for Android
+T2  - Lecture Notes in Computer Science
+AU  - Hallett, Joseph
+AU  - Aspinall, David
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 216-232
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319308050
+SN  - 9783319308067
+ER  - 

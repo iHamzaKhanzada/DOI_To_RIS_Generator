@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-72379-8_28
+UR  - http://dx.doi.org/10.1007/978-3-030-72379-8_28
+TI  - Stochastic Workflow Modeling in a Surgical Ward: Towards Simulating and Predicting Patient Flow
+T2  - Biomedical Engineering Systems and Technologies
+AU  - Back, Christoffer O.
+AU  - Manataki, Areti
+AU  - Papanastasiou, Angelos
+AU  - Harrison, Ewen
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 565-591
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030723781
+SN  - 9783030723798
+ER  - 

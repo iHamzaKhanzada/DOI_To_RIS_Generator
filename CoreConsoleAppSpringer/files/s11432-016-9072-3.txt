@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11432-016-9072-3
+UR  - http://dx.doi.org/10.1007/s11432-016-9072-3
+TI  - Automated Android application permission recommendation
+T2  - Science China Information Sciences
+AU  - Bao, Lingfeng
+AU  - Lo, David
+AU  - Xia, Xin
+AU  - Li, Shanping
+PY  - 2017
+DA  - 2017/07/28
+PB  - Springer Science and Business Media LLC
+IS  - 9
+VL  - 60
+SN  - 1674-733X
+SN  - 1869-1919
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00521-022-07207-3
+UR  - http://dx.doi.org/10.1007/s00521-022-07207-3
+TI  - Sustainable project portfolio selection and optimization with considerations of outsourcing decisions, financing options and staff assignment under interval type-2 fuzzy uncertainty
+T2  - Neural Computing and Applications
+AU  - Mohagheghi, Vahid
+AU  - Mousavi, Seyed Meysam
+AU  - Shahabi-Shahmiri, Reza
+PY  - 2022
+DA  - 2022/05/10
+PB  - Springer Science and Business Media LLC
+SP  - 14577-14598
+IS  - 17
+VL  - 34
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

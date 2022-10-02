@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-86044-8_21
+UR  - http://dx.doi.org/10.1007/978-3-030-86044-8_21
+TI  - How Software Architects Focus Their Attention
+T2  - Software Architecture
+AU  - Woods, Eoin
+AU  - Bashroush, Rabih
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 312-326
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030860431
+SN  - 9783030860448
+ER  - 

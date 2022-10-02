@@ -1,0 +1,10 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-87459-9
+UR  - http://dx.doi.org/10.1007/978-3-030-87459-9
+TI  - Android for Java Programmers
+AU  - Mawlood-Yunis, Abdul-Rahman
+PY  - 2022
+PB  - Springer International Publishing
+SN  - 9783030874582
+SN  - 9783030874599
+ER  - 

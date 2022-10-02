@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11042-021-11051-3
+UR  - http://dx.doi.org/10.1007/s11042-021-11051-3
+TI  - Remodeling randomness prioritization to boost-up security of RGB image encryption
+T2  - Multimedia Tools and Applications
+AU  - Al-Roithy, Budoor Obid
+AU  - Gutub, Adnan
+PY  - 2021
+DA  - 2021/06/07
+PB  - Springer Science and Business Media LLC
+SP  - 28521-28581
+IS  - 18
+VL  - 80
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

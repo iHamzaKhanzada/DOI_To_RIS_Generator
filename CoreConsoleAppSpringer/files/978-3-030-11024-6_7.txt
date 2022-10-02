@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-11024-6_7
+UR  - http://dx.doi.org/10.1007/978-3-030-11024-6_7
+TI  - RAMCIP Robot: A Personal Robotic Assistant; Demonstration of a Complete Framework
+T2  - Lecture Notes in Computer Science
+AU  - Kostavelis, Ioannis
+AU  - Giakoumis, Dimitrios
+AU  - Peleka, Georgia
+AU  - Kargakos, Andreas
+AU  - Skartados, Evangelos
+AU  - Vasileiadis, Manolis
+AU  - Tzovaras, Dimitrios
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 96-111
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030110239
+SN  - 9783030110246
+ER  - 

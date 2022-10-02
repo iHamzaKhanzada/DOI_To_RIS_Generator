@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-95153-9_27
+UR  - http://dx.doi.org/10.1007/978-3-319-95153-9_27
+TI  - Towards Group Fuzzy Analytical Hierarchy Process
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Musumba, George W.
+AU  - Wario, Ruth D.
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 283-307
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319951522
+SN  - 9783319951539
+ER  - 

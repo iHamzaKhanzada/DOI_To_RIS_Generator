@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-16042-5_21
+UR  - http://dx.doi.org/10.1007/978-3-030-16042-5_21
+TI  - QoS Strategies for Wireless Multimedia Sensor Networks in the Context of IoT
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Bernard, Muwonge S.
+AU  - Pei, Tingrui
+AU  - Li, Zhetao
+AU  - Li, Keqin
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 228-253
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030160418
+SN  - 9783030160425
+ER  - 

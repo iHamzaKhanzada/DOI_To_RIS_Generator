@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11219-017-9360-z
+UR  - http://dx.doi.org/10.1007/s11219-017-9360-z
+TI  - Towards improving decision making and estimating the value of decisions in value-based software engineering: the VALUE framework
+T2  - Software Quality Journal
+AU  - Mendes, Emilia
+AU  - Rodriguez, Pilar
+AU  - Freitas, Vitor
+AU  - Baker, Simon
+AU  - Atoui, Mohamed Amine
+PY  - 2017
+DA  - 2017/03/17
+PB  - Springer Science and Business Media LLC
+SP  - 607-656
+IS  - 2
+VL  - 26
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

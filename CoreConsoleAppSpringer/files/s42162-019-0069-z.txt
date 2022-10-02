@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1186/s42162-019-0069-z
+UR  - http://dx.doi.org/10.1186/s42162-019-0069-z
+TI  - Electric grid reliability research
+T2  - Energy Informatics
+AU  - Sultan, Vivian
+AU  - Hilton, Brian
+PY  - 2019
+DA  - 2019/05/02
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 2
+SN  - 2520-8942
+ER  - 

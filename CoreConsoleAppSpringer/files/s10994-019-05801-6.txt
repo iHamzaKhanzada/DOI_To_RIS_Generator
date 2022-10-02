@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10994-019-05801-6
+UR  - http://dx.doi.org/10.1007/s10994-019-05801-6
+TI  - Deep collective matrix factorization for augmented multi-view learning
+T2  - Machine Learning
+AU  - Mariappan, Ragunathan
+AU  - Rajan, Vaibhav
+PY  - 2019
+DA  - 2019/05/17
+PB  - Springer Science and Business Media LLC
+SP  - 1395-1420
+IS  - 8-9
+VL  - 108
+SN  - 0885-6125
+SN  - 1573-0565
+ER  - 

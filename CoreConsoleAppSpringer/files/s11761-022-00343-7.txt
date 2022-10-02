@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11761-022-00343-7
+UR  - http://dx.doi.org/10.1007/s11761-022-00343-7
+TI  - Description, discovery, and recommendation of Cloud services: a survey
+T2  - Service Oriented Computing and Applications
+AU  - Nabli, Hajer
+AU  - Ben Djemaa, Raoudha
+AU  - Amous Ben Amor, Ikram
+PY  - 2022
+DA  - 2022/07/14
+PB  - Springer Science and Business Media LLC
+SP  - 147-166
+IS  - 3
+VL  - 16
+SN  - 1863-2386
+SN  - 1863-2394
+ER  - 

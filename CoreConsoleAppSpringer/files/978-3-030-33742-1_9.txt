@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-33742-1_9
+UR  - http://dx.doi.org/10.1007/978-3-030-33742-1_9
+TI  - The Product Roadmap Maturity Model DEEP: Validation of a Method for Assessing the Product Roadmap Capabilities of Organizations
+T2  - Lecture Notes in Business Information Processing
+AU  - Münch, Jürgen
+AU  - Trieflinger, Stefan
+AU  - Lang, Dominic
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 97-113
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030337414
+SN  - 9783030337421
+ER  - 

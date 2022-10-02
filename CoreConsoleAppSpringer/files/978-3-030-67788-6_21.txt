@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-67788-6_21
+UR  - http://dx.doi.org/10.1007/978-3-030-67788-6_21
+TI  - Safety First: Developing a Model of Expertise in Collaborative Robotics
+T2  - Communications in Computer and Information Science
+AU  - Siebert-Evenstone, Amanda
+AU  - Michaelis, Joseph E.
+AU  - Shaffer, David Williamson
+AU  - Mutlu, Bilge
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 304-318
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030677879
+SN  - 9783030677886
+ER  - 

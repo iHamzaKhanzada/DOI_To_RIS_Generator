@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11227-021-03754-z
+UR  - http://dx.doi.org/10.1007/s11227-021-03754-z
+TI  - CSMA/CA channel hopping in IoT environment toward intelligent multi-user diversity
+T2  - The Journal of Supercomputing
+AU  - Kim, Gayoung
+AU  - Jeong, Junho
+PY  - 2021
+DA  - 2021/03/31
+PB  - Springer Science and Business Media LLC
+SP  - 11930-11945
+IS  - 10
+VL  - 77
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

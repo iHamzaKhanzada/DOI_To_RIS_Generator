@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-51051-0_12
+UR  - http://dx.doi.org/10.1007/978-3-030-51051-0_12
+TI  - Vulnerability Analysis in Mobile Banking and Payment Applications on Android in African Countries
+T2  - Innovations and Interdisciplinary Solutions for Underserved Areas
+AU  - Bassolé, Didier
+AU  - Koala, Gouayon
+AU  - Traoré, Yaya
+AU  - Sié, Oumarou
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 164-175
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030510503
+SN  - 9783030510510
+ER  - 

@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s10676-021-09586-y
+UR  - http://dx.doi.org/10.1007/s10676-021-09586-y
+TI  - Eight grand challenges for value sensitive design from the 2016 Lorentz workshop
+T2  - Ethics and Information Technology
+AU  - Friedman, Batya
+AU  - Harbers, Maaike
+AU  - Hendry, David G.
+AU  - van den Hoven, Jeroen
+AU  - Jonker, Catholijn
+AU  - Logler, Nick
+PY  - 2021
+DA  - 2021/03
+PB  - Springer Science and Business Media LLC
+SP  - 5-16
+IS  - 1
+VL  - 23
+SN  - 1388-1957
+SN  - 1572-8439
+ER  - 

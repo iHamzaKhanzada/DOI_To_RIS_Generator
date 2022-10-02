@@ -1,0 +1,13 @@
+TY  - JOUR
+DO  - 10.1007/s11227-022-04600-6
+UR  - http://dx.doi.org/10.1007/s11227-022-04600-6
+TI  - A proposed cloud-based platform of information technology services delivery management
+T2  - The Journal of Supercomputing
+AU  - Radaideh, Moh’d A.
+AU  - Abdelqader, Rakan
+PY  - 2022
+DA  - 2022/06/04
+PB  - Springer Science and Business Media LLC
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

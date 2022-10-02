@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11042-016-4189-1
+UR  - http://dx.doi.org/10.1007/s11042-016-4189-1
+TI  - SafeGuard: a behavior based real-time malware detection scheme for mobile multimedia applications in android platform
+T2  - Multimedia Tools and Applications
+AU  - Jeong, Eun Su
+AU  - Kim, In Seok
+AU  - Lee, Dong Hoon
+PY  - 2016
+DA  - 2016/12/06
+PB  - Springer Science and Business Media LLC
+SP  - 18153-18173
+IS  - 17
+VL  - 76
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

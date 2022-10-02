@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s10844-021-00674-5
+UR  - http://dx.doi.org/10.1007/s10844-021-00674-5
+TI  - Towards psychology-aware preference construction in recommender systems: Overview and research issues
+T2  - Journal of Intelligent Information Systems
+AU  - Atas, Müslüm
+AU  - Felfernig, Alexander
+AU  - Polat-Erdeniz, Seda
+AU  - Popescu, Andrei
+AU  - Tran, Thi Ngoc Trang
+AU  - Uta, Mathias
+PY  - 2021
+DA  - 2021/09/21
+PB  - Springer Science and Business Media LLC
+SP  - 467-489
+IS  - 3
+VL  - 57
+SN  - 0925-9902
+SN  - 1573-7675
+ER  - 

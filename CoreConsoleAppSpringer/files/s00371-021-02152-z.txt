@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00371-021-02152-z
+UR  - http://dx.doi.org/10.1007/s00371-021-02152-z
+TI  - High-performance adaptive texture streaming and rendering of large 3D cities
+T2  - The Visual Computer
+AU  - Zhang, Alex
+AU  - Chen, Kan
+AU  - Johan, Henry
+AU  - Erdt, Marius
+PY  - 2021
+DA  - 2021/06/01
+PB  - Springer Science and Business Media LLC
+SP  - 1245-1262
+IS  - 4
+VL  - 38
+SN  - 0178-2789
+SN  - 1432-2315
+ER  - 

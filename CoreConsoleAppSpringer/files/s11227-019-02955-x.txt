@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11227-019-02955-x
+UR  - http://dx.doi.org/10.1007/s11227-019-02955-x
+TI  - STEEL-RT: combining single task–single executor model and expanded scheduling to ease heterogeneity exploitation
+T2  - The Journal of Supercomputing
+AU  - Rey, Antón
+AU  - Igual, Francisco D.
+AU  - Prieto-Matías, Manuel
+PY  - 2019
+DA  - 2019/08/03
+PB  - Springer Science and Business Media LLC
+SP  - 4682-4700
+IS  - 6
+VL  - 76
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

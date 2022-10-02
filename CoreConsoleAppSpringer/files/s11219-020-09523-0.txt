@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11219-020-09523-0
+UR  - http://dx.doi.org/10.1007/s11219-020-09523-0
+TI  - Challenges concerning test case specifications in automotive software testing: assessment of frequency and criticality
+T2  - Software Quality Journal
+AU  - Juhnke, Katharina
+AU  - Tichy, Matthias
+AU  - Houdek, Frank
+PY  - 2020
+DA  - 2020/11/18
+PB  - Springer Science and Business Media LLC
+SP  - 39-100
+IS  - 1
+VL  - 29
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

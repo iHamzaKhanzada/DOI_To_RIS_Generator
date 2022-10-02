@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1007/s10844-022-00731-7
+UR  - http://dx.doi.org/10.1007/s10844-022-00731-7
+TI  - A framework for interoperability between models with hybrid tools
+T2  - Journal of Intelligent Information Systems
+AU  - Braun, Germán
+AU  - Fillottrani, Pablo Rubén
+AU  - Keet, C. Maria
+PY  - 2022
+DA  - 2022/07/29
+PB  - Springer Science and Business Media LLC
+SN  - 0925-9902
+SN  - 1573-7675
+ER  - 

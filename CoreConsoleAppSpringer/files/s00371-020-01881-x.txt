@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s00371-020-01881-x
+UR  - http://dx.doi.org/10.1007/s00371-020-01881-x
+TI  - Benchmarking commercial emotion detection systems using realistic distortions of facial image datasets
+T2  - The Visual Computer
+AU  - Yang, Kangning
+AU  - Wang, Chaofan
+AU  - Sarsenbayeva, Zhanna
+AU  - Tag, Benjamin
+AU  - Dingler, Tilman
+AU  - Wadley, Greg
+AU  - Goncalves, Jorge
+PY  - 2020
+DA  - 2020/06/23
+PB  - Springer Science and Business Media LLC
+SP  - 1447-1466
+IS  - 6
+VL  - 37
+SN  - 0178-2789
+SN  - 1432-2315
+ER  - 

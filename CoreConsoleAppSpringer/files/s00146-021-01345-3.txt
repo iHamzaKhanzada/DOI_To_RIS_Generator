@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s00146-021-01345-3
+UR  - http://dx.doi.org/10.1007/s00146-021-01345-3
+TI  - Vi/vi/sec/tion of industrial design. Gui Bonsiepe and the formulation of the interface concept. Intec Chile 1972. Document of the beginning of a paradigm shift in the interaction design disciplines
+T2  - AI &amp; SOCIETY
+AU  - de los Reyes, David Maulén
+PY  - 2022
+DA  - 2022/01/15
+PB  - Springer Science and Business Media LLC
+SP  - 1115-1129
+IS  - 3
+VL  - 37
+SN  - 0951-5666
+SN  - 1435-5655
+ER  - 

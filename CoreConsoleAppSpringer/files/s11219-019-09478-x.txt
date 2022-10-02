@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11219-019-09478-x
+UR  - http://dx.doi.org/10.1007/s11219-019-09478-x
+TI  - Quality attribute trade-offs in the embedded systems industry: an exploratory case study
+T2  - Software Quality Journal
+AU  - Sas, Darius
+AU  - Avgeriou, Paris
+PY  - 2019
+DA  - 2019/12/04
+PB  - Springer Science and Business Media LLC
+SP  - 505-534
+IS  - 2
+VL  - 28
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

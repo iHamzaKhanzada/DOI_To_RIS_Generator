@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-85447-8_5
+UR  - http://dx.doi.org/10.1007/978-3-030-85447-8_5
+TI  - AI: Opportunities and Challenges - The Optimal Exploitation of (Telecom) Corporate Data
+T2  - Responsible AI and Analytics for an Ethical and Inclusive Digitized Society
+AU  - Palaiogeorgou, Polyxeni
+AU  - Gizelis, Christos A.
+AU  - Misargopoulos, Antonios
+AU  - Nikolopoulos-Gkamatsis, Filippos
+AU  - Kefalogiannis, Michalis
+AU  - Christonasis, Antonis M.
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 47-59
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030854461
+SN  - 9783030854478
+ER  - 

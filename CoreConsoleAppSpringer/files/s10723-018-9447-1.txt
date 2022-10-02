@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10723-018-9447-1
+UR  - http://dx.doi.org/10.1007/s10723-018-9447-1
+TI  - An Efficient Real-Time Data Dissemination Multicast Protocol for Big Data in Wireless Sensor Networks
+T2  - Journal of Grid Computing
+AU  - Kim, Beom-Su
+AU  - Aldwairi, Monther
+AU  - Kim, Ki-Il
+PY  - 2018
+DA  - 2018/07/03
+PB  - Springer Science and Business Media LLC
+SP  - 341-355
+IS  - 2
+VL  - 17
+SN  - 1570-7873
+SN  - 1572-9184
+ER  - 

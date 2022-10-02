@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10207-022-00603-9
+UR  - http://dx.doi.org/10.1007/s10207-022-00603-9
+TI  - Value-utilized taint propagation: toward precise detection of apps’ information flows across Android API calls
+T2  - International Journal of Information Security
+AU  - Inayoshi, Hiroki
+AU  - Kakei, Shohei
+AU  - Takimoto, Eiji
+AU  - Mouri, Koichi
+AU  - Saito, Shoichi
+PY  - 2022
+DA  - 2022/08/06
+PB  - Springer Science and Business Media LLC
+SN  - 1615-5262
+SN  - 1615-5270
+ER  - 

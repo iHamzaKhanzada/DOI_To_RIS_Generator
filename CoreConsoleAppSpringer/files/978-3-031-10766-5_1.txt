@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-10766-5_1
+UR  - http://dx.doi.org/10.1007/978-3-031-10766-5_1
+TI  - A Brief Review on Multi-Attribute Decision Making in the Emerging Fields of Computer Science
+T2  - Communications in Computer and Information Science
+AU  - Nath, Satyabrata
+AU  - Das, Purnendu
+AU  - Debnath, Pradip
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 3-18
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783031107658
+SN  - 9783031107665
+ER  - 

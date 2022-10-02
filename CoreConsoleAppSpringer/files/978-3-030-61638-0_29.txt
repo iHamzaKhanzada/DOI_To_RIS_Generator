@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-61638-0_29
+UR  - http://dx.doi.org/10.1007/978-3-030-61638-0_29
+TI  - On the Evolution of Security Issues in Android App Versions
+T2  - Lecture Notes in Computer Science
+AU  - Kalysch, Anatoli
+AU  - Schilling, Joschua
+AU  - Müller, Tilo
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 523-541
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030616373
+SN  - 9783030616380
+ER  - 

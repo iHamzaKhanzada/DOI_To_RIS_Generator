@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s11219-019-09465-2
+UR  - http://dx.doi.org/10.1007/s11219-019-09465-2
+TI  - Component attributes and their importance in decisions and component selection
+T2  - Software Quality Journal
+AU  - Chatzipetrou, Panagiota
+AU  - Papatheocharous, Efi
+AU  - Wnuk, Krzysztof
+AU  - Borg, Markus
+AU  - Alégroth, Emil
+AU  - Gorschek, Tony
+PY  - 2019
+DA  - 2019/09/07
+PB  - Springer Science and Business Media LLC
+SP  - 567-593
+IS  - 2
+VL  - 28
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

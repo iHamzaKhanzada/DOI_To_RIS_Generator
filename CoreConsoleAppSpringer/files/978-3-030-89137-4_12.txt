@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-89137-4_12
+UR  - http://dx.doi.org/10.1007/978-3-030-89137-4_12
+TI  - Stochastic Simulation Techniques for Inference and Sensitivity Analysis of Bayesian Attack Graphs
+T2  - Science of Cyber Security
+AU  - Matthews, Isaac
+AU  - Soudjani, Sadegh
+AU  - van Moorsel, Aad
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 171-186
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030891367
+SN  - 9783030891374
+ER  - 

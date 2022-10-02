@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1186/s13673-018-0144-7
+UR  - http://dx.doi.org/10.1186/s13673-018-0144-7
+TI  - CrashSafe: a formal model for proving crash-safety of Android applications
+T2  - Human-centric Computing and Information Sciences
+AU  - Khan, Wilayat
+AU  - Ullah, Habib
+AU  - Ahmad, Aakash
+AU  - Sultan, Khalid
+AU  - Alzahrani, Abdullah J.
+AU  - Khan, Sultan Daud
+AU  - Alhumaid, Mohammad
+AU  - Abdulaziz, Sultan
+PY  - 2018
+DA  - 2018/07/26
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 8
+SN  - 2192-1962
+ER  - 

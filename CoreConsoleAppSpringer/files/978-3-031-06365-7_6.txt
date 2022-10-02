@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-06365-7_6
+UR  - http://dx.doi.org/10.1007/978-3-031-06365-7_6
+TI  - Accessing Secure Data on Android Through Application Analysis
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Buurke, Richard
+AU  - Le-Khac, Nhien-An
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 93-108
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783031063640
+SN  - 9783031063657
+ER  - 

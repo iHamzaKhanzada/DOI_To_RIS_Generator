@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-15-4828-4_32
+UR  - http://dx.doi.org/10.1007/978-981-15-4828-4_32
+TI  - What Are 3GPP 5G Phase 1 and 2 and What Comes After
+T2  - Communications in Computer and Information Science
+AU  - Frascolla, Valerio
+PY  - 2020
+PB  - Springer Singapore
+SP  - 385-398
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811548277
+SN  - 9789811548284
+ER  - 

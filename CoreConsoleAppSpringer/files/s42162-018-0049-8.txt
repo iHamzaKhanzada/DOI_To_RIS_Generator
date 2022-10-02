@@ -1,0 +1,13 @@
+TY  - JOUR
+DO  - 10.1186/s42162-018-0049-8
+UR  - http://dx.doi.org/10.1186/s42162-018-0049-8
+TI  - Agent-based dynamic optimization of local controller configurations in converter dominated electricity grids using decoder functions
+T2  - Energy Informatics
+AU  - Gerster, Johannes
+PY  - 2018
+DA  - 2018/10
+PB  - Springer Science and Business Media LLC
+IS  - S1
+VL  - 1
+SN  - 2520-8942
+ER  - 

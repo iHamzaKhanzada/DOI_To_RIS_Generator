@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s00607-021-01049-y
+UR  - http://dx.doi.org/10.1007/s00607-021-01049-y
+TI  - HATMOG: an enhanced hybrid task assignment algorithm based on AHP-TOPSIS and multi-objective genetic in cloud computing
+T2  - Computing
+AU  - Samsam Shariat, Sahar
+AU  - Barekatain, Behrang
+PY  - 2022
+DA  - 2022/01/09
+PB  - Springer Science and Business Media LLC
+SP  - 1123-1154
+IS  - 5
+VL  - 104
+SN  - 0010-485X
+SN  - 1436-5057
+ER  - 

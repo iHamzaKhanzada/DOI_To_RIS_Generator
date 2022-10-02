@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1186/s42162-019-0086-y
+UR  - http://dx.doi.org/10.1186/s42162-019-0086-y
+TI  - Virtualising redundancy of power equipment controllers using software-defined networking
+T2  - Energy Informatics
+AU  - von Tüllenburg, Ferdinand
+AU  - Dorfinger, Peter
+AU  - Veichtlbauer, Armin
+AU  - Pache, Ulrich
+AU  - Langthaler, Oliver
+AU  - Kapoun, Helmut
+AU  - Bischof, Christian
+AU  - Kupzog, Friederich
+PY  - 2019
+DA  - 2019/09
+PB  - Springer Science and Business Media LLC
+IS  - S1
+VL  - 2
+SN  - 2520-8942
+ER  - 

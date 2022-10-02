@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s10791-017-9304-z
+UR  - http://dx.doi.org/10.1007/s10791-017-9304-z
+TI  - The orchestration of a collaborative information seeking learning task
+T2  - Information Retrieval Journal
+AU  - Knight, Simon
+AU  - Rienties, Bart
+AU  - Littleton, Karen
+AU  - Tempelaar, Dirk
+AU  - Mitsui, Matthew
+AU  - Shah, Chirag
+PY  - 2017
+DA  - 2017/05/05
+PB  - Springer Science and Business Media LLC
+SP  - 480-505
+IS  - 5
+VL  - 20
+SN  - 1386-4564
+SN  - 1573-7659
+ER  - 

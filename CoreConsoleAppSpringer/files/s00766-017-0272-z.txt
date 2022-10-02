@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s00766-017-0272-z
+UR  - http://dx.doi.org/10.1007/s00766-017-0272-z
+TI  - Challenges of working with artifacts in requirements engineering and software engineering
+T2  - Requirements Engineering
+AU  - Ghazi, Parisa
+AU  - Glinz, Martin
+PY  - 2017
+DA  - 2017/05/23
+PB  - Springer Science and Business Media LLC
+SP  - 359-385
+IS  - 3
+VL  - 22
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

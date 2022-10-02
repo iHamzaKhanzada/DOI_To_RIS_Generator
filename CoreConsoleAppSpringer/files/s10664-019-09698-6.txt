@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09698-6
+UR  - http://dx.doi.org/10.1007/s10664-019-09698-6
+TI  - Improving requirements-test alignment by prescribing practices that mitigate communication gaps
+T2  - Empirical Software Engineering
+AU  - Bjarnason, Elizabeth
+AU  - Sharp, Helen
+AU  - Regnell, Björn
+PY  - 2019
+DA  - 2019/03/29
+PB  - Springer Science and Business Media LLC
+SP  - 2364-2409
+IS  - 4
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

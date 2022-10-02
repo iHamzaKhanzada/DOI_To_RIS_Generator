@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10207-018-00425-8
+UR  - http://dx.doi.org/10.1007/s10207-018-00425-8
+TI  - SSPFA: effective stack smashing protection for Android OS
+T2  - International Journal of Information Security
+AU  - Marco-Gisbert, Héctor
+AU  - Ripoll-Ripoll, Ismael
+PY  - 2019
+DA  - 2019/01/22
+PB  - Springer Science and Business Media LLC
+SP  - 519-532
+IS  - 4
+VL  - 18
+SN  - 1615-5262
+SN  - 1615-5270
+ER  - 

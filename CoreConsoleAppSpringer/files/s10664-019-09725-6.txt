@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09725-6
+UR  - http://dx.doi.org/10.1007/s10664-019-09725-6
+TI  - Evolutionary Fuzzing of Android OS Vendor System Services
+T2  - Empirical Software Engineering
+AU  - Cotroneo, Domenico
+AU  - Iannillo, Antonio Ken
+AU  - Natella, Roberto
+PY  - 2019
+DA  - 2019/05/31
+PB  - Springer Science and Business Media LLC
+SP  - 3630-3658
+IS  - 6
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

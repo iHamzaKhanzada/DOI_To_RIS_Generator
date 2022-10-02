@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11227-020-03329-4
+UR  - http://dx.doi.org/10.1007/s11227-020-03329-4
+TI  - Prediction of highway asphalt pavement performance based on Markov chain and artificial neural network approach
+T2  - The Journal of Supercomputing
+AU  - Wang, Zhichen
+AU  - Guo, Naisheng
+AU  - Wang, Shuang
+AU  - Xu, Yang
+PY  - 2020
+DA  - 2020/05/16
+PB  - Springer Science and Business Media LLC
+SP  - 1354-1376
+IS  - 2
+VL  - 77
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

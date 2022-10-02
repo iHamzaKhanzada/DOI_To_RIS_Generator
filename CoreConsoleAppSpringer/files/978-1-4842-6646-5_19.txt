@@ -1,0 +1,12 @@
+TY  - GENERIC
+DO  - 10.1007/978-1-4842-6646-5_19
+UR  - http://dx.doi.org/10.1007/978-1-4842-6646-5_19
+TI  - Working with Files in Android
+T2  - Android for Absolute Beginners
+AU  - Allen, Grant
+PY  - 2021
+PB  - Apress
+SP  - 305-322
+SN  - 9781484266458
+SN  - 9781484266465
+ER  - 

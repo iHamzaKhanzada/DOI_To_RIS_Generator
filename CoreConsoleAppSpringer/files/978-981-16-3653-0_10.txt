@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-16-3653-0_10
+UR  - http://dx.doi.org/10.1007/978-981-16-3653-0_10
+TI  - A Performance Discussion of Web Crawler Using Some Advanced Factors
+T2  - Communications in Computer and Information Science
+AU  - Chaudhary, Gaurav
+AU  - Laxmi, Vijay
+PY  - 2021
+PB  - Springer Singapore
+SP  - 121-140
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811636523
+SN  - 9789811636530
+ER  - 

@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s00521-018-3560-8
+UR  - http://dx.doi.org/10.1007/s00521-018-3560-8
+TI  - A hybrid-adaptive neuro-fuzzy inference system for multi-objective regression test suites optimization
+T2  - Neural Computing and Applications
+AU  - Anwar, Zeeshan
+AU  - Afzal, Hammad
+AU  - Bibi, Nazia
+AU  - Abbas, Haider
+AU  - Mohsin, Athar
+AU  - Arif, Omar
+PY  - 2018
+DA  - 2018/06/06
+PB  - Springer Science and Business Media LLC
+SP  - 7287-7301
+IS  - 11
+VL  - 31
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

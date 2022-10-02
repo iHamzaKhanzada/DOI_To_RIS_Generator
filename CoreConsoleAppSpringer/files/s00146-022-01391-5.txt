@@ -1,0 +1,13 @@
+TY  - JOUR
+DO  - 10.1007/s00146-022-01391-5
+UR  - http://dx.doi.org/10.1007/s00146-022-01391-5
+TI  - Keeping the organization in the loop: a socio-technical extension of human-centered artificial intelligence
+T2  - AI &amp; SOCIETY
+AU  - Herrmann, Thomas
+AU  - Pfeiffer, Sabine
+PY  - 2022
+DA  - 2022/02/18
+PB  - Springer Science and Business Media LLC
+SN  - 0951-5666
+SN  - 1435-5655
+ER  - 

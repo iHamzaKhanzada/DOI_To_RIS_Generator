@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-23535-2_20
+UR  - http://dx.doi.org/10.1007/978-3-030-23535-2_20
+TI  - Overcoming Organizational Barriers to the Integration of UX Methods in Software Development: A Case Study
+T2  - Design, User Experience, and Usability. Practice and Case Studies
+AU  - Kervyn de Meerendré, Vincent
+AU  - Rukonić, Luka
+AU  - Kieffer, Suzanne
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 263-276
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030235345
+SN  - 9783030235352
+ER  - 

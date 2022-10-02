@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-01042-3_14
+UR  - http://dx.doi.org/10.1007/978-3-030-01042-3_14
+TI  - The Impact of Integrating Agile Software Development and Model-Driven Development: A Comparative Case Study
+T2  - System Analysis and Modeling. Languages, Methods, and Tools for Systems Engineering
+AU  - Alfraihi, Hessa
+AU  - Lano, Kevin
+AU  - Kolahdouz-Rahimi, Shekoufeh
+AU  - Sharbaf, Mohammadreza
+AU  - Haughton, Howard
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 229-245
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030010416
+SN  - 9783030010423
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10462-018-9667-6
+UR  - http://dx.doi.org/10.1007/s10462-018-9667-6
+TI  - A state of the art review of intelligent scheduling
+T2  - Artificial Intelligence Review
+AU  - Fazel Zarandi, Mohammad Hossein
+AU  - Sadat Asl, Ali Akbar
+AU  - Sotudian, Shahabeddin
+AU  - Castillo, Oscar
+PY  - 2018
+DA  - 2018/11/19
+PB  - Springer Science and Business Media LLC
+SP  - 501-593
+IS  - 1
+VL  - 53
+SN  - 0269-2821
+SN  - 1573-7462
+ER  - 

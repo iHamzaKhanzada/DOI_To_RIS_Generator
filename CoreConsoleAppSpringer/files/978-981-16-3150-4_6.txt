@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-16-3150-4_6
+UR  - http://dx.doi.org/10.1007/978-981-16-3150-4_6
+TI  - Android Malware Detection Method Based on App-Image Conversion
+T2  - Communications in Computer and Information Science
+AU  - Xie, Nannan
+AU  - Bai, Hongpeng
+AU  - Shi, Yanfeng
+AU  - Wu, Haiwei
+PY  - 2021
+PB  - Springer Singapore
+SP  - 60-74
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811631498
+SN  - 9789811631504
+ER  - 

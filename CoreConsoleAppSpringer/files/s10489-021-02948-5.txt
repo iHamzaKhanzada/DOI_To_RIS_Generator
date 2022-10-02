@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s10489-021-02948-5
+UR  - http://dx.doi.org/10.1007/s10489-021-02948-5
+TI  - Consensus models with aggregation operators for minimum quadratic cost in group decision making
+T2  - Applied Intelligence
+AU  - Zhang, Ruonan
+AU  - Huang, Jing
+AU  - Xu, Yejun
+AU  - Herrera-Viedma, Enrique
+PY  - 2022
+DA  - 2022/04/28
+PB  - Springer Science and Business Media LLC
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11280-018-0635-5
+UR  - http://dx.doi.org/10.1007/s11280-018-0635-5
+TI  - Editorial: Deep Mining Big Social Data
+T2  - World Wide Web
+AU  - Zhu, Xiaofeng
+AU  - Sanroma, Gerard
+AU  - Zhang, Jilian
+AU  - Munsell, Brent C.
+PY  - 2018
+DA  - 2018/09/13
+PB  - Springer Science and Business Media LLC
+SP  - 1449-1452
+IS  - 6
+VL  - 21
+SN  - 1386-145X
+SN  - 1573-1413
+ER  - 

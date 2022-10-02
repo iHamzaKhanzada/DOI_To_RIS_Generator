@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10606-019-09365-w
+UR  - http://dx.doi.org/10.1007/s10606-019-09365-w
+TI  - Infrastructuring and Participatory Design: Exploring Infrastructural Inversion as Analytic, Empirical and Generative
+T2  - Computer Supported Cooperative Work (CSCW)
+AU  - Simonsen, Jesper
+AU  - Karasti, Helena
+AU  - Hertzum, Morten
+PY  - 2019
+DA  - 2019/07/12
+PB  - Springer Science and Business Media LLC
+SP  - 115-151
+IS  - 1-2
+VL  - 29
+SN  - 0925-9724
+SN  - 1573-7551
+ER  - 

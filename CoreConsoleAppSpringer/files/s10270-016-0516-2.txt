@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10270-016-0516-2
+UR  - http://dx.doi.org/10.1007/s10270-016-0516-2
+TI  - A novel model-based testing approach for software product lines
+T2  - Software &amp; Systems Modeling
+AU  - Damiani, Ferruccio
+AU  - Faitelson, David
+AU  - Gladisch, Christoph
+AU  - Tyszberowicz, Shmuel
+PY  - 2016
+DA  - 2016/02/13
+PB  - Springer Science and Business Media LLC
+SP  - 1223-1251
+IS  - 4
+VL  - 16
+SN  - 1619-1366
+SN  - 1619-1374
+ER  - 

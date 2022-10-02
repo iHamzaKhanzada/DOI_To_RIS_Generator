@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-93944-1_19
+UR  - http://dx.doi.org/10.1007/978-3-030-93944-1_19
+TI  - Impact of Delay Classes on the Data Structure in IOTA
+T2  - Lecture Notes in Computer Science
+AU  - Penzkofer, Andreas
+AU  - Saa, Olivia
+AU  - Dziubałtowska, Daria
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 289-300
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030939434
+SN  - 9783030939441
+ER  - 

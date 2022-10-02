@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-02450-5_24
+UR  - http://dx.doi.org/10.1007/978-3-030-02450-5_24
+TI  - Towards Trustworthy AI for Autonomous Systems
+T2  - Formal Methods and Software Engineering
+AU  - Bride, Hadrien
+AU  - Dong, Jin Song
+AU  - Hóu, Zhé
+AU  - Mahony, Brendan
+AU  - Oxenham, Martin
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 407-411
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030024499
+SN  - 9783030024505
+ER  - 

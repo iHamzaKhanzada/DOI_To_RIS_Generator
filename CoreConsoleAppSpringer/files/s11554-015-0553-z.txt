@@ -1,0 +1,22 @@
+TY  - JOUR
+DO  - 10.1007/s11554-015-0553-z
+UR  - http://dx.doi.org/10.1007/s11554-015-0553-z
+TI  - VLSI implementation of an ultra-low-cost and low-power image compressor for wireless camera networks
+T2  - Journal of Real-Time Image Processing
+AU  - Chen, Shih-Lun
+AU  - Nie, Jing
+AU  - Lin, Ting-Lan
+AU  - Chung, Rih-Lung
+AU  - Hsia, Chih-Hsien
+AU  - Liu, Tse-Yen
+AU  - Lin, Szu-Yin
+AU  - Wu, Hai-Xia
+PY  - 2015
+DA  - 2015/12/21
+PB  - Springer Science and Business Media LLC
+SP  - 803-812
+IS  - 4
+VL  - 14
+SN  - 1861-8200
+SN  - 1861-8219
+ER  - 

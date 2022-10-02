@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s00766-020-00342-0
+UR  - http://dx.doi.org/10.1007/s00766-020-00342-0
+TI  - RAPID: a knowledge-based assistant for designing web APIs
+T2  - Requirements Engineering
+AU  - Sadi, Mahsa H.
+AU  - Yu, Eric
+PY  - 2021
+DA  - 2021/02/03
+PB  - Springer Science and Business Media LLC
+SP  - 185-236
+IS  - 2
+VL  - 26
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

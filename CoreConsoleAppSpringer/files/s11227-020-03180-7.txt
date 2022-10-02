@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11227-020-03180-7
+UR  - http://dx.doi.org/10.1007/s11227-020-03180-7
+TI  - Performance issues and solutions in SDN-based data center: a survey
+T2  - The Journal of Supercomputing
+AU  - Shirmarz, Alireza
+AU  - Ghaffari, Ali
+PY  - 2020
+DA  - 2020/01/30
+PB  - Springer Science and Business Media LLC
+SP  - 7545-7593
+IS  - 10
+VL  - 76
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

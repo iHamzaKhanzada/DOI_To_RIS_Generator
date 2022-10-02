@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10489-020-01749-6
+UR  - http://dx.doi.org/10.1007/s10489-020-01749-6
+TI  - MR-OVnTSA: a heuristics based sensitive pattern hiding approach for big data
+T2  - Applied Intelligence
+AU  - Sharma, Shivani
+AU  - Toshniwal, Durga
+PY  - 2020
+DA  - 2020/07/15
+PB  - Springer Science and Business Media LLC
+SP  - 4241-4260
+IS  - 12
+VL  - 50
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 

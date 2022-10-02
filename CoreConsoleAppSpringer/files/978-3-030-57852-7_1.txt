@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-57852-7_1
+UR  - http://dx.doi.org/10.1007/978-3-030-57852-7_1
+TI  - Dirac-Based Reduction Techniques for Quantitative Analysis of Discrete-Time Markov Models
+T2  - Topics in Theoretical Computer Science
+AU  - Mohagheghi, Mohammadsadegh
+AU  - Chaboki, Behrang
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 1-16
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030578510
+SN  - 9783030578527
+ER  - 

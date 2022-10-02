@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11334-021-00420-8
+UR  - http://dx.doi.org/10.1007/s11334-021-00420-8
+TI  - Support vector regression for enhancement effort prediction of Scrum projects from COSMIC functional size
+T2  - Innovations in Systems and Software Engineering
+AU  - Sakhrawi, Zaineb
+AU  - Sellami, Asma
+AU  - Bouassida, Nadia
+PY  - 2021
+DA  - 2021/11/23
+PB  - Springer Science and Business Media LLC
+SP  - 137-153
+IS  - 1
+VL  - 18
+SN  - 1614-5046
+SN  - 1614-5054
+ER  - 

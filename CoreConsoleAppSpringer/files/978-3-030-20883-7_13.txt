@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-20883-7_13
+UR  - http://dx.doi.org/10.1007/978-3-030-20883-7_13
+TI  - Opportunity Costs in Free Open-Source Software
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Karus, Siim
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 139-150
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030208820
+SN  - 9783030208837
+ER  - 

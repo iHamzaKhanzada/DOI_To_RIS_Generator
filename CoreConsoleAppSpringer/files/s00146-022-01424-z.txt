@@ -1,0 +1,13 @@
+TY  - JOUR
+DO  - 10.1007/s00146-022-01424-z
+UR  - http://dx.doi.org/10.1007/s00146-022-01424-z
+TI  - “Please understand we cannot provide further information”: evaluating content and transparency of GDPR-mandated AI disclosures
+T2  - AI &amp; SOCIETY
+AU  - Wulf, Alexander J.
+AU  - Seizov, Ognyan
+PY  - 2022
+DA  - 2022/05/11
+PB  - Springer Science and Business Media LLC
+SN  - 0951-5666
+SN  - 1435-5655
+ER  - 

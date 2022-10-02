@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-57997-5_67
+UR  - http://dx.doi.org/10.1007/978-3-030-57997-5_67
+TI  - Backlog Oriented Bottleneck Management – Practical Guide for Production Managers
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Ungern-Sternberg, Roman
+AU  - Fries, Christian
+AU  - Wiendahl, Hans-Hermann
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 581-589
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030579968
+SN  - 9783030579975
+ER  - 

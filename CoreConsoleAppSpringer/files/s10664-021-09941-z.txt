@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10664-021-09941-z
+UR  - http://dx.doi.org/10.1007/s10664-021-09941-z
+TI  - Testing self-healing cyber-physical systems under uncertainty with reinforcement learning: an empirical study
+T2  - Empirical Software Engineering
+AU  - Ma, Tao
+AU  - Ali, Shaukat
+AU  - Yue, Tao
+PY  - 2021
+DA  - 2021/04/01
+PB  - Springer Science and Business Media LLC
+IS  - 3
+VL  - 26
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

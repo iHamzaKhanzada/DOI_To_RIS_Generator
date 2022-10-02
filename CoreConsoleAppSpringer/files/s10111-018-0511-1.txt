@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10111-018-0511-1
+UR  - http://dx.doi.org/10.1007/s10111-018-0511-1
+TI  - Process industries versus discrete processing: how system characteristics affect operator tasks
+T2  - Cognition, Technology &amp; Work
+AU  - Müller, Romy
+AU  - Oehm, Lukas
+PY  - 2018
+DA  - 2018/07/24
+PB  - Springer Science and Business Media LLC
+SP  - 337-356
+IS  - 2
+VL  - 21
+SN  - 1435-5558
+SN  - 1435-5566
+ER  - 

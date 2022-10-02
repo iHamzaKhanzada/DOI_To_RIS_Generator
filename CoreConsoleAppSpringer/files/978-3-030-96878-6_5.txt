@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-96878-6_5
+UR  - http://dx.doi.org/10.1007/978-3-030-96878-6_5
+TI  - Viewpoint Selection for Fibrous Structures in a Pre-operative Context: Application to Cranial Nerves Surrounding Skull Base Tumors
+T2  - Communications in Computer and Information Science
+AU  - Decroocq, Méghane
+AU  - Ligneris, Morgane Des
+AU  - Jacquesson, Timothée
+AU  - Frindel, Carole
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 53-64
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030968779
+SN  - 9783030968786
+ER  - 

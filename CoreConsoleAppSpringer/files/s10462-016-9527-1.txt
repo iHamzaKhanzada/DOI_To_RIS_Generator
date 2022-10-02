@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10462-016-9527-1
+UR  - http://dx.doi.org/10.1007/s10462-016-9527-1
+TI  - A survey on Urdu and Urdu like language stemmers and stemming techniques
+T2  - Artificial Intelligence Review
+AU  - Jabbar, Abdul
+AU  - Iqbal, Sajid
+AU  - Khan, Muhammad Usman Ghani
+AU  - Hussain, Shafiq
+PY  - 2016
+DA  - 2016/11/28
+PB  - Springer Science and Business Media LLC
+SP  - 339-373
+IS  - 3
+VL  - 49
+SN  - 0269-2821
+SN  - 1573-7462
+ER  - 

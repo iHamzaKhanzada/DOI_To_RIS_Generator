@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-09850-5_4
+UR  - http://dx.doi.org/10.1007/978-3-031-09850-5_4
+TI  - Universal Methodology for Objective Determination of Key Performance Indicators of Socioeconomic Processes
+T2  - Communications in Computer and Information Science
+AU  - Karnitis, Girts
+AU  - Bicevskis, Janis
+AU  - Virtmanis, Andris
+AU  - Karnitis, Edvins
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 47-62
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783031098499
+SN  - 9783031098505
+ER  - 

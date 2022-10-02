@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-68734-2_11
+UR  - http://dx.doi.org/10.1007/978-3-030-68734-2_11
+TI  - A Digital Forensic Approach for Optimizing the Investigation of Hit-and-Run Accidents
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Waltereit, Marian
+AU  - Uphoff, Maximilian
+AU  - Zdankin, Peter
+AU  - Matkovic, Viktor
+AU  - Weis, Torben
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 204-223
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030687335
+SN  - 9783030687342
+ER  - 

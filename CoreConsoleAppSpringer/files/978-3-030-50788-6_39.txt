@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-50788-6_39
+UR  - http://dx.doi.org/10.1007/978-3-030-50788-6_39
+TI  - Using a Non-player Character to Improve Training Outcomes for Submarine Electronic Warfare Operators
+T2  - Adaptive Instructional Systems
+AU  - Schroeder, Bradford L.
+AU  - Fraulini, Nicholas W.
+AU  - Van Buskirk, Wendi L.
+AU  - Johnson, Cheryl I.
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 531-542
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030507879
+SN  - 9783030507886
+ER  - 

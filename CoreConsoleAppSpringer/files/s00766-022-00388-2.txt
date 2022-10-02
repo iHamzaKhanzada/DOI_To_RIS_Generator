@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00766-022-00388-2
+UR  - http://dx.doi.org/10.1007/s00766-022-00388-2
+TI  - Evaluating a privacy requirements specification method by using a mixed-method approach: results and lessons learned
+T2  - Requirements Engineering
+AU  - Peixoto, Mariana
+AU  - Silva, Carla
+AU  - Araújo, João
+AU  - Gorschek, Tony
+AU  - Vasconcelos, Alexandre
+AU  - Vilela, Jéssyka
+PY  - 2022
+DA  - 2022/09/18
+PB  - Springer Science and Business Media LLC
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

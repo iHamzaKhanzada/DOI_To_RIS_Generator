@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11042-020-08840-7
+UR  - http://dx.doi.org/10.1007/s11042-020-08840-7
+TI  - Gate and common pathway detection in crowd scenes and anomaly detection using motion units and LSTM predictive models
+T2  - Multimedia Tools and Applications
+AU  - Moustafa, Abdullah N.
+AU  - Gomaa, Walid
+PY  - 2020
+DA  - 2020/04/23
+PB  - Springer Science and Business Media LLC
+SP  - 20689-20728
+IS  - 29-30
+VL  - 79
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

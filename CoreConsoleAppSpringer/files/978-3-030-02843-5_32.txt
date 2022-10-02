@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-02843-5_32
+UR  - http://dx.doi.org/10.1007/978-3-030-02843-5_32
+TI  - Import Countries Ranking with Econometric and Artificial Intelligence Methods
+T2  - Communications in Computer and Information Science
+AU  - Raikov, Alexander
+AU  - Abrosimov, Viacheslav
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 402-414
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030028428
+SN  - 9783030028435
+ER  - 

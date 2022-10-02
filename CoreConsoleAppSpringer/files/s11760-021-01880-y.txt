@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11760-021-01880-y
+UR  - http://dx.doi.org/10.1007/s11760-021-01880-y
+TI  - Time-efficient evaluation of adaptation algorithms for DASH with SVC: dataset, throughput generation and stream simulator
+T2  - Signal, Image and Video Processing
+AU  - Çalı, Mehmet
+AU  - Özbek, Nükhet
+PY  - 2021
+DA  - 2021/04/29
+PB  - Springer Science and Business Media LLC
+SP  - 1477-1485
+IS  - 7
+VL  - 15
+SN  - 1863-1703
+SN  - 1863-1711
+ER  - 

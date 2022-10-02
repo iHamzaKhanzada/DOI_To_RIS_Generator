@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00521-017-3011-y
+UR  - http://dx.doi.org/10.1007/s00521-017-3011-y
+TI  - Probabilistic soft sets and dual probabilistic soft sets in decision-making
+T2  - Neural Computing and Applications
+AU  - Fatimah, Fatia
+AU  - Rosadi, Dedi
+AU  - Hakim, RB. Fajriya
+AU  - R. Alcantud, José Carlos
+PY  - 2017
+DA  - 2017/04/26
+PB  - Springer Science and Business Media LLC
+SP  - 397-407
+IS  - S1
+VL  - 31
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

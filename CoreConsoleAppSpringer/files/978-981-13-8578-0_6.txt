@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-13-8578-0_6
+UR  - http://dx.doi.org/10.1007/978-981-13-8578-0_6
+TI  - Load Balancing Strategy in Cloud Computing Using Simulated Annealing
+T2  - Communications in Computer and Information Science
+AU  - Mandal, Gopa
+AU  - Dam, Santanu
+AU  - Dasgupta, Kousik
+AU  - Dutta, Paramartha
+PY  - 2019
+PB  - Springer Singapore
+SP  - 67-81
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811385773
+SN  - 9789811385780
+ER  - 

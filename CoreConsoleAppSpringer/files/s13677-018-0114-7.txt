@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1186/s13677-018-0114-7
+UR  - http://dx.doi.org/10.1186/s13677-018-0114-7
+TI  - Modelling trust and risk for cloud services
+T2  - Journal of Cloud Computing
+AU  - Cayirci, Erdal
+AU  - de Oliveira, Anderson Santana
+PY  - 2018
+DA  - 2018/08/02
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 7
+SN  - 2192-113X
+ER  - 

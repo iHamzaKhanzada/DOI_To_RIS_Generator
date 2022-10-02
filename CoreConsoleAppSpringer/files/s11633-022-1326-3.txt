@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11633-022-1326-3
+UR  - http://dx.doi.org/10.1007/s11633-022-1326-3
+TI  - Satellite Integration into 5G: Deep Reinforcement Learning for Network Selection
+T2  - Machine Intelligence Research
+AU  - De Santis, Emanuele
+AU  - Giuseppi, Alessandro
+AU  - Pietrabissa, Antonio
+AU  - Capponi, Michael
+AU  - Delli Priscoli, Francesco
+PY  - 2022
+DA  - 2022/04
+PB  - Springer Science and Business Media LLC
+SP  - 127-137
+IS  - 2
+VL  - 19
+SN  - 2731-538X
+SN  - 2731-5398
+ER  - 

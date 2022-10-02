@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-98446-9_30
+UR  - http://dx.doi.org/10.1007/978-3-319-98446-9_30
+TI  - A System to Evaluate an Air-Strike Threat Level Using Fuzzy Methods
+T2  - Computational Collective Intelligence
+AU  - Cimr, Dalibor
+AU  - Tomaskova, Hana
+AU  - Cimler, Richard
+AU  - Kuhnova, Jitka
+AU  - Slouf, Vlastimil
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 322-331
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319984452
+SN  - 9783319984469
+ER  - 

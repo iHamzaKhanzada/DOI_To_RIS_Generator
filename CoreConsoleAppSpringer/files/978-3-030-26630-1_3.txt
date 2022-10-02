@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-26630-1_3
+UR  - http://dx.doi.org/10.1007/978-3-030-26630-1_3
+TI  - A Genetic Algorithm-Based Approach for Test Case Prioritization
+T2  - Communications in Computer and Information Science
+AU  - Habtemariam, Getachew Mekuria
+AU  - Mohapatra, Sudhir Kumar
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 24-37
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030266295
+SN  - 9783030266301
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11227-018-2726-6
+UR  - http://dx.doi.org/10.1007/s11227-018-2726-6
+TI  - MOPT: list-based heuristic for scheduling workflows in cloud environment
+T2  - The Journal of Supercomputing
+AU  - Ijaz, Samia
+AU  - Munir, Ehsan Ullah
+PY  - 2018
+DA  - 2018/12/18
+PB  - Springer Science and Business Media LLC
+SP  - 3740-3768
+IS  - 7
+VL  - 75
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

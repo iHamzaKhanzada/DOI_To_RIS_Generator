@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1007/s10844-022-00738-0
+UR  - http://dx.doi.org/10.1007/s10844-022-00738-0
+TI  - Hierarchical reinforcement learning for efficient and effective automated penetration testing of large networks
+T2  - Journal of Intelligent Information Systems
+AU  - Ghanem, Mohamed C.
+AU  - Chen, Thomas M.
+AU  - Nepomuceno, Erivelton G.
+PY  - 2022
+DA  - 2022/09/12
+PB  - Springer Science and Business Media LLC
+SN  - 0925-9902
+SN  - 1573-7675
+ER  - 

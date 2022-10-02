@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-16103-2_2
+UR  - http://dx.doi.org/10.1007/978-3-031-16103-2_2
+TI  - BPM in Digital Transformation: New Tools and Productivity Challenges
+T2  - Lecture Notes in Computer Science
+AU  - Peña, Joaquín
+AU  - Bravo, Alfonso
+AU  - Resinas, Manuel
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 21-26
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783031161025
+SN  - 9783031161032
+ER  - 

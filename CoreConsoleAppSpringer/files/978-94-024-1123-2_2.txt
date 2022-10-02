@@ -1,0 +1,24 @@
+TY  - GENERIC
+DO  - 10.1007/978-94-024-1123-2_2
+UR  - http://dx.doi.org/10.1007/978-94-024-1123-2_2
+TI  - Towards a Generic Resilience Management, Quantification and Development Process: General Definitions, Requirements, Methods, Techniques and Measures, and Case Studies
+T2  - NATO Science for Peace and Security Series C: Environmental Security
+AU  - Häring, Ivo
+AU  - Sansavini, Giovanni
+AU  - Bellini, Emanuele
+AU  - Martyn, Nick
+AU  - Kovalenko, Tatyana
+AU  - Kitsak, Maksim
+AU  - Vogelbacher, Georg
+AU  - Ross, Katharina
+AU  - Bergerhausen, Ulrich
+AU  - Barker, Kash
+AU  - Linkov, Igor
+PY  - 2017
+PB  - Springer Netherlands
+SP  - 21-80
+SN  - 1874-6519
+SN  - 1874-6543
+SN  - 9789402411225
+SN  - 9789402411232
+ER  - 

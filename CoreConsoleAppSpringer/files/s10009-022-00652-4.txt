@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10009-022-00652-4
+UR  - http://dx.doi.org/10.1007/s10009-022-00652-4
+TI  - DFT modeling approach for operational risk assessment of railway infrastructure
+T2  - International Journal on Software Tools for Technology Transfer
+AU  - Weik, Norman
+AU  - Volk, Matthias
+AU  - Katoen, Joost-Pieter
+AU  - Nießen, Nils
+PY  - 2022
+DA  - 2022/04/05
+PB  - Springer Science and Business Media LLC
+SP  - 331-350
+IS  - 3
+VL  - 24
+SN  - 1433-2779
+SN  - 1433-2787
+ER  - 

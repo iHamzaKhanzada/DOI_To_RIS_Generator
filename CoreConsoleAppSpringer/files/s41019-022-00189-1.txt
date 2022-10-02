@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s41019-022-00189-1
+UR  - http://dx.doi.org/10.1007/s41019-022-00189-1
+TI  - A Risk Estimation Mechanism for Android Apps based on Hybrid Analysis
+T2  - Data Science and Engineering
+AU  - Son, Ha Xuan
+AU  - Carminati, Barbara
+AU  - Ferrari, Elena
+PY  - 2022
+DA  - 2022/07/29
+PB  - Springer Science and Business Media LLC
+SP  - 242-252
+IS  - 3
+VL  - 7
+SN  - 2364-1185
+SN  - 2364-1541
+ER  - 

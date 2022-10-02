@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s00450-016-0306-7
+UR  - http://dx.doi.org/10.1007/s00450-016-0306-7
+TI  - Ensembles of context and form for repurposing electric vehicle batteries: an exploratory study
+T2  - Computer Science - Research and Development
+AU  - Beverungen, Daniel
+AU  - Bräuer, Sebastian
+AU  - Plenter, Florian
+AU  - Klör, Benjamin
+AU  - Monhof, Markus
+PY  - 2016
+DA  - 2016/07/09
+PB  - Springer Science and Business Media LLC
+SP  - 195-209
+IS  - 1-2
+VL  - 32
+SN  - 1865-2034
+SN  - 1865-2042
+ER  - 

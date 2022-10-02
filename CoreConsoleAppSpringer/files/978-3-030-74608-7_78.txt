@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-74608-7_78
+UR  - http://dx.doi.org/10.1007/978-3-030-74608-7_78
+TI  - Driving Posture Assessment: A New Approach
+T2  - Proceedings of the 21st Congress of the International Ergonomics Association (IEA 2021)
+AU  - Gao, Yanlong
+AU  - Kaiser, Ralf
+AU  - Wagner, Peer-Oliver
+AU  - Abendroth, Bettina
+AU  - Paternoster, Susanne
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 639-646
+SN  - 2367-3370
+SN  - 2367-3389
+SN  - 9783030746070
+SN  - 9783030746087
+ER  - 

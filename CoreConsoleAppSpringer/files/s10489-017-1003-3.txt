@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10489-017-1003-3
+UR  - http://dx.doi.org/10.1007/s10489-017-1003-3
+TI  - Bio-inspired metaheuristics: evolving and prioritizing software test data
+T2  - Applied Intelligence
+AU  - Mann, Mukesh
+AU  - Tomar, Pradeep
+AU  - Sangwan, Om Prakash
+PY  - 2017
+DA  - 2017/07/26
+PB  - Springer Science and Business Media LLC
+SP  - 687-702
+IS  - 3
+VL  - 48
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 

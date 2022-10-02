@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s00165-021-00543-6
+UR  - http://dx.doi.org/10.1007/s00165-021-00543-6
+TI  - Exploiting augmented intelligence in the modeling of safety-critical autonomous systems
+T2  - Formal Aspects of Computing
+AU  - Yang, Zhibin
+AU  - Bao, Yang
+AU  - Yang, Yongqiang
+AU  - Huang, Zhiqiu
+AU  - Bodeveix, Jean-Paul
+AU  - Filali, Mamoun
+AU  - Gu, Zonghua
+PY  - 2021
+DA  - 2021/06
+PB  - Association for Computing Machinery (ACM)
+SP  - 343-384
+IS  - 3
+VL  - 33
+SN  - 0934-5043
+SN  - 1433-299X
+ER  - 

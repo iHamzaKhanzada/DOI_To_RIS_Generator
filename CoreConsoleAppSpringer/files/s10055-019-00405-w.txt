@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10055-019-00405-w
+UR  - http://dx.doi.org/10.1007/s10055-019-00405-w
+TI  - Encoding immersive sessions for online, interactive VR analytics
+T2  - Virtual Reality
+AU  - Fanini, Bruno
+AU  - Cinque, Luigi
+PY  - 2019
+DA  - 2019/09/25
+PB  - Springer Science and Business Media LLC
+SP  - 423-438
+IS  - 3
+VL  - 24
+SN  - 1359-4338
+SN  - 1434-9957
+ER  - 

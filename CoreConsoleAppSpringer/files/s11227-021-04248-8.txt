@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11227-021-04248-8
+UR  - http://dx.doi.org/10.1007/s11227-021-04248-8
+TI  - Selecting services in the cloud: a decision support methodology focused on infrastructure-as-a-service context
+T2  - The Journal of Supercomputing
+AU  - Belusso, Cássio L. M.
+AU  - Sawicki, Sandro
+AU  - Basto-Fernandes, Vitor
+AU  - Frantz, Rafael Z.
+AU  - Roos-Frantz, Fabricia
+PY  - 2022
+DA  - 2022/01/05
+PB  - Springer Science and Business Media LLC
+SP  - 7825-7860
+IS  - 6
+VL  - 78
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

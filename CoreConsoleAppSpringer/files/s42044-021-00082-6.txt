@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s42044-021-00082-6
+UR  - http://dx.doi.org/10.1007/s42044-021-00082-6
+TI  - An adaptive and deadline-constrained workflow scheduling algorithm in infrastructure as a service clouds
+T2  - Iran Journal of Computer Science
+AU  - Ghafouri, Robabeh
+AU  - Movaghar, Ali
+PY  - 2021
+DA  - 2021/02/20
+PB  - Springer Science and Business Media LLC
+SP  - 17-39
+IS  - 1
+VL  - 5
+SN  - 2520-8438
+SN  - 2520-8446
+ER  - 

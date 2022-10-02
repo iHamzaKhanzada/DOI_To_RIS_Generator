@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s11042-020-10365-y
+UR  - http://dx.doi.org/10.1007/s11042-020-10365-y
+TI  - An efficient method of multicolor detection using global optimum thresholding for image analysis
+T2  - Multimedia Tools and Applications
+AU  - Goyal, Lalit Mohan
+AU  - Mittal, Mamta
+AU  - Kumar, Munish
+AU  - Kaur, Bhavneet
+AU  - Sharma, Meenakshi
+AU  - Verma, Amit
+AU  - Kaur, Iqbaldeep
+PY  - 2021
+DA  - 2021/02/22
+PB  - Springer Science and Business Media LLC
+SP  - 18969-18991
+IS  - 12
+VL  - 80
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

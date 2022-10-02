@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-88304-1_3
+UR  - http://dx.doi.org/10.1007/978-3-030-88304-1_3
+TI  - Defining Beneficiaries of Emerging Data Infrastructures Towards Effective Data Appropriation
+T2  - Communications in Computer and Information Science
+AU  - Rizk, Aya
+AU  - Seidelin, Cathrine
+AU  - Kovács, György
+AU  - Liwicki, Marcus
+AU  - Brännvall, Rickard
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 32-47
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030883034
+SN  - 9783030883041
+ER  - 

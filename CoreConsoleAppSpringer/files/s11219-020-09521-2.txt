@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11219-020-09521-2
+UR  - http://dx.doi.org/10.1007/s11219-020-09521-2
+TI  - What lies behind requirements? A quality assessment of statement grounds in requirements elicitation
+T2  - Software Quality Journal
+AU  - Burnay, Corentin
+AU  - Bouraga, Sarah
+AU  - Gillain, Joseph
+AU  - Jureta, Ivan J.
+PY  - 2020
+DA  - 2020/09/05
+PB  - Springer Science and Business Media LLC
+SP  - 1615-1643
+IS  - 4
+VL  - 28
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

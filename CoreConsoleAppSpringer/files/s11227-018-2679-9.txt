@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11227-018-2679-9
+UR  - http://dx.doi.org/10.1007/s11227-018-2679-9
+TI  - Toward holistic performance management in clouds: taxonomy, challenges and opportunities
+T2  - The Journal of Supercomputing
+AU  - Fareghzadeh, Nafiseh
+AU  - Seyyedi, Mir Ali
+AU  - Mohsenzadeh, Mehran
+PY  - 2018
+DA  - 2018/11/10
+PB  - Springer Science and Business Media LLC
+SP  - 272-313
+IS  - 1
+VL  - 75
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

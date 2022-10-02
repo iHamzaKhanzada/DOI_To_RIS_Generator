@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-49443-8_3
+UR  - http://dx.doi.org/10.1007/978-3-030-49443-8_3
+TI  - Information Technology Consulting Firms’ Readiness for Managing Information Security Incidents
+T2  - Communications in Computer and Information Science
+AU  - Große, Christine
+AU  - Nyman, Maja
+AU  - Sundberg, Leif
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 48-73
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030494421
+SN  - 9783030494438
+ER  - 

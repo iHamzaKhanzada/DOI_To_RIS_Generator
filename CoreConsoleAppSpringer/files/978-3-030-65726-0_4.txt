@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-65726-0_4
+UR  - http://dx.doi.org/10.1007/978-3-030-65726-0_4
+TI  - Analysis of IDS Alert Correlation Techniques for Attacker Group Recognition in Distributed Systems
+T2  - Lecture Notes in Computer Science
+AU  - Pavlov, Artem
+AU  - Voloshina, Natalia
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 32-42
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030657253
+SN  - 9783030657260
+ER  - 

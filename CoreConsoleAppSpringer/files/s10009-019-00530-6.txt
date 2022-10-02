@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10009-019-00530-6
+UR  - http://dx.doi.org/10.1007/s10009-019-00530-6
+TI  - Diversity of graph models and graph generators in mutation testing
+T2  - International Journal on Software Tools for Technology Transfer
+AU  - Semeráth, Oszkár
+AU  - Farkas, Rebeka
+AU  - Bergmann, Gábor
+AU  - Varró, Dániel
+PY  - 2019
+DA  - 2019/09/11
+PB  - Springer Science and Business Media LLC
+SP  - 57-78
+IS  - 1
+VL  - 22
+SN  - 1433-2779
+SN  - 1433-2787
+ER  - 

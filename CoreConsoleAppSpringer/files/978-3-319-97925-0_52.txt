@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-97925-0_52
+UR  - http://dx.doi.org/10.1007/978-3-319-97925-0_52
+TI  - A Project Management Decision Support Tool for Keeping Pace with the Dynamics of Corporate Innovation Projects
+T2  - Communications in Computer and Information Science
+AU  - Gebhardt, Karolin
+AU  - Maes, Tom
+AU  - Riel, Andreas
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 619-630
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783319979243
+SN  - 9783319979250
+ER  - 

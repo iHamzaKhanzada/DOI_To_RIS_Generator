@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-34914-1_43
+UR  - http://dx.doi.org/10.1007/978-3-030-34914-1_43
+TI  - Smart Cities and Open WiFis: When Android OS Permissions Cease to Protect Privacy
+T2  - Internet and Distributed Computing Systems
+AU  - Verga, Gabriella
+AU  - Calcagno, Salvatore
+AU  - Fornaia, Andrea
+AU  - Tramontana, Emiliano
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 457-467
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030349134
+SN  - 9783030349141
+ER  - 

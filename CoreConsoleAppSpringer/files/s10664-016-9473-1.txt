@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10664-016-9473-1
+UR  - http://dx.doi.org/10.1007/s10664-016-9473-1
+TI  - Semantic topic models for source code analysis
+T2  - Empirical Software Engineering
+AU  - Mahmoud, Anas
+AU  - Bradshaw, Gary
+PY  - 2016
+DA  - 2016/11/22
+PB  - Springer Science and Business Media LLC
+SP  - 1965-2000
+IS  - 4
+VL  - 22
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

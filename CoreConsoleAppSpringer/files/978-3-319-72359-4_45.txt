@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-72359-4_45
+UR  - http://dx.doi.org/10.1007/978-3-319-72359-4_45
+TI  - Defending Application Cache Integrity of Android Runtime
+T2  - Information Security Practice and Experience
+AU  - Wan, Jia
+AU  - Zulkernine, Mohammad
+AU  - Eisen, Phil
+AU  - Liem, Clifford
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 727-746
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319723587
+SN  - 9783319723594
+ER  - 

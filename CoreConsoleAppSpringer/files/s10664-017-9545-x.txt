@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10664-017-9545-x
+UR  - http://dx.doi.org/10.1007/s10664-017-9545-x
+TI  - An exploratory study on assessing the energy impact of logging on Android applications
+T2  - Empirical Software Engineering
+AU  - Chowdhury, Shaiful
+AU  - Di Nardo, Silvia
+AU  - Hindle, Abram
+AU  - Jiang, Zhen Ming
+PY  - 2017
+DA  - 2017/09/21
+PB  - Springer Science and Business Media LLC
+SP  - 1422-1456
+IS  - 3
+VL  - 23
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

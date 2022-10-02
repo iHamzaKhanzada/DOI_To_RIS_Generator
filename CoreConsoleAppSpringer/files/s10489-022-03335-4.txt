@@ -1,0 +1,13 @@
+TY  - JOUR
+DO  - 10.1007/s10489-022-03335-4
+UR  - http://dx.doi.org/10.1007/s10489-022-03335-4
+TI  - A Cluster-based Stratified Hybrid Decision Support Model under Uncertainty: Sustainable Healthcare Landfill Location Selection
+T2  - Applied Intelligence
+AU  - Tirkolaee, Erfan Babaee
+AU  - Torkayesh, Ali Ebadi
+PY  - 2022
+DA  - 2022/03/07
+PB  - Springer Science and Business Media LLC
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 

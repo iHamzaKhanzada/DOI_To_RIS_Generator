@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-29743-5_8
+UR  - http://dx.doi.org/10.1007/978-3-030-29743-5_8
+TI  - Adaptive Analysis of Merchant Big Data
+T2  - Communications in Computer and Information Science
+AU  - Surnin, Oleg
+AU  - Sigova, Mariia
+AU  - Sitnikov, Pavel
+AU  - Ivaschenko, Anton
+AU  - Stolbova, Anastasia
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 105-117
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030297428
+SN  - 9783030297435
+ER  - 

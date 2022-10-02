@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11257-021-09305-8
+UR  - http://dx.doi.org/10.1007/s11257-021-09305-8
+TI  - Device personalization for heterogeneous populations: leveraging physician expertise and national population data to identify medical device patient user groups
+T2  - User Modeling and User-Adapted Interaction
+AU  - Knisely, Benjamin M.
+AU  - Vaughn-Cooke, Monifa
+AU  - Wagner, Lee-Ann
+AU  - Fink, Jeffrey C.
+PY  - 2021
+DA  - 2021/10/12
+PB  - Springer Science and Business Media LLC
+SP  - 979-1025
+IS  - 5
+VL  - 31
+SN  - 0924-1868
+SN  - 1573-1391
+ER  - 

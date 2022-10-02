@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11704-017-6124-7
+UR  - http://dx.doi.org/10.1007/s11704-017-6124-7
+TI  - Cloud service selection using cloud service brokers: approaches and challenges
+T2  - Frontiers of Computer Science
+AU  - Vakili, Meysam
+AU  - Jahangiri, Neda
+AU  - Sharifi, Mohsen
+PY  - 2018
+DA  - 2018/06/09
+PB  - Springer Science and Business Media LLC
+SP  - 599-617
+IS  - 3
+VL  - 13
+SN  - 2095-2228
+SN  - 2095-2236
+ER  - 

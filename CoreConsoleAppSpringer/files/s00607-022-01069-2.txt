@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00607-022-01069-2
+UR  - http://dx.doi.org/10.1007/s00607-022-01069-2
+TI  - Formal model for inter-component communication and its security in android
+T2  - Computing
+AU  - El-Zawawy, Mohamed A.
+AU  - Faruki, Parvez
+AU  - Conti, Mauro
+PY  - 2022
+DA  - 2022/03/27
+PB  - Springer Science and Business Media LLC
+SP  - 1839-1865
+IS  - 8
+VL  - 104
+SN  - 0010-485X
+SN  - 1436-5057
+ER  - 

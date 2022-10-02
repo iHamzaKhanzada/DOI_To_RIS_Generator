@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11227-018-2668-z
+UR  - http://dx.doi.org/10.1007/s11227-018-2668-z
+TI  - Energy-saving scheduling on IaaS HPC cloud environments based on a multi-objective genetic algorithm
+T2  - The Journal of Supercomputing
+AU  - Vila, Sergi
+AU  - Guirado, Fernando
+AU  - Lerida, Josep L.
+AU  - Cores, Fernando
+PY  - 2018
+DA  - 2018/11/09
+PB  - Springer Science and Business Media LLC
+SP  - 1483-1495
+IS  - 3
+VL  - 75
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

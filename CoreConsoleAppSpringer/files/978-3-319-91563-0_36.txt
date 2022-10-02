@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-91563-0_36
+UR  - http://dx.doi.org/10.1007/978-3-319-91563-0_36
+TI  - Data-Driven Elicitation, Assessment and Documentation of Quality Requirements in Agile Software Development
+T2  - Advanced Information Systems Engineering
+AU  - Franch, Xavier
+AU  - Gómez, Cristina
+AU  - Jedlitschka, Andreas
+AU  - López, Lidia
+AU  - Martínez-Fernández, Silverio
+AU  - Oriol, Marc
+AU  - Partanen, Jari
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 587-602
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319915623
+SN  - 9783319915630
+ER  - 

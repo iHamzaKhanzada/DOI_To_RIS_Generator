@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s42979-022-01278-8
+UR  - http://dx.doi.org/10.1007/s42979-022-01278-8
+TI  - MQTT-Based Android Chat Application for IoT
+T2  - SN Computer Science
+AU  - Anne, Lahari
+AU  - Nandan, Tanmayi
+AU  - Kunj, Mehta
+AU  - Kumar, S. Ananda
+AU  - Mahesh, G.
+AU  - Sangeetha, R.
+PY  - 2022
+DA  - 2022/07/26
+PB  - Springer Science and Business Media LLC
+IS  - 5
+VL  - 3
+SN  - 2661-8907
+ER  - 

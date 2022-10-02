@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-98997-2_5
+UR  - http://dx.doi.org/10.1007/978-3-030-98997-2_5
+TI  - Planning a Mass Vaccination Campaign with Balanced Staff Engagement
+T2  - Lecture Notes in Business Information Processing
+AU  - Foderaro, Salvatore
+AU  - Naldi, Maurizio
+AU  - Nicosia, Gaia
+AU  - Pacifici, Andrea
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 97-116
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030989965
+SN  - 9783030989972
+ER  - 

@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-88942-5_16
+UR  - http://dx.doi.org/10.1007/978-3-030-88942-5_16
+TI  - Prioritization of COVID-19-Related Literature via Unsupervised Keyphrase Extraction and Document Representation Learning
+T2  - Discovery Science
+AU  - Škrlj, Blaž
+AU  - Jukič, Marko
+AU  - Eržen, Nika
+AU  - Pollak, Senja
+AU  - Lavrač, Nada
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 204-217
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030889418
+SN  - 9783030889425
+ER  - 

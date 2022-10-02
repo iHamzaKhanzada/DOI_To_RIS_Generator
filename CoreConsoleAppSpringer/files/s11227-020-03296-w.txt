@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11227-020-03296-w
+UR  - http://dx.doi.org/10.1007/s11227-020-03296-w
+TI  - An efficient resource provisioning approach for analyzing cloud workloads: a metaheuristic-based clustering approach
+T2  - The Journal of Supercomputing
+AU  - Ghobaei-Arani, Mostafa
+AU  - Shahidinejad, Ali
+PY  - 2020
+DA  - 2020/04/23
+PB  - Springer Science and Business Media LLC
+SP  - 711-750
+IS  - 1
+VL  - 77
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

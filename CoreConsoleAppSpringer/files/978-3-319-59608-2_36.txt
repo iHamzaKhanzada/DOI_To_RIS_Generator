@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-59608-2_36
+UR  - http://dx.doi.org/10.1007/978-3-319-59608-2_36
+TI  - Alde: Privacy Risk Analysis of Analytics Libraries in the Android Ecosystem
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Liu, Xing
+AU  - Zhu, Sencun
+AU  - Wang, Wei
+AU  - Liu, Jiqiang
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 655-672
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319596075
+SN  - 9783319596082
+ER  - 

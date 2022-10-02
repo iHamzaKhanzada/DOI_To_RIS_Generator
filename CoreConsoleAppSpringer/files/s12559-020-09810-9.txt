@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s12559-020-09810-9
+UR  - http://dx.doi.org/10.1007/s12559-020-09810-9
+TI  - Assessing Mobile and Smart Technology Applications for Active and Healthy Aging using a Fuzzy Collaborative Intelligence Approach
+T2  - Cognitive Computation
+AU  - Chiu, Min-Chi
+AU  - Chen, Toly
+PY  - 2021
+DA  - 2021/01/13
+PB  - Springer Science and Business Media LLC
+SP  - 431-446
+IS  - 2
+VL  - 13
+SN  - 1866-9956
+SN  - 1866-9964
+ER  - 

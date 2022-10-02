@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00371-016-1216-1
+UR  - http://dx.doi.org/10.1007/s00371-016-1216-1
+TI  - An evolutionary learning based fuzzy theoretic approach for salient object detection
+T2  - The Visual Computer
+AU  - Kapoor, Aditi
+AU  - Biswas, K. K.
+AU  - Hanmandlu, M.
+PY  - 2016
+DA  - 2016/03/11
+PB  - Springer Science and Business Media LLC
+SP  - 665-685
+IS  - 5
+VL  - 33
+SN  - 0178-2789
+SN  - 1432-2315
+ER  - 

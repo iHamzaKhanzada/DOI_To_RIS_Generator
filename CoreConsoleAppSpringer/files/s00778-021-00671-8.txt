@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00778-021-00671-8
+UR  - http://dx.doi.org/10.1007/s00778-021-00671-8
+TI  - Managing bias and unfairness in data for decision support: a survey of machine learning and data engineering approaches to identify and mitigate bias and unfairness within data management and analytics systems
+T2  - The VLDB Journal
+AU  - Balayn, Agathe
+AU  - Lofi, Christoph
+AU  - Houben, Geert-Jan
+PY  - 2021
+DA  - 2021/05/05
+PB  - Springer Science and Business Media LLC
+SP  - 739-768
+IS  - 5
+VL  - 30
+SN  - 1066-8888
+SN  - 0949-877X
+ER  - 

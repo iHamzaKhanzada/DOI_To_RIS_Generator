@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-58472-0_31
+UR  - http://dx.doi.org/10.1007/978-3-319-58472-0_31
+TI  - Team Situation Awareness: A Review of Definitions and Conceptual Models
+T2  - Engineering Psychology and Cognitive Ergonomics: Performance, Emotion and Situation Awareness
+AU  - She, Manrong
+AU  - Li, Zhizhong
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 406-415
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319584713
+SN  - 9783319584720
+ER  - 

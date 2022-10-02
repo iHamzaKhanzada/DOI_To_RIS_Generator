@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s00778-021-00688-z
+UR  - http://dx.doi.org/10.1007/s00778-021-00688-z
+TI  - G-thinker: a general distributed framework for finding qualified subgraphs in a big graph with load balancing
+T2  - The VLDB Journal
+AU  - Yan, Da
+AU  - Guo, Guimu
+AU  - Khalil, Jalal
+AU  - Özsu, M. Tamer
+AU  - Ku, Wei-Shinn
+AU  - Lui, John C. S.
+PY  - 2021
+DA  - 2021/08/04
+PB  - Springer Science and Business Media LLC
+SP  - 287-320
+IS  - 2
+VL  - 31
+SN  - 1066-8888
+SN  - 0949-877X
+ER  - 

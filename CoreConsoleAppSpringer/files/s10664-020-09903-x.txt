@@ -1,0 +1,23 @@
+TY  - JOUR
+DO  - 10.1007/s10664-020-09903-x
+UR  - http://dx.doi.org/10.1007/s10664-020-09903-x
+TI  - Strategies to manage quality requirements in agile software development: a multiple case study
+T2  - Empirical Software Engineering
+AU  - Karhapää, Pertti
+AU  - Behutiye, Woubshet
+AU  - Rodríguez, Pilar
+AU  - Oivo, Markku
+AU  - Costal, Dolors
+AU  - Franch, Xavier
+AU  - Aaramaa, Sanja
+AU  - Choraś, Michał
+AU  - Partanen, Jari
+AU  - Abherve, Antonin
+PY  - 2021
+DA  - 2021/03
+PB  - Springer Science and Business Media LLC
+IS  - 2
+VL  - 26
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-79976-2_21
+UR  - http://dx.doi.org/10.1007/978-3-030-79976-2_21
+TI  - Value-Based Fuzzy Approach for Non-functional Requirements Prioritization
+T2  - Lecture Notes in Business Information Processing
+AU  - Ijaz, Khush Bakht
+AU  - Inayat, Irum
+AU  - Daneva, Maya
+AU  - Bukhsh, Faiza A.
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 330-342
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030799755
+SN  - 9783030799762
+ER  - 

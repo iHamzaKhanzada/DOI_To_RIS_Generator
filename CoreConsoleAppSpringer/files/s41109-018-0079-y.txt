@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s41109-018-0079-y
+UR  - http://dx.doi.org/10.1007/s41109-018-0079-y
+TI  - Hydraulically informed graph theoretic measure of link criticality for the resilience analysis of water distribution networks
+T2  - Applied Network Science
+AU  - Ulusoy, Aly-Joy
+AU  - Stoianov, Ivan
+AU  - Chazerain, Aurelie
+PY  - 2018
+DA  - 2018/08/13
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 3
+SN  - 2364-8228
+ER  - 

@@ -1,0 +1,13 @@
+TY  - GENERIC
+DO  - 10.1007/978-1-4842-4176-9_7
+UR  - http://dx.doi.org/10.1007/978-1-4842-4176-9_7
+TI  - Android and RxJava
+T2  - Reactive Streams in Java
+AU  - Davis, Adam L.
+PY  - 2018
+DA  - 2018/11/30
+PB  - Apress
+SP  - 71-82
+SN  - 9781484241752
+SN  - 9781484241769
+ER  - 

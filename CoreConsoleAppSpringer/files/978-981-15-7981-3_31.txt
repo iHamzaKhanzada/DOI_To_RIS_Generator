@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-15-7981-3_31
+UR  - http://dx.doi.org/10.1007/978-981-15-7981-3_31
+TI  - Android Vault Application Behavior Analysis and Detection
+T2  - Communications in Computer and Information Science
+AU  - Xie, Nannan
+AU  - Bai, Hongpeng
+AU  - Sun, Rui
+AU  - Di, Xiaoqiang
+PY  - 2020
+PB  - Springer Singapore
+SP  - 428-439
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811579806
+SN  - 9789811579813
+ER  - 

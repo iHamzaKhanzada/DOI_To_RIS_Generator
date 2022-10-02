@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10844-021-00665-6
+UR  - http://dx.doi.org/10.1007/s10844-021-00665-6
+TI  - Making design decisions under uncertainties: probabilistic reasoning and robust product design
+T2  - Journal of Intelligent Information Systems
+AU  - Gembarski, Paul Christoph
+AU  - Plappert, Stefan
+AU  - Lachmayer, Roland
+PY  - 2021
+DA  - 2021/08/19
+PB  - Springer Science and Business Media LLC
+SP  - 563-581
+IS  - 3
+VL  - 57
+SN  - 0925-9902
+SN  - 1573-7675
+ER  - 

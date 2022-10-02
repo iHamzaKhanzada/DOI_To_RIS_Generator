@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-04315-5_15
+UR  - http://dx.doi.org/10.1007/978-3-030-04315-5_15
+TI  - Conceptualizing the Transition from Agile to DevOps: A Maturity Model for a Smarter IS Function
+T2  - Smart Working, Living and Organising
+AU  - Hemon, Aymeric
+AU  - Lyonnet, Barbara
+AU  - Rowe, Frantz
+AU  - Fitzgerald, Brian
+PY  - 2018
+DA  - 2018/12/07
+PB  - Springer International Publishing
+SP  - 209-223
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030043148
+SN  - 9783030043155
+ER  - 

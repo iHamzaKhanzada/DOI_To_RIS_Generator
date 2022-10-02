@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09750-5
+UR  - http://dx.doi.org/10.1007/s10664-019-09750-5
+TI  - How developers engage with static analysis tools in different contexts
+T2  - Empirical Software Engineering
+AU  - Vassallo, Carmine
+AU  - Panichella, Sebastiano
+AU  - Palomba, Fabio
+AU  - Proksch, Sebastian
+AU  - Gall, Harald C.
+AU  - Zaidman, Andy
+PY  - 2019
+DA  - 2019/11/25
+PB  - Springer Science and Business Media LLC
+SP  - 1419-1457
+IS  - 2
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

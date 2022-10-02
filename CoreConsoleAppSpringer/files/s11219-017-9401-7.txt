@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11219-017-9401-7
+UR  - http://dx.doi.org/10.1007/s11219-017-9401-7
+TI  - Similarity-based prioritization of test case automation
+T2  - Software Quality Journal
+AU  - Flemström, Daniel
+AU  - Potena, Pasqualina
+AU  - Sundmark, Daniel
+AU  - Afzal, Wasif
+AU  - Bohlin, Markus
+PY  - 2018
+DA  - 2018/03/08
+PB  - Springer Science and Business Media LLC
+SP  - 1421-1449
+IS  - 4
+VL  - 26
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s00521-017-3075-8
+UR  - http://dx.doi.org/10.1007/s00521-017-3075-8
+TI  - Prioritization of hesitant multiplicative preference relations based on data envelopment analysis for group decision making
+T2  - Neural Computing and Applications
+AU  - Lin, Yang
+AU  - Wang, Ying-Ming
+PY  - 2017
+DA  - 2017/06/30
+PB  - Springer Science and Business Media LLC
+SP  - 437-447
+IS  - 2
+VL  - 31
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

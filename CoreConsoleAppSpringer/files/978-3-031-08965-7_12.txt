@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-08965-7_12
+UR  - http://dx.doi.org/10.1007/978-3-031-08965-7_12
+TI  - Automated Support for Risk Management in Scrum Agile Projects
+T2  - Enterprise Information Systems
+AU  - de Souza Lopes, Samuel
+AU  - de Souza, Rogéria Cristiane Gratão
+AU  - de Godoi Contessoto, Allan
+AU  - de Oliveira, André Luiz
+AU  - Braga, Rosana Teresinha Vaccare
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 236-255
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783031089640
+SN  - 9783031089657
+ER  - 

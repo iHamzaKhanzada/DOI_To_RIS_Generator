@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s10586-022-03714-z
+UR  - http://dx.doi.org/10.1007/s10586-022-03714-z
+TI  - TPEL: Task possible execution level for effective scheduling in fog–cloud environment
+T2  - Cluster Computing
+AU  - Alizadeh, Mohammad Reza
+AU  - Khajehvand, Vahid
+AU  - Rahmani, Amir Masoud
+AU  - Akbari, Ebrahim
+PY  - 2022
+DA  - 2022/08/23
+PB  - Springer Science and Business Media LLC
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

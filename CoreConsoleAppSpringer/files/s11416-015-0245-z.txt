@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s11416-015-0245-z
+UR  - http://dx.doi.org/10.1007/s11416-015-0245-z
+TI  - SherlockDroid: a research assistant to spot unknown malware in Android marketplaces
+T2  - Journal of Computer Virology and Hacking Techniques
+AU  - Apvrille, Axelle
+AU  - Apvrille, Ludovic
+PY  - 2015
+DA  - 2015/07/01
+PB  - Springer Science and Business Media LLC
+SP  - 235-245
+IS  - 4
+VL  - 11
+SN  - 2263-8733
+ER  - 

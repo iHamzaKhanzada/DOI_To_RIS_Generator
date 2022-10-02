@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-15-5827-6_6
+UR  - http://dx.doi.org/10.1007/978-981-15-5827-6_6
+TI  - Android Smells Detection Using ML Algorithms with Static Code Metrics
+T2  - Data Science and Analytics
+AU  - Gupta, Aakanshi
+AU  - Suri, Bharti
+AU  - Bhat, Vishal
+PY  - 2020
+PB  - Springer Singapore
+SP  - 64-79
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811558269
+SN  - 9789811558276
+ER  - 

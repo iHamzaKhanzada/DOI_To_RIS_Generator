@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10664-021-09987-z
+UR  - http://dx.doi.org/10.1007/s10664-021-09987-z
+TI  - The entrepreneurial logic of startup software development: A study of 40 software startups
+T2  - Empirical Software Engineering
+AU  - Nguyen-Duc, Anh
+AU  - Kemell, Kai-Kristian
+AU  - Abrahamsson, Pekka
+PY  - 2021
+DA  - 2021/07/06
+PB  - Springer Science and Business Media LLC
+IS  - 5
+VL  - 26
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

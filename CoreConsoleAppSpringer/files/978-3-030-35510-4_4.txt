@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-35510-4_4
+UR  - http://dx.doi.org/10.1007/978-3-030-35510-4_4
+TI  - An Evaluation of Test Suite Minimization Techniques
+T2  - Software Quality: Quality Intelligence in Software and Systems Engineering
+AU  - Noemmer, Raphael
+AU  - Haas, Roman
+PY  - 2019
+DA  - 2019/12/09
+PB  - Springer International Publishing
+SP  - 51-66
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030355098
+SN  - 9783030355104
+ER  - 

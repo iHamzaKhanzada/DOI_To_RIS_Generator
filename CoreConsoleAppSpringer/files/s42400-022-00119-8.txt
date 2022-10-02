@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1186/s42400-022-00119-8
+UR  - http://dx.doi.org/10.1186/s42400-022-00119-8
+TI  - On building machine learning pipelines for Android malware detection: a procedural survey of practices, challenges and opportunities
+T2  - Cybersecurity
+AU  - Mehrabi Koushki, Masoud
+AU  - AbuAlhaol, Ibrahim
+AU  - Raju, Anandharaju Durai
+AU  - Zhou, Yang
+AU  - Giagone, Ronnie Salvador
+AU  - Shengqiang, Huang
+PY  - 2022
+DA  - 2022/08/02
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 5
+SN  - 2523-3246
+ER  - 

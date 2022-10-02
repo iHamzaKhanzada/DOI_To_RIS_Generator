@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-37337-5_8
+UR  - http://dx.doi.org/10.1007/978-3-030-37337-5_8
+TI  - A Data Protection Scheme via Isolating Android Partitions
+T2  - Cyberspace Safety and Security
+AU  - Yang, Kai
+AU  - Ma, Xiaoya
+AU  - Jiang, Hongwei
+AU  - Xue, Yuan
+AU  - Han, Wencong
+AU  - Wang, Lianfang
+AU  - Liu, Lu
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 89-101
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030373368
+SN  - 9783030373375
+ER  - 

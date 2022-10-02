@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11280-017-0446-0
+UR  - http://dx.doi.org/10.1007/s11280-017-0446-0
+TI  - Discovering and understanding android sensor usage behaviors with data flow analysis
+T2  - World Wide Web
+AU  - Liu, Xing
+AU  - Liu, Jiqiang
+AU  - Wang, Wei
+AU  - He, Yongzhong
+AU  - Zhang, Xiangliang
+PY  - 2017
+DA  - 2017/03/20
+PB  - Springer Science and Business Media LLC
+SP  - 105-126
+IS  - 1
+VL  - 21
+SN  - 1386-145X
+SN  - 1573-1413
+ER  - 

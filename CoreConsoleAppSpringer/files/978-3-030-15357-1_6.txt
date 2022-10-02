@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-15357-1_6
+UR  - http://dx.doi.org/10.1007/978-3-030-15357-1_6
+TI  - Machine Repair Problem with Preventive Maintenance and Multi Criteria Prioritization of Machines
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Abide, Ahmed
+AU  - Jayaprakash, Jeyaraju
+AU  - Haile, Bereket
+AU  - Geremew, Sisay
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 83-92
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030153564
+SN  - 9783030153571
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10664-018-9616-7
+UR  - http://dx.doi.org/10.1007/s10664-018-9616-7
+TI  - Comparison of release engineering practices in a large mature company and a startup
+T2  - Empirical Software Engineering
+AU  - Laukkanen, Eero
+AU  - Paasivaara, Maria
+AU  - Itkonen, Juha
+AU  - Lassenius, Casper
+PY  - 2018
+DA  - 2018/03/28
+PB  - Springer Science and Business Media LLC
+SP  - 3535-3577
+IS  - 6
+VL  - 23
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-68015-6_8
+UR  - http://dx.doi.org/10.1007/978-3-319-68015-6_8
+TI  - Model-Based Regression Testing of Autonomous Robots
+T2  - SDL 2017: Model-Driven Engineering for Future Internet
+AU  - Honfi, Dávid
+AU  - Molnár, Gábor
+AU  - Micskei, Zoltán
+AU  - Majzik, István
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 119-135
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319680149
+SN  - 9783319680156
+ER  - 

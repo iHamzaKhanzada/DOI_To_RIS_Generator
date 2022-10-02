@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s13748-020-00205-3
+UR  - http://dx.doi.org/10.1007/s13748-020-00205-3
+TI  - A systematic literature review of the SBSE research community in Spain
+T2  - Progress in Artificial Intelligence
+AU  - Ramírez, Aurora
+AU  - Delgado-Pérez, Pedro
+AU  - Ferrer, Javier
+AU  - Romero, José Raúl
+AU  - Medina-Bulo, Inmaculada
+AU  - Chicano, Francisco
+PY  - 2020
+DA  - 2020/04/18
+PB  - Springer Science and Business Media LLC
+SP  - 113-128
+IS  - 2
+VL  - 9
+SN  - 2192-6352
+SN  - 2192-6360
+ER  - 

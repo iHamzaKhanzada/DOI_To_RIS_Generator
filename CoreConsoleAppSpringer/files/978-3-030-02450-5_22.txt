@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-02450-5_22
+UR  - http://dx.doi.org/10.1007/978-3-030-02450-5_22
+TI  - Formalising Extended Finite State Machine Transition Merging
+T2  - Formal Methods and Software Engineering
+AU  - Foster, Michael
+AU  - Taylor, Ramsay G.
+AU  - Brucker, Achim D.
+AU  - Derrick, John
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 373-387
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030024499
+SN  - 9783030024505
+ER  - 

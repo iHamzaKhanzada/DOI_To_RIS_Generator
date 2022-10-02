@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-05767-1_5
+UR  - http://dx.doi.org/10.1007/978-3-030-05767-1_5
+TI  - Agile Software Process Improvement by Learning from Financial and Fintech Companies: LHV Bank Case Study
+T2  - Lecture Notes in Business Information Processing
+AU  - Kilu, Erki
+AU  - Milani, Fredrik
+AU  - Scott, Ezequiel
+AU  - Pfahl, Dietmar
+PY  - 2018
+DA  - 2018/12/11
+PB  - Springer International Publishing
+SP  - 57-69
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030057664
+SN  - 9783030057671
+ER  - 

@@ -1,0 +1,12 @@
+TY  - JOUR
+DO  - 10.1007/s00146-020-00955-7
+UR  - http://dx.doi.org/10.1007/s00146-020-00955-7
+TI  - A hermeneutics of scientific practices and the concept of “text”
+T2  - AI &amp; SOCIETY
+AU  - Ginev, Dimitri
+PY  - 2020
+DA  - 2020/03/16
+PB  - Springer Science and Business Media LLC
+SN  - 0951-5666
+SN  - 1435-5655
+ER  - 

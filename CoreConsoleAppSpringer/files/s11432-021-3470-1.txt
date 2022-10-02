@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s11432-021-3470-1
+UR  - http://dx.doi.org/10.1007/s11432-021-3470-1
+TI  - A new 5G radio evolution towards 5G-Advanced
+T2  - Science China Information Sciences
+AU  - Pang, Jiyong
+AU  - Wang, Shaobo
+AU  - Tang, Zhenfei
+AU  - Qin, Yanmin
+AU  - Tao, Xiaofeng
+AU  - You, Xiaohu
+AU  - Zhu, Jinkang
+PY  - 2022
+DA  - 2022/08/29
+PB  - Springer Science and Business Media LLC
+IS  - 9
+VL  - 65
+SN  - 1674-733X
+SN  - 1869-1919
+ER  - 

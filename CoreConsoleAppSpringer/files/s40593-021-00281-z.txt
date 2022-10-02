@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1007/s40593-021-00281-z
+UR  - http://dx.doi.org/10.1007/s40593-021-00281-z
+TI  - Keep Me in the Loop: Real-Time Feedback with Multimodal Data
+T2  - International Journal of Artificial Intelligence in Education
+AU  - Di Mitri, Daniele
+AU  - Schneider, Jan
+AU  - Drachsler, Hendrik
+PY  - 2021
+DA  - 2021/11/18
+PB  - Springer Science and Business Media LLC
+SN  - 1560-4292
+SN  - 1560-4306
+ER  - 

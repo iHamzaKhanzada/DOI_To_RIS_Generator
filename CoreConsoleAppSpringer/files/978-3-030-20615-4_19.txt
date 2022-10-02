@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-20615-4_19
+UR  - http://dx.doi.org/10.1007/978-3-030-20615-4_19
+TI  - Time Bound Robot Mission Planning for Priority Machine Using Linear Temporal Logic for Multi Goals
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Beri, Venkata
+AU  - Kala, Rahul
+AU  - Nandi, Gora Chand
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 250-263
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030206147
+SN  - 9783030206154
+ER  - 

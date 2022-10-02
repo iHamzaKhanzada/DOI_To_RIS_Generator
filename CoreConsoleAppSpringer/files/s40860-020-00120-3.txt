@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s40860-020-00120-3
+UR  - http://dx.doi.org/10.1007/s40860-020-00120-3
+TI  - Big data in cybersecurity: a survey of applications and future trends
+T2  - Journal of Reliable Intelligent Environments
+AU  - Alani, Mohammed M.
+PY  - 2021
+DA  - 2021/01/06
+PB  - Springer Science and Business Media LLC
+SP  - 85-114
+IS  - 2
+VL  - 7
+SN  - 2199-4668
+SN  - 2199-4676
+ER  - 

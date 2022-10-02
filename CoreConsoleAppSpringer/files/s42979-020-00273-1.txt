@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1007/s42979-020-00273-1
+UR  - http://dx.doi.org/10.1007/s42979-020-00273-1
+TI  - A Survey on Cloud Computing Simulation and Modeling
+T2  - SN Computer Science
+AU  - Bambrik, Ilyas
+PY  - 2020
+DA  - 2020/08/04
+PB  - Springer Science and Business Media LLC
+IS  - 5
+VL  - 1
+SN  - 2662-995X
+SN  - 2661-8907
+ER  - 

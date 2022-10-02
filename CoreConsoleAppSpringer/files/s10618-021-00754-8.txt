@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10618-021-00754-8
+UR  - http://dx.doi.org/10.1007/s10618-021-00754-8
+TI  - Fast computation of Katz index for efficient processing of link prediction queries
+T2  - Data Mining and Knowledge Discovery
+AU  - Coşkun, Mustafa
+AU  - Baggag, Abdelkader
+AU  - Koyutürk, Mehmet
+PY  - 2021
+DA  - 2021/04/16
+PB  - Springer Science and Business Media LLC
+SP  - 1342-1368
+IS  - 4
+VL  - 35
+SN  - 1384-5810
+SN  - 1573-756X
+ER  - 

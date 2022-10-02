@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-99951-7_4
+UR  - http://dx.doi.org/10.1007/978-3-319-99951-7_4
+TI  - Getting to Win-Win in Industrial Collaboration Under Coopetition: A Strategic Modeling Approach
+T2  - Lecture Notes in Business Information Processing
+AU  - Pant, Vik
+AU  - Yu, Eric
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 47-66
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783319999500
+SN  - 9783319999517
+ER  - 

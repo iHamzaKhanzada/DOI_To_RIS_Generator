@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-15559-8_45
+UR  - http://dx.doi.org/10.1007/978-3-031-15559-8_45
+TI  - Requirements Volatility in Multicultural Situational Contexts
+T2  - Communications in Computer and Information Science
+AU  - Siakas, Errikos
+AU  - Rahanu, Harjinder
+AU  - Georgiadou, Elli
+AU  - Siakas, Kerstin
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 633-655
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783031155581
+SN  - 9783031155598
+ER  - 

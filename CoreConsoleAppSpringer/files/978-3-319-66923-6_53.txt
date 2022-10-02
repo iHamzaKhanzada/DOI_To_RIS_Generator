@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-66923-6_53
+UR  - http://dx.doi.org/10.1007/978-3-319-66923-6_53
+TI  - Assessment of Counter-Measures for Disturbance Management in Manufacturing Environments
+T2  - Advances in Production Management Systems. The Path to Intelligent, Collaborative and Sustainable Manufacturing
+AU  - Stich, Volker
+AU  - Schröter, Moritz
+AU  - Jordan, Felix
+AU  - Wenger, Lucas
+AU  - Blum, Matthias
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 449-456
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783319669229
+SN  - 9783319669236
+ER  - 

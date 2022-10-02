@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s12559-021-09916-8
+UR  - http://dx.doi.org/10.1007/s12559-021-09916-8
+TI  - Cognitively Inspired Multi-attribute Decision-making Methods Under Uncertainty: a State-of-the-art Survey
+T2  - Cognitive Computation
+AU  - Wu, Hangyao
+AU  - Xu, Zeshui
+PY  - 2022
+DA  - 2022/01/30
+PB  - Springer Science and Business Media LLC
+SP  - 511-530
+IS  - 2
+VL  - 14
+SN  - 1866-9956
+SN  - 1866-9964
+ER  - 

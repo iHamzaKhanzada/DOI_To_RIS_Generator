@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10664-021-09943-x
+UR  - http://dx.doi.org/10.1007/s10664-021-09943-x
+TI  - A first look at Android applications in Google Play related to COVID-19
+T2  - Empirical Software Engineering
+AU  - Samhi, Jordan
+AU  - Allix, Kevin
+AU  - Bissyandé, Tegawendé F.
+AU  - Klein, Jacques
+PY  - 2021
+DA  - 2021/04/21
+PB  - Springer Science and Business Media LLC
+IS  - 4
+VL  - 26
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

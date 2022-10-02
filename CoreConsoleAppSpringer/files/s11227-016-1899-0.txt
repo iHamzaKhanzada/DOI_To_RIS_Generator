@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11227-016-1899-0
+UR  - http://dx.doi.org/10.1007/s11227-016-1899-0
+TI  - Energy efficiency of dynamic management of virtual cluster with heterogeneous hardware
+T2  - The Journal of Supercomputing
+AU  - Kommeri, Jukka
+AU  - Niemi, Tapio
+AU  - Nurminen, Jukka K.
+PY  - 2016
+DA  - 2016/10/24
+PB  - Springer Science and Business Media LLC
+SP  - 1978-2000
+IS  - 5
+VL  - 73
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

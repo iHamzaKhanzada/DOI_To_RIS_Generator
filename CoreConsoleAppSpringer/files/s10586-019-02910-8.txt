@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10586-019-02910-8
+UR  - http://dx.doi.org/10.1007/s10586-019-02910-8
+TI  - Resource allocation mechanisms and approaches on the Internet of Things
+T2  - Cluster Computing
+AU  - Ghanbari, Zahra
+AU  - Jafari Navimipour, Nima
+AU  - Hosseinzadeh, Mehdi
+AU  - Darwesh, Aso
+PY  - 2019
+DA  - 2019/01/31
+PB  - Springer Science and Business Media LLC
+SP  - 1253-1282
+IS  - 4
+VL  - 22
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

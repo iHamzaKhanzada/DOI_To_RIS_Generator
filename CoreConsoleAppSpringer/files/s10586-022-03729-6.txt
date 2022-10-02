@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s10586-022-03729-6
+UR  - http://dx.doi.org/10.1007/s10586-022-03729-6
+TI  - Automatic delay-sensitive applications quality of service improvement with deep flows discrimination in software defined networks
+T2  - Cluster Computing
+AU  - Mohammadi, Ramin
+AU  - Akleylek, Sedat
+AU  - Ghaffari, Ali
+AU  - Shirmarz, Alireza
+PY  - 2022
+DA  - 2022/09/13
+PB  - Springer Science and Business Media LLC
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

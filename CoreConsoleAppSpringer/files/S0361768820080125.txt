@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1134/s0361768820080125
+UR  - http://dx.doi.org/10.1134/S0361768820080125
+TI  - Developing Web Applications with Awareness of Data Quality Elements – DQAWA
+T2  - Programming and Computer Software
+AU  - Guerra-García, C.
+AU  - González, H. Pérez
+AU  - Ramírez-Torres, M.
+AU  - Juárez-Ramírez, Reyes
+PY  - 2020
+DA  - 2020/12
+PB  - Pleiades Publishing Ltd
+SP  - 548-560
+IS  - 8
+VL  - 46
+SN  - 0361-7688
+SN  - 1608-3261
+ER  - 

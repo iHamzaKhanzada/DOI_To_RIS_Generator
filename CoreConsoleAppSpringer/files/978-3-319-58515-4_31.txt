@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-58515-4_31
+UR  - http://dx.doi.org/10.1007/978-3-319-58515-4_31
+TI  - Designing a Peer Feedback Mobile Application as a Professional Development Tool
+T2  - Learning and Collaboration Technologies. Technology in Education
+AU  - Kapros, Evangelos
+AU  - Neelen, Mirjam
+AU  - Walsh, Eddie
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 401-418
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319585147
+SN  - 9783319585154
+ER  - 

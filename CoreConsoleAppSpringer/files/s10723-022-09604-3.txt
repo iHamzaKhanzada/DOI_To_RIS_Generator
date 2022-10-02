@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10723-022-09604-3
+UR  - http://dx.doi.org/10.1007/s10723-022-09604-3
+TI  - A QoS-Aware IoT Service Placement Mechanism in Fog Computing Based on Open-Source Development Model
+T2  - Journal of Grid Computing
+AU  - Zhao, Defu
+AU  - Zou, Qunying
+AU  - Boshkani Zadeh, Milad
+PY  - 2022
+DA  - 2022/04/11
+PB  - Springer Science and Business Media LLC
+IS  - 2
+VL  - 20
+SN  - 1570-7873
+SN  - 1572-9184
+ER  - 

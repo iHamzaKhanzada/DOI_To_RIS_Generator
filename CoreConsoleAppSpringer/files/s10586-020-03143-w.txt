@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10586-020-03143-w
+UR  - http://dx.doi.org/10.1007/s10586-020-03143-w
+TI  - A novel energy-efficient scheduling model for multi-core systems
+T2  - Cluster Computing
+AU  - Kumar, Neetesh
+AU  - Vidyarthi, Deo Prakash
+PY  - 2020
+DA  - 2020/06/29
+PB  - Springer Science and Business Media LLC
+SP  - 643-666
+IS  - 2
+VL  - 24
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

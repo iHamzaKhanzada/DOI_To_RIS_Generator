@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10462-017-9563-5
+UR  - http://dx.doi.org/10.1007/s10462-017-9563-5
+TI  - A study on software fault prediction techniques
+T2  - Artificial Intelligence Review
+AU  - Rathore, Santosh S.
+AU  - Kumar, Sandeep
+PY  - 2017
+DA  - 2017/05/30
+PB  - Springer Science and Business Media LLC
+SP  - 255-327
+IS  - 2
+VL  - 51
+SN  - 0269-2821
+SN  - 1573-7462
+ER  - 

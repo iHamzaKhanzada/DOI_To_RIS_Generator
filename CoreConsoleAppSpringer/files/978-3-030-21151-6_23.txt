@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-21151-6_23
+UR  - http://dx.doi.org/10.1007/978-3-030-21151-6_23
+TI  - Intermediaries in eHealth Education
+T2  - Communications in Computer and Information Science
+AU  - Lahtiranta, Janne
+AU  - Majanoja, Anne-Maarit
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 489-506
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030211509
+SN  - 9783030211516
+ER  - 

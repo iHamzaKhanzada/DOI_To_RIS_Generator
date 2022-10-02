@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-08169-9_2
+UR  - http://dx.doi.org/10.1007/978-3-031-08169-9_2
+TI  - Moscow Rules: A Quantitative Exposé
+T2  - Lecture Notes in Business Information Processing
+AU  - Miranda, Eduardo
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 19-34
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783031081682
+SN  - 9783031081699
+ER  - 

@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-50463-6_15
+UR  - http://dx.doi.org/10.1007/978-3-319-50463-6_15
+TI  - AndroPatchApp: Taming Rogue Ads in Android
+T2  - Mobile, Secure, and Programmable Networking
+AU  - Tsiakos, Vasilis
+AU  - Patsakis, Constantinos
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 183-196
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319504629
+SN  - 9783319504636
+ER  - 

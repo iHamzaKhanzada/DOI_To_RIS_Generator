@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s10489-022-03688-w
+UR  - http://dx.doi.org/10.1007/s10489-022-03688-w
+TI  - Selection of a solar water heater for large-scale group decision making with hesitant fuzzy linguistic preference relations based on the best-worst method
+T2  - Applied Intelligence
+AU  - Zhou, Yuanyuan
+AU  - Zheng, Chengli
+AU  - Zhou, Ligang
+AU  - Chen, Huayou
+PY  - 2022
+DA  - 2022/06/11
+PB  - Springer Science and Business Media LLC
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 

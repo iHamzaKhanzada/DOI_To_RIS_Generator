@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-62698-7_22
+UR  - http://dx.doi.org/10.1007/978-3-319-62698-7_22
+TI  - Non Profit Institutions IT Governance: Private High Education Institutions in Bogota Case
+T2  - Communications in Computer and Information Science
+AU  - de Jesús Muriel Perea, Yasser
+AU  - Díaz-Piraquive, Flor Nancy
+AU  - Crespo, Rubén González
+AU  - Rojas, Ivanhoe Rozo
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 254-269
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783319626970
+SN  - 9783319626987
+ER  - 

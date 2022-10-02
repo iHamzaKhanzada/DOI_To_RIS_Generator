@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10270-022-01015-y
+UR  - http://dx.doi.org/10.1007/s10270-022-01015-y
+TI  - Agile MERODE: a model-driven software engineering method for user-centric and value-based development
+T2  - Software and Systems Modeling
+AU  - Snoeck, Monique
+AU  - Wautelet, Yves
+PY  - 2022
+DA  - 2022/06/16
+PB  - Springer Science and Business Media LLC
+SP  - 1469-1494
+IS  - 4
+VL  - 21
+SN  - 1619-1366
+SN  - 1619-1374
+ER  - 

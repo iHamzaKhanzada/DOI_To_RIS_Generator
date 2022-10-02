@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00766-017-0278-6
+UR  - http://dx.doi.org/10.1007/s00766-017-0278-6
+TI  - Goal model analysis of autonomy requirements for Unmanned Aircraft Systems
+T2  - Requirements Engineering
+AU  - Neace, Kerry
+AU  - Roncace, Robert
+AU  - Fomin, Pavel
+PY  - 2017
+DA  - 2017/07/18
+PB  - Springer Science and Business Media LLC
+SP  - 509-555
+IS  - 4
+VL  - 23
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

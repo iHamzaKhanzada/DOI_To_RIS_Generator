@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-50316-1_2
+UR  - http://dx.doi.org/10.1007/978-3-030-50316-1_2
+TI  - A Big Data Conceptual Model to Improve Quality of Business Analytics
+T2  - Research Challenges in Information Science
+AU  - Park, Grace
+AU  - Chung, Lawrence
+AU  - Johng, Haan
+AU  - Sugumaran, Vijayan
+AU  - Park, Sooyong
+AU  - Zhao, Liping
+AU  - Supakkul, Sam
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 20-37
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030503154
+SN  - 9783030503161
+ER  - 

@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-64642-4_6
+UR  - http://dx.doi.org/10.1007/978-3-030-64642-4_6
+TI  - The Effect of Big Data Analytics on Firm Decision Making: The Case of the Lebanese Banking Sector
+T2  - Lecture Notes in Business Information Processing
+AU  - Shouman, Lina
+AU  - Chehade, Jamal
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 66-75
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030646417
+SN  - 9783030646424
+ER  - 

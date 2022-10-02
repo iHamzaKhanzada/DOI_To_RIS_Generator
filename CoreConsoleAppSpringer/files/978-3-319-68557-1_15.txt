@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-68557-1_15
+UR  - http://dx.doi.org/10.1007/978-3-319-68557-1_15
+TI  - Assessment of Open Government Data Initiative - A Perception Driven Approach
+T2  - Digital Nations – Smart Cities, Innovation, and Sustainability
+AU  - Mishra, Alka
+AU  - Misra, D. P.
+AU  - Kar, Arpan Kumar
+AU  - Babbar, Sunil
+AU  - Biswas, Shubhadip
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 159-171
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319685564
+SN  - 9783319685571
+ER  - 

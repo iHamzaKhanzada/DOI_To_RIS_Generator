@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10489-021-02807-3
+UR  - http://dx.doi.org/10.1007/s10489-021-02807-3
+TI  - Probabilistic linguistic WASPAS method for patients’ prioritization by developing prioritized Maclaurin symmetric mean aggregation operators
+T2  - Applied Intelligence
+AU  - Darko, Adjei Peter
+AU  - Liang, Decui
+PY  - 2022
+DA  - 2022/01/07
+PB  - Springer Science and Business Media LLC
+SP  - 9537-9555
+IS  - 8
+VL  - 52
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 

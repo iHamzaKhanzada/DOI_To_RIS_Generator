@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-59987-4_27
+UR  - http://dx.doi.org/10.1007/978-3-030-59987-4_27
+TI  - Simulation Model for Mapping the Causes and Effects of Human Error in Product Development
+T2  - HCI International 2020 – Late Breaking Papers: Digital Human Modeling and Ergonomics, Mobility and Intelligent Environments
+AU  - Tackenberg, Sven
+AU  - Duckwitz, Sönke
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 381-396
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030599867
+SN  - 9783030599874
+ER  - 

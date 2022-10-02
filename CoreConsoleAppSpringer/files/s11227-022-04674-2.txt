@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s11227-022-04674-2
+UR  - http://dx.doi.org/10.1007/s11227-022-04674-2
+TI  - A neutrosophic AHP-based computational technique for security management in a fog computing network
+T2  - The Journal of Supercomputing
+AU  - Kaur, Jasleen
+AU  - Kumar, Rajeev
+AU  - Agrawal, Alka
+AU  - Khan, Raees Ahmad
+PY  - 2022
+DA  - 2022/07/08
+PB  - Springer Science and Business Media LLC
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

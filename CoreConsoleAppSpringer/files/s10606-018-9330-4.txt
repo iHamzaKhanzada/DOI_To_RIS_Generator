@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10606-018-9330-4
+UR  - http://dx.doi.org/10.1007/s10606-018-9330-4
+TI  - Don’t be afraid! Persuasive Practices in the Wild
+T2  - Computer Supported Cooperative Work (CSCW)
+AU  - Dolata, Mateusz
+AU  - Schwabe, Gerhard
+PY  - 2018
+DA  - 2018/06/13
+PB  - Springer Science and Business Media LLC
+SP  - 427-462
+IS  - 3-6
+VL  - 27
+SN  - 0925-9724
+SN  - 1573-7551
+ER  - 

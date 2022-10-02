@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11219-017-9374-6
+UR  - http://dx.doi.org/10.1007/s11219-017-9374-6
+TI  - System-level attacks against android by exploiting asynchronous programming
+T2  - Software Quality Journal
+AU  - Chen, Ting
+AU  - Li, Xiaoqi
+AU  - Luo, Xiapu
+AU  - Zhang, Xiaosong
+PY  - 2017
+DA  - 2017/05/31
+PB  - Springer Science and Business Media LLC
+SP  - 1037-1062
+IS  - 3
+VL  - 26
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

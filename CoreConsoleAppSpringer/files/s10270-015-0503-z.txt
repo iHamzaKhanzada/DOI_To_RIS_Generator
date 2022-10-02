@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10270-015-0503-z
+UR  - http://dx.doi.org/10.1007/s10270-015-0503-z
+TI  - FLAME: a formal framework for the automated analysis of software product lines validated by automated specification testing
+T2  - Software &amp; Systems Modeling
+AU  - Durán, Amador
+AU  - Benavides, David
+AU  - Segura, Sergio
+AU  - Trinidad, Pablo
+AU  - Ruiz-Cortés, Antonio
+PY  - 2015
+DA  - 2015/12/14
+PB  - Springer Science and Business Media LLC
+SP  - 1049-1082
+IS  - 4
+VL  - 16
+SN  - 1619-1366
+SN  - 1619-1374
+ER  - 

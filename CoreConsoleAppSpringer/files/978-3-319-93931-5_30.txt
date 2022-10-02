@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-93931-5_30
+UR  - http://dx.doi.org/10.1007/978-3-319-93931-5_30
+TI  - Identifying Suitable Representation Techniques for the Prioritization of Requirements and Their Interdependencies for Multiple Software Product Lines
+T2  - Business Information Systems
+AU  - Lewellen, Stephanie
+AU  - Helfert, Markus
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 412-423
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783319939308
+SN  - 9783319939315
+ER  - 

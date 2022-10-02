@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10586-017-1000-7
+UR  - http://dx.doi.org/10.1007/s10586-017-1000-7
+TI  - Parallel testing and coverage analysis for context-free applications
+T2  - Cluster Computing
+AU  - Rauf, Abdul
+AU  - Ramzan, Muhammad
+PY  - 2017
+DA  - 2017/06/24
+PB  - Springer Science and Business Media LLC
+SP  - 729-739
+IS  - 1
+VL  - 21
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

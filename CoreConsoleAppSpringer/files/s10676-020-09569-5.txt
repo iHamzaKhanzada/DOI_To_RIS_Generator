@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s10676-020-09569-5
+UR  - http://dx.doi.org/10.1007/s10676-020-09569-5
+TI  - Corona pan(dem)ic: gateway to global surveillance
+T2  - Ethics and Information Technology
+AU  - Surber, Regina Sibylle
+PY  - 2020
+DA  - 2020/10/20
+PB  - Springer Science and Business Media LLC
+SP  - 569-578
+IS  - 3
+VL  - 23
+SN  - 1388-1957
+SN  - 1572-8439
+ER  - 

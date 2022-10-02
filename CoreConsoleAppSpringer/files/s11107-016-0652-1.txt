@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11107-016-0652-1
+UR  - http://dx.doi.org/10.1007/s11107-016-0652-1
+TI  - Energy efficient adaptive optical CDMA random access protocol based on particle swarm optimization
+T2  - Photonic Network Communications
+AU  - Durand, Fábio Renan
+AU  - Abrão, Taufik
+PY  - 2016
+DA  - 2016/08/01
+PB  - Springer Science and Business Media LLC
+SP  - 275-289
+IS  - 3
+VL  - 33
+SN  - 1387-974X
+SN  - 1572-8188
+ER  - 

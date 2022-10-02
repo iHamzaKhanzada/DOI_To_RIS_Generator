@@ -1,0 +1,13 @@
+TY  - JOUR
+DO  - 10.1007/s10489-021-02909-y
+UR  - http://dx.doi.org/10.1007/s10489-021-02909-y
+TI  - A survey of group decision making methods in Healthcare Industry 4.0: bibliometrics, applications, and directions
+T2  - Applied Intelligence
+AU  - Lu, Keyu
+AU  - Liao, Huchang
+PY  - 2022
+DA  - 2022/01/05
+PB  - Springer Science and Business Media LLC
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00766-022-00373-9
+UR  - http://dx.doi.org/10.1007/s00766-022-00373-9
+TI  - A systematic literature review of empirical research on quality requirements
+T2  - Requirements Engineering
+AU  - Olsson, Thomas
+AU  - Sentilles, Séverine
+AU  - Papatheocharous, Efi
+PY  - 2022
+DA  - 2022/02/08
+PB  - Springer Science and Business Media LLC
+SP  - 249-271
+IS  - 2
+VL  - 27
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

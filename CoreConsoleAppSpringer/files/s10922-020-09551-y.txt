@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10922-020-09551-y
+UR  - http://dx.doi.org/10.1007/s10922-020-09551-y
+TI  - SDN-Based Traffic Management Middleware for Spontaneous WMNs
+T2  - Journal of Network and Systems Management
+AU  - Bellavista, Paolo
+AU  - Dolci, Alessandro
+AU  - Giannelli, Carlo
+AU  - Padalino Montenero, Dmitrij David
+PY  - 2020
+DA  - 2020/07/10
+PB  - Springer Science and Business Media LLC
+SP  - 1575-1609
+IS  - 4
+VL  - 28
+SN  - 1064-7570
+SN  - 1573-7705
+ER  - 

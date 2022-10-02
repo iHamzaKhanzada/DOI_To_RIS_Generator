@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-59291-2_10
+UR  - http://dx.doi.org/10.1007/978-3-030-59291-2_10
+TI  - Threat Poker: Gamification of Secure Agile
+T2  - Information Security Education. Information Security in Action
+AU  - Jøsang, Audun
+AU  - Stray, Viktoria
+AU  - Rygge, Hanne
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 142-155
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030592905
+SN  - 9783030592912
+ER  - 

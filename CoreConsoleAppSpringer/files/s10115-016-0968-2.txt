@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10115-016-0968-2
+UR  - http://dx.doi.org/10.1007/s10115-016-0968-2
+TI  - Efficient and scalable labeled subgraph matching using SGMatch
+T2  - Knowledge and Information Systems
+AU  - Rivero, Carlos R.
+AU  - Jamil, Hasan M.
+PY  - 2016
+DA  - 2016/07/05
+PB  - Springer Science and Business Media LLC
+SP  - 61-87
+IS  - 1
+VL  - 51
+SN  - 0219-1377
+SN  - 0219-3116
+ER  - 

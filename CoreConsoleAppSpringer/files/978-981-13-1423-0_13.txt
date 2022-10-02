@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-13-1423-0_13
+UR  - http://dx.doi.org/10.1007/978-981-13-1423-0_13
+TI  - Context-Aware Network for Smart City Services: A Layered Approach
+T2  - Communications in Computer and Information Science
+AU  - Nagaraj, Prathviraj
+AU  - Deshpande, Santosh L.
+PY  - 2018
+PB  - Springer Singapore
+SP  - 113-119
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811314223
+SN  - 9789811314230
+ER  - 

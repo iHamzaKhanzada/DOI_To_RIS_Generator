@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s00521-016-2592-1
+UR  - http://dx.doi.org/10.1007/s00521-016-2592-1
+TI  - A fuzzy decision support system for credit scoring
+T2  - Neural Computing and Applications
+AU  - Ignatius, Joshua
+AU  - Hatami-Marbini, Adel
+AU  - Rahman, Amirah
+AU  - Dhamotharan, Lalitha
+AU  - Khoshnevis, Pegah
+PY  - 2016
+DA  - 2016/09/26
+PB  - Springer Science and Business Media LLC
+SP  - 921-937
+IS  - 10
+VL  - 29
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

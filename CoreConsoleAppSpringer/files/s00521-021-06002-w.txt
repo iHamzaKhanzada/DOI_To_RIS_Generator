@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s00521-021-06002-w
+UR  - http://dx.doi.org/10.1007/s00521-021-06002-w
+TI  - Multi-objective hybrid genetic algorithm for task scheduling problem in cloud computing
+T2  - Neural Computing and Applications
+AU  - Pirozmand, Poria
+AU  - Hosseinabadi, Ali Asghar Rahmani
+AU  - Farrokhzad, Maedeh
+AU  - Sadeghilalimi, Mehdi
+AU  - Mirkamali, Seyedsaeid
+AU  - Slowik, Adam
+PY  - 2021
+DA  - 2021/04/18
+PB  - Springer Science and Business Media LLC
+SP  - 13075-13088
+IS  - 19
+VL  - 33
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

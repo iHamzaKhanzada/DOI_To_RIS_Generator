@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09798-3
+UR  - http://dx.doi.org/10.1007/s10664-019-09798-3
+TI  - Characterizing the evolution of statically-detectable performance issues of Android apps
+T2  - Empirical Software Engineering
+AU  - Das, Teerath
+AU  - Di Penta, Massimiliano
+AU  - Malavolta, Ivano
+PY  - 2020
+DA  - 2020/05/04
+PB  - Springer Science and Business Media LLC
+SP  - 2748-2808
+IS  - 4
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

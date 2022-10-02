@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00450-019-00426-5
+UR  - http://dx.doi.org/10.1007/s00450-019-00426-5
+TI  - Simulation methods and tools for collaborative embedded systems: with focus on the automotive smart ecosystems
+T2  - SICS Software-Intensive Cyber-Physical Systems
+AU  - Cioroaica, Emilia
+AU  - Pudlitz, Florian
+AU  - Gerostathopoulos, Ilias
+AU  - Kuhn, Thomas
+PY  - 2019
+DA  - 2019/11/20
+PB  - Springer Science and Business Media LLC
+SP  - 213-223
+IS  - 4
+VL  - 34
+SN  - 2524-8510
+SN  - 2524-8529
+ER  - 

@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1007/s10111-022-00714-2
+UR  - http://dx.doi.org/10.1007/s10111-022-00714-2
+TI  - The contribution of organizational culture, structure, and leadership factors in the digital transformation of SMEs: a mixed-methods approach
+T2  - Cognition, Technology &amp; Work
+AU  - Leso, Bernardo Henrique
+AU  - Cortimiglia, Marcelo Nogueira
+AU  - Ghezzi, Antonio
+PY  - 2022
+DA  - 2022/09/12
+PB  - Springer Science and Business Media LLC
+SN  - 1435-5558
+SN  - 1435-5566
+ER  - 

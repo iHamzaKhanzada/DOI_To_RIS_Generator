@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-87495-7_15
+UR  - http://dx.doi.org/10.1007/978-3-030-87495-7_15
+TI  - A Predictive Performance Measurement System for Decision Making in the Supply Chain
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Sanchez-Jimenez, Loraine
+AU  - Salais-Fierro, Tomás E.
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 225-244
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030874940
+SN  - 9783030874957
+ER  - 

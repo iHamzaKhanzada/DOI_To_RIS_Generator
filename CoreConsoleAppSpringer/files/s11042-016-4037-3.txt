@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11042-016-4037-3
+UR  - http://dx.doi.org/10.1007/s11042-016-4037-3
+TI  - Reducing channel zapping time in live TV broadcasting over content centric networks
+T2  - Multimedia Tools and Applications
+AU  - Ghahfarokhi, Behrouz Shahgholi
+AU  - Moghim, Neda
+AU  - Eftekhari, Shayan
+PY  - 2016
+DA  - 2016/11/16
+PB  - Springer Science and Business Media LLC
+SP  - 23239-23271
+IS  - 22
+VL  - 76
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

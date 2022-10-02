@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10664-017-9548-7
+UR  - http://dx.doi.org/10.1007/s10664-017-9548-7
+TI  - The impact of rapid release cycles on the integration delay of fixed issues
+T2  - Empirical Software Engineering
+AU  - Costa, Daniel Alencar da
+AU  - McIntosh, Shane
+AU  - Treude, Christoph
+AU  - Kulesza, Uirá
+AU  - Hassan, Ahmed E.
+PY  - 2017
+DA  - 2017/11/04
+PB  - Springer Science and Business Media LLC
+SP  - 835-904
+IS  - 2
+VL  - 23
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

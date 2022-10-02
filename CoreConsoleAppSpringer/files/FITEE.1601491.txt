@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1631/fitee.1601491
+UR  - http://dx.doi.org/10.1631/FITEE.1601491
+TI  - Discovering optimal features using static analysis and a genetic search based method for Android malware detection
+T2  - Frontiers of Information Technology &amp; Electronic Engineering
+AU  - Firdaus, Ahmad
+AU  - Anuar, Nor Badrul
+AU  - Karim, Ahmad
+AU  - Razak, Mohd Faizal Ab
+PY  - 2018
+DA  - 2018/06
+PB  - Zhejiang University Press
+SP  - 712-736
+IS  - 6
+VL  - 19
+SN  - 2095-9184
+SN  - 2095-9230
+ER  - 

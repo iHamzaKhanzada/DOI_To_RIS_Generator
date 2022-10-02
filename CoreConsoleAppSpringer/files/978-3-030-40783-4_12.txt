@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-40783-4_12
+UR  - http://dx.doi.org/10.1007/978-3-030-40783-4_12
+TI  - An Analysis of Automated Technical Debt Measurement
+T2  - Enterprise Information Systems
+AU  - Khomyakov, Ilya
+AU  - Makhmutov, Zufar
+AU  - Mirgalimova, Ruzilya
+AU  - Sillitti, Alberto
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 250-273
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030407827
+SN  - 9783030407834
+ER  - 

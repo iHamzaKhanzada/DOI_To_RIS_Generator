@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-08147-7_22
+UR  - http://dx.doi.org/10.1007/978-3-031-08147-7_22
+TI  - $$\mathbb {K}$$-Smali: An Executable Semantics for Program Verification of Reversed Android Applications
+T2  - Foundations and Practice of Security
+AU  - Ziadia, Marwa
+AU  - Mejri, Mohamed
+AU  - Fattahi, Jaouhar
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 321-337
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783031081460
+SN  - 9783031081477
+ER  - 

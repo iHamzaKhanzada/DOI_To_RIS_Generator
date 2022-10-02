@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-24177-7_29
+UR  - http://dx.doi.org/10.1007/978-3-319-24177-7_29
+TI  - Web-to-Application Injection Attacks on Android: Characterization and Detection
+T2  - Computer Security -- ESORICS 2015
+AU  - Hassanshahi, Behnaz
+AU  - Jia, Yaoqi
+AU  - Yap, Roland H. C.
+AU  - Saxena, Prateek
+AU  - Liang, Zhenkai
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 577-598
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319241760
+SN  - 9783319241777
+ER  - 

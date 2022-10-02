@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-63833-7_51
+UR  - http://dx.doi.org/10.1007/978-3-030-63833-7_51
+TI  - Recency-Weighted Acceleration for Continuous Control Through Deep Reinforcement Learning
+T2  - Neural Information Processing
+AU  - Wu, Zhen
+AU  - Zhang, Zongzhang
+AU  - Zhang, Xiaofang
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 604-615
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030638320
+SN  - 9783030638337
+ER  - 

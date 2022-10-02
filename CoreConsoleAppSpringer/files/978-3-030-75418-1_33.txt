@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-75418-1_33
+UR  - http://dx.doi.org/10.1007/978-3-030-75418-1_33
+TI  - User Stories and the Socially-Aware Design Towards the OpenDesign Platform
+T2  - Enterprise Information Systems
+AU  - dos Reis, Julio Cesar
+AU  - dos Santos, Andressa Cristina
+AU  - Duarte, Emanuel Felipe
+AU  - Gonçalves, Fabrício Matheus
+AU  - de França, Breno Bernard Nicolau
+AU  - Bonacin, Rodrigo
+AU  - Baranauskas, M. Cecilia C.
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 730-752
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030754174
+SN  - 9783030754181
+ER  - 

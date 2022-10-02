@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00766-022-00371-x
+UR  - http://dx.doi.org/10.1007/s00766-022-00371-x
+TI  - Causality in requirements artifacts: prevalence, detection, and impact
+T2  - Requirements Engineering
+AU  - Frattini, Julian
+AU  - Fischbach, Jannik
+AU  - Mendez, Daniel
+AU  - Unterkalmsteiner, Michael
+AU  - Vogelsang, Andreas
+AU  - Wnuk, Krzysztof
+PY  - 2022
+DA  - 2022/02/09
+PB  - Springer Science and Business Media LLC
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

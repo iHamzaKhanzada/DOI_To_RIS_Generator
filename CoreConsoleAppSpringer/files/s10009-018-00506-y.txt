@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10009-018-00506-y
+UR  - http://dx.doi.org/10.1007/s10009-018-00506-y
+TI  - A greedy particle swarm optimization (GPSO) algorithm for testing real-world smart card applications
+T2  - International Journal on Software Tools for Technology Transfer
+AU  - Allawi, Hamzeh M.
+AU  - Al Manaseer, Waref
+AU  - Al Shraideh, Mohammad
+PY  - 2018
+DA  - 2018/12/11
+PB  - Springer Science and Business Media LLC
+SP  - 183-194
+IS  - 2
+VL  - 22
+SN  - 1433-2779
+SN  - 1433-2787
+ER  - 

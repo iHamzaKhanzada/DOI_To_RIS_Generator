@@ -1,0 +1,23 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-01701-9_10
+UR  - http://dx.doi.org/10.1007/978-3-030-01701-9_10
+TI  - Understanding Android Obfuscation Techniques: A Large-Scale Investigation in the Wild
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Dong, Shuaike
+AU  - Li, Menghao
+AU  - Diao, Wenrui
+AU  - Liu, Xiangyu
+AU  - Liu, Jian
+AU  - Li, Zhou
+AU  - Xu, Fenghao
+AU  - Chen, Kai
+AU  - Wang, XiaoFeng
+AU  - Zhang, Kehuan
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 172-192
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030017002
+SN  - 9783030017019
+ER  - 

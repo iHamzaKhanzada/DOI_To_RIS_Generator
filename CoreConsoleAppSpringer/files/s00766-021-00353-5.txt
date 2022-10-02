@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00766-021-00353-5
+UR  - http://dx.doi.org/10.1007/s00766-021-00353-5
+TI  - Network structure and requirements crowdsourcing for OSS projects
+T2  - Requirements Engineering
+AU  - Robinson, Matthew
+AU  - Sarkani, Shahram
+AU  - Mazzuchi, Thomas
+PY  - 2021
+DA  - 2021/05/17
+PB  - Springer Science and Business Media LLC
+SP  - 509-534
+IS  - 4
+VL  - 26
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

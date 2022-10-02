@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-91743-6_6
+UR  - http://dx.doi.org/10.1007/978-3-319-91743-6_6
+TI  - EUREKA: Engineering Usability Research Empirical Knowledge and Artifacts
+T2  - Learning and Collaboration Technologies. Design, Development and Technological Innovation
+AU  - Germanakos, Panagiotis
+AU  - Fichte, Ludwig
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 85-103
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319917429
+SN  - 9783319917436
+ER  - 

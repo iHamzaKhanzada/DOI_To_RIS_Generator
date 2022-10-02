@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11219-016-9317-7
+UR  - http://dx.doi.org/10.1007/s11219-016-9317-7
+TI  - Does choice of mutation tool matter?
+T2  - Software Quality Journal
+AU  - Gopinath, Rahul
+AU  - Ahmed, Iftekhar
+AU  - Alipour, Mohammad Amin
+AU  - Jensen, Carlos
+AU  - Groce, Alex
+PY  - 2016
+DA  - 2016/05/10
+PB  - Springer Science and Business Media LLC
+SP  - 871-920
+IS  - 3
+VL  - 25
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

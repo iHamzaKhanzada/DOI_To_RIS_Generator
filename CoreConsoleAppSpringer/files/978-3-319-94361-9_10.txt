@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-94361-9_10
+UR  - http://dx.doi.org/10.1007/978-3-319-94361-9_10
+TI  - MAD-API: Detection, Correction and Explanation of API Misuses in Distributed Android Applications
+T2  - Artificial Intelligence and Mobile Services – AIMS 2018
+AU  - Luo, Tianyue
+AU  - Wu, Jingzheng
+AU  - Yang, Mutian
+AU  - Zhao, Sizhe
+AU  - Wu, Yanjun
+AU  - Wang, Yongji
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 123-140
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319943602
+SN  - 9783319943619
+ER  - 

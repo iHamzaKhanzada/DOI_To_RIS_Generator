@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1007/s10586-022-03630-2
+UR  - http://dx.doi.org/10.1007/s10586-022-03630-2
+TI  - A novel deep reinforcement learning scheme for task scheduling in cloud computing
+T2  - Cluster Computing
+AU  - Siddesha, K.
+AU  - Jayaramaiah, G. V.
+AU  - Singh, Chandrapal
+PY  - 2022
+DA  - 2022/06/29
+PB  - Springer Science and Business Media LLC
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

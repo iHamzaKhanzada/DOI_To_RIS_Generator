@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s11241-020-09351-2
+UR  - http://dx.doi.org/10.1007/s11241-020-09351-2
+TI  - Supporting I/O and IPC via fine-grained OS isolation for mixed-criticality real-time tasks
+T2  - Real-Time Systems
+AU  - Kim, Namhoon
+AU  - Tang, Stephen
+AU  - Otterness, Nathan
+AU  - Anderson, James H.
+AU  - Smith, F. Donelson
+AU  - Porter, Donald E.
+PY  - 2020
+DA  - 2020/06/29
+PB  - Springer Science and Business Media LLC
+SP  - 349-390
+IS  - 4
+VL  - 56
+SN  - 0922-6443
+SN  - 1573-1383
+ER  - 

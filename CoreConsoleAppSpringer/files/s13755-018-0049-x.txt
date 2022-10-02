@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s13755-018-0049-x
+UR  - http://dx.doi.org/10.1007/s13755-018-0049-x
+TI  - A study on medical Internet of Things and Big Data in personalized healthcare system
+T2  - Health Information Science and Systems
+AU  - Jagadeeswari, V.
+AU  - Subramaniyaswamy, V.
+AU  - Logesh, R.
+AU  - Vijayakumar, V.
+PY  - 2018
+DA  - 2018/09/20
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 6
+SN  - 2047-2501
+ER  - 

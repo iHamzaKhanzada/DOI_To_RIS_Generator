@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-56077-9_10
+UR  - http://dx.doi.org/10.1007/978-3-319-56077-9_10
+TI  - Multi-criteria Analysis and Decision Methodology for the Selection of Internet-of-Things Hardware Platforms
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Silva, Edgar M.
+AU  - Jardim-Goncalves, Ricardo
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 111-121
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783319560762
+SN  - 9783319560779
+ER  - 

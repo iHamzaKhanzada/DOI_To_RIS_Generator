@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-79976-2_1
+UR  - http://dx.doi.org/10.1007/978-3-030-79976-2_1
+TI  - Extending Business Model Development Tools with Consolidated Expert Knowledge
+T2  - Lecture Notes in Business Information Processing
+AU  - Gottschalk, Sebastian
+AU  - Kirchhoff, Jonas
+AU  - Engels, Gregor
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 3-21
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030799755
+SN  - 9783030799762
+ER  - 

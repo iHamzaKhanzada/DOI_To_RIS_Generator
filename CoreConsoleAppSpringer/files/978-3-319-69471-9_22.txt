@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-69471-9_22
+UR  - http://dx.doi.org/10.1007/978-3-319-69471-9_22
+TI  - My Smartphone Knows Your Health Data: Exploiting Android-Based Deception Attacks Against Smartbands
+T2  - Cyberspace Safety and Security
+AU  - Xie, Jun
+AU  - Wu, Sha
+AU  - Li, Yansong
+AU  - Guo, Jun
+AU  - Sun, Wen
+AU  - Liu, Jiajia
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 291-306
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319694702
+SN  - 9783319694719
+ER  - 

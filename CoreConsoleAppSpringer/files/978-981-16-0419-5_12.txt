@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-16-0419-5_12
+UR  - http://dx.doi.org/10.1007/978-981-16-0419-5_12
+TI  - Big Data: Does BIG Matter for Your Business?
+T2  - Communications in Computer and Information Science
+AU  - Zhou, Wei
+AU  - Piramuthu, Selwyn
+PY  - 2021
+PB  - Springer Singapore
+SP  - 146-156
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811604188
+SN  - 9789811604195
+ER  - 

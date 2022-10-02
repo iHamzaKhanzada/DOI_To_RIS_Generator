@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10586-018-2417-3
+UR  - http://dx.doi.org/10.1007/s10586-018-2417-3
+TI  - Software engineering: risk features in requirement engineering
+T2  - Cluster Computing
+AU  - Bhukya, Shankar Nayak
+AU  - Pabboju, Suresh
+PY  - 2018
+DA  - 2018/03/13
+PB  - Springer Science and Business Media LLC
+SP  - 14789-14801
+IS  - S6
+VL  - 22
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

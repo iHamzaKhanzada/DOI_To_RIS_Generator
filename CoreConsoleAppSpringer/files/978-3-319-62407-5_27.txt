@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-62407-5_27
+UR  - http://dx.doi.org/10.1007/978-3-319-62407-5_27
+TI  - Ecosystem Services and the Natura 2000 Network: A Study Concerning a Green Infrastructure Based on Ecological Corridors in the Metropolitan City of Cagliari
+T2  - Computational Science and Its Applications – ICCSA 2017
+AU  - Cannas, Ignazio
+AU  - Zoppi, Corrado
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 379-400
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319624068
+SN  - 9783319624075
+ER  - 

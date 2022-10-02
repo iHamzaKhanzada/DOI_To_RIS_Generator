@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1186/s13388-018-0031-9
+UR  - http://dx.doi.org/10.1186/s13388-018-0031-9
+TI  - The detection of criminal groups in real-world fused data: using the graph-mining algorithm “GraphExtract”
+T2  - Security Informatics
+AU  - Robinson, David
+AU  - Scogings, Chris
+PY  - 2018
+DA  - 2018/08/17
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 7
+SN  - 2190-8532
+ER  - 

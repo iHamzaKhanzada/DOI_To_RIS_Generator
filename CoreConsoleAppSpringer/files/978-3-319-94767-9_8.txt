@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-94767-9_8
+UR  - http://dx.doi.org/10.1007/978-3-319-94767-9_8
+TI  - Location-Scheduling Optimization Problem to Design Private Charging Infrastructure for Electric Vehicles
+T2  - Operations Research and Enterprise Systems
+AU  - Koháni, Michal
+AU  - Czimmermann, Peter
+AU  - Váňa, Michal
+AU  - Cebecauer, Matej
+AU  - Buzna, Ľuboš
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 151-169
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783319947662
+SN  - 9783319947679
+ER  - 

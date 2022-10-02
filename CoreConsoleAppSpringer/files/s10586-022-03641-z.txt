@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1007/s10586-022-03641-z
+UR  - http://dx.doi.org/10.1007/s10586-022-03641-z
+TI  - TRAP: task-resource adaptive pairing for efficient scheduling in fog computing
+T2  - Cluster Computing
+AU  - Kaur, Navjeet
+AU  - Kumar, Ashok
+AU  - Kumar, Rajesh
+PY  - 2022
+DA  - 2022/07/06
+PB  - Springer Science and Business Media LLC
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

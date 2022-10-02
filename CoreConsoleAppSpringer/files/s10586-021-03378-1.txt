@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10586-021-03378-1
+UR  - http://dx.doi.org/10.1007/s10586-021-03378-1
+TI  - Adaptive bandwidth adjustment for resource constrained services in fog queueing system
+T2  - Cluster Computing
+AU  - Chauhan, Naveen
+AU  - Banka, Haider
+AU  - Agrawal, Rajeev
+PY  - 2021
+DA  - 2021/08/08
+PB  - Springer Science and Business Media LLC
+SP  - 3837-3850
+IS  - 4
+VL  - 24
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

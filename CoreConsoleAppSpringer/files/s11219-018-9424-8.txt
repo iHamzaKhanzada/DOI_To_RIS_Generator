@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11219-018-9424-8
+UR  - http://dx.doi.org/10.1007/s11219-018-9424-8
+TI  - Software Design Smell Detection: a systematic mapping study
+T2  - Software Quality Journal
+AU  - Alkharabsheh, Khalid
+AU  - Crespo, Yania
+AU  - Manso, Esperanza
+AU  - Taboada, José A.
+PY  - 2018
+DA  - 2018/10/27
+PB  - Springer Science and Business Media LLC
+SP  - 1069-1148
+IS  - 3
+VL  - 27
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

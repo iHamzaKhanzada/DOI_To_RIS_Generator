@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10664-022-10145-2
+UR  - http://dx.doi.org/10.1007/s10664-022-10145-2
+TI  - Practitioners’ best practices to Adopt, Use or Abandon Model-based Testing with Graphical models for Software-intensive Systems
+T2  - Empirical Software Engineering
+AU  - Alégroth, Emil
+AU  - Karl, Kristian
+AU  - Rosshagen, Helena
+AU  - Helmfridsson, Tomas
+AU  - Olsson, Nils
+PY  - 2022
+DA  - 2022/05/30
+PB  - Springer Science and Business Media LLC
+IS  - 5
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

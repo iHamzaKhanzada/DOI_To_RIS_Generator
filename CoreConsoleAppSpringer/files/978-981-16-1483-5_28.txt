@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-16-1483-5_28
+UR  - http://dx.doi.org/10.1007/978-981-16-1483-5_28
+TI  - Autonomous Navigation of Mobile Robot with Obstacle Avoidance: A Review
+T2  - Communications in Computer and Information Science
+AU  - Bijli, Mahvish
+AU  - Kumar, Neerendra
+PY  - 2021
+PB  - Springer Singapore
+SP  - 305-316
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811614828
+SN  - 9789811614835
+ER  - 

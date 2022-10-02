@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-37545-4_3
+UR  - http://dx.doi.org/10.1007/978-3-030-37545-4_3
+TI  - A Case Study of Intra-library Privacy Issues on Android GPS Navigation Apps
+T2  - Communications in Computer and Information Science
+AU  - Monogios, Stylianos
+AU  - Limniotis, Konstantinos
+AU  - Kolokotronis, Nicholas
+AU  - Shiaeles, Stavros
+PY  - 2019
+DA  - 2019/12/10
+PB  - Springer International Publishing
+SP  - 34-48
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030375447
+SN  - 9783030375454
+ER  - 

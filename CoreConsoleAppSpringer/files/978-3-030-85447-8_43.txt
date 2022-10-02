@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-85447-8_43
+UR  - http://dx.doi.org/10.1007/978-3-030-85447-8_43
+TI  - An Overview of the Application of Sentiment Analysis in Quality Function Deployment
+T2  - Responsible AI and Analytics for an Ethical and Inclusive Digitized Society
+AU  - Sarema, Blessed
+AU  - Matope, Stephen
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 519-531
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030854461
+SN  - 9783030854478
+ER  - 

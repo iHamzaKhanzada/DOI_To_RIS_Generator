@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00530-016-0511-z
+UR  - http://dx.doi.org/10.1007/s00530-016-0511-z
+TI  - Towards coordinated bandwidth adaptations for hundred-scale 3D tele-immersive systems
+T2  - Multimedia Systems
+AU  - Hosseini, Mohammad
+AU  - Kurillo, Gregorij
+AU  - Etesami, Seyed Rasoul
+AU  - Yu, Jiang
+PY  - 2016
+DA  - 2016/04/01
+PB  - Springer Science and Business Media LLC
+SP  - 421-434
+IS  - 4
+VL  - 23
+SN  - 0942-4962
+SN  - 1432-1882
+ER  - 

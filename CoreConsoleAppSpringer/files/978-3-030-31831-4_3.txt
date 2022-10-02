@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-31831-4_3
+UR  - http://dx.doi.org/10.1007/978-3-030-31831-4_3
+TI  - A Validation Method for AdHoc Network Simulation Including MANETs, VANETs and Emergency Scenarios
+T2  - Ad-Hoc, Mobile, and Wireless Networks
+AU  - Leite, J. R. E.
+AU  - Martins, Paulo S.
+AU  - Ursini, Edson L.
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 32-47
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030318307
+SN  - 9783030318314
+ER  - 

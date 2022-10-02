@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-01701-9_14
+UR  - http://dx.doi.org/10.1007/978-3-030-01701-9_14
+TI  - Lexical Mining of Malicious URLs for Classifying Android Malware
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Wang, Shanshan
+AU  - Yan, Qiben
+AU  - Chen, Zhenxiang
+AU  - Wang, Lin
+AU  - Spolaor, Riccardo
+AU  - Yang, Bo
+AU  - Conti, Mauro
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 248-263
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030017002
+SN  - 9783030017019
+ER  - 

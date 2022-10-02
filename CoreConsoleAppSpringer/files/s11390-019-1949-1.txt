@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11390-019-1949-1
+UR  - http://dx.doi.org/10.1007/s11390-019-1949-1
+TI  - A Lightweight Dynamic Enforcement of Privacy Protection for Android
+T2  - Journal of Computer Science and Technology
+AU  - Zhang, Zi-Peng
+AU  - Fu, Ming
+AU  - Feng, Xin-Yu
+PY  - 2019
+DA  - 2019/07
+PB  - Springer Science and Business Media LLC
+SP  - 901-923
+IS  - 4
+VL  - 34
+SN  - 1000-9000
+SN  - 1860-4749
+ER  - 

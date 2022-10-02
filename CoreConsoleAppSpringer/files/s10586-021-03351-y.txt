@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10586-021-03351-y
+UR  - http://dx.doi.org/10.1007/s10586-021-03351-y
+TI  - CP-PGWO: multi-objective workflow scheduling for cloud computing using critical path
+T2  - Cluster Computing
+AU  - Doostali, Saeed
+AU  - Babamir, Seyed Morteza
+AU  - Eini, Maryam
+PY  - 2021
+DA  - 2021/07/03
+PB  - Springer Science and Business Media LLC
+SP  - 3607-3627
+IS  - 4
+VL  - 24
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s11280-021-00940-0
+UR  - http://dx.doi.org/10.1007/s11280-021-00940-0
+TI  - Classifying encrypted traffic using adaptive fingerprints with multi-level attributes
+T2  - World Wide Web
+AU  - Liu, Chang
+AU  - Xiong, Gang
+AU  - Gou, Gaopeng
+AU  - Yiu, Siu-Ming
+AU  - Li, Zhen
+AU  - Tian, Zhihong
+PY  - 2021
+DA  - 2021/10/07
+PB  - Springer Science and Business Media LLC
+SP  - 2071-2097
+IS  - 6
+VL  - 24
+SN  - 1386-145X
+SN  - 1573-1413
+ER  - 

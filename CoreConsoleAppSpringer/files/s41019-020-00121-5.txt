@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s41019-020-00121-5
+UR  - http://dx.doi.org/10.1007/s41019-020-00121-5
+TI  - What is the Value of Experimentation and Measurement?
+T2  - Data Science and Engineering
+AU  - Liu, C. H. Bryan
+AU  - Chamberlain, Benjamin Paul
+AU  - McCoy, Emma J.
+PY  - 2020
+DA  - 2020/05/23
+PB  - Springer Science and Business Media LLC
+SP  - 152-167
+IS  - 2
+VL  - 5
+SN  - 2364-1185
+SN  - 2364-1541
+ER  - 

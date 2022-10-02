@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-67292-8_11
+UR  - http://dx.doi.org/10.1007/978-3-030-67292-8_11
+TI  - Continuous Experimentation with Product-Led Business Models: A Comparative Case Study
+T2  - Lecture Notes in Business Information Processing
+AU  - Ros, Rasmus
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 143-158
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030672911
+SN  - 9783030672928
+ER  - 

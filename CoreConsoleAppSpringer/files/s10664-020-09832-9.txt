@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10664-020-09832-9
+UR  - http://dx.doi.org/10.1007/s10664-020-09832-9
+TI  - The practitioners’ point of view on the concept of technical debt and its causes and consequences: a design for a global family of industrial surveys and its first results from Brazil
+T2  - Empirical Software Engineering
+AU  - Rios, Nicolli
+AU  - Spínola, Rodrigo Oliveira
+AU  - Mendonça, Manoel
+AU  - Seaman, Carolyn
+PY  - 2020
+DA  - 2020/06/13
+PB  - Springer Science and Business Media LLC
+SP  - 3216-3287
+IS  - 5
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

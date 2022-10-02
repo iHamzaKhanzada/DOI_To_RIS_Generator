@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10586-016-0684-4
+UR  - http://dx.doi.org/10.1007/s10586-016-0684-4
+TI  - Recent advancements in resource allocation techniques for cloud computing environment: a systematic review
+T2  - Cluster Computing
+AU  - Madni, Syed Hamid Hussain
+AU  - Latiff, Muhammad Shafie Abd
+AU  - Coulibaly, Yahaya
+AU  - Abdulhamid, Shafi’i Muhammad
+PY  - 2016
+DA  - 2016/12/08
+PB  - Springer Science and Business Media LLC
+SP  - 2489-2533
+IS  - 3
+VL  - 20
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

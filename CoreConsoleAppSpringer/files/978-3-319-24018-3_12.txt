@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-24018-3_12
+UR  - http://dx.doi.org/10.1007/978-3-319-24018-3_12
+TI  - How Current Android Malware Seeks to Evade Automated Code Analysis
+T2  - Information Security Theory and Practice
+AU  - Rasthofer, Siegfried
+AU  - Asrar, Irfan
+AU  - Huber, Stephan
+AU  - Bodden, Eric
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 187-202
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319240176
+SN  - 9783319240183
+ER  - 

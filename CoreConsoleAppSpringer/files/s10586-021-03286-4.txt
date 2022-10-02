@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s10586-021-03286-4
+UR  - http://dx.doi.org/10.1007/s10586-021-03286-4
+TI  - Fog computing and Internet of Things in one building block: a survey and an overview of interacting technologies
+T2  - Cluster Computing
+AU  - Fersi, Ghofrane
+PY  - 2021
+DA  - 2021/05/07
+PB  - Springer Science and Business Media LLC
+SP  - 2757-2787
+IS  - 4
+VL  - 24
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

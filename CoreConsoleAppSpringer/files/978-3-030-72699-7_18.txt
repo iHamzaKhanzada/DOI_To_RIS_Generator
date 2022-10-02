@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-72699-7_18
+UR  - http://dx.doi.org/10.1007/978-3-030-72699-7_18
+TI  - EDM-DRL: Toward Stable Reinforcement Learning Through Ensembled Directed Mutation
+T2  - Applications of Evolutionary Computation
+AU  - Prince, Michael H.
+AU  - McGehee, Andrew J.
+AU  - Tauritz, Daniel R.
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 275-290
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030726980
+SN  - 9783030726997
+ER  - 

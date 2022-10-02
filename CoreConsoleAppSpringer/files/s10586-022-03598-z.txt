@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10586-022-03598-z
+UR  - http://dx.doi.org/10.1007/s10586-022-03598-z
+TI  - RSM analysis based cloud access security broker: a systematic literature review
+T2  - Cluster Computing
+AU  - Ahmad, Shahnawaz
+AU  - Mehfuz, Shabana
+AU  - Mebarek-Oudina, Fateh
+AU  - Beg, Javed
+PY  - 2022
+DA  - 2022/05/11
+PB  - Springer Science and Business Media LLC
+SP  - 3733-3763
+IS  - 5
+VL  - 25
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

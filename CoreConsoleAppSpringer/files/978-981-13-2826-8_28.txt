@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-13-2826-8_28
+UR  - http://dx.doi.org/10.1007/978-981-13-2826-8_28
+TI  - DroidGene: Detecting Android Malware Using Its Malicious Gene
+T2  - Communications in Computer and Information Science
+AU  - Wang, Yulong
+AU  - Zong, Hua
+PY  - 2018
+PB  - Springer Singapore
+SP  - 315-330
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811328251
+SN  - 9789811328268
+ER  - 

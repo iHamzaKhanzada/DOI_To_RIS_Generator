@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11227-016-1951-0
+UR  - http://dx.doi.org/10.1007/s11227-016-1951-0
+TI  - A low-overhead soft–hard fault-tolerant architecture, design and management scheme for reliable high-performance many-core 3D-NoC systems
+T2  - The Journal of Supercomputing
+AU  - Dang, Khanh N.
+AU  - Meyer, Michael
+AU  - Okuyama, Yuichi
+AU  - Abdallah, Abderazek Ben
+PY  - 2017
+DA  - 2017/01/13
+PB  - Springer Science and Business Media LLC
+SP  - 2705-2729
+IS  - 6
+VL  - 73
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10664-018-9673-y
+UR  - http://dx.doi.org/10.1007/s10664-018-9673-y
+TI  - Security code smells in Android ICC
+T2  - Empirical Software Engineering
+AU  - Gadient, Pascal
+AU  - Ghafari, Mohammad
+AU  - Frischknecht, Patrick
+AU  - Nierstrasz, Oscar
+PY  - 2018
+DA  - 2018/12/14
+PB  - Springer Science and Business Media LLC
+SP  - 3046-3076
+IS  - 5
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

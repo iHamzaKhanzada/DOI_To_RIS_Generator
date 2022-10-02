@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11227-020-03147-8
+UR  - http://dx.doi.org/10.1007/s11227-020-03147-8
+TI  - PriNergy: a priority-based energy-efficient routing method for IoT systems
+T2  - The Journal of Supercomputing
+AU  - Safara, Fatemeh
+AU  - Souri, Alireza
+AU  - Baker, Thar
+AU  - Al Ridhawi, Ismaeel
+AU  - Aloqaily, Moayad
+PY  - 2020
+DA  - 2020/01/16
+PB  - Springer Science and Business Media LLC
+SP  - 8609-8626
+IS  - 11
+VL  - 76
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

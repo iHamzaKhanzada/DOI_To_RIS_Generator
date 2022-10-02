@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s10515-021-00290-1
+UR  - http://dx.doi.org/10.1007/s10515-021-00290-1
+TI  - ANCHOR: locating android framework-specific crashing faults
+T2  - Automated Software Engineering
+AU  - Kong, Pingfan
+AU  - Li, Li
+AU  - Gao, Jun
+AU  - Riom, Timothée
+AU  - Zhao, Yanjie
+AU  - Bissyandé, Tegawendé F.
+AU  - Klein, Jacques
+PY  - 2021
+DA  - 2021/07/12
+PB  - Springer Science and Business Media LLC
+IS  - 2
+VL  - 28
+SN  - 0928-8910
+SN  - 1573-7535
+ER  - 

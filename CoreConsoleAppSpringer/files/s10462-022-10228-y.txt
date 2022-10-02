@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s10462-022-10228-y
+UR  - http://dx.doi.org/10.1007/s10462-022-10228-y
+TI  - Monte Carlo Tree Search: a review of recent modifications and applications
+T2  - Artificial Intelligence Review
+AU  - Świechowski, Maciej
+AU  - Godlewski, Konrad
+AU  - Sawicki, Bartosz
+AU  - Mańdziuk, Jacek
+PY  - 2022
+DA  - 2022/07/19
+PB  - Springer Science and Business Media LLC
+SN  - 0269-2821
+SN  - 1573-7462
+ER  - 

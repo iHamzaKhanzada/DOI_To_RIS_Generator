@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s10115-018-1272-0
+UR  - http://dx.doi.org/10.1007/s10115-018-1272-0
+TI  - Autonomic workload performance tuning in large-scale data repositories
+T2  - Knowledge and Information Systems
+AU  - Raza, Basit
+AU  - Sher, Asma
+AU  - Afzal, Sana
+AU  - Malik, Ahmad Kamran
+AU  - Anjum, Adeel
+AU  - Kumar, Yogan Jaya
+AU  - Faheem, Muhammad
+PY  - 2018
+DA  - 2018/09/04
+PB  - Springer Science and Business Media LLC
+SP  - 27-63
+IS  - 1
+VL  - 61
+SN  - 0219-1377
+SN  - 0219-3116
+ER  - 

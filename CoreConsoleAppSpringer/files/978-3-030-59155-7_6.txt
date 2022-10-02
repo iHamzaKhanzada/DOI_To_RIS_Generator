@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-59155-7_6
+UR  - http://dx.doi.org/10.1007/978-3-030-59155-7_6
+TI  - A Decision Support System for Pattern-Driven Software Architecture
+T2  - Communications in Computer and Information Science
+AU  - Farshidi, Siamak
+AU  - Jansen, Slinger
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 68-81
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030591540
+SN  - 9783030591557
+ER  - 

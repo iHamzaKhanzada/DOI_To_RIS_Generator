@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-42250-9_19
+UR  - http://dx.doi.org/10.1007/978-3-030-42250-9_19
+TI  - A Data Preparation and Migration Framework for Implementing Modular Product Structures in PLM
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Giddaluru, Muni Prasad
+AU  - Gao, James
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 201-210
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030422493
+SN  - 9783030422509
+ER  - 

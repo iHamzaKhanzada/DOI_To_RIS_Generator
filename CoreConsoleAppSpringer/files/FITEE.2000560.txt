@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1631/fitee.2000560
+UR  - http://dx.doi.org/10.1631/FITEE.2000560
+TI  - Interval type-2 fuzzy logic based radar task priority assignment method for detecting hypersonic-glide vehicles
+T2  - Frontiers of Information Technology &amp; Electronic Engineering
+AU  - Meng, Fanqing
+AU  - Tian, Kangsheng
+PY  - 2022
+DA  - 2022/02/05
+PB  - Zhejiang University Press
+SP  - 488-501
+IS  - 3
+VL  - 23
+SN  - 2095-9184
+SN  - 2095-9230
+ER  - 

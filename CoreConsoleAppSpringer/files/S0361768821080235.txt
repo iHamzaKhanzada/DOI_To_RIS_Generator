@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1134/s0361768821080235
+UR  - http://dx.doi.org/10.1134/S0361768821080235
+TI  - Improving the Analytic Hierarchy Process for Requirements Prioritization Using Evolutionary Computing
+T2  - Programming and Computer Software
+AU  - Somohano-Murrieta, Juan Carlos Benjamín
+AU  - Ocharán-Hernández, Jorge Octavio
+AU  - Sánchez-García, Ángel J.
+AU  - Limón, Xavier
+AU  - los Ángeles Arenas-Valdés, María de
+PY  - 2021
+DA  - 2021/12
+PB  - Pleiades Publishing Ltd
+SP  - 746-756
+IS  - 8
+VL  - 47
+SN  - 0361-7688
+SN  - 1608-3261
+ER  - 

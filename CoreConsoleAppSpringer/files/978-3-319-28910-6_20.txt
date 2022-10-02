@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-28910-6_20
+UR  - http://dx.doi.org/10.1007/978-3-319-28910-6_20
+TI  - SSG: Sensor Security Guard for Android Smartphones
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Li, Bodong
+AU  - Zhang, Yuanyuan
+AU  - Lyu, Chen
+AU  - Li, Juanru
+AU  - Gu, Dawu
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 221-233
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319289090
+SN  - 9783319289106
+ER  - 

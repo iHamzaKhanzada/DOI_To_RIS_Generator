@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-22744-9_41
+UR  - http://dx.doi.org/10.1007/978-3-030-22744-9_41
+TI  - An Algorithm for Selecting Measurements with High Information Content Regarding Parameter Identification
+T2  - Lecture Notes in Computer Science
+AU  - Potthast, Christian
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 523-536
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030227432
+SN  - 9783030227449
+ER  - 

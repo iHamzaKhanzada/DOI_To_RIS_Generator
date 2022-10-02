@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.3103/s0005105517020030
+UR  - http://dx.doi.org/10.3103/S0005105517020030
+TI  - A methodology for the scientometric expert evaluation of research results
+T2  - Automatic Documentation and Mathematical Linguistics
+AU  - Kalachikhin, P. A.
+PY  - 2017
+DA  - 2017/03
+PB  - Allerton Press
+SP  - 53-61
+IS  - 2
+VL  - 51
+SN  - 0005-1055
+SN  - 1934-8371
+ER  - 

@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-76571-6_3
+UR  - http://dx.doi.org/10.1007/978-3-319-76571-6_3
+TI  - Analysis of the Suitability of Satellite Communication for Time-Critical IoT Applications in Smart Grid and Medical Grade Networks
+T2  - Wireless and Satellite Systems
+AU  - Ball, Frank
+AU  - Basu, Kashinath
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 23-29
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319765709
+SN  - 9783319765716
+ER  - 

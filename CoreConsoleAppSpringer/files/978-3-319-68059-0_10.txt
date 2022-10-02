@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-68059-0_10
+UR  - http://dx.doi.org/10.1007/978-3-319-68059-0_10
+TI  - Active Involvement of Software Developers in Usability Engineering: Two Small-Scale Case Studies
+T2  - Human-Computer Interaction – INTERACT 2017
+AU  - Bornoe, Nis
+AU  - Stage, Jan
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 159-168
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319680583
+SN  - 9783319680590
+ER  - 

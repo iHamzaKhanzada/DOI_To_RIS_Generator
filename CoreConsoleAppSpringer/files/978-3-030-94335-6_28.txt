@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-94335-6_28
+UR  - http://dx.doi.org/10.1007/978-3-030-94335-6_28
+TI  - Maturity Models and Cost Justification for PLM: A Case Study in the Plant Engineering Industry
+T2  - Product Lifecycle Management. Green and Blue Technologies to Support Smart and Sustainable Organizations
+AU  - Pfenning, Philipp
+AU  - Eibinger, Hannes Christian
+AU  - Rohleder, Clotilde
+AU  - Eigner, Martin
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 387-400
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030943349
+SN  - 9783030943356
+ER  - 

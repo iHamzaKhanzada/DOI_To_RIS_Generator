@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-59608-2_33
+UR  - http://dx.doi.org/10.1007/978-3-319-59608-2_33
+TI  - DroidClassifier: Efficient Adaptive Mining of Application-Layer Header for Classifying Android Malware
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Li, Zhiqiang
+AU  - Sun, Lichao
+AU  - Yan, Qiben
+AU  - Srisa-an, Witawas
+AU  - Chen, Zhenxiang
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 597-616
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319596075
+SN  - 9783319596082
+ER  - 

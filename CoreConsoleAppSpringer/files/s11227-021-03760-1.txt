@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11227-021-03760-1
+UR  - http://dx.doi.org/10.1007/s11227-021-03760-1
+TI  - Comprehensive survey on energy-aware server consolidation techniques in cloud computing
+T2  - The Journal of Supercomputing
+AU  - Chaurasia, Nisha
+AU  - Kumar, Mohit
+AU  - Chaudhry, Rashmi
+AU  - Verma, Om Prakash
+PY  - 2021
+DA  - 2021/03/29
+PB  - Springer Science and Business Media LLC
+SP  - 11682-11737
+IS  - 10
+VL  - 77
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

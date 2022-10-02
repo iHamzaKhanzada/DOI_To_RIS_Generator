@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-93031-2_3
+UR  - http://dx.doi.org/10.1007/978-3-319-93031-2_3
+TI  - Designing Fair, Efficient, and Interpretable Policies for Prioritizing Homeless Youth for Housing Resources
+T2  - Integration of Constraint Programming, Artificial Intelligence, and Operations Research
+AU  - Azizi, Mohammad Javad
+AU  - Vayanos, Phebe
+AU  - Wilder, Bryan
+AU  - Rice, Eric
+AU  - Tambe, Milind
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 35-51
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319930305
+SN  - 9783319930312
+ER  - 

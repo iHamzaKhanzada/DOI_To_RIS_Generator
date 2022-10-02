@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-09282-4_26
+UR  - http://dx.doi.org/10.1007/978-3-031-09282-4_26
+TI  - Stochastic Pairing for Contrastive Anomaly Detection on Time Series
+T2  - Pattern Recognition and Artificial Intelligence
+AU  - Chambaret, Guillaume
+AU  - Berti-Equille, Laure
+AU  - Bouchara, Frédéric
+AU  - Bruno, Emmanuel
+AU  - Martin, Vincent
+AU  - Chaillan, Fabien
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 306-317
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783031092817
+SN  - 9783031092824
+ER  - 

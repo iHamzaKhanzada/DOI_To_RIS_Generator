@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s11227-021-04186-5
+UR  - http://dx.doi.org/10.1007/s11227-021-04186-5
+TI  - Energy optimization for CAN bus and media controls in electric vehicles using deep learning algorithms
+T2  - The Journal of Supercomputing
+AU  - Salunkhe, Satish S.
+AU  - Pal, Shelendra
+AU  - Agrawal, Abhishek
+AU  - Rai, Ravi
+AU  - Mole, S. S. Sreeja
+AU  - Jos, Bos Mathew
+PY  - 2022
+DA  - 2022/01/10
+PB  - Springer Science and Business Media LLC
+SP  - 8493-8508
+IS  - 6
+VL  - 78
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

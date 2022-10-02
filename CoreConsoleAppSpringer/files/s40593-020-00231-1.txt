@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s40593-020-00231-1
+UR  - http://dx.doi.org/10.1007/s40593-020-00231-1
+TI  - Keeping Up with the Trends: Analyzing the Dynamics of Online Learning and Hiring Platforms in the Software Programming Domain
+T2  - International Journal of Artificial Intelligence in Education
+AU  - Yazdanian, Ramtin
+AU  - West, Robert
+AU  - Dillenbourg, Pierre
+PY  - 2020
+DA  - 2020/12/08
+PB  - Springer Science and Business Media LLC
+SP  - 896-939
+IS  - 4
+VL  - 31
+SN  - 1560-4292
+SN  - 1560-4306
+ER  - 

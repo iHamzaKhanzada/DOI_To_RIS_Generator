@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-04580-6_8
+UR  - http://dx.doi.org/10.1007/978-3-031-04580-6_8
+TI  - Interference-Aware Workload Placement for Improving Latency Distribution of Converged HPC/Big Data Cloud Infrastructures
+T2  - Lecture Notes in Computer Science
+AU  - Tzenetopoulos, Achilleas
+AU  - Masouros, Dimosthenis
+AU  - Xydis, Sotirios
+AU  - Soudris, Dimitrios
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 108-123
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783031045790
+SN  - 9783031045806
+ER  - 

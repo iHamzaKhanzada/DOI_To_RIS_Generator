@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10664-020-09838-3
+UR  - http://dx.doi.org/10.1007/s10664-020-09838-3
+TI  - A comprehensive study on software aging across android versions and vendors
+T2  - Empirical Software Engineering
+AU  - Cotroneo, Domenico
+AU  - Iannillo, Antonio Ken
+AU  - Natella, Roberto
+AU  - Pietrantuono, Roberto
+PY  - 2020
+DA  - 2020/07/15
+PB  - Springer Science and Business Media LLC
+SP  - 3357-3395
+IS  - 5
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11107-018-0803-7
+UR  - http://dx.doi.org/10.1007/s11107-018-0803-7
+TI  - Security in OpenFlow-based SDN, opportunities and challenges
+T2  - Photonic Network Communications
+AU  - Benabbou, Jaouad
+AU  - Elbaamrani, Khalid
+AU  - Idboufker, Noureddine
+PY  - 2018
+DA  - 2018/10/09
+PB  - Springer Science and Business Media LLC
+SP  - 1-23
+IS  - 1
+VL  - 37
+SN  - 1387-974X
+SN  - 1572-8188
+ER  - 

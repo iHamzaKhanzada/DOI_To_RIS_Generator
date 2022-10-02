@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-91983-2_17
+UR  - http://dx.doi.org/10.1007/978-3-030-91983-2_17
+TI  - What Are Critical Success Factors of DevOps Projects? A Systematic Literature Review
+T2  - Lecture Notes in Business Information Processing
+AU  - Azad, Nasreen
+AU  - Hyrynsalmi, Sami
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 221-237
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030919825
+SN  - 9783030919832
+ER  - 

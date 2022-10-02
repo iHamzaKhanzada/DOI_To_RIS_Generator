@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-75418-1_10
+UR  - http://dx.doi.org/10.1007/978-3-030-75418-1_10
+TI  - Opti-Soft: Decision Guidance on Software Release Scheduling to Minimize the Cost of Business Processes
+T2  - Enterprise Information Systems
+AU  - Boccanera, Fernando
+AU  - Brodsky, Alexander
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 184-216
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030754174
+SN  - 9783030754181
+ER  - 

@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-62412-5_46
+UR  - http://dx.doi.org/10.1007/978-3-030-62412-5_46
+TI  - Resilient Strategies and Sustainability in Agri-Food Supply Chains in the Face of High-Risk Events
+T2  - Boosting Collaborative Networks 4.0
+AU  - Zavala-Alcívar, Antonio
+AU  - Verdecho, María-José
+AU  - Alfaro-Saiz, Juan-José
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 560-570
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030624118
+SN  - 9783030624125
+ER  - 

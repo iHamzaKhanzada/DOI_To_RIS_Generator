@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10586-021-03512-z
+UR  - http://dx.doi.org/10.1007/s10586-021-03512-z
+TI  - Task scheduling algorithms for energy optimization in cloud environment: a comprehensive review
+T2  - Cluster Computing
+AU  - Ghafari, R.
+AU  - Kabutarkhani, F. Hassani
+AU  - Mansouri, N.
+PY  - 2022
+DA  - 2022/01/05
+PB  - Springer Science and Business Media LLC
+SP  - 1035-1093
+IS  - 2
+VL  - 25
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

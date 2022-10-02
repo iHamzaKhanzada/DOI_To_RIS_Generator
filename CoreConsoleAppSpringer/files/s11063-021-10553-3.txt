@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s11063-021-10553-3
+UR  - http://dx.doi.org/10.1007/s11063-021-10553-3
+TI  - Interval Neutrosophic Einstein Prioritized Normalized Weighted Geometric Bonferroni Mean Operator and its Application to Multicriteria Decision making
+T2  - Neural Processing Letters
+AU  - Kakati, Pankaj
+PY  - 2021
+DA  - 2021/06/11
+PB  - Springer Science and Business Media LLC
+SP  - 3395-3425
+IS  - 5
+VL  - 53
+SN  - 1370-4621
+SN  - 1573-773X
+ER  - 

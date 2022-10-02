@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00766-016-0245-7
+UR  - http://dx.doi.org/10.1007/s00766-016-0245-7
+TI  - How to manage IS requirements in complex public sector structures: toward an action design research approach
+T2  - Requirements Engineering
+AU  - Klier, Julia
+AU  - Klier, Mathias
+AU  - Muschter, Sebastian
+PY  - 2016
+DA  - 2016/03/03
+PB  - Springer Science and Business Media LLC
+SP  - 419-432
+IS  - 4
+VL  - 22
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

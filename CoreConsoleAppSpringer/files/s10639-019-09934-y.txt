@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10639-019-09934-y
+UR  - http://dx.doi.org/10.1007/s10639-019-09934-y
+TI  - A predictive approach based on efficient feature selection and learning algorithms’ competition: Case of learners’ dropout in MOOCs
+T2  - Education and Information Technologies
+AU  - Youssef, Mourdi
+AU  - Mohammed, Sadgal
+AU  - Hamada, El Kabtane
+AU  - Wafaa, Berrada Fathi
+PY  - 2019
+DA  - 2019/06/26
+PB  - Springer Science and Business Media LLC
+SP  - 3591-3618
+IS  - 6
+VL  - 24
+SN  - 1360-2357
+SN  - 1573-7608
+ER  - 

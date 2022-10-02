@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11227-021-04272-8
+UR  - http://dx.doi.org/10.1007/s11227-021-04272-8
+TI  - A multi-criteria decision based on adaptive routing algorithms with discrete operators for on-chip networks
+T2  - The Journal of Supercomputing
+AU  - Mahjoub, Alireza
+AU  - Vardi, Fatemeh
+AU  - Rad, Roya
+PY  - 2022
+DA  - 2022/02/01
+PB  - Springer Science and Business Media LLC
+SP  - 10906-10929
+IS  - 8
+VL  - 78
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

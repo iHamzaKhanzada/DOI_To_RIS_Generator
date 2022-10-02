@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-15087-1_4
+UR  - http://dx.doi.org/10.1007/978-3-319-15087-1_4
+TI  - Before Unrooting your Android Phone, Patching up Permission System First!
+T2  - Information Security Applications
+AU  - Zhang, Zhongwen
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 41-54
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319150864
+SN  - 9783319150871
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s40860-021-00146-1
+UR  - http://dx.doi.org/10.1007/s40860-021-00146-1
+TI  - PSPHERE: person specific human error estimation
+T2  - Journal of Reliable Intelligent Environments
+AU  - Samima, Shabnam
+AU  - Sarma, Monalisa
+PY  - 2021
+DA  - 2021/05/29
+PB  - Springer Science and Business Media LLC
+SP  - 133-164
+IS  - 2
+VL  - 8
+SN  - 2199-4668
+SN  - 2199-4676
+ER  - 

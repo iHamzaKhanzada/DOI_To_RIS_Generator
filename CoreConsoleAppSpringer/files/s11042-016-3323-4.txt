@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11042-016-3323-4
+UR  - http://dx.doi.org/10.1007/s11042-016-3323-4
+TI  - An integrated application of Kano’s model and AHP to Korean online open market services
+T2  - Multimedia Tools and Applications
+AU  - Kim, Jin Min
+AU  - Choi, Suk Bong
+PY  - 2016
+DA  - 2016/02/08
+PB  - Springer Science and Business Media LLC
+SP  - 19621-19634
+IS  - 19
+VL  - 76
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-64107-2_22
+UR  - http://dx.doi.org/10.1007/978-3-319-64107-2_22
+TI  - Robot Transparency: Improving Understanding of Intelligent Behaviour for Designers and Users
+T2  - Towards Autonomous Robotic Systems
+AU  - Wortham, Robert H.
+AU  - Theodorou, Andreas
+AU  - Bryson, Joanna J.
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 274-289
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319641065
+SN  - 9783319641072
+ER  - 

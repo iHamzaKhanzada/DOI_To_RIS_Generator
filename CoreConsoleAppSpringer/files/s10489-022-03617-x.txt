@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10489-022-03617-x
+UR  - http://dx.doi.org/10.1007/s10489-022-03617-x
+TI  - Multi-task learning based on geometric invariance discriminative features
+T2  - Applied Intelligence
+AU  - Liu, Yitong
+AU  - Huang, Lei
+AU  - Li, Jie
+AU  - Zhang, Wenfeng
+AU  - Sheng, Yanxiu
+AU  - Wei, Zhiqiang
+PY  - 2022
+DA  - 2022/05/31
+PB  - Springer Science and Business Media LLC
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 

@@ -1,0 +1,34 @@
+TY  - JOUR
+DO  - 10.1007/s41315-017-0031-9
+UR  - http://dx.doi.org/10.1007/s41315-017-0031-9
+TI  - Autonomous robotic system for tunnel structural inspection and assessment
+T2  - International Journal of Intelligent Robotics and Applications
+AU  - Loupos, Konstantinos
+AU  - Doulamis, Anastasios D.
+AU  - Stentoumis, Christos
+AU  - Protopapadakis, Eftychios
+AU  - Makantasis, Konstantinos
+AU  - Doulamis, Nikolaos D.
+AU  - Amditis, Angelos
+AU  - Chrobocinski, Philippe
+AU  - Victores, Juan
+AU  - Montero, Roberto
+AU  - Menendez, Elisabeth
+AU  - Balaguer, Carlos
+AU  - Lopez, Rafa
+AU  - Cantero, Miquel
+AU  - Navarro, Roman
+AU  - Roncaglia, Alberto
+AU  - Belsito, Luca
+AU  - Camarinopoulos, Stephanos
+AU  - Komodakis, Nikolaos
+AU  - Singh, Praveer
+PY  - 2017
+DA  - 2017/08/11
+PB  - Springer Science and Business Media LLC
+SP  - 43-66
+IS  - 1
+VL  - 2
+SN  - 2366-5971
+SN  - 2366-598X
+ER  - 

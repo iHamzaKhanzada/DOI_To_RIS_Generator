@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00521-019-04304-8
+UR  - http://dx.doi.org/10.1007/s00521-019-04304-8
+TI  - A Pearson-like correlation-based TOPSIS method with interval-valued Pythagorean fuzzy uncertainty and its application to multiple criteria decision analysis of stroke rehabilitation treatments
+T2  - Neural Computing and Applications
+AU  - Ho, Lun-Hui
+AU  - Lin, Yu-Li
+AU  - Chen, Ting-Yu
+PY  - 2019
+DA  - 2019/06/29
+PB  - Springer Science and Business Media LLC
+SP  - 8265-8295
+IS  - 12
+VL  - 32
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

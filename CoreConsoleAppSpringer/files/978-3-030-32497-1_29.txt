@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-32497-1_29
+UR  - http://dx.doi.org/10.1007/978-3-030-32497-1_29
+TI  - Enhancing Eco-Design Methods Using TRIZ Tools: the Case of ECOFAIRE
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Ben Moussa, Fatima Zahra
+AU  - Essaber, Fatima Ezzahra
+AU  - Benmoussa, Rachid
+AU  - Dubois, Sébastien
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 350-367
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030324964
+SN  - 9783030324971
+ER  - 

@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s10515-018-0237-6
+UR  - http://dx.doi.org/10.1007/s10515-018-0237-6
+TI  - Static window transition graphs for Android
+T2  - Automated Software Engineering
+AU  - Yang, Shengqian
+AU  - Wu, Haowei
+AU  - Zhang, Hailong
+AU  - Wang, Yan
+AU  - Swaminathan, Chandrasekar
+AU  - Yan, Dacong
+AU  - Rountev, Atanas
+PY  - 2018
+DA  - 2018/06/16
+PB  - Springer Science and Business Media LLC
+SP  - 833-873
+IS  - 4
+VL  - 25
+SN  - 0928-8910
+SN  - 1573-7535
+ER  - 

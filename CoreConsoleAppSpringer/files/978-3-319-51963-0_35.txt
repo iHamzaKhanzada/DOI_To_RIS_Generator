@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-51963-0_35
+UR  - http://dx.doi.org/10.1007/978-3-319-51963-0_35
+TI  - On Featured Transition Systems
+T2  - SOFSEM 2017: Theory and Practice of Computer Science
+AU  - Legay, Axel
+AU  - Perrouin, Gilles
+AU  - Devroey, Xavier
+AU  - Cordy, Maxime
+AU  - Schobbens, Pierre-Yves
+AU  - Heymans, Patrick
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 453-463
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319519623
+SN  - 9783319519630
+ER  - 

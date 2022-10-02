@@ -1,0 +1,22 @@
+TY  - JOUR
+DO  - 10.1007/s10664-018-9670-1
+UR  - http://dx.doi.org/10.1007/s10664-018-9670-1
+TI  - On the search for industry-relevant regression testing research
+T2  - Empirical Software Engineering
+AU  - Ali, Nauman bin
+AU  - Engström, Emelie
+AU  - Taromirad, Masoumeh
+AU  - Mousavi, Mohammad Reza
+AU  - Minhas, Nasir Mehmood
+AU  - Helgesson, Daniel
+AU  - Kunze, Sebastian
+AU  - Varshosaz, Mahsa
+PY  - 2019
+DA  - 2019/02/12
+PB  - Springer Science and Business Media LLC
+SP  - 2020-2055
+IS  - 4
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

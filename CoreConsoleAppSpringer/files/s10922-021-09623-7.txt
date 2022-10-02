@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s10922-021-09623-7
+UR  - http://dx.doi.org/10.1007/s10922-021-09623-7
+TI  - Design of a Security and Trust Framework for 5G Multi-domain Scenarios
+T2  - Journal of Network and Systems Management
+AU  - Jorquera Valero, José María
+AU  - Sánchez Sánchez, Pedro Miguel
+AU  - Lekidis, Alexios
+AU  - Fernandez Hidalgo, Javier
+AU  - Gil Pérez, Manuel
+AU  - Siddiqui, M. Shuaib
+AU  - Huertas Celdrán, Alberto
+AU  - Martínez Pérez, Gregorio
+PY  - 2021
+DA  - 2021/10/08
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 30
+SN  - 1064-7570
+SN  - 1573-7705
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10586-017-1268-7
+UR  - http://dx.doi.org/10.1007/s10586-017-1268-7
+TI  - A strategic performance of virtual task scheduling in multi cloud environment
+T2  - Cluster Computing
+AU  - Thirumalaiselvan, C.
+AU  - Venkatachalam, V.
+PY  - 2017
+DA  - 2017/10/23
+PB  - Springer Science and Business Media LLC
+SP  - 9589-9597
+IS  - S4
+VL  - 22
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

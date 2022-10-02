@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-36987-3_13
+UR  - http://dx.doi.org/10.1007/978-3-030-36987-3_13
+TI  - Resource Scheduling for Tasks of a Workflow in Cloud Environment
+T2  - Distributed Computing and Internet Technology
+AU  - Karmakar, Kamalesh
+AU  - Das, Rajib K
+AU  - Khatua, Sunirmal
+PY  - 2019
+DA  - 2019/12/09
+PB  - Springer International Publishing
+SP  - 214-226
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030369866
+SN  - 9783030369873
+ER  - 

@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-02641-7_17
+UR  - http://dx.doi.org/10.1007/978-3-030-02641-7_17
+TI  - Oh-Pwn-VPN! Security Analysis of OpenVPN-Based Android Apps
+T2  - Cryptology and Network Security
+AU  - Zhang, Qi
+AU  - Li, Juanru
+AU  - Zhang, Yuanyuan
+AU  - Wang, Hui
+AU  - Gu, Dawu
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 373-389
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030026400
+SN  - 9783030026417
+ER  - 

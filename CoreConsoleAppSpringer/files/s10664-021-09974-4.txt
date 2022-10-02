@@ -1,0 +1,24 @@
+TY  - JOUR
+DO  - 10.1007/s10664-021-09974-4
+UR  - http://dx.doi.org/10.1007/s10664-021-09974-4
+TI  - Beyond the virus: a first look at coronavirus-themed Android malware
+T2  - Empirical Software Engineering
+AU  - Wang, Liu
+AU  - He, Ren
+AU  - Wang, Haoyu
+AU  - Xia, Pengcheng
+AU  - Li, Yuanchun
+AU  - Wu, Lei
+AU  - Zhou, Yajin
+AU  - Luo, Xiapu
+AU  - Sui, Yulei
+AU  - Guo, Yao
+AU  - Xu, Guoai
+PY  - 2021
+DA  - 2021/06/12
+PB  - Springer Science and Business Media LLC
+IS  - 4
+VL  - 26
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

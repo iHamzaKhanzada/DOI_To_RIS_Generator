@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s44206-022-00017-z
+UR  - http://dx.doi.org/10.1007/s44206-022-00017-z
+TI  - Algorithmic Bias and Risk Assessments: Lessons from Practice
+T2  - Digital Society
+AU  - Hasan, Ali
+AU  - Brown, Shea
+AU  - Davidovic, Jovana
+AU  - Lange, Benjamin
+AU  - Regan, Mitt
+PY  - 2022
+DA  - 2022/08
+PB  - Springer Science and Business Media LLC
+IS  - 2
+VL  - 1
+SN  - 2731-4650
+SN  - 2731-4669
+ER  - 

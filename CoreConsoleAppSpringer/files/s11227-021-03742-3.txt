@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11227-021-03742-3
+UR  - http://dx.doi.org/10.1007/s11227-021-03742-3
+TI  - A novel cloud workflow scheduling algorithm based on stable matching game theory
+T2  - The Journal of Supercomputing
+AU  - Jia, Zhao-hong
+AU  - Pan, Lei
+AU  - Liu, Xiao
+AU  - Li, Xue-jun
+PY  - 2021
+DA  - 2021/03/27
+PB  - Springer Science and Business Media LLC
+SP  - 11597-11624
+IS  - 10
+VL  - 77
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

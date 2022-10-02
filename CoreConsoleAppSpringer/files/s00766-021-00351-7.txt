@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s00766-021-00351-7
+UR  - http://dx.doi.org/10.1007/s00766-021-00351-7
+TI  - Is it possible to disregard obsolete requirements? a family of experiments in software effort estimation
+T2  - Requirements Engineering
+AU  - Gren, Lucas
+AU  - Berntsson Svensson, Richard
+PY  - 2021
+DA  - 2021/04/12
+PB  - Springer Science and Business Media LLC
+SP  - 459-480
+IS  - 3
+VL  - 26
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

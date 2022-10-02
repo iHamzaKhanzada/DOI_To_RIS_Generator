@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s11390-017-1786-z
+UR  - http://dx.doi.org/10.1007/s11390-017-1786-z
+TI  - On Locating Malicious Code in Piggybacked Android Apps
+T2  - Journal of Computer Science and Technology
+AU  - Li, Li
+AU  - Li, Daoyuan
+AU  - Bissyandé, Tegawendé F.
+AU  - Klein, Jacques
+AU  - Cai, Haipeng
+AU  - Lo, David
+AU  - Le Traon, Yves
+PY  - 2017
+DA  - 2017/11
+PB  - Springer Science and Business Media LLC
+SP  - 1108-1124
+IS  - 6
+VL  - 32
+SN  - 1000-9000
+SN  - 1860-4749
+ER  - 

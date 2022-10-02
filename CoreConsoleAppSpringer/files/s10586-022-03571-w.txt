@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10586-022-03571-w
+UR  - http://dx.doi.org/10.1007/s10586-022-03571-w
+TI  - Placement of IoT services in fog environment based on complex network features: a genetic-based approach
+T2  - Cluster Computing
+AU  - Azimzadeh, Masomeh
+AU  - Rezaee, Ali
+AU  - Jassbi, Somayyeh Jafarali
+AU  - Esnaashari, Mehdi
+PY  - 2022
+DA  - 2022/03/16
+PB  - Springer Science and Business Media LLC
+SP  - 3423-3445
+IS  - 5
+VL  - 25
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

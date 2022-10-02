@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10723-017-9395-1
+UR  - http://dx.doi.org/10.1007/s10723-017-9395-1
+TI  - Implementation and Provisioning of Federated Networks in Hybrid Clouds
+T2  - Journal of Grid Computing
+AU  - Moreno-Vozmediano, Rafael
+AU  - Montero, Rubén S.
+AU  - Huedo, Eduardo
+AU  - Llorente, Ignacio M.
+PY  - 2017
+DA  - 2017/03/22
+PB  - Springer Science and Business Media LLC
+SP  - 141-160
+IS  - 2
+VL  - 15
+SN  - 1570-7873
+SN  - 1572-9184
+ER  - 

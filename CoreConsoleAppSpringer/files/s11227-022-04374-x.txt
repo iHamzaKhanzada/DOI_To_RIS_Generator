@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11227-022-04374-x
+UR  - http://dx.doi.org/10.1007/s11227-022-04374-x
+TI  - A joint computational and resource allocation model for fast parallel data processing in fog computing
+T2  - The Journal of Supercomputing
+AU  - Lakzaei, Mahmood
+AU  - Sattari-Naeini, Vahid
+AU  - Sabbagh Molahosseini, Amir
+AU  - Javadpour, Amir
+PY  - 2022
+DA  - 2022/03/10
+PB  - Springer Science and Business Media LLC
+SP  - 12662-12685
+IS  - 10
+VL  - 78
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

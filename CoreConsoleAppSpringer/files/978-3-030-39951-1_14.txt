@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-39951-1_14
+UR  - http://dx.doi.org/10.1007/978-3-030-39951-1_14
+TI  - On the Dynamics of Structured Argumentation: Modeling Changes in Default Justification Logic
+T2  - Lecture Notes in Computer Science
+AU  - Pandžić, Stipe
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 222-241
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030399504
+SN  - 9783030399511
+ER  - 

@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-04447-2_10
+UR  - http://dx.doi.org/10.1007/978-3-031-04447-2_10
+TI  - Multiphase Model Based on K-means and Ant Colony Optimization to Solve the Capacitated Vehicle Routing Problem with Time Windows
+T2  - Information Management and Big Data
+AU  - Huamán, Airton
+AU  - Huancahuari, Marco
+AU  - Wong, Lenis
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 141-157
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783031044465
+SN  - 9783031044472
+ER  - 

@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-19034-7_5
+UR  - http://dx.doi.org/10.1007/978-3-030-19034-7_5
+TI  - The Unfulfilled Potential of Data-Driven Decision Making in Agile Software Development
+T2  - Lecture Notes in Business Information Processing
+AU  - Svensson, Richard Berntsson
+AU  - Feldt, Robert
+AU  - Torkar, Richard
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 69-85
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030190330
+SN  - 9783030190347
+ER  - 

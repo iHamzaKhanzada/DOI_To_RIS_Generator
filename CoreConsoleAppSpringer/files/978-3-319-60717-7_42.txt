@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-60717-7_42
+UR  - http://dx.doi.org/10.1007/978-3-319-60717-7_42
+TI  - A Design of the Event Trigger for Android Application
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Hu, Ting
+AU  - Ning, Zhuo
+AU  - Sun, Zhixin
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 426-434
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319607160
+SN  - 9783319607177
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1186/s13173-019-0087-5
+UR  - http://dx.doi.org/10.1186/s13173-019-0087-5
+TI  - Understanding automated and human-based technical debt identification approaches-a two-phase study
+T2  - Journal of the Brazilian Computer Society
+AU  - Spínola, Rodrigo O.
+AU  - Zazworka, Nico
+AU  - Vetro, Antonio
+AU  - Shull, Forrest
+AU  - Seaman, Carolyn
+PY  - 2019
+DA  - 2019/06/08
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 25
+SN  - 0104-6500
+SN  - 1678-4804
+ER  - 

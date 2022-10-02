@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-68066-8_19
+UR  - http://dx.doi.org/10.1007/978-3-319-68066-8_19
+TI  - ClouDSS: A Decision Support System for Cloud Service Selection
+T2  - Economics of Grids, Clouds, Systems, and Services
+AU  - Şener, Umut
+AU  - Gökalp, Ebru
+AU  - Eren, P. Erhan
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 249-261
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319680651
+SN  - 9783319680668
+ER  - 

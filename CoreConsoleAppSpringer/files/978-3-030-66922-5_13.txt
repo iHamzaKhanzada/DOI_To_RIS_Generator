@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-66922-5_13
+UR  - http://dx.doi.org/10.1007/978-3-030-66922-5_13
+TI  - A Multi-class Detection System for Android Malicious Apps Based on Color Image Features
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Zhang, Hua
+AU  - Qin, Jiawei
+AU  - Zhang, Boan
+AU  - Yan, Hanbing
+AU  - Guo, Jing
+AU  - Gao, Fei
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 186-206
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030669218
+SN  - 9783030669225
+ER  - 

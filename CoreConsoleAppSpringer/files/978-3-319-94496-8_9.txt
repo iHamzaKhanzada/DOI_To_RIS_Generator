@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-94496-8_9
+UR  - http://dx.doi.org/10.1007/978-3-319-94496-8_9
+TI  - Idea: Benchmarking Android Data Leak Detection Tools
+T2  - Lecture Notes in Computer Science
+AU  - Corrodi, Claudio
+AU  - Spring, Timo
+AU  - Ghafari, Mohammad
+AU  - Nierstrasz, Oscar
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 116-123
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319944951
+SN  - 9783319944968
+ER  - 

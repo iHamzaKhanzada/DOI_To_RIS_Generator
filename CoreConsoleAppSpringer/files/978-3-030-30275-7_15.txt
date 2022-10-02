@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-30275-7_15
+UR  - http://dx.doi.org/10.1007/978-3-030-30275-7_15
+TI  - Challenges for Automated, Model-Based Test Scenario Generation
+T2  - Communications in Computer and Information Science
+AU  - Kolchin, Alexander
+AU  - Potiyenko, Stepan
+AU  - Weigert, Thomas
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 182-194
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030302740
+SN  - 9783030302757
+ER  - 

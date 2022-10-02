@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10515-022-00347-9
+UR  - http://dx.doi.org/10.1007/s10515-022-00347-9
+TI  - AppSPIN: reconfiguration-based responsiveness testing and diagnosing for Android Apps
+T2  - Automated Software Engineering
+AU  - Lei, Zhanyao
+AU  - Zhao, Wenhua
+AU  - Ding, Zhenkai
+AU  - Xia, Mingyuan
+AU  - Qi, Zhengwei
+PY  - 2022
+DA  - 2022/07/05
+PB  - Springer Science and Business Media LLC
+IS  - 2
+VL  - 29
+SN  - 0928-8910
+SN  - 1573-7535
+ER  - 

@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-90439-5_16
+UR  - http://dx.doi.org/10.1007/978-3-030-90439-5_16
+TI  - MOBA Coach: Exploring and Analyzing Multiplayer Online Battle Arena Data
+T2  - Advances in Visual Computing
+AU  - Horst, Robin
+AU  - Lanvers, Micha
+AU  - von Kacsoh, László
+AU  - Dörner, Ralf
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 197-209
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030904388
+SN  - 9783030904395
+ER  - 

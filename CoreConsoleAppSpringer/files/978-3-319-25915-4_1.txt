@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-25915-4_1
+UR  - http://dx.doi.org/10.1007/978-3-319-25915-4_1
+TI  - Blueprints of an Automated Android Test-Bed
+T2  - E-Business and Telecommunications
+AU  - Gagnon, François
+AU  - Poisson, Jérémie
+AU  - Frenette, Simon
+AU  - Lafrance, Frédéric
+AU  - Hallé, Simon
+AU  - Michaud, Frédéric
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 3-25
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783319259147
+SN  - 9783319259154
+ER  - 

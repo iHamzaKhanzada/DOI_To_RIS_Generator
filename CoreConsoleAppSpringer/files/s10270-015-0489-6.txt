@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10270-015-0489-6
+UR  - http://dx.doi.org/10.1007/s10270-015-0489-6
+TI  - A participative end-user method for multi-perspective business process elicitation and improvement
+T2  - Software &amp; Systems Modeling
+AU  - Front, Agnès
+AU  - Rieu, Dominique
+AU  - Santorum, Marco
+AU  - Movahedian, Fatemeh
+PY  - 2015
+DA  - 2015/08/06
+PB  - Springer Science and Business Media LLC
+SP  - 691-714
+IS  - 3
+VL  - 16
+SN  - 1619-1366
+SN  - 1619-1374
+ER  - 

@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-662-54577-5_5
+UR  - http://dx.doi.org/10.1007/978-3-662-54577-5_5
+TI  - Bounded Quantifier Instantiation for Checking Inductive Invariants
+T2  - Tools and Algorithms for the Construction and Analysis of Systems
+AU  - Feldman, Yotam M. Y.
+AU  - Padon, Oded
+AU  - Immerman, Neil
+AU  - Sagiv, Mooly
+AU  - Shoham, Sharon
+PY  - 2017
+PB  - Springer Berlin Heidelberg
+SP  - 76-95
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783662545768
+SN  - 9783662545775
+ER  - 

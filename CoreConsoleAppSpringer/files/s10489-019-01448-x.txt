@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10489-019-01448-x
+UR  - http://dx.doi.org/10.1007/s10489-019-01448-x
+TI  - Low-time complexity and low-cost binary particle swarm optimization algorithm for task scheduling and load balancing in cloud computing
+T2  - Applied Intelligence
+AU  - Mapetu, Jean Pepe Buanga
+AU  - Chen, Zhen
+AU  - Kong, Lingfu
+PY  - 2019
+DA  - 2019/04/03
+PB  - Springer Science and Business Media LLC
+SP  - 3308-3330
+IS  - 9
+VL  - 49
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 

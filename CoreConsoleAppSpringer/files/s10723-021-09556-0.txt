@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s10723-021-09556-0
+UR  - http://dx.doi.org/10.1007/s10723-021-09556-0
+TI  - Improved Butterfly Optimization Algorithm for Data Placement and Scheduling in Edge Computing Environments
+T2  - Journal of Grid Computing
+AU  - Hosseinzadeh, Mehdi
+AU  - Masdari, Mohammad
+AU  - Rahmani, Amir Masoud
+AU  - Mohammadi, Mokhtar
+AU  - Aldalwie, Adil Hussain Mohammed
+AU  - Majeed, Mohammed Kamal
+AU  - Karim, Sarkhel H. Taher
+PY  - 2021
+DA  - 2021/03/22
+PB  - Springer Science and Business Media LLC
+IS  - 2
+VL  - 19
+SN  - 1570-7873
+SN  - 1572-9184
+ER  - 

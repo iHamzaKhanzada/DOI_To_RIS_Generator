@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-35699-6_3
+UR  - http://dx.doi.org/10.1007/978-3-030-35699-6_3
+TI  - Positioning of Active Wheels for Optimal Ball Handling
+T2  - RoboCup 2019: Robot World Cup XXIII
+AU  - Beuermann, Maximilian
+AU  - Ossenkopf, Marie
+AU  - Geihs, Kurt
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 30-43
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030356989
+SN  - 9783030356996
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10009-017-0449-2
+UR  - http://dx.doi.org/10.1007/s10009-017-0449-2
+TI  - Model-based testing as a service
+T2  - International Journal on Software Tools for Technology Transfer
+AU  - Herbold, Steffen
+AU  - Hoffmann, Andreas
+PY  - 2017
+DA  - 2017/03/06
+PB  - Springer Science and Business Media LLC
+SP  - 271-279
+IS  - 3
+VL  - 19
+SN  - 1433-2779
+SN  - 1433-2787
+ER  - 

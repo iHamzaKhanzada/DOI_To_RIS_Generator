@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-96592-1_15
+UR  - http://dx.doi.org/10.1007/978-3-030-96592-1_15
+TI  - Renewable Energy Investment Decision Evaluation for Local Authorities
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Turkoglu, Ecem
+AU  - Colak, Uner
+AU  - Kayakutlu, Gulgun
+AU  - Argun, Irem Duzdar
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 197-214
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030965914
+SN  - 9783030965921
+ER  - 

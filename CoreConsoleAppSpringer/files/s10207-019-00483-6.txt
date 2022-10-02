@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10207-019-00483-6
+UR  - http://dx.doi.org/10.1007/s10207-019-00483-6
+TI  - A language and a pattern system for temporal property specification: advanced metering infrastructure case study
+T2  - International Journal of Information Security
+AU  - Tavizi, Tina
+AU  - Shajari, Mehdi
+PY  - 2020
+DA  - 2020/01/09
+PB  - Springer Science and Business Media LLC
+SP  - 695-710
+IS  - 6
+VL  - 19
+SN  - 1615-5262
+SN  - 1615-5270
+ER  - 

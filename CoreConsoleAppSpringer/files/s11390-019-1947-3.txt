@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11390-019-1947-3
+UR  - http://dx.doi.org/10.1007/s11390-019-1947-3
+TI  - Edge Computing Based Applications in Vehicular Environments: Comparative Study and Main Issues
+T2  - Journal of Computer Science and Technology
+AU  - Mendiboure, Leo
+AU  - Chalouf, Mohamed-Aymen
+AU  - Krief, Francine
+PY  - 2019
+DA  - 2019/07
+PB  - Springer Science and Business Media LLC
+SP  - 869-886
+IS  - 4
+VL  - 34
+SN  - 1000-9000
+SN  - 1860-4749
+ER  - 

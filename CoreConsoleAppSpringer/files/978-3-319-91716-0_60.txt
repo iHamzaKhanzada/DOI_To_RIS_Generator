@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-91716-0_60
+UR  - http://dx.doi.org/10.1007/978-3-319-91716-0_60
+TI  - E-commerce Flow Management in Fulfillment Centers Through Data Visualization
+T2  - HCI in Business, Government, and Organizations
+AU  - Tarigonda, Amith
+AU  - Hymes, Bruce
+AU  - Nikonovich-Kahn, Alexei
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 767-778
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319917153
+SN  - 9783319917160
+ER  - 

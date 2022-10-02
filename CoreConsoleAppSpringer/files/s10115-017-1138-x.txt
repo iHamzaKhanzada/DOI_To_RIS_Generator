@@ -1,0 +1,22 @@
+TY  - JOUR
+DO  - 10.1007/s10115-017-1138-x
+UR  - http://dx.doi.org/10.1007/s10115-017-1138-x
+TI  - Exploiting a novel algorithm and GPUs to break the ten quadrillion pairwise comparisons barrier for time series motifs and joins
+T2  - Knowledge and Information Systems
+AU  - Zhu, Yan
+AU  - Zimmerman, Zachary
+AU  - Shakibay Senobari, Nader
+AU  - Yeh, Chin-Chia Michael
+AU  - Funning, Gareth
+AU  - Mueen, Abdullah
+AU  - Brisk, Philip
+AU  - Keogh, Eamonn
+PY  - 2017
+DA  - 2017/12/22
+PB  - Springer Science and Business Media LLC
+SP  - 203-236
+IS  - 1
+VL  - 54
+SN  - 0219-1377
+SN  - 0219-3116
+ER  - 

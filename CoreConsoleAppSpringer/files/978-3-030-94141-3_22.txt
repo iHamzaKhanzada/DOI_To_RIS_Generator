@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-94141-3_22
+UR  - http://dx.doi.org/10.1007/978-3-030-94141-3_22
+TI  - Implementation of a Network-Centric Production Storage System in Distributed High-Performance Computing Systems
+T2  - Communications in Computer and Information Science
+AU  - Bashlykova, Anna
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 275-286
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030941406
+SN  - 9783030941413
+ER  - 

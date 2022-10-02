@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-68887-5_9
+UR  - http://dx.doi.org/10.1007/978-3-030-68887-5_9
+TI  - Asset-Driven Approach for Security Risk Assessment in IoT Systems
+T2  - Lecture Notes in Computer Science
+AU  - Chehida, Salim
+AU  - Baouya, Abdelhakim
+AU  - Alonso, Diego Fernández
+AU  - Brun, Paul-Emmanuel
+AU  - Massot, Guillemette
+AU  - Bozga, Marius
+AU  - Bensalem, Saddek
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 149-163
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030688868
+SN  - 9783030688875
+ER  - 

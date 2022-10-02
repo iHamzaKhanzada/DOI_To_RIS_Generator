@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s41870-020-00478-w
+UR  - http://dx.doi.org/10.1007/s41870-020-00478-w
+TI  - Quality of service aware routing protocols in wireless multimedia sensor networks: survey
+T2  - International Journal of Information Technology
+AU  - Chiwariro, Ronald
+AU  - .N, Thangadurai
+PY  - 2020
+DA  - 2020/07/29
+PB  - Springer Science and Business Media LLC
+SP  - 789-800
+IS  - 2
+VL  - 14
+SN  - 2511-2104
+SN  - 2511-2112
+ER  - 

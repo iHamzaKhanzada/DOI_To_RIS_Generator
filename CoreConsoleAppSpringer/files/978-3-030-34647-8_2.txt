@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-34647-8_2
+UR  - http://dx.doi.org/10.1007/978-3-030-34647-8_2
+TI  - A Comparative Analysis Approach for Deriving Failure Scenarios in the Natural Gas Distribution Infrastructure
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Locasto, Michael
+AU  - Balenson, David
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 19-50
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030346461
+SN  - 9783030346478
+ER  - 

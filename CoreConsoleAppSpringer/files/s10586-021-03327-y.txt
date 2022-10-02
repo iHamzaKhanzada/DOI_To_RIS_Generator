@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10586-021-03327-y
+UR  - http://dx.doi.org/10.1007/s10586-021-03327-y
+TI  - Orchestrating real-time IoT workflows in a fog computing environment utilizing partial computations with end-to-end error propagation
+T2  - Cluster Computing
+AU  - Stavrinides, Georgios L.
+AU  - Karatza, Helen D.
+PY  - 2021
+DA  - 2021/07/05
+PB  - Springer Science and Business Media LLC
+SP  - 3629-3650
+IS  - 4
+VL  - 24
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-49421-0_10
+UR  - http://dx.doi.org/10.1007/978-3-319-49421-0_10
+TI  - Tool Support for Change-Based Regression Testing: An Industry Experience Report
+T2  - Software Quality. Complexity and Challenges of Software Engineering in Emerging Technologies
+AU  - Ramler, Rudolf
+AU  - Salomon, Christian
+AU  - Buchgeher, Georg
+AU  - Lusser, Michael
+PY  - 2016
+DA  - 2016/11/12
+PB  - Springer International Publishing
+SP  - 133-152
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783319494203
+SN  - 9783319494210
+ER  - 

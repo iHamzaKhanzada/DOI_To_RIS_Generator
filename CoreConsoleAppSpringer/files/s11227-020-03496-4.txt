@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11227-020-03496-4
+UR  - http://dx.doi.org/10.1007/s11227-020-03496-4
+TI  - A security-aware virtual machine placement in the cloud using hesitant fuzzy decision-making processes
+T2  - The Journal of Supercomputing
+AU  - Feizollahibarough, Sattar
+AU  - Ashtiani, Mehrdad
+PY  - 2020
+DA  - 2020/11/09
+PB  - Springer Science and Business Media LLC
+SP  - 5606-5636
+IS  - 6
+VL  - 77
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

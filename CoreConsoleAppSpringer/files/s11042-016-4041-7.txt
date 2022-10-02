@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s11042-016-4041-7
+UR  - http://dx.doi.org/10.1007/s11042-016-4041-7
+TI  - Determining speaker attributes from stress-affected speech in emergency situations with hybrid SVM-DNN architecture
+T2  - Multimedia Tools and Applications
+AU  - Ahmad, Jamil
+AU  - Sajjad, Muhammad
+AU  - Rho, Seungmin
+AU  - Kwon, Soon-il
+AU  - Lee, Mi Young
+AU  - Baik, Sung Wook
+PY  - 2016
+DA  - 2016/10/28
+PB  - Springer Science and Business Media LLC
+SP  - 4883-4907
+IS  - 4
+VL  - 77
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

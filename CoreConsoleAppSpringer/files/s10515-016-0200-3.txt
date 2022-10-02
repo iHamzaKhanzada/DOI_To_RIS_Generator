@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10515-016-0200-3
+UR  - http://dx.doi.org/10.1007/s10515-016-0200-3
+TI  - An Architecture based on interactive optimization and machine learning applied to the next release problem
+T2  - Automated Software Engineering
+AU  - Araújo, Allysson Allex
+AU  - Paixao, Matheus
+AU  - Yeltsin, Italo
+AU  - Dantas, Altino
+AU  - Souza, Jerffeson
+PY  - 2016
+DA  - 2016/06/06
+PB  - Springer Science and Business Media LLC
+SP  - 623-671
+IS  - 3
+VL  - 24
+SN  - 0928-8910
+SN  - 1573-7535
+ER  - 

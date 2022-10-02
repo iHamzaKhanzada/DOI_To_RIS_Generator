@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-78816-6_8
+UR  - http://dx.doi.org/10.1007/978-3-319-78816-6_8
+TI  - Possible Keyloggers Without Implementing a Keyboard in Android
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Jiménez Aranda, Itzael
+AU  - Aguirre Anaya, Eleazar
+AU  - Acosta Bermejo, Raúl
+AU  - Escamilla Ambrosio, Ponciano Jorge
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 104-112
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319788159
+SN  - 9783319788166
+ER  - 

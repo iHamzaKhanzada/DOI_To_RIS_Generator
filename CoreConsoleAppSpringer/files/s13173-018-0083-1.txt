@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1186/s13173-018-0083-1
+UR  - http://dx.doi.org/10.1186/s13173-018-0083-1
+TI  - VisminerTD: a tool for automatic identification and interactive monitoring of the evolution of technical debt items
+T2  - Journal of the Brazilian Computer Society
+AU  - Mendes, Thiago S.
+AU  - Gomes, Felipe G. S.
+AU  - Gonçalves, David P.
+AU  - Mendonça, Manoel G.
+AU  - Novais, Renato L.
+AU  - Spínola, Rodrigo O.
+PY  - 2019
+DA  - 2019/01/16
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 25
+SN  - 0104-6500
+SN  - 1678-4804
+ER  - 

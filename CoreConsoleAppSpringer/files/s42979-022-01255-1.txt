@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s42979-022-01255-1
+UR  - http://dx.doi.org/10.1007/s42979-022-01255-1
+TI  - A Learning Classifier System for Automated Test Case Prioritization and Selection
+T2  - SN Computer Science
+AU  - Rosenbauer, Lukas
+AU  - Pätzel, David
+AU  - Stein, Anthony
+AU  - Hähner, Jörg
+PY  - 2022
+DA  - 2022/07/15
+PB  - Springer Science and Business Media LLC
+IS  - 5
+VL  - 3
+SN  - 2661-8907
+ER  - 

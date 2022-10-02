@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-60735-7_14
+UR  - http://dx.doi.org/10.1007/978-3-030-60735-7_14
+TI  - Serendipitous Learning Fostered by Brain State Assessment and Collective Wisdom
+T2  - Brain Function Assessment in Learning
+AU  - Cerri, Stefano A.
+AU  - Lemoisson, Philippe
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 125-136
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030607340
+SN  - 9783030607357
+ER  - 

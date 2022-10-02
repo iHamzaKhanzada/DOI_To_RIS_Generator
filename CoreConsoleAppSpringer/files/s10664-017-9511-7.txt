@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10664-017-9511-7
+UR  - http://dx.doi.org/10.1007/s10664-017-9511-7
+TI  - Open innovation using open source tools: a case study at Sony Mobile
+T2  - Empirical Software Engineering
+AU  - Munir, Hussan
+AU  - Linåker, Johan
+AU  - Wnuk, Krzysztof
+AU  - Runeson, Per
+AU  - Regnell, Björn
+PY  - 2017
+DA  - 2017/04/22
+PB  - Springer Science and Business Media LLC
+SP  - 186-223
+IS  - 1
+VL  - 23
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

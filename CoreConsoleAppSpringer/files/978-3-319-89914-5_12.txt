@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-89914-5_12
+UR  - http://dx.doi.org/10.1007/978-3-319-89914-5_12
+TI  - Multimodal Systems, Experiences, and Communications: A Review Toward the Tactile Internet Vision
+T2  - Recent Trends in Computer Applications
+AU  - Al Jaafreh, Mohammad
+AU  - Alowaidi, Majed
+AU  - Al Osman, Hussein
+AU  - El Saddik, Abdulmotaleb
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 191-220
+SN  - 9783319899138
+SN  - 9783319899145
+ER  - 

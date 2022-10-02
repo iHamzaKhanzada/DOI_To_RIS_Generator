@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-81682-7_9
+UR  - http://dx.doi.org/10.1007/978-3-030-81682-7_9
+TI  - An Organic Computing System for Automated Testing
+T2  - Architecture of Computing Systems
+AU  - Rosenbauer, Lukas
+AU  - Pätzel, David
+AU  - Stein, Anthony
+AU  - Hähner, Jörg
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 135-149
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030816810
+SN  - 9783030816827
+ER  - 

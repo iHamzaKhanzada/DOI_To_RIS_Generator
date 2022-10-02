@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00779-016-0966-0
+UR  - http://dx.doi.org/10.1007/s00779-016-0966-0
+TI  - Android platform-based individual privacy information protection system
+T2  - Personal and Ubiquitous Computing
+AU  - Zhang, Weizhe
+AU  - Li, Xiong
+AU  - Xiong, Naixue
+AU  - Vasilakos, Athanasios V.
+PY  - 2016
+DA  - 2016/09/16
+PB  - Springer Science and Business Media LLC
+SP  - 875-884
+IS  - 6
+VL  - 20
+SN  - 1617-4909
+SN  - 1617-4917
+ER  - 

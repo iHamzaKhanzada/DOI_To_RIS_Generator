@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10664-020-09932-6
+UR  - http://dx.doi.org/10.1007/s10664-020-09932-6
+TI  - Flair: efficient analysis of Android inter-component vulnerabilities in response to incremental changes
+T2  - Empirical Software Engineering
+AU  - Bagheri, Hamid
+AU  - Wang, Jianghao
+AU  - Aerts, Jarod
+AU  - Ghorbani, Negar
+AU  - Malek, Sam
+PY  - 2021
+DA  - 2021/04/09
+PB  - Springer Science and Business Media LLC
+IS  - 3
+VL  - 26
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

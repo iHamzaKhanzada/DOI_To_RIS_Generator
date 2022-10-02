@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-76063-2_36
+UR  - http://dx.doi.org/10.1007/978-3-030-76063-2_36
+TI  - Smart Governance in Urban Mobility Process
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Soe, Ralf-Martin
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 542-552
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030760625
+SN  - 9783030760632
+ER  - 

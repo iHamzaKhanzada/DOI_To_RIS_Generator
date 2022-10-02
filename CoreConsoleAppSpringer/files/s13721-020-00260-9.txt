@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s13721-020-00260-9
+UR  - http://dx.doi.org/10.1007/s13721-020-00260-9
+TI  - Network-based disease gene prioritization based on Protein–Protein Interaction Networks
+T2  - Network Modeling Analysis in Health Informatics and Bioinformatics
+AU  - Kaushal, Palak
+AU  - Singh, Shailendra
+PY  - 2020
+DA  - 2020/08/06
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 9
+SN  - 2192-6662
+SN  - 2192-6670
+ER  - 

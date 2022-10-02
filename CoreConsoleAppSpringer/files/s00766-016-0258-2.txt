@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00766-016-0258-2
+UR  - http://dx.doi.org/10.1007/s00766-016-0258-2
+TI  - Empirical research in requirements engineering: trends and opportunities
+T2  - Requirements Engineering
+AU  - Ambreen, Talat
+AU  - Ikram, Naveed
+AU  - Usman, Muhammad
+AU  - Niazi, Mahmood
+PY  - 2016
+DA  - 2016/07/29
+PB  - Springer Science and Business Media LLC
+SP  - 63-95
+IS  - 1
+VL  - 23
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

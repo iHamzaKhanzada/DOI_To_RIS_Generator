@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11263-016-0947-9
+UR  - http://dx.doi.org/10.1007/s11263-016-0947-9
+TI  - Trajectory-Based Place-Recognition for Efficient Large Scale Localization
+T2  - International Journal of Computer Vision
+AU  - Lynen, Simon
+AU  - Bosse, Michael
+AU  - Siegwart, Roland
+PY  - 2016
+DA  - 2016/10/22
+PB  - Springer Science and Business Media LLC
+SP  - 49-64
+IS  - 1
+VL  - 124
+SN  - 0920-5691
+SN  - 1573-1405
+ER  - 

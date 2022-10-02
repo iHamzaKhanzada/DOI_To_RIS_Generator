@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-99241-9_9
+UR  - http://dx.doi.org/10.1007/978-3-319-99241-9_9
+TI  - Automated Optimization of Weighted Non-functional Objectives in Self-adaptive Systems
+T2  - Search-Based Software Engineering
+AU  - Bowers, Kate M.
+AU  - Fredericks, Erik M.
+AU  - Cheng, Betty H. C.
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 182-197
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319992402
+SN  - 9783319992419
+ER  - 

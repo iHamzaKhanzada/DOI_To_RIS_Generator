@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10115-016-0992-2
+UR  - http://dx.doi.org/10.1007/s10115-016-0992-2
+TI  - Incremental reinforcement learning for multi-objective robotic tasks
+T2  - Knowledge and Information Systems
+AU  - García, Javier
+AU  - Iglesias, Roberto
+AU  - Rodríguez, Miguel A.
+AU  - Regueiro, Carlos V.
+PY  - 2016
+DA  - 2016/09/22
+PB  - Springer Science and Business Media LLC
+SP  - 911-940
+IS  - 3
+VL  - 51
+SN  - 0219-1377
+SN  - 0219-3116
+ER  - 

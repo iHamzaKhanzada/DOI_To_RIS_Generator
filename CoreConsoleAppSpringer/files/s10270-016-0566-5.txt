@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10270-016-0566-5
+UR  - http://dx.doi.org/10.1007/s10270-016-0566-5
+TI  - WESSBAS: extraction of probabilistic workload specifications for load testing and performance prediction—a model-driven approach for session-based application systems
+T2  - Software &amp; Systems Modeling
+AU  - Vögele, Christian
+AU  - van Hoorn, André
+AU  - Schulz, Eike
+AU  - Hasselbring, Wilhelm
+AU  - Krcmar, Helmut
+PY  - 2016
+DA  - 2016/10/20
+PB  - Springer Science and Business Media LLC
+SP  - 443-477
+IS  - 2
+VL  - 17
+SN  - 1619-1366
+SN  - 1619-1374
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10111-018-0513-z
+UR  - http://dx.doi.org/10.1007/s10111-018-0513-z
+TI  - The coordination between train traffic controllers and train drivers: a distributed cognition perspective on railway
+T2  - Cognition, Technology &amp; Work
+AU  - Andreasson, Rebecca
+AU  - Jansson, Anders A.
+AU  - Lindblom, Jessica
+PY  - 2018
+DA  - 2018/08/02
+PB  - Springer Science and Business Media LLC
+SP  - 417-443
+IS  - 3
+VL  - 21
+SN  - 1435-5558
+SN  - 1435-5566
+ER  - 

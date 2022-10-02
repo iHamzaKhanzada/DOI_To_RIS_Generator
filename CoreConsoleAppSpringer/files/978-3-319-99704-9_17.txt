@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-99704-9_17
+UR  - http://dx.doi.org/10.1007/978-3-319-99704-9_17
+TI  - Engineering Change Management in the Engineer-to-Order Production Environment: Insights from Two Case Studies
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Iakymenko, Natalia
+AU  - Romsdal, Anita
+AU  - Semini, Marco
+AU  - Strandhagen, Jan Ola
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 131-138
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783319997032
+SN  - 9783319997049
+ER  - 

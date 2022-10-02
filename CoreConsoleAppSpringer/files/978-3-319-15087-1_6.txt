@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-15087-1_6
+UR  - http://dx.doi.org/10.1007/978-3-319-15087-1_6
+TI  - Analyzing Unnecessary Permissions Requested by Android Apps Based on Users’ Opinions
+T2  - Information Security Applications
+AU  - Kang, Jina
+AU  - Kim, Daehyun
+AU  - Kim, Hyoungshick
+AU  - Huh, Jun Ho
+PY  - 2015
+PB  - Springer International Publishing
+SP  - 68-79
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319150864
+SN  - 9783319150871
+ER  - 

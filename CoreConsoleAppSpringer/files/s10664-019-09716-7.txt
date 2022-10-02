@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09716-7
+UR  - http://dx.doi.org/10.1007/s10664-019-09716-7
+TI  - Mining non-functional requirements from App store reviews
+T2  - Empirical Software Engineering
+AU  - Jha, Nishant
+AU  - Mahmoud, Anas
+PY  - 2019
+DA  - 2019/06/07
+PB  - Springer Science and Business Media LLC
+SP  - 3659-3695
+IS  - 6
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10664-022-10138-1
+UR  - http://dx.doi.org/10.1007/s10664-022-10138-1
+TI  - On the use of commit-relevant mutants
+T2  - Empirical Software Engineering
+AU  - Ojdanić, Miloš
+AU  - Ma, Wei
+AU  - Laurent, Thomas
+AU  - Chekam, Thierry Titcheu
+AU  - Ventresque, Anthony
+AU  - Papadakis, Mike
+PY  - 2022
+DA  - 2022/05/30
+PB  - Springer Science and Business Media LLC
+IS  - 5
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

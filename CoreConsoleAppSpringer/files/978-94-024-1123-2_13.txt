@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-94-024-1123-2_13
+UR  - http://dx.doi.org/10.1007/978-94-024-1123-2_13
+TI  - Realising Critical Infrastructure Resilience
+T2  - NATO Science for Peace and Security Series C: Environmental Security
+AU  - Coaffee, Jon
+AU  - Clarke, Jonathan
+PY  - 2017
+PB  - Springer Netherlands
+SP  - 359-380
+SN  - 1874-6519
+SN  - 1874-6543
+SN  - 9789402411225
+SN  - 9789402411232
+ER  - 

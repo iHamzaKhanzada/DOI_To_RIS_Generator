@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10664-020-09913-9
+UR  - http://dx.doi.org/10.1007/s10664-020-09913-9
+TI  - Software product-line evaluation in the large
+T2  - Empirical Software Engineering
+AU  - Lindohf, Robert
+AU  - Krüger, Jacob
+AU  - Herzog, Erik
+AU  - Berger, Thorsten
+PY  - 2021
+DA  - 2021/03
+PB  - Springer Science and Business Media LLC
+IS  - 2
+VL  - 26
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

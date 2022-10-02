@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s00766-016-0248-4
+UR  - http://dx.doi.org/10.1007/s00766-016-0248-4
+TI  - Is role playing in Requirements Engineering Education increasing learning outcome?
+T2  - Requirements Engineering
+AU  - Svensson, Richard Berntsson
+AU  - Regnell, Björn
+PY  - 2016
+DA  - 2016/03/30
+PB  - Springer Science and Business Media LLC
+SP  - 475-489
+IS  - 4
+VL  - 22
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

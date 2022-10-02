@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-10-6544-6_22
+UR  - http://dx.doi.org/10.1007/978-981-10-6544-6_22
+TI  - Extending AHP_GORE_PSR by Generating Different Patterns of Pairwise Comparison Matrix
+T2  - Communications in Computer and Information Science
+AU  - Sadiq, Mohd.
+AU  - Afrin, Arashiya
+PY  - 2017
+PB  - Springer Singapore
+SP  - 233-245
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811065439
+SN  - 9789811065446
+ER  - 

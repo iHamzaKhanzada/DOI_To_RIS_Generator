@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10922-020-09517-0
+UR  - http://dx.doi.org/10.1007/s10922-020-09517-0
+TI  - Network Management 2030: Operations and Control of Network 2030 Services
+T2  - Journal of Network and Systems Management
+AU  - Clemm, Alexander
+AU  - Zhani, Mohamed Faten
+AU  - Boutaba, Raouf
+PY  - 2020
+DA  - 2020/03/03
+PB  - Springer Science and Business Media LLC
+SP  - 721-750
+IS  - 4
+VL  - 28
+SN  - 1064-7570
+SN  - 1573-7705
+ER  - 

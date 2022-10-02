@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s41870-017-0073-0
+UR  - http://dx.doi.org/10.1007/s41870-017-0073-0
+TI  - Fuzzy attributed goal oriented software requirements analysis with multiple stakeholders
+T2  - International Journal of Information Technology
+AU  - Mohammad, Chaudhary Wali
+AU  - Shahid, Mohd.
+AU  - Hussain, Syed Zeeshan
+PY  - 2018
+DA  - 2018/01/03
+PB  - Springer Science and Business Media LLC
+SP  - 1-9
+IS  - 6
+VL  - 13
+SN  - 2511-2104
+SN  - 2511-2112
+ER  - 

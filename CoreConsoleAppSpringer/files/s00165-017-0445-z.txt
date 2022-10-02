@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00165-017-0445-z
+UR  - http://dx.doi.org/10.1007/s00165-017-0445-z
+TI  - A formal approach for detection of security flaws in the android permission system
+T2  - Formal Aspects of Computing
+AU  - Bagheri, Hamid
+AU  - Kang, Eunsuk
+AU  - Malek, Sam
+AU  - Jackson, Daniel
+PY  - 2018
+DA  - 2018/09
+PB  - Association for Computing Machinery (ACM)
+SP  - 525-544
+IS  - 5
+VL  - 30
+SN  - 0934-5043
+SN  - 1433-299X
+ER  - 

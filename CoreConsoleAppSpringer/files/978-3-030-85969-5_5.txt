@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-85969-5_5
+UR  - http://dx.doi.org/10.1007/978-3-030-85969-5_5
+TI  - Using Fuzzy-Based Approaches on Partner’s Selection to Promote Sustainability on Collaborative Networks
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Santos, Ricardo
+AU  - Matias, João
+AU  - Soares, Jose
+AU  - Marques, Pedro Carmona
+AU  - Anes, Victor
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 53-64
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030859688
+SN  - 9783030859695
+ER  - 

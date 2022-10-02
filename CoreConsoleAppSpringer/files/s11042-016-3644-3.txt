@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11042-016-3644-3
+UR  - http://dx.doi.org/10.1007/s11042-016-3644-3
+TI  - Android API-based voice recording system in emergency situations
+T2  - Multimedia Tools and Applications
+AU  - Moon, Jeong-Kyung
+AU  - Kim, Jin-Mook
+PY  - 2016
+DA  - 2016/06/07
+PB  - Springer Science and Business Media LLC
+SP  - 17971-17984
+IS  - 17
+VL  - 76
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

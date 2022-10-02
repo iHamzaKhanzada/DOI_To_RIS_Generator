@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1007/s00779-021-01657-7
+UR  - http://dx.doi.org/10.1007/s00779-021-01657-7
+TI  - Ultra-low power wearables
+T2  - Personal and Ubiquitous Computing
+AU  - Parameshachari, B. D.
+AU  - Rocha, Álvaro
+AU  - Fung, Chun Che Lance
+PY  - 2021
+DA  - 2021/10/30
+PB  - Springer Science and Business Media LLC
+SN  - 1617-4909
+SN  - 1617-4917
+ER  - 

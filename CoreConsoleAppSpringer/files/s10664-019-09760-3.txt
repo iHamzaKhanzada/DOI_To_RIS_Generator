@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09760-3
+UR  - http://dx.doi.org/10.1007/s10664-019-09760-3
+TI  - Empirical study of android repackaged applications
+T2  - Empirical Software Engineering
+AU  - Khanmohammadi, Kobra
+AU  - Ebrahimi, Neda
+AU  - Hamou-Lhadj, Abdelwahab
+AU  - Khoury, Raphaël
+PY  - 2019
+DA  - 2019/08/21
+PB  - Springer Science and Business Media LLC
+SP  - 3587-3629
+IS  - 6
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

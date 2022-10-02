@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00607-021-00905-1
+UR  - http://dx.doi.org/10.1007/s00607-021-00905-1
+TI  - Fog-based architecture for scheduling multiple workflows with high availability requirement
+T2  - Computing
+AU  - Davami, Fatemeh
+AU  - Adabi, Sahar
+AU  - Rezaee, Ali
+AU  - Rahmani, Amir Masoud
+PY  - 2021
+DA  - 2021/02/17
+PB  - Springer Science and Business Media LLC
+SP  - 169-208
+IS  - 1
+VL  - 104
+SN  - 0010-485X
+SN  - 1436-5057
+ER  - 

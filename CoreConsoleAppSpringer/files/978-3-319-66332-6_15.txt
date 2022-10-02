@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-66332-6_15
+UR  - http://dx.doi.org/10.1007/978-3-319-66332-6_15
+TI  - Trapped by the UI: The Android Case
+T2  - Research in Attacks, Intrusions, and Defenses
+AU  - Alepis, Efthimios
+AU  - Patsakis, Constantinos
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 334-354
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319663319
+SN  - 9783319663326
+ER  - 

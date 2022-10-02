@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10922-022-09687-z
+UR  - http://dx.doi.org/10.1007/s10922-022-09687-z
+TI  - XDP-Based SmartNIC Hardware Performance Acceleration for Next-Generation Networks
+T2  - Journal of Network and Systems Management
+AU  - Salva-Garcia, Pablo
+AU  - Ricart-Sanchez, Ruben
+AU  - Chirivella-Perez, Enrique
+AU  - Wang, Qi
+AU  - Alcaraz-Calero, Jose M.
+PY  - 2022
+DA  - 2022/09/09
+PB  - Springer Science and Business Media LLC
+IS  - 4
+VL  - 30
+SN  - 1064-7570
+SN  - 1573-7705
+ER  - 

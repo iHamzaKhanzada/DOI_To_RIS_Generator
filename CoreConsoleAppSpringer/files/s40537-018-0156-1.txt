@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1186/s40537-018-0156-1
+UR  - http://dx.doi.org/10.1186/s40537-018-0156-1
+TI  - Automatic schema suggestion model for NoSQL document-stores databases
+T2  - Journal of Big Data
+AU  - Imam, Abdullahi Abubakar
+AU  - Basri, Shuib
+AU  - Ahmad, Rohiza
+AU  - Watada, Junzu
+AU  - González-Aparicio, María T.
+PY  - 2018
+DA  - 2018/12
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 5
+SN  - 2196-1115
+ER  - 

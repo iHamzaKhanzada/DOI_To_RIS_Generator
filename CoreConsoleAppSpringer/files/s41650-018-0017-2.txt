@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s41650-018-0017-2
+UR  - http://dx.doi.org/10.1007/s41650-018-0017-2
+TI  - Novel Technique in Multihop Environment for Efficient Emergency Message Dissemination and Lossless Video Transmission in VANETS
+T2  - Journal of Communications and Information Networks
+AU  - More, Shivaprasad
+AU  - Naik, Udaykumar
+PY  - 2018
+DA  - 2018/12
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+SP  - 101-111
+IS  - 4
+VL  - 3
+SN  - 2096-1081
+SN  - 2509-3312
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11432-017-9400-y
+UR  - http://dx.doi.org/10.1007/s11432-017-9400-y
+TI  - NavyDroid: an efficient tool of energy inefficiency problem diagnosis for Android applications
+T2  - Science China Information Sciences
+AU  - Liu, Yi
+AU  - Wang, Jue
+AU  - Xu, Chang
+AU  - Ma, Xiaoxing
+AU  - Lü, Jian
+PY  - 2018
+DA  - 2018/04/20
+PB  - Springer Science and Business Media LLC
+IS  - 5
+VL  - 61
+SN  - 1674-733X
+SN  - 1869-1919
+ER  - 

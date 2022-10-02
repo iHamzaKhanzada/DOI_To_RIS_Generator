@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-99605-9_27
+UR  - http://dx.doi.org/10.1007/978-3-319-99605-9_27
+TI  - Artificial Intelligence Does Not Exist: Lessons from Shared Cognition and the Opposition to the Nature/Nurture Divide
+T2  - This Changes Everything – ICT and Climate Change: What Can We Do?
+AU  - Galanos, Vassilis
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 359-373
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783319996042
+SN  - 9783319996059
+ER  - 

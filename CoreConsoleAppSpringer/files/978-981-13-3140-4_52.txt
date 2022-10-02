@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-13-3140-4_52
+UR  - http://dx.doi.org/10.1007/978-981-13-3140-4_52
+TI  - Automated Testcase Generation and Prioritization Using GA and FRBS
+T2  - Communications in Computer and Information Science
+AU  - Azam, Muhammad
+AU  - Atta-ur-Rahman
+AU  - Sultan, Kiran
+AU  - Dash, Sujata
+AU  - Khan, Sundas Naqeeb
+AU  - Khan, Muhammad Aftab Alam
+PY  - 2018
+DA  - 2018/12/12
+PB  - Springer Singapore
+SP  - 571-584
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811331398
+SN  - 9789811331404
+ER  - 

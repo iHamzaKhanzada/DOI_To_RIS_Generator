@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s42979-020-0087-8
+UR  - http://dx.doi.org/10.1007/s42979-020-0087-8
+TI  - Playing a Strategy Game with Knowledge-Based Reinforcement Learning
+T2  - SN Computer Science
+AU  - Voss, Viktor
+AU  - Nechepurenko, Liudmyla
+AU  - Schaefer, Rudi
+AU  - Bauer, Steffen
+PY  - 2020
+DA  - 2020/03
+PB  - Springer Science and Business Media LLC
+IS  - 2
+VL  - 1
+SN  - 2662-995X
+SN  - 2661-8907
+ER  - 

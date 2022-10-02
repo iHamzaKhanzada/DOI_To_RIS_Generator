@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1186/s40537-019-0254-8
+UR  - http://dx.doi.org/10.1186/s40537-019-0254-8
+TI  - An analytical study of information extraction from unstructured and multidimensional big data
+T2  - Journal of Big Data
+AU  - Adnan, Kiran
+AU  - Akbar, Rehan
+PY  - 2019
+DA  - 2019/10/17
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 6
+SN  - 2196-1115
+ER  - 

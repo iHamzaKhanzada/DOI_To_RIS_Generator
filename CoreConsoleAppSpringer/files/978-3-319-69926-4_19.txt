@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-69926-4_19
+UR  - http://dx.doi.org/10.1007/978-3-319-69926-4_19
+TI  - Towards Understanding Startup Product Development as Effectual Entrepreneurial Behaviors
+T2  - Product-Focused Software Process Improvement
+AU  - Nguven-Duc, Anh
+AU  - Dahle, Yngve
+AU  - Steinert, Martin
+AU  - Abrahamsson, Pekka
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 265-279
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319699257
+SN  - 9783319699264
+ER  - 

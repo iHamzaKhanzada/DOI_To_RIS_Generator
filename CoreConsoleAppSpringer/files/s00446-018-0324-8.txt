@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00446-018-0324-8
+UR  - http://dx.doi.org/10.1007/s00446-018-0324-8
+TI  - Fast distributed algorithms for testing graph properties
+T2  - Distributed Computing
+AU  - Censor-Hillel, Keren
+AU  - Fischer, Eldar
+AU  - Schwartzman, Gregory
+AU  - Vasudev, Yadu
+PY  - 2018
+DA  - 2018/01/18
+PB  - Springer Science and Business Media LLC
+SP  - 41-57
+IS  - 1
+VL  - 32
+SN  - 0178-2770
+SN  - 1432-0452
+ER  - 

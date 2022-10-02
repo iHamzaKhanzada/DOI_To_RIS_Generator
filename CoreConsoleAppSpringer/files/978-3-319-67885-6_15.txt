@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-67885-6_15
+UR  - http://dx.doi.org/10.1007/978-3-319-67885-6_15
+TI  - Deconfliction and Surface Generation from Bathymetry Data Using LR B-splines
+T2  - Mathematical Methods for Curves and Surfaces
+AU  - Skytt, Vibeke
+AU  - Harpham, Quillon
+AU  - Dokken, Tor
+AU  - Dahl, Heidi E. I.
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 270-295
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319678849
+SN  - 9783319678856
+ER  - 

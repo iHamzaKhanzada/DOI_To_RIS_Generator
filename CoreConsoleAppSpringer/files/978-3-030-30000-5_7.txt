@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-30000-5_7
+UR  - http://dx.doi.org/10.1007/978-3-030-30000-5_7
+TI  - Lean Leadership in Production Ramp-Up
+T2  - IFIP Advances in Information and Communication Technology
+AU  - Dombrowski, Uwe
+AU  - Wullbrandt, Jonas
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 54-61
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030299996
+SN  - 9783030300005
+ER  - 

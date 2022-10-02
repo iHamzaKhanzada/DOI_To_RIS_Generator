@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-60285-1_1
+UR  - http://dx.doi.org/10.1007/978-3-319-60285-1_1
+TI  - Agent Based Model for Hub Operations Cost Reduction
+T2  - Communications in Computer and Information Science
+AU  - Delgado, Luis
+AU  - Martín, Jorge
+AU  - Blanch, Alberto
+AU  - Cristóbal, Samuel
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 3-15
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783319602844
+SN  - 9783319602851
+ER  - 

@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-58858-8_6
+UR  - http://dx.doi.org/10.1007/978-3-030-58858-8_6
+TI  - Product Roadmap Alignment – Achieving the Vision Together: A Grey Literature Review
+T2  - Agile Processes in Software Engineering and Extreme Programming – Workshops
+AU  - Trieflinger, Stefan
+AU  - Münch, Jürgen
+AU  - Bogazköy, Emre
+AU  - Eißler, Patrick
+AU  - Schneider, Jan
+AU  - Roling, Bastian
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 50-57
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030588571
+SN  - 9783030588588
+ER  - 

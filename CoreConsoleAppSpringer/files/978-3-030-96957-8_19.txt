@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-96957-8_19
+UR  - http://dx.doi.org/10.1007/978-3-030-96957-8_19
+TI  - A Brief Typology of Time: Temporal Structuring and Dissonance in Service Provision for People Experiencing Homelessness
+T2  - Information for a Better World: Shaping the Global Future
+AU  - Slota, Stephen C.
+AU  - Fleischmann, Kenneth R.
+AU  - Greenberg, Sherri R.
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 211-224
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030969561
+SN  - 9783030969578
+ER  - 

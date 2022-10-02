@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10664-016-9426-8
+UR  - http://dx.doi.org/10.1007/s10664-016-9426-8
+TI  - A robust multi-objective approach to balance severity and importance of refactoring opportunities
+T2  - Empirical Software Engineering
+AU  - Mkaouer, Mohamed Wiem
+AU  - Kessentini, Marouane
+AU  - Cinnéide, Mel Ó
+AU  - Hayashi, Shinpei
+AU  - Deb, Kalyanmoy
+PY  - 2016
+DA  - 2016/03/04
+PB  - Springer Science and Business Media LLC
+SP  - 894-927
+IS  - 2
+VL  - 22
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

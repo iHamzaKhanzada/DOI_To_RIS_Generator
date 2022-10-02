@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10586-021-03289-1
+UR  - http://dx.doi.org/10.1007/s10586-021-03289-1
+TI  - Dynamic provisioning with structure inspired selection and limitation of VMs based cost-time efficient workflow scheduling in the cloud
+T2  - Cluster Computing
+AU  - Ndamlabin Mboula, Jean Etienne
+AU  - Kamla, Vivient Corneille
+AU  - Tayou Djamégni, Clémentin
+PY  - 2021
+DA  - 2021/05/05
+PB  - Springer Science and Business Media LLC
+SP  - 2697-2721
+IS  - 3
+VL  - 24
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

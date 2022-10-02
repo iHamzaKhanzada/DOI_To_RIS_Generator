@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s11219-019-09475-0
+UR  - http://dx.doi.org/10.1007/s11219-019-09475-0
+TI  - Software aging and rejuvenation in android: new models and metrics
+T2  - Software Quality Journal
+AU  - Xiang, Jianwen
+AU  - Weng, Caisheng
+AU  - Zhao, Dongdong
+AU  - Andrzejak, Artur
+AU  - Xiong, Shengwu
+AU  - Li, Lin
+AU  - Tian, Jing
+PY  - 2019
+DA  - 2019/11/22
+PB  - Springer Science and Business Media LLC
+SP  - 85-106
+IS  - 1
+VL  - 28
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

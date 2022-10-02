@@ -1,0 +1,13 @@
+TY  - JOUR
+DO  - 10.1007/s11227-022-04766-z
+UR  - http://dx.doi.org/10.1007/s11227-022-04766-z
+TI  - Trust-based secure routing and message delivery protocol for signal processing attacks in IoT applications
+T2  - The Journal of Supercomputing
+AU  - Ragesh, G. K.
+AU  - Kumar, Ajay
+PY  - 2022
+DA  - 2022/08/26
+PB  - Springer Science and Business Media LLC
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

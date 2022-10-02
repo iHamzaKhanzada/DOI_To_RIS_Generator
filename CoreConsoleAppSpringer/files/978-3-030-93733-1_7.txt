@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-93733-1_7
+UR  - http://dx.doi.org/10.1007/978-3-030-93733-1_7
+TI  - Applying Machine Learning to Risk Assessment in Software Projects
+T2  - Communications in Computer and Information Science
+AU  - Sousa, André
+AU  - Faria, João Pascoal
+AU  - Mendes-Moreira, João
+AU  - Gomes, Duarte
+AU  - Henriques, Pedro Castro
+AU  - Graça, Ricardo
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 104-118
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030937324
+SN  - 9783030937331
+ER  - 

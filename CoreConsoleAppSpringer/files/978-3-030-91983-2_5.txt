@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-91983-2_5
+UR  - http://dx.doi.org/10.1007/978-3-030-91983-2_5
+TI  - Deliberative Technical Debt Management: An Action Research Study
+T2  - Lecture Notes in Business Information Processing
+AU  - Borup, Nichlas Bødker
+AU  - Christiansen, Ann Louise Jul
+AU  - Tovgaard, Sabine Hørdum
+AU  - Persson, John Stouby
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 50-65
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030919825
+SN  - 9783030919832
+ER  - 

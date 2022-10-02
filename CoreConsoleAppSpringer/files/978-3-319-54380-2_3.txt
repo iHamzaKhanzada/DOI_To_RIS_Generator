@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-54380-2_3
+UR  - http://dx.doi.org/10.1007/978-3-319-54380-2_3
+TI  - The Relationship Between Public Budgeting and Risk Management: Competition or Driving?
+T2  - Enterprise Security
+AU  - Lu, Yaotai
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 40-72
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319543796
+SN  - 9783319543802
+ER  - 

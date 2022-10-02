@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10489-021-02200-0
+UR  - http://dx.doi.org/10.1007/s10489-021-02200-0
+TI  - ELECTRE-II method for group decision-making in Pythagorean fuzzy environment
+T2  - Applied Intelligence
+AU  - Akram, Muhammad
+AU  - Ilyas, Farwa
+AU  - Garg, Harish
+PY  - 2021
+DA  - 2021/04/12
+PB  - Springer Science and Business Media LLC
+SP  - 8701-8719
+IS  - 12
+VL  - 51
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 

@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s10664-022-10208-4
+UR  - http://dx.doi.org/10.1007/s10664-022-10208-4
+TI  - How Scrum adds value to achieving software quality?
+T2  - Empirical Software Engineering
+AU  - Alami, Adam
+AU  - Krancher, Oliver
+PY  - 2022
+DA  - 2022/09/20
+PB  - Springer Science and Business Media LLC
+IS  - 7
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-13-6052-7_70
+UR  - http://dx.doi.org/10.1007/978-981-13-6052-7_70
+TI  - Requirement Elicitation for Bespoke Software Development: A Review Paper
+T2  - Communications in Computer and Information Science
+AU  - Jalil, Rabiya
+AU  - Khalid, Javaria
+AU  - Maryam, Maliha
+AU  - Khalid, Myda
+AU  - Cheema, Sadaf Nawaz
+AU  - Iqbal, Iqra
+PY  - 2019
+PB  - Springer Singapore
+SP  - 805-821
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811360510
+SN  - 9789811360527
+ER  - 

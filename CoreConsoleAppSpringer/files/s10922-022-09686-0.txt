@@ -1,0 +1,24 @@
+TY  - JOUR
+DO  - 10.1007/s10922-022-09686-0
+UR  - http://dx.doi.org/10.1007/s10922-022-09686-0
+TI  - EnGINE: Flexible Research Infrastructure for Reliable and Scalable Time Sensitive Networks
+T2  - Journal of Network and Systems Management
+AU  - Rezabek, Filip
+AU  - Bosk, Marcin
+AU  - Paul, Thomas
+AU  - Holzinger, Kilian
+AU  - Gallenmüller, Sebastian
+AU  - Gonzalez, Angela
+AU  - Kane, Abdoul
+AU  - Fons, Francesc
+AU  - Haigang, Zhang
+AU  - Carle, Georg
+AU  - Ott, Jörg
+PY  - 2022
+DA  - 2022/09/08
+PB  - Springer Science and Business Media LLC
+IS  - 4
+VL  - 30
+SN  - 1064-7570
+SN  - 1573-7705
+ER  - 

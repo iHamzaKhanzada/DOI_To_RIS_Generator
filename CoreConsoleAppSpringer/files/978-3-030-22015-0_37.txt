@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-22015-0_37
+UR  - http://dx.doi.org/10.1007/978-3-030-22015-0_37
+TI  - Interaction Design in the Active and Assistive Living Field of Practice
+T2  - Lecture Notes in Computer Science
+AU  - Sili, Miroslav
+AU  - Kropf, Johannes
+AU  - Hanke, Sten
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 480-492
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030220143
+SN  - 9783030220150
+ER  - 

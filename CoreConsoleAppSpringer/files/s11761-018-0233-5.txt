@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11761-018-0233-5
+UR  - http://dx.doi.org/10.1007/s11761-018-0233-5
+TI  - Resilience analysis of service-oriented collaboration process management systems
+T2  - Service Oriented Computing and Applications
+AU  - de Vrieze, Paul
+AU  - Xu, Lai
+PY  - 2018
+DA  - 2018/03
+PB  - Springer Science and Business Media LLC
+SP  - 25-39
+IS  - 1
+VL  - 12
+SN  - 1863-2386
+SN  - 1863-2394
+ER  - 

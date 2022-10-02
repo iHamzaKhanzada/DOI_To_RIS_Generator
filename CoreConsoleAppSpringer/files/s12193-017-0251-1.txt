@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s12193-017-0251-1
+UR  - http://dx.doi.org/10.1007/s12193-017-0251-1
+TI  - Improving collaboration efficiency via diverse networked mobile devices
+T2  - Journal on Multimodal User Interfaces
+AU  - Rupprecht, Franca A.
+AU  - Kasakow, Georg
+AU  - Aurich, Jan C.
+AU  - Hamann, Bernd
+AU  - Ebert, Achim
+PY  - 2017
+DA  - 2017/11/22
+PB  - Springer Science and Business Media LLC
+SP  - 91-108
+IS  - 2
+VL  - 12
+SN  - 1783-7677
+SN  - 1783-8738
+ER  - 

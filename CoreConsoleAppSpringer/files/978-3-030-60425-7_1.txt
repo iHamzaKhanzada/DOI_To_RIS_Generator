@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-60425-7_1
+UR  - http://dx.doi.org/10.1007/978-3-030-60425-7_1
+TI  - Emulation Versus Instrumentation for Android Malware Detection
+T2  - Digital Forensic Investigation of Internet of Things (IoT) Devices
+AU  - Sinha, Anukriti
+AU  - Di Troia, Fabio
+AU  - Heller, Philip
+AU  - Stamp, Mark
+PY  - 2020
+DA  - 2020/12/10
+PB  - Springer International Publishing
+SP  - 1-20
+SN  - 1613-5113
+SN  - 2363-9466
+SN  - 9783030604240
+SN  - 9783030604257
+ER  - 

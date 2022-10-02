@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-10-8527-7_53
+UR  - http://dx.doi.org/10.1007/978-981-10-8527-7_53
+TI  - Research Trends in Malware Detection on Android Devices
+T2  - Data Science and Analytics
+AU  - Aneja, Leesha
+AU  - Babbar, Sakshi
+PY  - 2018
+PB  - Springer Singapore
+SP  - 629-642
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811085260
+SN  - 9789811085277
+ER  - 

@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-15-5232-8_31
+UR  - http://dx.doi.org/10.1007/978-981-15-5232-8_31
+TI  - Multi-aspects Intelligent Requirements Prioritization Technique for Value Based Software Systems
+T2  - Communications in Computer and Information Science
+AU  - Sher, Falak
+AU  - Jawawi, Dayang N. A.
+AU  - Mohammad, Radziah
+AU  - Babar, Muhammad Imran
+AU  - Kazmi, Rafaqat
+AU  - Shah, Muhammad Arif
+PY  - 2020
+PB  - Springer Singapore
+SP  - 357-371
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811552311
+SN  - 9789811552328
+ER  - 

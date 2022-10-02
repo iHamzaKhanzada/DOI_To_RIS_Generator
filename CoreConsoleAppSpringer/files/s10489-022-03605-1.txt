@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s10489-022-03605-1
+UR  - http://dx.doi.org/10.1007/s10489-022-03605-1
+TI  - Explaining deep reinforcement learning decisions in complex multiagent settings: towards enabling automation in air traffic flow management
+T2  - Applied Intelligence
+AU  - Kravaris, Theocharis
+AU  - Lentzos, Konstantinos
+AU  - Santipantakis, Georgios
+AU  - Vouros, George A.
+AU  - Andrienko, Gennady
+AU  - Andrienko, Natalia
+AU  - Crook, Ian
+AU  - Garcia, Jose Manuel Cordero
+AU  - Martinez, Enrique Iglesias
+PY  - 2022
+DA  - 2022/06/06
+PB  - Springer Science and Business Media LLC
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 

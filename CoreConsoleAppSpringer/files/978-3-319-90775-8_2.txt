@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-90775-8_2
+UR  - http://dx.doi.org/10.1007/978-3-319-90775-8_2
+TI  - Persistent vs Service IDs in Android: Session Fingerprinting from Apps
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Alepis, Efthimios
+AU  - Patsakis, Constantinos
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 14-29
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783319907741
+SN  - 9783319907758
+ER  - 

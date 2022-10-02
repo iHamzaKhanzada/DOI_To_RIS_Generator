@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-45237-7_9
+UR  - http://dx.doi.org/10.1007/978-3-030-45237-7_9
+TI  - Practical Machine-Checked Formalization of Change Impact Analysis
+T2  - Tools and Algorithms for the Construction and Analysis of Systems
+AU  - Palmskog, Karl
+AU  - Celik, Ahmet
+AU  - Gligoric, Milos
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 137-157
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030452360
+SN  - 9783030452377
+ER  - 

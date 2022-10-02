@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-59111-7_40
+UR  - http://dx.doi.org/10.1007/978-3-319-59111-7_40
+TI  - Self-Reinforcing Linkages Between Value and Local Ownership: Rethinking Sustainability of ICT4D Project
+T2  - Information and Communication Technologies for Development
+AU  - Sahay, Sundeep
+AU  - Mukherjee, Arunima
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 487-497
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783319591100
+SN  - 9783319591117
+ER  - 

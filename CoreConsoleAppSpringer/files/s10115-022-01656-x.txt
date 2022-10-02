@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10115-022-01656-x
+UR  - http://dx.doi.org/10.1007/s10115-022-01656-x
+TI  - Feature-blind fairness in collaborative filtering recommender systems
+T2  - Knowledge and Information Systems
+AU  - Borges, Rodrigo
+AU  - Stefanidis, Kostas
+PY  - 2022
+DA  - 2022/02/22
+PB  - Springer Science and Business Media LLC
+SP  - 943-962
+IS  - 4
+VL  - 64
+SN  - 0219-1377
+SN  - 0219-3116
+ER  - 

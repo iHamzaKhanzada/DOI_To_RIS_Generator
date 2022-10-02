@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-62412-5_28
+UR  - http://dx.doi.org/10.1007/978-3-030-62412-5_28
+TI  - A Framework Based on Fuzzy Logic to Manage Risk in an Open Innovation Context
+T2  - Boosting Collaborative Networks 4.0
+AU  - Santos, Ricardo
+AU  - Abreu, Antonio
+AU  - Calado, J. M. F.
+AU  - Soares, José Miguel
+AU  - Martins, José Duarte Moleiro
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 336-349
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030624118
+SN  - 9783030624125
+ER  - 

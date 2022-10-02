@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s41870-022-00922-z
+UR  - http://dx.doi.org/10.1007/s41870-022-00922-z
+TI  - Novel DLSNNC and SBS based framework for improving QoS in healthcare-IoT applications
+T2  - International Journal of Information Technology
+AU  - Jyotsna
+AU  - Nand, Parma
+PY  - 2022
+DA  - 2022/04/20
+PB  - Springer Science and Business Media LLC
+SP  - 2093-2103
+IS  - 4
+VL  - 14
+SN  - 2511-2104
+SN  - 2511-2112
+ER  - 

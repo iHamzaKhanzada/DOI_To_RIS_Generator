@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11227-021-03941-y
+UR  - http://dx.doi.org/10.1007/s11227-021-03941-y
+TI  - A survey on computation offloading and service placement in fog computing-based IoT
+T2  - The Journal of Supercomputing
+AU  - Gasmi, Kaouther
+AU  - Dilek, Selma
+AU  - Tosun, Suleyman
+AU  - Ozdemir, Suat
+PY  - 2021
+DA  - 2021/06/24
+PB  - Springer Science and Business Media LLC
+SP  - 1983-2014
+IS  - 2
+VL  - 78
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

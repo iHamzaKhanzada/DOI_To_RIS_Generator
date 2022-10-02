@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10664-021-10066-6
+UR  - http://dx.doi.org/10.1007/s10664-021-10066-6
+TI  - Test case selection and prioritization using machine learning: a systematic literature review
+T2  - Empirical Software Engineering
+AU  - Pan, Rongqi
+AU  - Bagherzadeh, Mojtaba
+AU  - Ghaleb, Taher A.
+AU  - Briand, Lionel
+PY  - 2021
+DA  - 2021/12/14
+PB  - Springer Science and Business Media LLC
+IS  - 2
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

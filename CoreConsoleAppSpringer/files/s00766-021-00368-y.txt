@@ -1,0 +1,13 @@
+TY  - JOUR
+DO  - 10.1007/s00766-021-00368-y
+UR  - http://dx.doi.org/10.1007/s00766-021-00368-y
+TI  - A negotiation support system for defining utility functions for multi-stakeholder self-adaptive systems
+T2  - Requirements Engineering
+AU  - Wohlrab, Rebekka
+AU  - Garlan, David
+PY  - 2022
+DA  - 2022/01/11
+PB  - Springer Science and Business Media LLC
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

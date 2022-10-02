@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-92548-2_17
+UR  - http://dx.doi.org/10.1007/978-3-030-92548-2_17
+TI  - Free by Design: On the Feasibility of Free-Riding Attacks Against Zero-Rated Services
+T2  - Cryptology and Network Security
+AU  - Fietkau, Julian
+AU  - Runge, David Pascal
+AU  - Seifert, Jean-Pierre
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 315-333
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030925475
+SN  - 9783030925482
+ER  - 

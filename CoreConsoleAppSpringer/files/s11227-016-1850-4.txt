@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11227-016-1850-4
+UR  - http://dx.doi.org/10.1007/s11227-016-1850-4
+TI  - A comprehensive study on APT attacks and countermeasures for future networks and communications: challenges and solutions
+T2  - The Journal of Supercomputing
+AU  - Singh, Saurabh
+AU  - Sharma, Pradip Kumar
+AU  - Moon, Seo Yeon
+AU  - Moon, Daesung
+AU  - Park, Jong Hyuk
+PY  - 2016
+DA  - 2016/09/07
+PB  - Springer Science and Business Media LLC
+SP  - 4543-4574
+IS  - 8
+VL  - 75
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

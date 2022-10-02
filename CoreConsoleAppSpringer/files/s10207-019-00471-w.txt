@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10207-019-00471-w
+UR  - http://dx.doi.org/10.1007/s10207-019-00471-w
+TI  - DroidRista: a highly precise static data flow analysis framework for android applications
+T2  - International Journal of Information Security
+AU  - Alzaidi, Areej
+AU  - Alshehri, Suhair
+AU  - Buhari, Seyed M.
+PY  - 2019
+DA  - 2019/10/01
+PB  - Springer Science and Business Media LLC
+SP  - 523-536
+IS  - 5
+VL  - 19
+SN  - 1615-5262
+SN  - 1615-5270
+ER  - 

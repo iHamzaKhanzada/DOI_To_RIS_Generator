@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10664-020-09879-8
+UR  - http://dx.doi.org/10.1007/s10664-020-09879-8
+TI  - Security analysis of permission re-delegation vulnerabilities in Android apps
+T2  - Empirical Software Engineering
+AU  - Demissie, Biniam Fisseha
+AU  - Ceccato, Mariano
+AU  - Shar, Lwin Khin
+PY  - 2020
+DA  - 2020/09/15
+PB  - Springer Science and Business Media LLC
+SP  - 5084-5136
+IS  - 6
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

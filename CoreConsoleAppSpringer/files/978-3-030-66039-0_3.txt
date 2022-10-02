@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-66039-0_3
+UR  - http://dx.doi.org/10.1007/978-3-030-66039-0_3
+TI  - Risk Forecasting Automation on the Basis of MEHARI
+T2  - Information and Cyber Security
+AU  - Yermalovich, Pavel
+AU  - Mejri, Mohamed
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 34-49
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030660383
+SN  - 9783030660390
+ER  - 

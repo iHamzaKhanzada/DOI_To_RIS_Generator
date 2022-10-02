@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11063-021-10708-2
+UR  - http://dx.doi.org/10.1007/s11063-021-10708-2
+TI  - Solving the Multi-Objective Problem of IoT Service Placement in Fog Computing Using Cuckoo Search Algorithm
+T2  - Neural Processing Letters
+AU  - Liu, Chang
+AU  - Wang, Jin
+AU  - Zhou, Liang
+AU  - Rezaeipanah, Amin
+PY  - 2022
+DA  - 2022/01/22
+PB  - Springer Science and Business Media LLC
+SP  - 1823-1854
+IS  - 3
+VL  - 54
+SN  - 1370-4621
+SN  - 1573-773X
+ER  - 

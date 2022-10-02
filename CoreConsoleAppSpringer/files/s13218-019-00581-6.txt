@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s13218-019-00581-6
+UR  - http://dx.doi.org/10.1007/s13218-019-00581-6
+TI  - Catering to Real-Time Requirements of Cloud-Connected Mobile Manipulators
+T2  - KI - Künstliche Intelligenz
+AU  - Walter, Christoph
+AU  - Scholle, Julian-Benedikt
+AU  - Elkmann, Norbert
+PY  - 2019
+DA  - 2019/04/12
+PB  - Springer Science and Business Media LLC
+SP  - 143-150
+IS  - 2
+VL  - 33
+SN  - 0933-1875
+SN  - 1610-1987
+ER  - 

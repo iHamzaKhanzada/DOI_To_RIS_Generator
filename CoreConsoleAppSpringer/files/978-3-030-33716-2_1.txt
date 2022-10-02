@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-33716-2_1
+UR  - http://dx.doi.org/10.1007/978-3-030-33716-2_1
+TI  - GDPR Modelling for Log-Based Compliance Checking
+T2  - IFIP Advances in Information and Communication Technology
+AU  - de Montety, Colombe
+AU  - Antignac, Thibaud
+AU  - Slim, Christophe
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 1-18
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030337155
+SN  - 9783030337162
+ER  - 

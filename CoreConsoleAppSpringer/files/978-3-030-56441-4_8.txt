@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-56441-4_8
+UR  - http://dx.doi.org/10.1007/978-3-030-56441-4_8
+TI  - A Developer Driven Framework for Security and Privacy in the Internet of Medical Things
+T2  - Communications in Computer and Information Science
+AU  - Treacy, Ceara
+AU  - Loane, John
+AU  - McCaffery, Fergal
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 107-119
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030564407
+SN  - 9783030564414
+ER  - 

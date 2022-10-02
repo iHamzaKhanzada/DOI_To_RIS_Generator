@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10472-020-09704-4
+UR  - http://dx.doi.org/10.1007/s10472-020-09704-4
+TI  - Real-time solving of computationally hard problems using optimal algorithm portfolios
+T2  - Annals of Mathematics and Artificial Intelligence
+AU  - Nof, Yair
+AU  - Strichman, Ofer
+PY  - 2020
+DA  - 2020/08/28
+PB  - Springer Science and Business Media LLC
+SP  - 693-710
+IS  - 7
+VL  - 89
+SN  - 1012-2443
+SN  - 1573-7470
+ER  - 

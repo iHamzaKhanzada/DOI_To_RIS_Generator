@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s10270-018-00710-z
+UR  - http://dx.doi.org/10.1007/s10270-018-00710-z
+TI  - RoboChart: modelling and verification of the functional behaviour of robotic applications
+T2  - Software &amp; Systems Modeling
+AU  - Miyazawa, Alvaro
+AU  - Ribeiro, Pedro
+AU  - Li, Wei
+AU  - Cavalcanti, Ana
+AU  - Timmis, Jon
+AU  - Woodcock, Jim
+PY  - 2019
+DA  - 2019/01/23
+PB  - Springer Science and Business Media LLC
+SP  - 3097-3149
+IS  - 5
+VL  - 18
+SN  - 1619-1366
+SN  - 1619-1374
+ER  - 

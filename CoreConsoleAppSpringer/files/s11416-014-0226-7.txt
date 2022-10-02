@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11416-014-0226-7
+UR  - http://dx.doi.org/10.1007/s11416-014-0226-7
+TI  - Identifying Android malware using dynamically obtained features
+T2  - Journal of Computer Virology and Hacking Techniques
+AU  - Afonso, Vitor Monte
+AU  - de Amorim, Matheus Favero
+AU  - Grégio, André Ricardo Abed
+AU  - Junquera, Glauco Barroso
+AU  - de Geus, Paulo Lício
+PY  - 2014
+DA  - 2014/10/17
+PB  - Springer Science and Business Media LLC
+SP  - 9-17
+IS  - 1
+VL  - 11
+SN  - 2263-8733
+ER  - 

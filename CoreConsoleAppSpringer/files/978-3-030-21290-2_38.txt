@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-21290-2_38
+UR  - http://dx.doi.org/10.1007/978-3-030-21290-2_38
+TI  - Fifty Shades of Green: How Informative is a Compliant Process Trace?
+T2  - Advanced Information Systems Engineering
+AU  - Burattin, Andrea
+AU  - Guizzardi, Giancarlo
+AU  - Maggi, Fabrizio Maria
+AU  - Montali, Marco
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 611-626
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030212896
+SN  - 9783030212902
+ER  - 

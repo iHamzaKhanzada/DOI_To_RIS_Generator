@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10111-019-00551-w
+UR  - http://dx.doi.org/10.1007/s10111-019-00551-w
+TI  - Effects of working memory, attention, and expertise on pilots’ situation awareness
+T2  - Cognition, Technology &amp; Work
+AU  - Cak, Serkan
+AU  - Say, Bilge
+AU  - Misirlisoy, Mine
+PY  - 2019
+DA  - 2019/03/28
+PB  - Springer Science and Business Media LLC
+SP  - 85-94
+IS  - 1
+VL  - 22
+SN  - 1435-5558
+SN  - 1435-5566
+ER  - 

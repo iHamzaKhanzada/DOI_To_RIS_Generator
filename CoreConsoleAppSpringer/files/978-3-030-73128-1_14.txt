@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-73128-1_14
+UR  - http://dx.doi.org/10.1007/978-3-030-73128-1_14
+TI  - SaPeer Approach for Training Requirements Analysts: An Application Tailored to a Low-resource Context
+T2  - Requirements Engineering: Foundation for Software Quality
+AU  - Vilela, Jéssyka
+AU  - Ferrari, Alessio
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 191-207
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030731274
+SN  - 9783030731281
+ER  - 

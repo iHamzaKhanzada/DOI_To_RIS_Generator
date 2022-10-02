@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-69970-3_7
+UR  - http://dx.doi.org/10.1007/978-3-030-69970-3_7
+TI  - Tool Support for Green Android Development
+T2  - Software Sustainability
+AU  - Anwar, Hina
+AU  - Fatima, Iffat
+AU  - Pfahl, Dietmar
+AU  - Qamar, Usman
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 153-182
+SN  - 9783030699697
+SN  - 9783030699703
+ER  - 

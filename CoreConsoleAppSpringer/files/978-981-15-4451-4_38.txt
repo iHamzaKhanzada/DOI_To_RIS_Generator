@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-15-4451-4_38
+UR  - http://dx.doi.org/10.1007/978-981-15-4451-4_38
+TI  - An Inclusive Study of Several Machine Learning Based Non-functional Requirements Prediction Techniques
+T2  - Futuristic Trends in Networks and Computing Technologies
+AU  - Handa, Naina
+AU  - Sharma, Anil
+AU  - Gupta, Amardeep
+PY  - 2020
+PB  - Springer Singapore
+SP  - 482-493
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811544507
+SN  - 9789811544514
+ER  - 

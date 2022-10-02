@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-30619-9_27
+UR  - http://dx.doi.org/10.1007/978-3-030-30619-9_27
+TI  - Who Activated My Voice Assistant? A Stealthy Attack on Android Phones Without Users’ Awareness
+T2  - Machine Learning for Cyber Security
+AU  - Zhang, Rongjunchen
+AU  - Chen, Xiao
+AU  - Wen, Sheng
+AU  - Zheng, James
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 378-396
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030306182
+SN  - 9783030306199
+ER  - 

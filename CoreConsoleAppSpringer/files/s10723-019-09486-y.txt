@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10723-019-09486-y
+UR  - http://dx.doi.org/10.1007/s10723-019-09486-y
+TI  - Heuristic Load Balancing Based Zero Imbalance Mechanism in Cloud Computing
+T2  - Journal of Grid Computing
+AU  - Kong, Lingfu
+AU  - Mapetu, Jean Pepe Buanga
+AU  - Chen, Zhen
+PY  - 2019
+DA  - 2019/06/26
+PB  - Springer Science and Business Media LLC
+SP  - 123-148
+IS  - 1
+VL  - 18
+SN  - 1570-7873
+SN  - 1572-9184
+ER  - 

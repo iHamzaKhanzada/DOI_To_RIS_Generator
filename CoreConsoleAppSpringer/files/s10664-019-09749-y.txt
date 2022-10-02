@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09749-y
+UR  - http://dx.doi.org/10.1007/s10664-019-09749-y
+TI  - Are free Android app security analysis tools effective in detecting known vulnerabilities?
+T2  - Empirical Software Engineering
+AU  - Ranganath, Venkatesh-Prasad
+AU  - Mitra, Joydeep
+PY  - 2019
+DA  - 2019/08/05
+PB  - Springer Science and Business Media LLC
+SP  - 178-219
+IS  - 1
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

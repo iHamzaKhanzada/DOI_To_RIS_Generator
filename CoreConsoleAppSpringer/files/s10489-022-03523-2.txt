@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10489-022-03523-2
+UR  - http://dx.doi.org/10.1007/s10489-022-03523-2
+TI  - Self-attention based convolutional-LSTM for android malware detection using network traffics grayscale image
+T2  - Applied Intelligence
+AU  - Shen, Limin
+AU  - Feng, Jiayin
+AU  - Chen, Zhen
+AU  - Sun, Zhongkui
+AU  - Liang, Dongkui
+AU  - Li, Hui
+AU  - Wang, Yuying
+PY  - 2022
+DA  - 2022/04/20
+PB  - Springer Science and Business Media LLC
+SN  - 0924-669X
+SN  - 1573-7497
+ER  - 

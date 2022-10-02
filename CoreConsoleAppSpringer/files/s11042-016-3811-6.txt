@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s11042-016-3811-6
+UR  - http://dx.doi.org/10.1007/s11042-016-3811-6
+TI  - Mobile-cloud assisted framework for selective encryption of medical images with steganography for resource-constrained devices
+T2  - Multimedia Tools and Applications
+AU  - Sajjad, Muhammad
+AU  - Muhammad, Khan
+AU  - Baik, Sung Wook
+AU  - Rho, Seungmin
+AU  - Jan, Zahoor
+AU  - Yeo, Sang-Soo
+AU  - Mehmood, Irfan
+PY  - 2016
+DA  - 2016/08/16
+PB  - Springer Science and Business Media LLC
+SP  - 3519-3536
+IS  - 3
+VL  - 76
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11257-017-9196-z
+UR  - http://dx.doi.org/10.1007/s11257-017-9196-z
+TI  - A knowledge-based approach to user interface adaptation from preferences and for special needs
+T2  - User Modeling and User-Adapted Interaction
+AU  - Loitsch, Claudia
+AU  - Weber, Gerhard
+AU  - Kaklanis, Nikolaos
+AU  - Votis, Konstantinos
+AU  - Tzovaras, Dimitrios
+PY  - 2017
+DA  - 2017/10/27
+PB  - Springer Science and Business Media LLC
+SP  - 445-491
+IS  - 3-5
+VL  - 27
+SN  - 0924-1868
+SN  - 1573-1391
+ER  - 

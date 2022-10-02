@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10209-017-0523-2
+UR  - http://dx.doi.org/10.1007/s10209-017-0523-2
+TI  - Comprehensive assessment for motor and visually impaired people using a hierarchical model
+T2  - Universal Access in the Information Society
+AU  - Khan, Awais Ahmad
+AU  - Kbar, Ghassan Ali
+AU  - Ahmad, Naveed
+PY  - 2017
+DA  - 2017/02/06
+PB  - Springer Science and Business Media LLC
+SP  - 147-160
+IS  - 1
+VL  - 17
+SN  - 1615-5289
+SN  - 1615-5297
+ER  - 

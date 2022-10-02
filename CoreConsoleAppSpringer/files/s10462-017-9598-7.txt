@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10462-017-9598-7
+UR  - http://dx.doi.org/10.1007/s10462-017-9598-7
+TI  - Evaluating representational systems in artificial intelligence
+T2  - Artificial Intelligence Review
+AU  - Licato, John
+AU  - Zhang, Zhitian
+PY  - 2017
+DA  - 2017/12/09
+PB  - Springer Science and Business Media LLC
+SP  - 1463-1493
+IS  - 2
+VL  - 52
+SN  - 0269-2821
+SN  - 1573-7462
+ER  - 

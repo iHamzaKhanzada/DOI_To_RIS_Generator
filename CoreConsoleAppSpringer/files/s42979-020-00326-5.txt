@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s42979-020-00326-5
+UR  - http://dx.doi.org/10.1007/s42979-020-00326-5
+TI  - Reinforcement Learning in Dynamic Task Scheduling: A Review
+T2  - SN Computer Science
+AU  - Shyalika, Chathurangi
+AU  - Silva, Thushari
+AU  - Karunananda, Asoka
+PY  - 2020
+DA  - 2020/09/24
+PB  - Springer Science and Business Media LLC
+IS  - 6
+VL  - 1
+SN  - 2662-995X
+SN  - 2661-8907
+ER  - 

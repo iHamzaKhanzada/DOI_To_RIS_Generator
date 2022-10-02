@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-62807-9_41
+UR  - http://dx.doi.org/10.1007/978-3-030-62807-9_41
+TI  - A Comprehensive Maturity Model for Assessing the Product Lifecycle
+T2  - Product Lifecycle Management Enabling Smart X
+AU  - Pfenning, Philipp
+AU  - Eibinger, Hannes Christian
+AU  - Rohleder, Clotilde
+AU  - Eigner, Martin
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 514-526
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030628062
+SN  - 9783030628079
+ER  - 

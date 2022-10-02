@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s00766-019-00313-0
+UR  - http://dx.doi.org/10.1007/s00766-019-00313-0
+TI  - Teaching requirements elicitation interviews: an empirical study of learning from mistakes
+T2  - Requirements Engineering
+AU  - Bano, Muneera
+AU  - Zowghi, Didar
+AU  - Ferrari, Alessio
+AU  - Spoletini, Paola
+AU  - Donati, Beatrice
+PY  - 2019
+DA  - 2019/05/16
+PB  - Springer Science and Business Media LLC
+SP  - 259-289
+IS  - 3
+VL  - 24
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

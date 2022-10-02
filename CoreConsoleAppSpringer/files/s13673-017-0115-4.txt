@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1186/s13673-017-0115-4
+UR  - http://dx.doi.org/10.1186/s13673-017-0115-4
+TI  - Medium Access Control (MAC) for Wireless Body Area Network (WBAN): Superframe structure, multiple access technique, taxonomy, and challenges
+T2  - Human-centric Computing and Information Sciences
+AU  - Ullah, Fasee
+AU  - Abdullah, Abdul Hanan
+AU  - Kaiwartya, Omprakash
+AU  - Kumar, Sushil
+AU  - Arshad, Marina Md.
+PY  - 2017
+DA  - 2017/12
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 7
+SN  - 2192-1962
+ER  - 

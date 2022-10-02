@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-67162-8_39
+UR  - http://dx.doi.org/10.1007/978-3-319-67162-8_39
+TI  - Preference-Based Stream Analysis for Efficient Decision-Support Systems
+T2  - Communications in Computer and Information Science
+AU  - Rudenko, Lena
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 397-409
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783319671611
+SN  - 9783319671628
+ER  - 

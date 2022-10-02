@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10676-021-09593-z
+UR  - http://dx.doi.org/10.1007/s10676-021-09593-z
+TI  - Artificial Intelligence Regulation: a framework for governance
+T2  - Ethics and Information Technology
+AU  - de Almeida, Patricia Gomes Rêgo
+AU  - dos Santos, Carlos Denner
+AU  - Farias, Josivania Silva
+PY  - 2021
+DA  - 2021/04/21
+PB  - Springer Science and Business Media LLC
+SP  - 505-525
+IS  - 3
+VL  - 23
+SN  - 1388-1957
+SN  - 1572-8439
+ER  - 

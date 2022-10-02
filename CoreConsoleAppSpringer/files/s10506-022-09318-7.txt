@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s10506-022-09318-7
+UR  - http://dx.doi.org/10.1007/s10506-022-09318-7
+TI  - A computational model of facilitation in online dispute resolution
+T2  - Artificial Intelligence and Law
+AU  - Branting, Karl
+AU  - McLeod, Sarah
+AU  - Howell, Sarah
+AU  - Weiss, Brandy
+AU  - Profitt, Brett
+AU  - Tanner, James
+AU  - Gross, Ian
+AU  - Shin, David
+PY  - 2022
+DA  - 2022/07/13
+PB  - Springer Science and Business Media LLC
+SN  - 0924-8463
+SN  - 1572-8382
+ER  - 

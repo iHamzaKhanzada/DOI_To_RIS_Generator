@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s10111-018-0475-1
+UR  - http://dx.doi.org/10.1007/s10111-018-0475-1
+TI  - Supporting decision-making in patient risk assessment using a hierarchical fuzzy model
+T2  - Cognition, Technology &amp; Work
+AU  - Jatobá, Alessandro
+AU  - Bellas, Hugo Cesar
+AU  - Koster, Isabella
+AU  - Burns, Catherine M.
+AU  - Vidal, Mario Cesar R.
+AU  - Grecco, Cláudio Henrique S.
+AU  - de Carvalho, Paulo Victor R.
+PY  - 2018
+DA  - 2018/03/30
+PB  - Springer Science and Business Media LLC
+SP  - 477-488
+IS  - 3
+VL  - 20
+SN  - 1435-5558
+SN  - 1435-5566
+ER  - 

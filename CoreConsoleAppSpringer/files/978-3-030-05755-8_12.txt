@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-05755-8_12
+UR  - http://dx.doi.org/10.1007/978-3-030-05755-8_12
+TI  - Static Analysis of Android Apps Interaction with Automotive CAN
+T2  - Lecture Notes in Computer Science
+AU  - Panarotto, Federica
+AU  - Cortesi, Agostino
+AU  - Ferrara, Pietro
+AU  - Mandal, Amit Kr
+AU  - Spoto, Fausto
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 114-123
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030057541
+SN  - 9783030057558
+ER  - 

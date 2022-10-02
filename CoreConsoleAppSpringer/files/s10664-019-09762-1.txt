@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10664-019-09762-1
+UR  - http://dx.doi.org/10.1007/s10664-019-09762-1
+TI  - A benchmark-based evaluation of search-based crash reproduction
+T2  - Empirical Software Engineering
+AU  - Soltani, Mozhan
+AU  - Derakhshanfar, Pouria
+AU  - Devroey, Xavier
+AU  - van Deursen, Arie
+PY  - 2019
+DA  - 2019/08/29
+PB  - Springer Science and Business Media LLC
+SP  - 96-138
+IS  - 1
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

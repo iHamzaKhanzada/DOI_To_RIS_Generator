@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-16042-5_18
+UR  - http://dx.doi.org/10.1007/978-3-030-16042-5_18
+TI  - Cyber-Healthcare Kiosks for Healthcare Support in Developing Countries
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Bagula, Mukuzo Fortunat
+AU  - Bagula, Herman
+AU  - Mandava, Munyaradzi
+AU  - Kakoko Lubamba, Claude
+AU  - Bagula, Antoine
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 185-198
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030160418
+SN  - 9783030160425
+ER  - 

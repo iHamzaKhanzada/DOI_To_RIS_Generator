@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-031-06086-1_38
+UR  - http://dx.doi.org/10.1007/978-3-031-06086-1_38
+TI  - The Assessment of Aviation Situation Awareness Based on Objective Behavior Methods
+T2  - Engineering Psychology and Cognitive Ergonomics
+AU  - Zhou, Hao
+AU  - Lu, Yanyu
+AU  - Fu, Shan
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 488-504
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783031060854
+SN  - 9783031060861
+ER  - 

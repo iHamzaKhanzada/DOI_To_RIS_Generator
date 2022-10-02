@@ -1,0 +1,12 @@
+TY  - JOUR
+DO  - 10.1186/s42162-019-0098-7
+UR  - http://dx.doi.org/10.1186/s42162-019-0098-7
+TI  - Abstracts from the 8th DACH+ Conference on Energy Informatics
+T2  - Energy Informatics
+PY  - 2019
+DA  - 2019/09
+PB  - Springer Science and Business Media LLC
+IS  - S2
+VL  - 2
+SN  - 2520-8942
+ER  - 

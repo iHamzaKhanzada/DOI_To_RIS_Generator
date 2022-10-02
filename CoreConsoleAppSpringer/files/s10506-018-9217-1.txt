@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s10506-018-9217-1
+UR  - http://dx.doi.org/10.1007/s10506-018-9217-1
+TI  - Automatic semantic edge labeling over legal citation graphs
+T2  - Artificial Intelligence and Law
+AU  - Sadeghian, Ali
+AU  - Sundaram, Laksshman
+AU  - Wang, Daisy Zhe
+AU  - Hamilton, William F.
+AU  - Branting, Karl
+AU  - Pfeifer, Craig
+PY  - 2018
+DA  - 2018/03/01
+PB  - Springer Science and Business Media LLC
+SP  - 127-144
+IS  - 2
+VL  - 26
+SN  - 0924-8463
+SN  - 1572-8382
+ER  - 

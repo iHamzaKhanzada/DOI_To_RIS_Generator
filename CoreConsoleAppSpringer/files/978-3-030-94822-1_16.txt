@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-94822-1_16
+UR  - http://dx.doi.org/10.1007/978-3-030-94822-1_16
+TI  - Longitudinal Compliance Analysis of Android Applications with Privacy Policies
+T2  - Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+AU  - Hashmi, Saad Sajid
+AU  - Waheed, Nazar
+AU  - Tangari, Gioacchino
+AU  - Ikram, Muhammad
+AU  - Smith, Stephen
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 280-305
+SN  - 1867-8211
+SN  - 1867-822X
+SN  - 9783030948214
+SN  - 9783030948221
+ER  - 

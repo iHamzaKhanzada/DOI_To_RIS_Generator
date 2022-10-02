@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-02302-7_17
+UR  - http://dx.doi.org/10.1007/978-3-030-02302-7_17
+TI  - Organizational Value Creation by IT in Industry 4.0
+T2  - Lecture Notes in Business Information Processing
+AU  - Gaspar, Domonkos
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 274-287
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 9783030023010
+SN  - 9783030023027
+ER  - 

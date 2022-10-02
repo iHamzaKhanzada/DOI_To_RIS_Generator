@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00521-021-06694-0
+UR  - http://dx.doi.org/10.1007/s00521-021-06694-0
+TI  - Two-phase multi-expert knowledge approach by using fuzzy clustering and rule-based system for technology evaluation of unmanned aerial vehicles
+T2  - Neural Computing and Applications
+AU  - Çolak, Murat
+AU  - Kaya, İhsan
+AU  - Karaşan, Ali
+AU  - Erdoğan, Melike
+PY  - 2022
+DA  - 2022/01/03
+PB  - Springer Science and Business Media LLC
+SP  - 5479-5495
+IS  - 7
+VL  - 34
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

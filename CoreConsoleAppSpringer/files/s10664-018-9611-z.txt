@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10664-018-9611-z
+UR  - http://dx.doi.org/10.1007/s10664-018-9611-z
+TI  - Effective fault localization of automotive Simulink models: achieving the trade-off between test oracle effort and fault localization accuracy
+T2  - Empirical Software Engineering
+AU  - Liu, Bing
+AU  - Nejati, Shiva
+AU  - Lucia
+AU  - Briand, Lionel C.
+PY  - 2018
+DA  - 2018/03/21
+PB  - Springer Science and Business Media LLC
+SP  - 444-490
+IS  - 1
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

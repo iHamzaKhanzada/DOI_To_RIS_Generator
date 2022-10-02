@@ -1,0 +1,20 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-662-54970-4_3
+UR  - http://dx.doi.org/10.1007/978-3-662-54970-4_3
+TI  - Android UI Deception Revisited: Attacks and Defenses
+T2  - Financial Cryptography and Data Security
+AU  - Fernandes, Earlence
+AU  - Chen, Qi Alfred
+AU  - Paupore, Justin
+AU  - Essl, Georg
+AU  - Halderman, J. Alex
+AU  - Mao, Z. Morley
+AU  - Prakash, Atul
+PY  - 2017
+PB  - Springer Berlin Heidelberg
+SP  - 41-59
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783662549698
+SN  - 9783662549704
+ER  - 

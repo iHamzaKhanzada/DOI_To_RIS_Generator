@@ -1,0 +1,21 @@
+TY  - JOUR
+DO  - 10.1007/s10664-021-10035-z
+UR  - http://dx.doi.org/10.1007/s10664-021-10035-z
+TI  - Reviewing rounds prediction for code patches
+T2  - Empirical Software Engineering
+AU  - Huang, Yuan
+AU  - Liang, Xingjian
+AU  - Chen, Zhihao
+AU  - Jia, Nan
+AU  - Luo, Xiapu
+AU  - Chen, Xiangping
+AU  - Zheng, Zibin
+AU  - Zhou, Xiaocong
+PY  - 2021
+DA  - 2021/10/23
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

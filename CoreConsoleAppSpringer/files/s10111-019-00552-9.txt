@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10111-019-00552-9
+UR  - http://dx.doi.org/10.1007/s10111-019-00552-9
+TI  - Principles of transparency for autonomous vehicles: first results of an experiment with an augmented reality human–machine interface
+T2  - Cognition, Technology &amp; Work
+AU  - Pokam, Raissa
+AU  - Debernard, Serge
+AU  - Chauvin, Christine
+AU  - Langlois, Sabine
+PY  - 2019
+DA  - 2019/04/01
+PB  - Springer Science and Business Media LLC
+SP  - 643-656
+IS  - 4
+VL  - 21
+SN  - 1435-5558
+SN  - 1435-5566
+ER  - 

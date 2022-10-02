@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10009-016-0432-3
+UR  - http://dx.doi.org/10.1007/s10009-016-0432-3
+TI  - RAMBUTANS: automatic AOP-specific test generation tool
+T2  - International Journal on Software Tools for Technology Transfer
+AU  - Parizi, Reza Meimandi
+AU  - Ghani, Abdul Azim Abdul
+AU  - Lee, Sai Peck
+AU  - Khan, Saif Ur Rehman
+PY  - 2016
+DA  - 2016/07/20
+PB  - Springer Science and Business Media LLC
+SP  - 743-761
+IS  - 6
+VL  - 19
+SN  - 1433-2779
+SN  - 1433-2787
+ER  - 

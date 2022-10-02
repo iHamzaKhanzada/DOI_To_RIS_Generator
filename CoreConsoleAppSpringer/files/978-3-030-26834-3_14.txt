@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-26834-3_14
+UR  - http://dx.doi.org/10.1007/978-3-030-26834-3_14
+TI  - (Short Paper) Method for Preventing Suspicious Web Access in Android WebView
+T2  - Advances in Information and Computer Security
+AU  - Sato, Masaya
+AU  - Imamura, Yuta
+AU  - Orito, Rintaro
+AU  - Yamauchi, Toshihiro
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 241-250
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030268336
+SN  - 9783030268343
+ER  - 

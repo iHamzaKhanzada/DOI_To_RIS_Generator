@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s11227-019-02853-2
+UR  - http://dx.doi.org/10.1007/s11227-019-02853-2
+TI  - On construction of a network log management system using ELK Stack with Ceph
+T2  - The Journal of Supercomputing
+AU  - Yang, Chao-Tung
+AU  - Kristiani, Endah
+AU  - Wang, Yuan-Ting
+AU  - Min, Geyong
+AU  - Lai, Ching-Han
+AU  - Jiang, Wei-Je
+PY  - 2019
+DA  - 2019/05/10
+PB  - Springer Science and Business Media LLC
+SP  - 6344-6360
+IS  - 8
+VL  - 76
+SN  - 0920-8542
+SN  - 1573-0484
+ER  - 

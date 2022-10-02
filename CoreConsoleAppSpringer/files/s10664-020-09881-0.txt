@@ -1,0 +1,20 @@
+TY  - JOUR
+DO  - 10.1007/s10664-020-09881-0
+UR  - http://dx.doi.org/10.1007/s10664-020-09881-0
+TI  - Testing machine learning based systems: a systematic mapping
+T2  - Empirical Software Engineering
+AU  - Riccio, Vincenzo
+AU  - Jahangirova, Gunel
+AU  - Stocco, Andrea
+AU  - Humbatova, Nargiz
+AU  - Weiss, Michael
+AU  - Tonella, Paolo
+PY  - 2020
+DA  - 2020/09/15
+PB  - Springer Science and Business Media LLC
+SP  - 5193-5254
+IS  - 6
+VL  - 25
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

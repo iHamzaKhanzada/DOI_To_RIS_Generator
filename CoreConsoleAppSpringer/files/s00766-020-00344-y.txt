@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00766-020-00344-y
+UR  - http://dx.doi.org/10.1007/s00766-020-00344-y
+TI  - Automatically detecting feature requests from development emails by leveraging semantic sequence mining
+T2  - Requirements Engineering
+AU  - Shi, Lin
+AU  - Chen, Celia
+AU  - Wang, Qing
+AU  - Boehm, Barry
+PY  - 2021
+DA  - 2021/03/30
+PB  - Springer Science and Business Media LLC
+SP  - 255-271
+IS  - 2
+VL  - 26
+SN  - 0947-3602
+SN  - 1432-010X
+ER  - 

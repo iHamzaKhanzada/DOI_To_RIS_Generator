@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-58201-2_12
+UR  - http://dx.doi.org/10.1007/978-3-030-58201-2_12
+TI  - Code Between the Lines: Semantic Analysis of Android Applications
+T2  - ICT Systems Security and Privacy Protection
+AU  - Feichtner, Johannes
+AU  - Gruber, Stefan
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 171-186
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 9783030582005
+SN  - 9783030582012
+ER  - 

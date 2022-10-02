@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s00450-016-0302-y
+UR  - http://dx.doi.org/10.1007/s00450-016-0302-y
+TI  - Accurate clock synchronization for power systems protection devices over packet switched networks
+T2  - Computer Science - Research and Development
+AU  - Aichhorn, Andreas
+AU  - Etzlinger, Bernhard
+AU  - Mayrhofer, René
+AU  - Springer, Andreas
+PY  - 2016
+DA  - 2016/07/08
+PB  - Springer Science and Business Media LLC
+SP  - 147-158
+IS  - 1-2
+VL  - 32
+SN  - 1865-2034
+SN  - 1865-2042
+ER  - 

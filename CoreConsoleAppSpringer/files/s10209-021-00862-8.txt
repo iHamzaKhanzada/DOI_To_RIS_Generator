@@ -1,0 +1,13 @@
+TY  - JOUR
+DO  - 10.1007/s10209-021-00862-8
+UR  - http://dx.doi.org/10.1007/s10209-021-00862-8
+TI  - Constraining peripheral perception in instant messaging during software development by continuous work context extraction
+T2  - Universal Access in the Information Society
+AU  - Pham van, Nghia
+AU  - Vranić, Valentino
+PY  - 2022
+DA  - 2022/01/17
+PB  - Springer Science and Business Media LLC
+SN  - 1615-5289
+SN  - 1615-5297
+ER  - 

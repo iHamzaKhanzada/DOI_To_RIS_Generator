@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1186/s41239-020-00208-z
+UR  - http://dx.doi.org/10.1186/s41239-020-00208-z
+TI  - Big and open linked data analytics: a study on changing roles and skills in the higher educational process
+T2  - International Journal of Educational Technology in Higher Education
+AU  - Lnenicka, Martin
+AU  - Kopackova, Hana
+AU  - Machova, Renata
+AU  - Komarkova, Jitka
+PY  - 2020
+DA  - 2020/08/19
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 17
+SN  - 2365-9440
+ER  - 

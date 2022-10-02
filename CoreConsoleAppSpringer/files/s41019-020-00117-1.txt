@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s41019-020-00117-1
+UR  - http://dx.doi.org/10.1007/s41019-020-00117-1
+TI  - Deep Reinforcement Learning-Based Approach to Tackle Topic-Aware Influence Maximization
+T2  - Data Science and Engineering
+AU  - Tian, Shan
+AU  - Mo, Songsong
+AU  - Wang, Liwei
+AU  - Peng, Zhiyong
+PY  - 2020
+DA  - 2020/02/28
+PB  - Springer Science and Business Media LLC
+SP  - 1-11
+IS  - 1
+VL  - 5
+SN  - 2364-1185
+SN  - 2364-1541
+ER  - 

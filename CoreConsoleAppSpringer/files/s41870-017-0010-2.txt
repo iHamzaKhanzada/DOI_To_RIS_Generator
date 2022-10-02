@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s41870-017-0010-2
+UR  - http://dx.doi.org/10.1007/s41870-017-0010-2
+TI  - Android malware detection: state of the art
+T2  - International Journal of Information Technology
+AU  - Muttoo, Sunil Kumar
+AU  - Badhani, Shikha
+PY  - 2017
+DA  - 2017/02/22
+PB  - Springer Science and Business Media LLC
+SP  - 111-117
+IS  - 1
+VL  - 9
+SN  - 2511-2104
+SN  - 2511-2112
+ER  - 

@@ -1,0 +1,22 @@
+TY  - JOUR
+DO  - 10.1007/s10664-021-10013-5
+UR  - http://dx.doi.org/10.1007/s10664-021-10013-5
+TI  - TaintBench: Automatic real-world malware benchmarking of Android taint analyses
+T2  - Empirical Software Engineering
+AU  - Luo, Linghui
+AU  - Pauck, Felix
+AU  - Piskachev, Goran
+AU  - Benz, Manuel
+AU  - Pashchenko, Ivan
+AU  - Mory, Martin
+AU  - Bodden, Eric
+AU  - Hermann, Ben
+AU  - Massacci, Fabio
+PY  - 2021
+DA  - 2021/10/29
+PB  - Springer Science and Business Media LLC
+IS  - 1
+VL  - 27
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11241-022-09387-6
+UR  - http://dx.doi.org/10.1007/s11241-022-09387-6
+TI  - Real-time task scheduling with image resizing for criticality-based machine perception
+T2  - Real-Time Systems
+AU  - Hu, Yigong
+AU  - Liu, Shengzhong
+AU  - Abdelzaher, Tarek
+AU  - Wigness, Maggie
+AU  - David, Philip
+PY  - 2022
+DA  - 2022/08/08
+PB  - Springer Science and Business Media LLC
+SN  - 0922-6443
+SN  - 1573-1383
+ER  - 

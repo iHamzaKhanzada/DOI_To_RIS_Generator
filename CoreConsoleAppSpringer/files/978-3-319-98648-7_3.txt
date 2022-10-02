@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-98648-7_3
+UR  - http://dx.doi.org/10.1007/978-3-319-98648-7_3
+TI  - Open to Change: A Theory for Iterative Test-Driven Modelling
+T2  - Lecture Notes in Computer Science
+AU  - Slaats, Tijs
+AU  - Debois, Søren
+AU  - Hildebrandt, Thomas
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 31-47
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319986470
+SN  - 9783319986487
+ER  - 

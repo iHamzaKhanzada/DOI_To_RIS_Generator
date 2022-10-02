@@ -1,0 +1,18 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-13-3804-5_26
+UR  - http://dx.doi.org/10.1007/978-981-13-3804-5_26
+TI  - A Hybrid Approach for Requirements Prioritization Using Logarithmic Fuzzy Trapezoidal Approach (LFTA) and Artificial Neural Network (ANN)
+T2  - Communications in Computer and Information Science
+AU  - Singh, Yash Veer
+AU  - Kumar, Bijendra
+AU  - Chand, Satish
+AU  - Sharma, Deepak
+PY  - 2018
+DA  - 2018/12/25
+PB  - Springer Singapore
+SP  - 350-364
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811338038
+SN  - 9789811338045
+ER  - 

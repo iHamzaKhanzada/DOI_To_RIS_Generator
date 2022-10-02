@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-28005-5_55
+UR  - http://dx.doi.org/10.1007/978-3-030-28005-5_55
+TI  - Testing Artificial Intelligence
+T2  - Communications in Computer and Information Science
+AU  - Fehlmann, Thomas
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 709-721
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030280048
+SN  - 9783030280055
+ER  - 

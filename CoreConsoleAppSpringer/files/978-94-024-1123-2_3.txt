@@ -1,0 +1,23 @@
+TY  - GENERIC
+DO  - 10.1007/978-94-024-1123-2_3
+UR  - http://dx.doi.org/10.1007/978-94-024-1123-2_3
+TI  - Redesigning Resilient Infrastructure Research
+T2  - NATO Science for Peace and Security Series C: Environmental Security
+AU  - Seager, Thomas P.
+AU  - Clark, Susan Spierre
+AU  - Eisenberg, Daniel A.
+AU  - Thomas, John E.
+AU  - Hinrichs, Margaret M.
+AU  - Kofron, Ryan
+AU  - Jensen, Camilla Nørgaard
+AU  - McBurnett, Lauren R.
+AU  - Snell, Marcus
+AU  - Alderson, David L.
+PY  - 2017
+PB  - Springer Netherlands
+SP  - 81-119
+SN  - 1874-6519
+SN  - 1874-6543
+SN  - 9789402411225
+SN  - 9789402411232
+ER  - 

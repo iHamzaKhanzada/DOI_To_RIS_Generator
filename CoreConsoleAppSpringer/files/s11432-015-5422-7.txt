@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1007/s11432-015-5422-7
+UR  - http://dx.doi.org/10.1007/s11432-015-5422-7
+TI  - A static technique for detecting input validation vulnerabilities in Android apps
+T2  - Science China Information Sciences
+AU  - Fang, Zhejun
+AU  - Liu, Qixu
+AU  - Zhang, Yuqing
+AU  - Wang, Kai
+AU  - Wang, Zhiqiang
+AU  - Wu, Qianru
+PY  - 2016
+DA  - 2016/09/12
+PB  - Springer Science and Business Media LLC
+IS  - 5
+VL  - 60
+SN  - 1674-733X
+SN  - 1869-1919
+ER  - 

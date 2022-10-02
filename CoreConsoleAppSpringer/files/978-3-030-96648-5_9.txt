@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-96648-5_9
+UR  - http://dx.doi.org/10.1007/978-3-030-96648-5_9
+TI  - Stakeholder-Centric Clustering Methods for Conflict Resolution in the Requirements Engineering Process
+T2  - Communications in Computer and Information Science
+AU  - Gambo, Ishaya
+AU  - Taveter, Kuldar
+PY  - 2022
+PB  - Springer International Publishing
+SP  - 183-210
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030966478
+SN  - 9783030966485
+ER  - 

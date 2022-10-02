@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s41870-018-0204-2
+UR  - http://dx.doi.org/10.1007/s41870-018-0204-2
+TI  - An artificial intelligence based approach for managing risk of IT systems in adopting cloud
+T2  - International Journal of Information Technology
+AU  - Gupta, Shikha
+AU  - Saini, A. K.
+PY  - 2018
+DA  - 2018/06/12
+PB  - Springer Science and Business Media LLC
+SP  - 2515-2523
+IS  - 6
+VL  - 13
+SN  - 2511-2104
+SN  - 2511-2112
+ER  - 

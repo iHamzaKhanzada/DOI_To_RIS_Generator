@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-29485-8_14
+UR  - http://dx.doi.org/10.1007/978-3-319-29485-8_14
+TI  - Side-Channel Analysis of Weierstrass and Koblitz Curve ECDSA on Android Smartphones
+T2  - Topics in Cryptology - CT-RSA 2016
+AU  - Belgarric, Pierre
+AU  - Fouque, Pierre-Alain
+AU  - Macario-Rat, Gilles
+AU  - Tibouchi, Mehdi
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 236-252
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319294841
+SN  - 9783319294858
+ER  - 

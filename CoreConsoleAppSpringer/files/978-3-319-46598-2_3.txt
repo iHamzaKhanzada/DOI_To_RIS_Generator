@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-46598-2_3
+UR  - http://dx.doi.org/10.1007/978-3-319-46598-2_3
+TI  - DAPA: Degradation-Aware Privacy Analysis of Android Apps
+T2  - Security and Trust Management
+AU  - Barbon, Gianluca
+AU  - Cortesi, Agostino
+AU  - Ferrara, Pietro
+AU  - Steffinlongo, Enrico
+PY  - 2016
+PB  - Springer International Publishing
+SP  - 32-46
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319465975
+SN  - 9783319465982
+ER  - 

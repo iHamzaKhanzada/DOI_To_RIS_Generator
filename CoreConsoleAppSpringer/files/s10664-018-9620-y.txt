@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10664-018-9620-y
+UR  - http://dx.doi.org/10.1007/s10664-018-9620-y
+TI  - Software engineering in start-up companies: An analysis of 88 experience reports
+T2  - Empirical Software Engineering
+AU  - Klotins, Eriks
+AU  - Unterkalmsteiner, Michael
+AU  - Gorschek, Tony
+PY  - 2018
+DA  - 2018/05/21
+PB  - Springer Science and Business Media LLC
+SP  - 68-102
+IS  - 1
+VL  - 24
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

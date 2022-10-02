@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-87672-2_42
+UR  - http://dx.doi.org/10.1007/978-3-030-87672-2_42
+TI  - Intermodal Competition in Freight Transport - Political Impacts and Technical Developments
+T2  - Lecture Notes in Computer Science
+AU  - Daduna, Joachim R.
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 642-660
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030876715
+SN  - 9783030876722
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s10586-017-1260-2
+UR  - http://dx.doi.org/10.1007/s10586-017-1260-2
+TI  - Detecting sensitive data leakage via inter-applications on Android using a hybrid analysis technique
+T2  - Cluster Computing
+AU  - Cam, Nguyen Tan
+AU  - Pham, Van-Hau
+AU  - Nguyen, Tuan
+PY  - 2017
+DA  - 2017/10/20
+PB  - Springer Science and Business Media LLC
+SP  - 1055-1064
+IS  - S1
+VL  - 22
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

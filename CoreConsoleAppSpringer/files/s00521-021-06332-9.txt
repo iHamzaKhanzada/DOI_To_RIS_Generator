@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00521-021-06332-9
+UR  - http://dx.doi.org/10.1007/s00521-021-06332-9
+TI  - Bio-inspired computation for big data fusion, storage, processing, learning and visualization: state of the art and future directions
+T2  - Neural Computing and Applications
+AU  - Torre-Bastida, Ana I.
+AU  - Díaz-de-Arcaya, Josu
+AU  - Osaba, Eneko
+AU  - Muhammad, Khan
+AU  - Camacho, David
+AU  - Del Ser, Javier
+PY  - 2021
+DA  - 2021/08/03
+PB  - Springer Science and Business Media LLC
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

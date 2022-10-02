@@ -1,0 +1,19 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-05532-5_50
+UR  - http://dx.doi.org/10.1007/978-3-030-05532-5_50
+TI  - Application of Genetic Algorithms in Software Engineering: A Systematic Literature Review
+T2  - Communications in Computer and Information Science
+AU  - Ordoñez-Ordoñez, Pablo F.
+AU  - Quizhpe, Milton
+AU  - Cumbicus-Pineda, Oscar M.
+AU  - Herrera Salazar, Valeria
+AU  - Figueroa-Diaz, Roberth
+PY  - 2018
+DA  - 2018/12/30
+PB  - Springer International Publishing
+SP  - 659-670
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030055318
+SN  - 9783030055325
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s10664-021-10026-0
+UR  - http://dx.doi.org/10.1007/s10664-021-10026-0
+TI  - Topic modeling in software engineering research
+T2  - Empirical Software Engineering
+AU  - Silva, Camila Costa
+AU  - Galster, Matthias
+AU  - Gilson, Fabian
+PY  - 2021
+DA  - 2021/09/06
+PB  - Springer Science and Business Media LLC
+IS  - 6
+VL  - 26
+SN  - 1382-3256
+SN  - 1573-7616
+ER  - 

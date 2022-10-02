@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00521-017-2885-z
+UR  - http://dx.doi.org/10.1007/s00521-017-2885-z
+TI  - A novel group decision model based on mean–variance–skewness concepts and interval-valued fuzzy sets for a selection problem of the sustainable warehouse location under uncertainty
+T2  - Neural Computing and Applications
+AU  - Foroozesh, N.
+AU  - Tavakkoli-Moghaddam, R.
+AU  - Mousavi, S. M.
+PY  - 2017
+DA  - 2017/03/09
+PB  - Springer Science and Business Media LLC
+SP  - 3277-3293
+IS  - 11
+VL  - 30
+SN  - 0941-0643
+SN  - 1433-3058
+ER  - 

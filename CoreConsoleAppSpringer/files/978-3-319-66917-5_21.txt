@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-66917-5_21
+UR  - http://dx.doi.org/10.1007/978-3-319-66917-5_21
+TI  - Instant Restore After a Media Failure
+T2  - Advances in Databases and Information Systems
+AU  - Sauer, Caetano
+AU  - Graefe, Goetz
+AU  - Härder, Theo
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 311-325
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319669168
+SN  - 9783319669175
+ER  - 

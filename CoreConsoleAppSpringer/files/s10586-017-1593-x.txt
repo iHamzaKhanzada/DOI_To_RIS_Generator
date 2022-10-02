@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s10586-017-1593-x
+UR  - http://dx.doi.org/10.1007/s10586-017-1593-x
+TI  - Priority based prediction mechanism for ranking providers in federated cloud architecture
+T2  - Cluster Computing
+AU  - Saravanan, M.
+AU  - Aramudhan, M.
+AU  - Sundara Pandiyan, S.
+AU  - Avudaiappan, T.
+PY  - 2018
+DA  - 2018/01/04
+PB  - Springer Science and Business Media LLC
+SP  - 9815-9823
+IS  - S4
+VL  - 22
+SN  - 1386-7857
+SN  - 1573-7543
+ER  - 

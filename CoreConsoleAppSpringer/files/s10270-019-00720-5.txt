@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.1007/s10270-019-00720-5
+UR  - http://dx.doi.org/10.1007/s10270-019-00720-5
+TI  - A comparative study of students and professionals in syntactical model comprehension experiments
+T2  - Software and Systems Modeling
+AU  - El-Attar, Mohamed
+PY  - 2019
+DA  - 2019/04/24
+PB  - Springer Science and Business Media LLC
+SP  - 3283-3329
+IS  - 6
+VL  - 18
+SN  - 1619-1366
+SN  - 1619-1374
+ER  - 

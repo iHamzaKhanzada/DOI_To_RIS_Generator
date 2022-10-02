@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11219-021-09573-y
+UR  - http://dx.doi.org/10.1007/s11219-021-09573-y
+TI  - Novel framework for secured bulk creation of virtual machine in IaaS platform
+T2  - Software Quality Journal
+AU  - Varshney, Karishma
+AU  - Ujjwal, R. L.
+PY  - 2021
+DA  - 2021/10/29
+PB  - Springer Science and Business Media LLC
+SP  - 513-549
+IS  - 2
+VL  - 30
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

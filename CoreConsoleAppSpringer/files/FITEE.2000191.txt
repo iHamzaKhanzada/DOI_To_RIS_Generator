@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1631/fitee.2000191
+UR  - http://dx.doi.org/10.1631/FITEE.2000191
+TI  - Improved dynamic grey wolf optimizer
+T2  - Frontiers of Information Technology &amp; Electronic Engineering
+AU  - Zhang, Xiaoqing
+AU  - Zhang, Yuye
+AU  - Ming, Zhengfeng
+PY  - 2021
+DA  - 2021/06
+PB  - Zhejiang University Press
+SP  - 877-890
+IS  - 6
+VL  - 22
+SN  - 2095-9184
+SN  - 2095-9230
+ER  - 

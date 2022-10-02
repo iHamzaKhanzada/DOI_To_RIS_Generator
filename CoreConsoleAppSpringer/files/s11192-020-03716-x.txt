@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s11192-020-03716-x
+UR  - http://dx.doi.org/10.1007/s11192-020-03716-x
+TI  - The real costs of plagiarism: Russian governors, plagiarized PhD theses, and infrastructure in Russian regions
+T2  - Scientometrics
+AU  - Abalkina, Anna
+AU  - Libman, Alexander
+PY  - 2020
+DA  - 2020/10/24
+PB  - Springer Science and Business Media LLC
+SP  - 2793-2820
+IS  - 3
+VL  - 125
+SN  - 0138-9130
+SN  - 1588-2861
+ER  - 

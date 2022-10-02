@@ -1,0 +1,22 @@
+TY  - GENERIC
+DO  - 10.1007/978-94-024-1123-2_14
+UR  - http://dx.doi.org/10.1007/978-94-024-1123-2_14
+TI  - Bridging the Gap from Cyber Security to Resilience
+T2  - NATO Science for Peace and Security Series C: Environmental Security
+AU  - Roege, Paul E.
+AU  - Collier, Zachary A.
+AU  - Chevardin, Vladyslav
+AU  - Chouinard, Paul
+AU  - Florin, Marie-Valentine
+AU  - Lambert, James H.
+AU  - Nielsen, Kirstjen
+AU  - Nogal, Maria
+AU  - Todorovic, Branislav
+PY  - 2017
+PB  - Springer Netherlands
+SP  - 383-414
+SN  - 1874-6519
+SN  - 1874-6543
+SN  - 9789402411225
+SN  - 9789402411232
+ER  - 

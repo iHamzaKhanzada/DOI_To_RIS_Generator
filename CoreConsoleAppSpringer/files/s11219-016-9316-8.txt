@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11219-016-9316-8
+UR  - http://dx.doi.org/10.1007/s11219-016-9316-8
+TI  - Toward automatically quantifying the impact of a change in systems
+T2  - Software Quality Journal
+AU  - Almasri, Nada
+AU  - Tahat, Luay
+AU  - Korel, Bogdan
+PY  - 2016
+DA  - 2016/05/09
+PB  - Springer Science and Business Media LLC
+SP  - 601-640
+IS  - 3
+VL  - 25
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

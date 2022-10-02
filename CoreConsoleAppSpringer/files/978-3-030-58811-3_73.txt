@@ -1,0 +1,21 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-58811-3_73
+UR  - http://dx.doi.org/10.1007/978-3-030-58811-3_73
+TI  - The SDK4ED Platform for Embedded Software Quality Improvement - Preliminary Overview
+T2  - Computational Science and Its Applications – ICCSA 2020
+AU  - Siavvas, Miltiadis
+AU  - Tsoukalas, Dimitrios
+AU  - Marantos, Charalampos
+AU  - Tsintzira, Angeliki-Agathi
+AU  - Jankovic, Marija
+AU  - Soudris, Dimitrios
+AU  - Chatzigeorgiou, Alexander
+AU  - Kehagias, Dionysios
+PY  - 2020
+PB  - Springer International Publishing
+SP  - 1035-1050
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030588106
+SN  - 9783030588113
+ER  - 

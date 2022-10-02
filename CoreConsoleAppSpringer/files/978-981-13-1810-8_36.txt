@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-13-1810-8_36
+UR  - http://dx.doi.org/10.1007/978-981-13-1810-8_36
+TI  - Novel Technique for the Test Case Prioritization in Regression Testing
+T2  - Communications in Computer and Information Science
+AU  - Kerani, Mampi
+AU  - Sharmila
+PY  - 2018
+PB  - Springer Singapore
+SP  - 362-371
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811318092
+SN  - 9789811318108
+ER  - 

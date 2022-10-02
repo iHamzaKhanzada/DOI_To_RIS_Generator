@@ -1,0 +1,16 @@
+TY  - JOUR
+DO  - 10.1007/s00146-020-00960-w
+UR  - http://dx.doi.org/10.1007/s00146-020-00960-w
+TI  - Artificial intelligence, transparency, and public decision-making
+T2  - AI &amp; SOCIETY
+AU  - de Fine Licht, Karl
+AU  - de Fine Licht, Jenny
+PY  - 2020
+DA  - 2020/03/19
+PB  - Springer Science and Business Media LLC
+SP  - 917-926
+IS  - 4
+VL  - 35
+SN  - 0951-5666
+SN  - 1435-5655
+ER  - 

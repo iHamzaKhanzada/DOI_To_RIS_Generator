@@ -1,0 +1,14 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-16-0708-0_4
+UR  - http://dx.doi.org/10.1007/978-981-16-0708-0_4
+TI  - Energy Efficient Aspects of Federated Learning – Mechanisms and Opportunities
+T2  - Soft Computing and its Engineering Applications
+AU  - Benedict, Shajulin
+PY  - 2021
+PB  - Springer Singapore
+SP  - 38-51
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811607073
+SN  - 9789811607080
+ER  - 

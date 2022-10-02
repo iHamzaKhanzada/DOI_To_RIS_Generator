@@ -1,0 +1,14 @@
+TY  - JOUR
+DO  - 10.1186/s40411-018-0046-4
+UR  - http://dx.doi.org/10.1186/s40411-018-0046-4
+TI  - A survey of search-based refactoring for software maintenance
+T2  - Journal of Software Engineering Research and Development
+AU  - Mohan, Michael
+AU  - Greer, Des
+PY  - 2018
+DA  - 2018/02/07
+PB  - Sociedade Brasileira de Computacao - SB
+IS  - 1
+VL  - 6
+SN  - 2195-1721
+ER  - 

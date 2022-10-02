@@ -1,0 +1,18 @@
+TY  - JOUR
+DO  - 10.1007/s11219-016-9341-7
+UR  - http://dx.doi.org/10.1007/s11219-016-9341-7
+TI  - Automatic generation of test system instances for configurable cyber-physical systems
+T2  - Software Quality Journal
+AU  - Arrieta, Aitor
+AU  - Sagardui, Goiuria
+AU  - Etxeberria, Leire
+AU  - Zander, Justyna
+PY  - 2016
+DA  - 2016/09/15
+PB  - Springer Science and Business Media LLC
+SP  - 1041-1083
+IS  - 3
+VL  - 25
+SN  - 0963-9314
+SN  - 1573-1367
+ER  - 

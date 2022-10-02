@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-13-0893-2_13
+UR  - http://dx.doi.org/10.1007/978-981-13-0893-2_13
+TI  - A VoLTE Encryption Experiment for Android Smartphones
+T2  - Communications in Computer and Information Science
+AU  - Liu, Shaoru
+AU  - Wang, Yao
+AU  - Zhang, Quanxin
+AU  - Li, Yuanzhang
+PY  - 2018
+PB  - Springer Singapore
+SP  - 115-125
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9789811308925
+SN  - 9789811308932
+ER  - 

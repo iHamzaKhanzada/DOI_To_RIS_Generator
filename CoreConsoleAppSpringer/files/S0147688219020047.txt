@@ -1,0 +1,15 @@
+TY  - JOUR
+DO  - 10.3103/s0147688219020047
+UR  - http://dx.doi.org/10.3103/S0147688219020047
+TI  - Digital Environment: Information Analytical Postprocessing Using the Scientometric and Data Analysis Methods
+T2  - Scientific and Technical Information Processing
+AU  - Syuntyurenko, O. V.
+PY  - 2019
+DA  - 2019/04
+PB  - Allerton Press
+SP  - 59-66
+IS  - 2
+VL  - 46
+SN  - 0147-6882
+SN  - 1934-8118
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s00146-015-0640-5
+UR  - http://dx.doi.org/10.1007/s00146-015-0640-5
+TI  - Engineering sustainable mHealth: the role of Action Research
+T2  - AI &amp; SOCIETY
+AU  - Gerhardt, Ulf
+AU  - Breitschwerdt, Rüdiger
+AU  - Thomas, Oliver
+PY  - 2015
+DA  - 2015/12/17
+PB  - Springer Science and Business Media LLC
+SP  - 339-357
+IS  - 3
+VL  - 32
+SN  - 0951-5666
+SN  - 1435-5655
+ER  - 

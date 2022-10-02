@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-35333-9_36
+UR  - http://dx.doi.org/10.1007/978-3-030-35333-9_36
+TI  - Data Driven Development: Challenges in Online, Embedded and On-Premise Software
+T2  - Product-Focused Software Process Improvement
+AU  - Holmström Olsson, Helena
+AU  - Bosch, Jan
+PY  - 2019
+PB  - Springer International Publishing
+SP  - 515-527
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030353322
+SN  - 9783030353339
+ER  - 

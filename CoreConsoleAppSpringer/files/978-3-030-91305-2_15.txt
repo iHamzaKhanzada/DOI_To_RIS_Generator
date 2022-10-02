@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-91305-2_15
+UR  - http://dx.doi.org/10.1007/978-3-030-91305-2_15
+TI  - An Enhanced Personal Profile Ontology for Software Requirements Engineering Tasks Allocation
+T2  - Knowledge Graphs and Semantic Web
+AU  - Usip, P. U.
+AU  - Udo, E. N.
+AU  - Umoeka, I. J.
+PY  - 2021
+PB  - Springer International Publishing
+SP  - 197-208
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 9783030913045
+SN  - 9783030913052
+ER  - 

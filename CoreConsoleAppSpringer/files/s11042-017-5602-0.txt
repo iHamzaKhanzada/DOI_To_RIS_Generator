@@ -1,0 +1,17 @@
+TY  - JOUR
+DO  - 10.1007/s11042-017-5602-0
+UR  - http://dx.doi.org/10.1007/s11042-017-5602-0
+TI  - Security risk situation quantification method based on threat prediction for multimedia communication network
+T2  - Multimedia Tools and Applications
+AU  - Hu, Hao
+AU  - Zhang, Hongqi
+AU  - Yang, Yingjie
+PY  - 2018
+DA  - 2018/01/15
+PB  - Springer Science and Business Media LLC
+SP  - 21693-21723
+IS  - 16
+VL  - 77
+SN  - 1380-7501
+SN  - 1573-7721
+ER  - 

@@ -1,0 +1,17 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-319-65292-4_6
+UR  - http://dx.doi.org/10.1007/978-3-319-65292-4_6
+TI  - A Dynamic Real-Time Motion Planning Method for Multi-robots with Collision Avoidance
+T2  - Intelligent Robotics and Applications
+AU  - Zhang, Yonghong
+AU  - Zhao, Huan
+AU  - Ye, Congcong
+AU  - Ding, Han
+PY  - 2017
+PB  - Springer International Publishing
+SP  - 59-69
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783319652917
+SN  - 9783319652924
+ER  - 

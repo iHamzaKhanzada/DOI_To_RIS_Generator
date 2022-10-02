@@ -1,0 +1,15 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-02465-9_9
+UR  - http://dx.doi.org/10.1007/978-3-030-02465-9_9
+TI  - Benefit of DDN’s IME-FUSE for I/O Intensive HPC Applications
+T2  - Lecture Notes in Computer Science
+AU  - Betke, Eugen
+AU  - Kunkel, Julian
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 131-144
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030024642
+SN  - 9783030024659
+ER  - 

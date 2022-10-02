@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-981-10-6620-7_72
+UR  - http://dx.doi.org/10.1007/978-981-10-6620-7_72
+TI  - A Review on Quality of Service in Cloud Computing
+T2  - Advances in Intelligent Systems and Computing
+AU  - Geeta
+AU  - Prakash, Shiva
+PY  - 2017
+DA  - 2017/10/04
+PB  - Springer Singapore
+SP  - 739-748
+SN  - 2194-5357
+SN  - 2194-5365
+SN  - 9789811066191
+SN  - 9789811066207
+ER  - 

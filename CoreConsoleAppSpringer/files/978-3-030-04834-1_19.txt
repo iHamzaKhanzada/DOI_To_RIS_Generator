@@ -1,0 +1,16 @@
+TY  - GENERIC
+DO  - 10.1007/978-3-030-04834-1_19
+UR  - http://dx.doi.org/10.1007/978-3-030-04834-1_19
+TI  - Static Analysis for Security Vetting of Android Apps
+T2  - Lecture Notes in Computer Science
+AU  - Roy, Sankardas
+AU  - Chaulagain, Dewan
+AU  - Bhusal, Shiva
+PY  - 2018
+PB  - Springer International Publishing
+SP  - 375-404
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 9783030048334
+SN  - 9783030048341
+ER  - 
